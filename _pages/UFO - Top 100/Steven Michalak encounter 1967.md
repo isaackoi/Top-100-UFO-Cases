@@ -1,10 +1,9 @@
 ---
-description: The Falcon Lake incident of 1967 stands as one of the most thoroughly documented UFO encounters in history. When industrial mechanic and amateur geologist...
-layout: default
 title: 'The Stefan Michalak Encounter: A Critical Analysis of Canada''s Most Documented UFO Case'
 permalink: /ufo-top-100/steven-michalak-encounter-1967/
-date: '2025-04-17 12:09:24 '
+date: '2025-04-17 16:08:14 '
 image: /assets/images/UFO - Top 100/Steven Michalak encounter 1967-Full-Text.svg
+description: 'Exploring The Stefan Michalak Encounter: A Critical Analysis of Canada''s Most Documented UFO Case within the context of UFO - Top 100.'
 ---
 
 ---
@@ -60,7 +59,7 @@ Several physical items were collected and preserved:
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/0e6dKxkqbn8" title="YouTube video player (Fn: 12)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 54,662 -->
+</div><!-- View Count: 0 -->
 
 ## The Investigation
 
@@ -87,7 +86,7 @@ Several factors contribute to the credibility of the Falcon Lake incident:
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/MbQOBqrCLKI" title="YouTube video player (Fallback, Fn: 16)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 185,727 -->
+</div><!-- View Count: 0 -->
 
 ### Witness Reliability
 
@@ -102,7 +101,7 @@ One of the RCMP officers who served as the primary investigator was interviewed 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/dmc4nYKUBKM" title="YouTube video player (Fn: 3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 17,181 -->
+</div><!-- View Count: 0 -->
 
 ### Physical Evidence Corroboration
 

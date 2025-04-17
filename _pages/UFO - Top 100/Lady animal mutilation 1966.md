@@ -1,10 +1,9 @@
 ---
-description: In the annals of unexplained phenomena, few incidents have sparked as much controversy and enduring fascination as the death and mutilation of a horse in...
-layout: default
 title: 'The Lady/Snippy Horse Mutilation: A Critical Examination of America''s First Famous Animal Mutilation Case'
 permalink: /ufo-top-100/lady-animal-mutilation-1966/
-date: '2025-04-17 12:09:20 '
+date: '2025-04-17 16:08:12 '
 image: /assets/images/UFO - Top 100/Lady animal mutilation 1966-Full-Text.svg
+description: 'Exploring The Lady/Snippy Horse Mutilation: A Critical Examination of America''s First Famous Animal Mutilation Case within the context of UFO - Top 100.'
 ---
 
 ---
@@ -66,8 +65,8 @@ Chuck Zukowski, a longtime paranormal investigator specializing in mutilation ca
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/yePuBSftyhQ" title="YouTube video player (Fallback, Fn: 31)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 251,101 -->
+  <iframe src="https://www.youtube.com/embed/iNTaTkdgN8Q" title="YouTube video player (Fallback, Fn: 3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Natural Causes and Decomposition
 
@@ -141,12 +140,12 @@ As cattle mutilation investigator Chuck Zukowski notes, certain aspects of these
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/s5KAzME90TE" title="YouTube video player (Fn: 7)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 13,702 -->
+</div><!-- View Count: 0 -->
 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/7Ff25wY4oNE" title="YouTube video player (Fn: 17)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 12,266 -->
+</div><!-- View Count: 0 -->
 
 ## Conclusion
 

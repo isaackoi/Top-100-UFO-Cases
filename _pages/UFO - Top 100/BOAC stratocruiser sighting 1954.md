@@ -1,10 +1,9 @@
 ---
-description: On June 29, 1954, a routine transatlantic flight turned into one of the most compelling and well-documented UFO incidents in aviation history when BOAC...
-layout: default
 title: 'The 1954 BOAC Stratocruiser UFO Encounter: A Critical Analysis'
 permalink: /ufo-top-100/boac-stratocruiser-sighting-1954/
-date: '2025-04-17 12:09:14 '
+date: '2025-04-17 16:08:09 '
 image: /assets/images/UFO - Top 100/BOAC stratocruiser sighting 1954-Full-Text.svg
+description: 'Exploring The 1954 BOAC Stratocruiser UFO Encounter: A Critical Analysis within the context of UFO - Top 100.'
 ---
 
 ---
@@ -52,7 +51,7 @@ Atmospheric physicist James E. McDonald, who extensively studied UFO cases, note
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/DpGgv1xuY6M" title="YouTube video player (Fn: 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 294 -->
+</div><!-- View Count: 0 -->
 
 ## Media Coverage and Initial Reactions
 
@@ -113,7 +112,7 @@ The timing of the sighting—1954—places it during the early period of the Col
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/S96RPhlknj0" title="YouTube video player (Fn: 4)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 62,438 -->
+</div><!-- View Count: 0 -->
 
 ## Sources and Further Research Possibilities
 

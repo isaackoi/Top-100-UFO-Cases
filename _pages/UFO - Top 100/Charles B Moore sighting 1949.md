@@ -1,10 +1,9 @@
 ---
-description: In the annals of UFO history, certain cases stand out for their combination of credible witnesses, technical documentation, and extraordinary reported...
-layout: default
 title: 'The Charles B. Moore UFO Sighting of 1949: A Scientific Anomaly in the Early UFO Era'
 permalink: /ufo-top-100/charles-b-moore-sighting-1949/
-date: '2025-04-17 12:09:15 '
+date: '2025-04-17 16:08:09 '
 image: /assets/images/UFO - Top 100/Charles B Moore sighting 1949-Full-Text.svg
+description: 'Exploring The Charles B. Moore UFO Sighting of 1949: A Scientific Anomaly in the Early UFO Era within the context of UFO - Top 100.'
 ---
 
 ---
@@ -66,7 +65,7 @@ Despite the strength of the witness testimony and the presence of instrumental d
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/b2900rBQBH4" title="YouTube video player (Fallback, Fn: 29)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 995 -->
+</div><!-- View Count: 0 -->
 
 ### Menzel's Mirage Theory
 

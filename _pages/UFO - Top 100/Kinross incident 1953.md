@@ -1,10 +1,9 @@
 ---
-description: On November 23, 1953, a U.S. Air Force F-89C Scorpion jet disappeared while pursuing an unidentified flying object over Lake Superior. Despite extensive...
-layout: default
 title: 'The 1953 Kinross Incident: A Critical Analysis of the F-89 Disappearance Over Lake Superior'
 permalink: /ufo-top-100/kinross-incident-1953/
-date: '2025-04-17 12:09:20 '
+date: '2025-04-17 16:08:12 '
 image: /assets/images/UFO - Top 100/Kinross incident 1953-Full-Text.svg
+description: 'Exploring The 1953 Kinross Incident: A Critical Analysis of the F-89 Disappearance Over Lake Superior within the context of UFO - Top 100.'
 ---
 
 ---
@@ -24,7 +23,7 @@ The winter of 1953 was an optimistic time for many Americans – the economy was
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/a-iLDfdGuk8" title="YouTube video player (Fn: 15)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 9,378 -->
+</div><!-- View Count: 0 -->
 
 ### The Sequence of Events
 
@@ -72,8 +71,8 @@ Reports indicate that Lieutenant Moncla's widow received conflicting explanation
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/wZTYhwwq4tc" title="YouTube video player (Fallback, Fn: 30)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,216,499 -->
+  <iframe src="https://www.youtube.com/embed/k35r_nvxUGQ" title="YouTube video player (Fallback, Fn: 19)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Credibility Assessment of Primary Sources
 
@@ -139,7 +138,7 @@ Some theorists have suggested that the F-89C may have been "absorbed" or otherwi
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/CPp9m09F04Q" title="YouTube video player (Fallback, Fn: 23)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,558 -->
+</div><!-- View Count: 0 -->
 
 ## Influence and Legacy of the Kinross Incident
 

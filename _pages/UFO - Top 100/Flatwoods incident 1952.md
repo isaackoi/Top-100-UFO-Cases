@@ -1,10 +1,9 @@
 ---
-description: On September 12, 1952, the small town of Flatwoods, West Virginia became the epicenter of one of America's most enduring UFO mysteries. What began as a...
-layout: default
 title: 'The Flatwoods Monster Incident (1952): A Comprehensive Analysis'
 permalink: /ufo-top-100/flatwoods-incident-1952/
-date: '2025-04-17 12:09:17 '
+date: '2025-04-17 16:08:10 '
 image: /assets/images/UFO - Top 100/Flatwoods incident 1952-Full-Text.svg
+description: 'Exploring The Flatwoods Monster Incident (1952): A Comprehensive Analysis within the context of UFO - Top 100.'
 ---
 
 ---
@@ -22,7 +21,7 @@ Flatwoods, West Virginia was a quiet rural community in Braxton County with fewe
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/fN_Kti0P6Gw" title="YouTube video player (Fn: 10)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 146,620 -->
+</div><!-- View Count: 0 -->
 
 ### The Witnesses
 
@@ -81,7 +80,7 @@ Despite these findings, no definitive physical evidence confirming an extraterre
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/lgXa1Th0BT4" title="YouTube video player (Fallback, Fn: 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 784,799 -->
+</div><!-- View Count: 0 -->
 
 ### Official Investigations
 
@@ -140,7 +139,7 @@ Popular YouTube channels have also explored the case in detail, such as in this 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/7TH9iCUgrG4" title="YouTube video player (Fn: 12)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 126,622 -->
+</div><!-- View Count: 0 -->
 
 ### Position in UFO Lore
 

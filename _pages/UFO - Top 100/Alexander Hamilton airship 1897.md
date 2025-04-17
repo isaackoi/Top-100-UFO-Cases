@@ -1,10 +1,9 @@
 ---
-description: The late 19th century witnessed a remarkable wave of unidentified flying object sightings across the United States, predating the modern UFO era by half a...
-layout: default
 title: 'The Alexander Hamilton Airship Incident of 1897: A Critical Analysis of an Early UFO Case'
 permalink: /ufo-top-100/alexander-hamilton-airship-1897/
-date: '2025-04-17 12:09:13 '
+date: '2025-04-17 16:08:08 '
 image: /assets/images/UFO - Top 100/Alexander Hamilton airship 1897-Full-Text.svg
+description: 'Exploring The Alexander Hamilton Airship Incident of 1897: A Critical Analysis of an Early UFO Case within the context of UFO - Top 100.'
 ---
 
 ---
@@ -64,7 +63,7 @@ Some reports were even more fantastic than Hamilton's. In Stockton, California, 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/Nt8IqgICtls" title="YouTube video player (Fn: 4)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 37,407 -->
+</div><!-- View Count: 0 -->
 
 ### Alternative Explanations for the Airship Wave
 

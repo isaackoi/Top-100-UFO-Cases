@@ -1,10 +1,9 @@
 ---
-description: In the pre-dawn hours of November 30, 1989, a housewife named Linda Napolitano (initially known by the pseudonym Linda Cortile) allegedly experienced one of...
-layout: default
 title: 'The Linda Cortile UFO Abduction Case: A Critical Examination of the "Most Important" Alien Abduction of the Century'
 permalink: /ufo-top-100/linda-cortile-abduction-1989/
-date: '2025-04-17 12:09:21 '
+date: '2025-04-17 16:08:12 '
 image: /assets/images/UFO - Top 100/Linda Cortile abduction 1989-Full-Text.svg
+description: 'Exploring The Linda Cortile UFO Abduction Case: A Critical Examination of the "Most Important" Alien Abduction of the Century within the context of UFO - Top 10'
 ---
 
 ---
@@ -67,8 +66,8 @@ Most recently, at age 77, Napolitano attempted to block the release of Netflix's
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/j2kzDJX7CRU" title="YouTube video player (Fallback, Fn: 24)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,707,499 -->
+  <iframe src="https://www.youtube.com/embed/08uhsH-tqJg" title="YouTube video player (Fallback, Fn: 8)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Budd Hopkins
 
@@ -127,8 +126,8 @@ The Mufon UFO Journal labeled it "The Abduction Case of the Century"[^12], indic
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/dpoHdjDxCwQ" title="YouTube video player (Fallback, Fn: 19)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 368,959 -->
+  <iframe src="https://www.youtube.com/embed/atesV9py-Ig" title="YouTube video player (Fallback, Fn: 13)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Impact on Abduction Research
 
@@ -173,6 +172,11 @@ The Linda Cortile case remains a fascinating chapter in UFO history—not necess
 
 ![The Linda Cortile UFO Abduction Case: A Critical Examination of the "Most Important" Alien Abduction of the Century - P2](../../assets/images/UFO%20-%20Top%20100/Linda%20Cortile%20abduction%201989-P2.svg)
 
+<div class="youtube-embed-container youtube-embed-fallback">
+  <iframe src="https://www.youtube.com/embed/0w5T2skzNI4" title="YouTube video player (Fallback, Fn: 16)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
+
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^4][^5][^6][^7][^8][^9] -->
 
 [^1]: https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/
@@ -184,11 +188,6 @@ The Linda Cortile case remains a fascinating chapter in UFO history—not necess
 [^4]: https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/docs/SUN/SUN22.pdf
 
 [^5]: https://screenrant.com/manhattan-alien-abduction-true-story-linda-napolitano/
-
-
-<div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/0w5T2skzNI4" title="YouTube video player (Fallback, Fn: 16)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 318,522 -->
 
 [^6]: https://gregsandow.com/ufo/Contents/From_IUR_--_An_Analysis_of_the/from_iur_--_an_analysis_of_the.htm
 

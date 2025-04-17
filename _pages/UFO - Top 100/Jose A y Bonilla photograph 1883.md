@@ -1,10 +1,9 @@
 ---
-description: In the annals of UFO history, few cases are as historically significant yet scientifically contested as the 1883 observations made by Mexican astronomer...
-layout: default
 title: 'The Bonilla Observation of 1883: First UFO Photographs or Comet Fragments?'
 permalink: /ufo-top-100/jose-a-y-bonilla-photograph-1883/
-date: '2025-04-17 12:09:20 '
+date: '2025-04-17 16:08:12 '
 image: /assets/images/UFO - Top 100/Jose A y Bonilla photograph 1883-Full-Text.svg
+description: 'Exploring The Bonilla Observation of 1883: First UFO Photographs or Comet Fragments? within the context of UFO - Top 100.'
 ---
 
 ---
@@ -72,7 +71,7 @@ UFO researcher J.J. Benítez has highlighted this case, noting ironically that s
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/sm6AL5lA4Zc" title="YouTube video player (Fallback, Fn: 36)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 16,659,682 -->
+</div><!-- View Count: 0 -->
 
 ### Integration into UFO Literature
 
@@ -113,7 +112,7 @@ While the technological context has changed dramatically since 1883, the fundame
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/oLnLmYGobCY" title="YouTube video player (Fn: 4)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 6,480 -->
+</div><!-- View Count: 0 -->
 
 ### Potential for Further Research
 
@@ -142,9 +141,11 @@ Whether interpreted as early evidence of extraterrestrial visitation or as a nea
 <div>⁂</div>
 
 
+![The Bonilla Observation of 1883: First UFO Photographs or Comet Fragments? - P2](../../assets/images/UFO%20-%20Top%20100/Jose%20A%20y%20Bonilla%20photograph%201883-P2.svg)
+
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/ios2qhaf0B0" title="YouTube video player (Fn: 14)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 103 -->
+</div><!-- View Count: 0 -->
 
 
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^4][^40][^41][^42][^43][^44][^45][^46][^47][^48][^49][^5][^50][^51][^52][^53][^54][^55][^56][^6][^7][^8][^9] -->
@@ -183,8 +184,6 @@ Whether interpreted as early evidence of extraterrestrial visitation or as a nea
 
 [^17]: https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart
 
-
-![The Bonilla Observation of 1883: First UFO Photographs or Comet Fragments? - P2](../../assets/images/UFO%20-%20Top%20100/Jose%20A%20y%20Bonilla%20photograph%201883-P2.svg)
 [^18]: https://www.wikiwand.com/en/articles/José_Bonilla_(astronomer)
 
 [^19]: https://rationalwiki.org/wiki/Reported_UFO_sightings_and_close_encounters_in_Mexico

@@ -1,10 +1,9 @@
 ---
-description: Truman Bethurum's alleged encounters with beings from a mysterious planet called Clarion represent one of the most colorful chapters in early UFO contact...
-layout: default
 title: 'Truman Bethurum and the Planet Clarion: A Critical Analysis of the 1954 Contact Claims'
 permalink: /ufo-top-100/truman-bethurum-contact-1954/
-date: '2025-04-17 12:09:25 '
+date: '2025-04-17 16:08:15 '
 image: /assets/images/UFO - Top 100/Truman Bethurum contact 1954-Full-Text.svg
+description: 'Exploring Truman Bethurum and the Planet Clarion: A Critical Analysis of the 1954 Contact Claims within the context of UFO - Top 100.'
 ---
 
 ---
@@ -28,12 +27,12 @@ Bethurum initially shared his extraordinary experiences at a flying saucer conve
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/EFWRmI-mMB8" title="YouTube video player (Fn: 13)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 2,100 -->
+</div><!-- View Count: 0 -->
 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/7VLcRuUnCVg" title="YouTube video player (Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,634 -->
+</div><!-- View Count: 0 -->
 
 ### From Contact to Cult Following
 

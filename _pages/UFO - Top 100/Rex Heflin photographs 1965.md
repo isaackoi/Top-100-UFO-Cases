@@ -1,10 +1,9 @@
 ---
-description: The Rex Heflin photographs represent one of the most thoroughly investigated and persistently controversial UFO photo cases in history. Taken near Santa...
-layout: default
 title: 'The Rex Heflin UFO Photographs (1965): A Comprehensive Analysis of Evidence'
 permalink: /ufo-top-100/rex-heflin-photographs-1965/
-date: '2025-04-17 12:09:23 '
+date: '2025-04-17 16:08:14 '
 image: /assets/images/UFO - Top 100/Rex Heflin photographs 1965-Full-Text.svg
+description: 'Exploring The Rex Heflin UFO Photographs (1965): A Comprehensive Analysis of Evidence within the context of UFO - Top 100.'
 ---
 
 ---
@@ -76,8 +75,8 @@ Dr. James McDonald, a prominent atmospheric physicist from the University of Ari
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/fe_NwCqfz6c" title="YouTube video player (Fallback, Fn: 32)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 2,319,238 -->
+  <iframe src="https://www.youtube.com/embed/gy5tIevquP0" title="YouTube video player (Fallback, Fn: 29)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Photogrammetric Analyses
 
@@ -150,8 +149,8 @@ Despite the extensive investigation, several questions remain unanswered:
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/HR9esLdArkQ" title="YouTube video player (Fallback, Fn: 31)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,976,077 -->
+  <iframe src="https://www.youtube.com/embed/z25NfZ0Ea9c" title="YouTube video player (Fallback, Fn: 30)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Conclusion
 
@@ -180,14 +179,19 @@ For those interested in examining this case further, accessing these primary sou
 <div>⁂</div>
 
 
+![The Rex Heflin UFO Photographs (1965): A Comprehensive Analysis of Evidence - P2](../../assets/images/UFO%20-%20Top%20100/Rex%20Heflin%20photographs%201965-P2.svg)
+
+<div class="youtube-embed-container youtube-embed-fallback">
+  <iframe src="https://www.youtube.com/embed/HR9esLdArkQ" title="YouTube video player (Fallback, Fn: 31)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
+
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^4][^40][^41][^42][^43][^5][^6][^7][^8][^9] -->
 
 [^1]: https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf
 
 [^2]: http://www.nicap.org/reports/heflinhall.htm
 
-
-![The Rex Heflin UFO Photographs (1965): A Comprehensive Analysis of Evidence - P2](../../assets/images/UFO%20-%20Top%20100/Rex%20Heflin%20photographs%201965-P2.svg)
 [^3]: https://theblackcrow.substack.com/p/rex-hefflins-1965-ufo-photos-not
 
 [^4]: https://www.politifact.com/article/2023/jun/27/hunter-biden-criminal-case-what-irs/
@@ -209,11 +213,6 @@ For those interested in examining this case further, accessing these primary sou
 [^12]: https://podtail.com/fr/podcast/ufo-talker/did-rex-heflin-take-pictures-of-a-real-ufo-in-19-2/
 
 [^13]: https://tustinhistory.com/people/ufos-like-the-quality-of-life-in-tustin/
-
-
-<div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/sPHVvg-dXOs" title="YouTube video player (Fallback, Fn: 35)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,248,115 -->
 
 [^14]: https://www.prints-online.com/new-images-july-2020/heflin-ufo-santa-anna-california-1965-20142225.html
 

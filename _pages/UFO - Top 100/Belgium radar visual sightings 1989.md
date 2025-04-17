@@ -1,10 +1,9 @@
 ---
-description: The Belgian UFO wave of 1989-1990 stands as one of the most significant and extensively documented series of UFO sightings in modern history. Over a period...
-layout: default
 title: 'The Belgian UFO Wave (1989-1990): A Critical Analysis of Radar and Visual Evidence'
 permalink: /ufo-top-100/belgium-radar-visual-sightings-1989/
-date: '2025-04-17 12:09:14 '
+date: '2025-04-17 16:08:09 '
 image: /assets/images/UFO - Top 100/Belgium radar visual sightings 1989-Full-Text.svg
+description: 'Exploring The Belgian UFO Wave (1989-1990): A Critical Analysis of Radar and Visual Evidence within the context of UFO - Top 100.'
 ---
 
 ---
@@ -44,7 +43,7 @@ Between November 1989 and April 1990, Belgian authorities documented over 2,000 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/RuFsvd72nDw" title="YouTube video player (Fn: 14)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 5,271 -->
+</div><!-- View Count: 0 -->
 
 ## Credibility Assessment
 
@@ -69,7 +68,7 @@ However, critical examination reveals important limitations in this testimony. F
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/3S0sxE7KEKs" title="YouTube video player (Fallback, Fn: 17)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 2,294 -->
+</div><!-- View Count: 0 -->
 
 ## Counterarguments and Skepticism
 
@@ -141,7 +140,7 @@ The YouTube video "They're playing games with our aircraft" features a rare inte
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/Imx0GaA7yUs" title="YouTube video player (Fn: 5)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 13,151 -->
+</div><!-- View Count: 0 -->
 
 ### Gaps in Evidence and Suggestions for Further Research
 

@@ -1,10 +1,9 @@
 ---
-description: The summer of 1951 transformed the quiet West Texas city of Lubbock into the epicenter of one of America's most enduring UFO mysteries. Over several weeks...
-layout: default
 title: 'The Lubbock Lights of 1951: A Critical Examination of a UFO Cold Case'
 permalink: /ufo-top-100/lubbock-lights-sightings-1951/
-date: '2025-04-17 12:09:21 '
+date: '2025-04-17 16:08:13 '
 image: /assets/images/UFO - Top 100/Lubbock Lights sightings 1951-Full-Text.svg
+description: 'Exploring The Lubbock Lights of 1951: A Critical Examination of a UFO Cold Case within the context of UFO - Top 100.'
 ---
 
 ---
@@ -71,8 +70,8 @@ The consistency of descriptions across numerous independent witnesses lends cred
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/DzLjnUyQ2-M" title="YouTube video player (Fallback, Fn: 23)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 64,037 -->
+  <iframe src="https://www.youtube.com/embed/CIhGAev0ZU4" title="YouTube video player (Fallback, Fn: 11)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Critical Analysis of Proposed Explanations
 
@@ -138,8 +137,8 @@ This outcome contributed to ongoing criticism of Project Blue Book's effectivene
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/CIhGAev0ZU4" title="YouTube video player (Fallback, Fn: 11)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 42,659 -->
+  <iframe src="https://www.youtube.com/embed/UDkxMu3Jipo" title="YouTube video player (Fallback, Fn: 17)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Legacy in UFO Research
 
@@ -196,8 +195,8 @@ Whether the Lubbock Lights represented an unusual natural phenomenon, misidentif
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/6oLZ4BnZAYU" title="YouTube video player (Fallback, Fn: 24)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 17,507 -->
+  <iframe src="https://www.youtube.com/embed/oUM7f-D27Wc" title="YouTube video player (Fallback, Fn: 22)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^3][^4][^5][^6][^7][^8][^9] -->

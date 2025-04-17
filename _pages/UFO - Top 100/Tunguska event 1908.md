@@ -1,10 +1,9 @@
 ---
-description: The Tunguska event of 1908 remains one of the most powerful and enigmatic explosions in recorded history. Occurring in a remote region of Siberia, this...
-layout: default
 title: 'The Tunguska Event of 1908: Cosmic Impact or Extraterrestrial Craft?'
 permalink: /ufo-top-100/tunguska-event-1908/
-date: '2025-04-17 12:09:25 '
+date: '2025-04-17 16:08:15 '
 image: /assets/images/UFO - Top 100/Tunguska event 1908-Full-Text.svg
+description: 'Exploring The Tunguska Event of 1908: Cosmic Impact or Extraterrestrial Craft? within the context of UFO - Top 100.'
 ---
 
 ---
@@ -72,8 +71,8 @@ Roy Gallant, who spent ten years investigating the Tunguska site for his book "M
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/F7PX51IeMbU" title="YouTube video player (Fallback, Fn: 30)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 386,063 -->
+  <iframe src="https://www.youtube.com/embed/HftvUlnYH4s" title="YouTube video player (Fallback, Fn: 8)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Credibility Assessment of UFO-Related Claims
 
@@ -117,12 +116,12 @@ In 2023, a documentary titled "Theories about Tunguska" explored various explana
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/zK6URP3Kuvo" title="YouTube video player (Fn: 10)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 14,494 -->
+</div><!-- View Count: 0 -->
 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/V-Jnn1g8bbI" title="YouTube video player (Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 5,489 -->
+</div><!-- View Count: 0 -->
 
 ## Impact on UFO Discourse and Public Perception
 

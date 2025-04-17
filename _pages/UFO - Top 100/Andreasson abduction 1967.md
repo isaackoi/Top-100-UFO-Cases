@@ -1,10 +1,9 @@
 ---
-description: On a winter evening in January 1967, an event allegedly occurred in a modest Massachusetts home that would become one of the most thoroughly documented...
-layout: default
 title: 'The Andreasson Affair: A Critical Analysis of the 1967 UFO Abduction Case'
 permalink: /ufo-top-100/andreasson-abduction-1967/
-date: '2025-04-17 12:09:13 '
+date: '2025-04-17 16:08:08 '
 image: /assets/images/UFO - Top 100/Andreasson abduction 1967-Full-Text.svg
+description: 'Exploring The Andreasson Affair: A Critical Analysis of the 1967 UFO Abduction Case within the context of UFO - Top 100.'
 ---
 
 ---
@@ -70,7 +69,7 @@ Despite the extensive investigation, the Andreasson case has faced substantial c
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/qVs5vEt7doo" title="YouTube video player (Fallback, Fn: 28)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 356,024 -->
+</div><!-- View Count: 0 -->
 
 ### Critique of Hypnotic Regression
 
@@ -140,12 +139,12 @@ Author Whitley Strieber, himself famous for claimed alien encounters documented 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/MOyG0Spq7MI" title="YouTube video player (Fn: 11)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 369 -->
+</div><!-- View Count: 0 -->
 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/x8SCzCU_vLk" title="YouTube video player (Fn: 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,052 -->
+</div><!-- View Count: 0 -->
 
 ## Critical Evaluation and Lingering Questions
 

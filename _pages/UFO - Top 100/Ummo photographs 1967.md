@@ -1,10 +1,9 @@
 ---
-description: Before diving into the main investigation, it's important to note that the Ummo case represents one of the most complex and extensive UFO phenomena in...
-layout: default
 title: 'The Ummo Photographs: Examining the 1967 UFO Case and Its Legacy'
 permalink: /ufo-top-100/ummo-photographs-1967/
-date: '2025-04-17 12:09:25 '
+date: '2025-04-17 16:08:15 '
 image: /assets/images/UFO - Top 100/Ummo photographs 1967-Full-Text.svg
+description: 'Exploring The Ummo Photographs: Examining the 1967 UFO Case and Its Legacy within the context of UFO - Top 100.'
 ---
 
 ---
@@ -185,6 +184,8 @@ The Ummo affair stands as a cautionary tale about the need for rigorous evidence
 <div>⁂</div>
 
 
+![The Ummo Photographs: Examining the 1967 UFO Case and Its Legacy - P2](../../assets/images/UFO%20-%20Top%20100/Ummo%20photographs%201967-P2.svg)
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^4][^40][^41][^42][^43][^44][^45][^46][^47][^48][^49][^5][^50][^6][^7][^8][^9] -->
 
 [^1]: https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax
@@ -195,8 +196,6 @@ The Ummo affair stands as a cautionary tale about the need for rigorous evidence
 
 [^4]: https://www.jesp.org/index.php/jesp/article/view/614/299
 
-
-![The Ummo Photographs: Examining the 1967 UFO Case and Its Legacy - P2](../../assets/images/UFO%20-%20Top%20100/Ummo%20photographs%201967-P2.svg)
 [^5]: https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-20230726-SD006.pdf
 
 [^6]: https://www.waseda.jp/flas/glas/assets/uploads/2021/02/QIAN_Yuchen_0771-07841.pdf

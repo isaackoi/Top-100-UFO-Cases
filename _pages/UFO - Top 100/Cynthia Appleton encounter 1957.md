@@ -1,10 +1,9 @@
 ---
-description: Before diving into the main analysis, it's important to note that Cynthia Appleton's case stands as one of Britain's most publicized and intriguing contact...
-layout: default
 title: 'The Cynthia Appleton UFO Encounters (1957-1959): Critical Analysis of a British Contact Case'
 permalink: /ufo-top-100/cynthia-appleton-encounter-1957/
-date: '2025-04-17 12:09:16 '
+date: '2025-04-17 16:08:10 '
 image: /assets/images/UFO - Top 100/Cynthia Appleton encounter 1957-Full-Text.svg
+description: 'Exploring The Cynthia Appleton UFO Encounters (1957-1959): Critical Analysis of a British Contact Case within the context of UFO - Top 100.'
 ---
 
 ---
@@ -39,7 +38,7 @@ Appleton reported at least seven encounters with these beings between 1957 and 1
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/G5rjEE8vvvQ" title="YouTube video player (Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 37,266 -->
+</div><!-- View Count: 0 -->
 
 ### The "Space Baby" Phenomenon
 

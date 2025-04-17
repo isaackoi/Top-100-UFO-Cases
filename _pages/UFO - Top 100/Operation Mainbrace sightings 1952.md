@@ -1,10 +1,9 @@
 ---
-description: During September 1952, one of the most significant and well-documented series of military UFO encounters occurred during NATO's Operation Mainbrace naval...
-layout: default
 title: 'Operation Mainbrace UFO Sightings (1952): A Critical Analysis of the Evidence'
 permalink: /ufo-top-100/operation-mainbrace-sightings-1952/
-date: '2025-04-17 12:09:22 '
+date: '2025-04-17 16:08:13 '
 image: /assets/images/UFO - Top 100/Operation Mainbrace sightings 1952-Full-Text.svg
+description: 'Exploring Operation Mainbrace UFO Sightings (1952): A Critical Analysis of the Evidence within the context of UFO - Top 100.'
 ---
 
 ---
@@ -65,8 +64,8 @@ Air Commodore Michael Swiney's student, David Crofts, recalled being told by Air
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/6WH4rWM-pJ0" title="YouTube video player (Fallback, Fn: 29)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 499,933 -->
+  <iframe src="https://www.youtube.com/embed/cOTEzYRlA6I" title="YouTube video player (Fallback, Fn: 23)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Official Recognition
 
@@ -116,8 +115,8 @@ UFO historian Curtis Peebles placed the Washington D.C. incident from July 1952 
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/azW33jxaHPs" title="YouTube video player (Fallback, Fn: 26)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 183,768 -->
+  <iframe src="https://www.youtube.com/embed/v9wUHdXmgQU" title="YouTube video player (Fallback, Fn: 24)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Official Records
 
@@ -154,6 +153,11 @@ The recent evolution of terminology from UFOs to UAPs (Unidentified Aerial Pheno
 
 ![Operation Mainbrace UFO Sightings (1952): A Critical Analysis of the Evidence - P2](../../assets/images/UFO%20-%20Top%20100/Operation%20Mainbrace%20sightings%201952-P2.svg)
 
+<div class="youtube-embed-container youtube-embed-fallback">
+  <iframe src="https://www.youtube.com/embed/tBXOBAiglIc" title="YouTube video player (Fallback, Fn: 25)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
+
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^32][^4][^5][^6][^7][^8][^9] -->
 
 [^1]: https://en.wikipedia.org/wiki/1952_Washington,_D.C._UFO_incident
@@ -171,11 +175,6 @@ The recent evolution of terminology from UFOs to UAPs (Unidentified Aerial Pheno
 [^7]: https://hansard.parliament.uk/commons/1959-02-02/debates/8a47489f-b5ed-4147-8887-d66a21aac120/NatoExerciseMainbrace(UnidentifiedFlyingObject)
 
 [^8]: http://www.nicap.org/reports/5209XXmainbrace_report.htm
-
-
-<div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/v9wUHdXmgQU" title="YouTube video player (Fallback, Fn: 24)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 61,493 -->
 
 [^9]: https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting
 

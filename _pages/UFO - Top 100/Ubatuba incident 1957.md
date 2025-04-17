@@ -1,10 +1,9 @@
 ---
-description: The Ubatuba incident stands as one of the most significant physical evidence cases in UFO research history, involving the purported recovery of fragments...
-layout: default
 title: 'The Ubatuba Incident (1957): A Comprehensive Analysis of Alleged UFO Debris'
 permalink: /ufo-top-100/ubatuba-incident-1957/
-date: '2025-04-17 12:09:25 '
+date: '2025-04-17 16:08:15 '
 image: /assets/images/UFO - Top 100/Ubatuba incident 1957-Full-Text.svg
+description: 'Exploring The Ubatuba Incident (1957): A Comprehensive Analysis of Alleged UFO Debris within the context of UFO - Top 100.'
 ---
 
 ---
@@ -67,8 +66,8 @@ Critics argue that while high-purity magnesium was uncommon in the 1950s, it was
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/W58pF4ss0iI" title="YouTube video player (Fallback, Fn: 33)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 714,908 -->
+  <iframe src="https://www.youtube.com/embed/KdfdE9sQ2qo" title="YouTube video player (Fallback, Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### 2. Military Explosive Device
 
@@ -129,7 +128,7 @@ The Ubatuba case, along with other significant Brazilian UFO events like the wid
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/1KFO1FXnT64" title="YouTube video player (Fallback, Fn: 19)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 94,087 -->
+</div><!-- View Count: 0 -->
 
 ## Critical Research Gaps and Future Directions
 
@@ -170,6 +169,11 @@ The information in this report draws on the search results provided, which inclu
 
 ![The Ubatuba Incident (1957): A Comprehensive Analysis of Alleged UFO Debris - P2](../../assets/images/UFO%20-%20Top%20100/Ubatuba%20incident%201957-P2.svg)
 
+<div class="youtube-embed-container youtube-embed-fallback">
+  <iframe src="https://www.youtube.com/embed/6M5O4RugyJ0" title="YouTube video player (Fallback, Fn: 21)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
+
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^32][^33][^34][^4][^5][^6][^7][^8][^9] -->
 
 [^1]: http://www.nicap.org/reports/uba2.htm
@@ -187,11 +191,6 @@ The information in this report draws on the search results provided, which inclu
 [^7]: https://en.wikipedia.org/wiki/Unidentified_flying_object
 
 [^8]: https://cufos.org/PDFs/JUFOS/1992_NS_vol4_JUFOS.pdf
-
-<div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/6M5O4RugyJ0" title="YouTube video player (Fallback, Fn: 21)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 15,090 -->
-
 
 [^9]: https://www.youtube.com/watch?v=KdfdE9sQ2qo
 

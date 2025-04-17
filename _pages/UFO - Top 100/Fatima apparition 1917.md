@@ -1,10 +1,9 @@
 ---
-description: The events that unfolded in Fatima, Portugal in 1917 represent one of the most compelling and widely witnessed anomalous phenomena of the 20th century....
-layout: default
 title: 'The Fatima Apparitions of 1917: Miracle or Extraterrestrial Encounter?'
 permalink: /ufo-top-100/fatima-apparition-1917/
-date: '2025-04-17 12:09:17 '
+date: '2025-04-17 16:08:10 '
 image: /assets/images/UFO - Top 100/Fatima apparition 1917-Full-Text.svg
+description: 'Exploring The Fatima Apparitions of 1917: Miracle or Extraterrestrial Encounter? within the context of UFO - Top 100.'
 ---
 
 ---
@@ -155,7 +154,7 @@ What remains clear is that on October 13, 1917, thousands of people witnessed so
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/djfmZ3wKex0" title="YouTube video player (Fn: 11)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 353 -->
+</div><!-- View Count: 0 -->
 
 
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^3][^4][^5][^6][^7][^8][^9] -->

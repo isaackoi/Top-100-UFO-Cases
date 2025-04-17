@@ -1,10 +1,9 @@
 ---
-description: The McMinnville UFO photographs, taken by farmer Paul Trent in 1950, remain among the most analyzed and debated UFO evidence in history. These images have...
-layout: default
 title: 'The McMinnville UFO Photographs: A Critical Analysis of the 1950 Trent UFO Case'
 permalink: /ufo-top-100/mcminnville-photographs-1950/
-date: '2025-04-17 12:09:21 '
+date: '2025-04-17 16:08:13 '
 image: /assets/images/UFO - Top 100/McMinnville photographs 1950-Full-Text.svg
+description: 'Exploring The McMinnville UFO Photographs: A Critical Analysis of the 1950 Trent UFO Case within the context of UFO - Top 100.'
 ---
 
 ---
@@ -99,17 +98,17 @@ The economic and cultural impact of the festival on McMinnville has been signifi
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/O0RwwE0p3ZY" title="YouTube video player (Fn: 14)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 436 -->
+</div><!-- View Count: 0 -->
 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/xF1kJQclyIw" title="YouTube video player (Fn: 13)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 10,614 -->
+</div><!-- View Count: 0 -->
 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/KqixkiPej_I" title="YouTube video player (Fn: 7)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,188 -->
+</div><!-- View Count: 0 -->
 
 ### The Trents' Legacy
 
@@ -152,12 +151,12 @@ Whether one accepts the photographs as genuine evidence of an extraordinary aeri
 <div>⁂</div>
 
 
+![The McMinnville UFO Photographs: A Critical Analysis of the 1950 Trent UFO Case - P2](../../assets/images/UFO%20-%20Top%20100/McMinnville%20photographs%201950-P2.svg)
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^32][^33][^4][^5][^6][^7][^8][^9] -->
 
 [^1]: https://en.wikipedia.org/wiki/McMinnville_UFO_photographs
 
-
-![The McMinnville UFO Photographs: A Critical Analysis of the 1950 Trent UFO Case - P2](../../assets/images/UFO%20-%20Top%20100/McMinnville%20photographs%201950-P2.svg)
 [^2]: https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/
 
 [^3]: https://www.oregonencyclopedia.org/articles/mcminnville/

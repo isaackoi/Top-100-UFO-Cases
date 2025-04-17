@@ -1,10 +1,9 @@
 ---
-description: In the fall of 1964, an extraordinary encounter between a hunter and alleged extraterrestrial entities in the Sierra Nevada mountains would become one of...
-layout: default
 title: 'The Cisco Grove UFO Incident (1964): A Detailed Examination of Evidence and Impact'
 permalink: /ufo-top-100/cisco-grove-incident-1964/
-date: '2025-04-17 12:09:16 '
+date: '2025-04-17 16:08:09 '
 image: /assets/images/UFO - Top 100/Cisco Grove incident 1964-Full-Text.svg
+description: 'Exploring The Cisco Grove UFO Incident (1964): A Detailed Examination of Evidence and Impact within the context of UFO - Top 100.'
 ---
 
 ---
@@ -38,7 +37,7 @@ The ordeal reportedly continued until dawn, when the entities and their craft de
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/4yEkCSyTTxg" title="YouTube video player (Fn: 5)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 2,913,369 -->
+</div><!-- View Count: 0 -->
 
 ### Initial Reporting and Documentation
 
@@ -67,7 +66,7 @@ Paul Cerny of MUFON, who was known for his methodical approach to UFO investigat
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/UmtEHU07BFA" title="YouTube video player (Fallback, Fn: 11)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 663 -->
+</div><!-- View Count: 0 -->
 
 ### Official Investigation
 
@@ -84,7 +83,7 @@ The absence of other discussions about physical evidence—such as marks on the 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/xaZyfSOouTI" title="YouTube video player (Fn: 10)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 4,325 -->
+</div><!-- View Count: 0 -->
 
 ## Counterarguments and Skepticism
 

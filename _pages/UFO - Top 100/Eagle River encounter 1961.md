@@ -1,10 +1,9 @@
 ---
-description: In the annals of UFO encounters, few cases blend the mundane and the extraordinary quite like the 1961 Eagle River incident. When a rural Wisconsin farmer...
-layout: default
 title: 'The Eagle River UFO Encounter (1961): A Critical Analysis of the Simonton Pancake Case'
 permalink: /ufo-top-100/eagle-river-encounter-1961/
-date: '2025-04-17 12:09:17 '
+date: '2025-04-17 16:08:10 '
 image: /assets/images/UFO - Top 100/Eagle River encounter 1961-Full-Text.svg
+description: 'Exploring The Eagle River UFO Encounter (1961): A Critical Analysis of the Simonton Pancake Case within the context of UFO - Top 100.'
 ---
 
 ---
@@ -64,7 +63,7 @@ Several factors lend credence to Simonton's account:
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/FbXc7Uh8mto" title="YouTube video player (Fn: 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,651 -->
+</div><!-- View Count: 0 -->
 
 ## Counterarguments and Skepticism
 
@@ -111,7 +110,7 @@ The case is referenced by respected researchers like Jacques Vallee in his influ
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/MaKZPy9NPYk" title="YouTube video player (Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 86,514 -->
+</div><!-- View Count: 0 -->
 
 ## Legacy and Contemporary Relevance
 
@@ -158,7 +157,7 @@ For video coverage of this fascinating case, including rare footage of Joe Simon
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/D46whiWeL7A" title="YouTube video player (Fn: 10)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 4,721 -->
+</div><!-- View Count: 0 -->
 
 
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^3][^4][^5][^6][^7][^8][^9] -->

@@ -1,10 +1,9 @@
 ---
-description: During the summer of 1947, a remarkable conversion from skeptic to witness occurred when United Airlines captain E.J. Smith encountered unidentified flying...
-layout: default
 title: 'The E.J. Smith UFO Sighting of 1947: A Critical Analysis of Early Aviation Encounters'
 permalink: /ufo-top-100/e-j-smith-sighting-1947/
-date: '2025-04-17 12:09:17 '
+date: '2025-04-17 16:08:10 '
 image: /assets/images/UFO - Top 100/E J Smith sighting 1947-Full-Text.svg
+description: 'Exploring The E.J. Smith UFO Sighting of 1947: A Critical Analysis of Early Aviation Encounters within the context of UFO - Top 100.'
 ---
 
 ---
@@ -73,7 +72,7 @@ These factors align with what Dr. J. Allen Hynek (who oversaw Air Force UFO stud
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/dJjd4O1eUzo" title="YouTube video player (Fallback, Fn: 15)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 22,538 -->
+</div><!-- View Count: 0 -->
 
 ### Modern Credibility Rating Systems
 

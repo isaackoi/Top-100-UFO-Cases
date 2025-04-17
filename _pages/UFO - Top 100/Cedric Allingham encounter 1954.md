@@ -1,10 +1,9 @@
 ---
-description: The alleged 1954 encounter between Cedric Allingham and a Martian spacecraft represents one of Britain's most fascinating UFO cases—not for its...
-layout: default
 title: 'The Cedric Allingham Encounter (1954): Britain''s First UFO Contactee Case Unveiled'
 permalink: /ufo-top-100/cedric-allingham-encounter-1954/
-date: '2025-04-17 12:09:15 '
+date: '2025-04-17 16:08:09 '
 image: /assets/images/UFO - Top 100/Cedric Allingham encounter 1954-Full-Text.svg
+description: 'Exploring The Cedric Allingham Encounter (1954): Britain''s First UFO Contactee Case Unveiled within the context of UFO - Top 100.'
 ---
 
 ---
@@ -24,7 +23,7 @@ The biographical details presented in the book depicted Allingham as born in Bom
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/fuCnwkGv_cg" title="YouTube video player (Fn: 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 4,280 -->
+</div><!-- View Count: 0 -->
 
 ### The Book and Public Reception
 
@@ -37,7 +36,7 @@ Allingham reportedly gave a lecture about his encounter to the Tunbridge Wells U
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/_ycVLUrymwg" title="YouTube video player (Fn: 10)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 2,415 -->
+</div><!-- View Count: 0 -->
 
 ## Credibility Assessment: Red Flags from the Beginning
 

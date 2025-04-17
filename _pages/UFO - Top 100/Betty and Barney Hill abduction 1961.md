@@ -1,10 +1,9 @@
 ---
-description: The 1961 alleged alien abduction of Betty and Barney Hill stands as arguably the most influential UFO encounter in American history. Often called the "Adam...
-layout: default
 title: 'The Betty and Barney Hill Abduction: A Critical Analysis of America''s First Alien Abduction Case'
 permalink: /ufo-top-100/betty-and-barney-hill-abduction-1961/
-date: '2025-04-17 12:09:14 '
+date: '2025-04-17 16:08:09 '
 image: /assets/images/UFO - Top 100/Betty and Barney Hill abduction 1961-Full-Text.svg
+description: 'Exploring The Betty and Barney Hill Abduction: A Critical Analysis of America''s First Alien Abduction Case within the context of UFO - Top 100.'
 ---
 
 ---
@@ -50,7 +49,7 @@ Perhaps most significantly, they realized they had arrived home much later than 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/gKXBpZGhbaI" title="YouTube video player (Fn: 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 69,057 -->
+</div><!-- View Count: 0 -->
 
 ### The Path to Hypnosis
 
@@ -85,8 +84,8 @@ However, factors potentially undermining their reliability included their demand
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/qBcXbYc0zPI" title="YouTube video player (Fallback, Fn: 27)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 194,053 -->
+  <iframe src="https://www.youtube.com/embed/IL3PNeaOnFk" title="YouTube video player (Fallback, Fn: 4)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Physical Evidence
 
@@ -155,8 +154,8 @@ The validity of hypnotically recovered memories has been challenged by research 
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/YiMf6M0Rqh0" title="YouTube video player (Fallback, Fn: 18)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 6,261 -->
+  <iframe src="https://www.youtube.com/embed/ZKHxTLloYyA" title="YouTube video player (Fallback, Fn: 11)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Influence and Cultural Impact
 

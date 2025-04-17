@@ -1,10 +1,9 @@
 ---
-description: Before becoming the 39th President of the United States, Jimmy Carter had an encounter that would later become one of the most notable UFO sightings...
-layout: default
 title: 'Jimmy Carter''s 1969 UFO Sighting: A Comprehensive Analysis'
 permalink: /ufo-top-100/jimmy-carter-sighting-1969/
-date: '2025-04-17 12:09:19 '
+date: '2025-04-17 16:08:12 '
 image: /assets/images/UFO - Top 100/Jimmy Carter sighting 1969-Full-Text.svg
+description: 'Exploring Jimmy Carter''s 1969 UFO Sighting: A Comprehensive Analysis within the context of UFO - Top 100.'
 ---
 
 ---
@@ -60,8 +59,8 @@ Despite Carter's credentials and the multiple witnesses, several alternative exp
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/JsBXXVN4vyk" title="YouTube video player (Fallback, Fn: 25)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 169,345 -->
+  <iframe src="https://www.youtube.com/embed/4VIZdjh6BEk" title="YouTube video player (Fallback, Fn: 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### The Venus Hypothesis
 
@@ -113,8 +112,8 @@ Despite decades of discussion and investigation, several aspects of Carter's sig
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/gDT8OsQwpLI" title="YouTube video player (Fallback, Fn: 28)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,540 -->
+  <iframe src="https://www.youtube.com/embed/JsBXXVN4vyk" title="YouTube video player (Fallback, Fn: 25)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Witness Corroboration
 
@@ -147,6 +146,11 @@ Carter's later reflection to NPR's Scott Simon perhaps best captures his balance
 
 ![Jimmy Carter's 1969 UFO Sighting: A Comprehensive Analysis - P2](../../assets/images/UFO%20-%20Top%20100/Jimmy%20Carter%20sighting%201969-P2.svg)
 
+<div class="youtube-embed-container youtube-embed-fallback">
+  <iframe src="https://www.youtube.com/embed/gDT8OsQwpLI" title="YouTube video player (Fallback, Fn: 28)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
+
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^4][^5][^6][^7][^8][^9] -->
 
 [^1]: https://nypost.com/2024/12/30/us-news/jimmy-carter-once-saw-a-ufo-but-had-this-to-say-about-aliens-on-earth/
@@ -164,11 +168,6 @@ Carter's later reflection to NPR's Scott Simon perhaps best captures his balance
 [^7]: https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1978/04/22165501/p70.pdf
 
 [^8]: https://timesofindia.indiatimes.com/world/us/it-was-a-flying-object-that-was-unidentified-former-us-president-jimmy-carter-on-his-ufo-encounter/articleshow/116809560.cms
-
-
-<div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/4VIZdjh6BEk" title="YouTube video player (Fallback, Fn: 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,342 -->
 
 [^9]: https://nypost.com/2025/01/11/us-news/jimmy-carters-off-the-record-thoughts-on-ufos-alien-civilizations-revealed/
 

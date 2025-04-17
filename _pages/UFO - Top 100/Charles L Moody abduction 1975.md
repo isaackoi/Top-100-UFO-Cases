@@ -1,10 +1,9 @@
 ---
-description: In the pantheon of alleged alien abduction cases, the 1975 experience of Air Force Sergeant Charles L. Moody stands out as both compelling and...
-layout: default
 title: 'The Charles L. Moody Abduction Case (1975): A Critical Analysis'
 permalink: /ufo-top-100/charles-l-moody-abduction-1975/
-date: '2025-04-17 12:09:15 '
+date: '2025-04-17 16:08:09 '
 image: /assets/images/UFO - Top 100/Charles L Moody abduction 1975-Full-Text.svg
+description: 'Exploring The Charles L. Moody Abduction Case (1975): A Critical Analysis within the context of UFO - Top 100.'
 ---
 
 ---
@@ -26,12 +25,12 @@ His next clear memory was witnessing the object ascending and disappearing into 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/-yHipJJw8uo" title="YouTube video player (Fn: 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 276 -->
+</div><!-- View Count: 0 -->
 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/TckUNGa8yE4" title="YouTube video player (Fn: 12)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,203,721 -->
+</div><!-- View Count: 0 -->
 
 ## Physical Aftermath and Memory Recovery
 
@@ -119,7 +118,7 @@ While not triggering any known official government investigation after Project B
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/Oph6dZZDaJk" title="YouTube video player (Fn: 11)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 465,443 -->
+</div><!-- View Count: 0 -->
 
 ## Unresolved Questions and Research Gaps
 
@@ -144,12 +143,12 @@ In the absence of conclusive evidence either validating or refuting Moody's clai
 <div>⁂</div>
 
 
+![The Charles L. Moody Abduction Case (1975): A Critical Analysis - P2](../../assets/images/UFO%20-%20Top%20100/Charles%20L%20Moody%20abduction%201975-P2.svg)
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^4][^5][^6][^7][^8][^9] -->
 
 [^1]: https://www.youtube.com/watch?v=-yHipJJw8uo
 
-
-![The Charles L. Moody Abduction Case (1975): A Critical Analysis - P2](../../assets/images/UFO%20-%20Top%20100/Charles%20L%20Moody%20abduction%201975-P2.svg)
 [^2]: https://ufoac.com/abduction-of-airborne-sergeant-charles-moody.html
 
 [^3]: https://avalonlibrary.net/ebooks/Bullard, Thomas - UFO Abductions, The Measure of a Mystery - Volume 1.pdf

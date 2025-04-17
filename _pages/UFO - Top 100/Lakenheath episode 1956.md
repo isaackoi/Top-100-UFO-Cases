@@ -1,10 +1,9 @@
 ---
-description: On a summer evening in 1956, a series of extraordinary events unfolded in the skies over eastern England that would become one of the most compelling and...
-layout: default
 title: 'The Lakenheath-Bentwaters UFO Incident (1956): A Critical Examination of the Evidence'
 permalink: /ufo-top-100/lakenheath-episode-1956/
-date: '2025-04-17 12:09:20 '
+date: '2025-04-17 16:08:12 '
 image: /assets/images/UFO - Top 100/Lakenheath episode 1956-Full-Text.svg
+description: 'Exploring The Lakenheath-Bentwaters UFO Incident (1956): A Critical Examination of the Evidence within the context of UFO - Top 100.'
 ---
 
 ---
@@ -59,7 +58,7 @@ The British government also apparently took the incident seriously, as it was li
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/ZSj7QsHRxHQ" title="YouTube video player (Fallback, Fn: 28)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 3,316,197 -->
+</div><!-- View Count: 0 -->
 
 ### Natural Phenomena and Astronomical Misidentifications
 
@@ -100,7 +99,7 @@ A detailed analysis of the case can be found in "The UFO Case Studies Channel" o
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/O_m6aTiRUW8" title="YouTube video player (Fn: 12)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 759 -->
+</div><!-- View Count: 0 -->
 
 ## Recent Developments and Contemporary Context
 
@@ -138,6 +137,8 @@ Nearly seven decades later, the Lakenheath-Bentwaters incident remains a testame
 <div>⁂</div>
 
 
+![The Lakenheath-Bentwaters UFO Incident (1956): A Critical Examination of the Evidence - P2](../../assets/images/UFO%20-%20Top%20100/Lakenheath%20episode%201956-P2.svg)
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^32][^33][^34][^4][^5][^6][^7][^8][^9] -->
 
 [^1]: https://www.nicap.org/reports/laken.htm
@@ -146,8 +147,6 @@ Nearly seven decades later, the Lakenheath-Bentwaters incident remains a testame
 
 [^3]: http://martinshough.com/aerialphenomena/Lakenheath/MoD-2.htm
 
-
-![The Lakenheath-Bentwaters UFO Incident (1956): A Critical Examination of the Evidence - P2](../../assets/images/UFO%20-%20Top%20100/Lakenheath%20episode%201956-P2.svg)
 [^4]: https://www.ufomatrix.org/2025/03/lakenheath-bentwaters-ufo-incident-1956.html
 
 [^5]: https://drdavidclarke.co.uk/radar-uaps/lakenheath-bentwaters-ufo/

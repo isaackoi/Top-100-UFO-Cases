@@ -1,10 +1,9 @@
 ---
-description: The August 20, 1949 UFO sighting by renowned astronomer Clyde Tombaugh represents one of the most intriguing cases of unexplained aerial phenomena observed...
-layout: default
 title: 'Clyde Tombaugh''s 1949 UFO Sighting: A Critical Analysis of an Astronomer''s Encounter'
 permalink: /ufo-top-100/clyde-tombaugh-sighting-1949/
-date: '2025-04-17 12:09:16 '
+date: '2025-04-17 16:08:10 '
 image: /assets/images/UFO - Top 100/Clyde Tombaugh sighting 1949-Full-Text.svg
+description: 'Exploring Clyde Tombaugh''s 1949 UFO Sighting: A Critical Analysis of an Astronomer''s Encounter within the context of UFO - Top 100.'
 ---
 
 ---
@@ -56,7 +55,7 @@ It's worth noting that Tombaugh's interest in potential extraterrestrial activit
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/KYnfi0dvEyU" title="YouTube video player (Fallback, Fn: 21)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 524,021 -->
+</div><!-- View Count: 0 -->
 
 ### Menzel's Atmospheric Reflection Theory
 
@@ -106,8 +105,8 @@ While there is no direct evidence that Tombaugh's specific sighting influenced g
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/6Je3vlCAltI" title="YouTube video player (Fallback, Fn: 28)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 77,940 -->
+  <iframe src="https://www.youtube.com/embed/i_UPCOOuNg8" title="YouTube video player (Fallback, Fn: 22)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Lingering Uncertainties and Research Opportunities
 
@@ -134,11 +133,16 @@ More than seven decades after the sighting, Tombaugh's encounter remains a signi
 <div>⁂</div>
 
 
+![Clyde Tombaugh's 1949 UFO Sighting: A Critical Analysis of an Astronomer's Encounter - P2](../../assets/images/UFO%20-%20Top%20100/Clyde%20Tombaugh%20sighting%201949-P2.svg)
+
+<div class="youtube-embed-container youtube-embed-fallback">
+  <iframe src="https://www.youtube.com/embed/BFs3GC58O5U" title="YouTube video player (Fallback, Fn: 23)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
+
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^4][^5][^6][^7][^8][^9] -->
 
 [^1]: https://citeseerx.ist.psu.edu/document?repid=rep1\&type=pdf\&doi=5d2179dca398ad17d471d091ad2c1de94ee3a4ed
-
-![Clyde Tombaugh's 1949 UFO Sighting: A Critical Analysis of an Astronomer's Encounter - P2](../../assets/images/UFO%20-%20Top%20100/Clyde%20Tombaugh%20sighting%201949-P2.svg)
 
 [^2]: https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9
 
@@ -153,11 +157,6 @@ More than seven decades after the sighting, Tombaugh's encounter remains a signi
 [^7]: https://www.paulfrasercollectibles.com/blogs/autographs/clyde-tombaugh-the-autographs-and-life-of-the-man-who-discovered-pluto
 
 [^8]: https://www.wikiwand.com/en/articles/Clyde_Tombaugh
-
-
-<div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/Crbi2in-PHc" title="YouTube video player (Fallback, Fn: 29)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 16,564 -->
 
 [^9]: https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects
 

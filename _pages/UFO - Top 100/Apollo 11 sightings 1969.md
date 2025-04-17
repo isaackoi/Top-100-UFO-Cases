@@ -1,10 +1,9 @@
 ---
-description: Apollo 11's historic journey to the moon in July 1969 not only marked humanity's first steps on another celestial body but also spawned one of spaceflight's...
-layout: default
 title: 'Apollo 11 UFO Sightings (1969): A Critical Examination of Evidence and Impact'
 permalink: /ufo-top-100/apollo-11-sightings-1969/
-date: '2025-04-17 12:09:14 '
+date: '2025-04-17 16:08:08 '
 image: /assets/images/UFO - Top 100/Apollo 11 sightings 1969-Full-Text.svg
+description: 'Exploring Apollo 11 UFO Sightings (1969): A Critical Examination of Evidence and Impact within the context of UFO - Top 100.'
 ---
 
 ---
@@ -64,7 +63,7 @@ The YouTube documentary "Secret Space UFOs: Apollo 1-11" (2023) is among many pr
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/sDwhTZTLc-Y" title="YouTube video player (Fn: 10)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,952,457 -->
+</div><!-- View Count: 0 -->
 
 ## Influence and Impact
 
@@ -79,7 +78,7 @@ In contemporary discourse, the Apollo 11 sighting is occasionally referenced alo
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/YnMjLD3sWQA" title="YouTube video player (Fn: 11)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 13,759 -->
+</div><!-- View Count: 0 -->
 
 ## Analysis of Evidence
 
@@ -111,7 +110,7 @@ Potential avenues for follow-up research include:
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/BezR_IrMbxE" title="YouTube video player (Fn: 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 55,018 -->
+</div><!-- View Count: 0 -->
 
 ## Conclusion
 

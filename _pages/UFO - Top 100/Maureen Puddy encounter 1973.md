@@ -1,10 +1,9 @@
 ---
-description: The case of Maureen Puddy represents one of Australia's most intriguing and complex UFO encounters, involving multiple sightings, alleged telepathic...
-layout: default
 title: 'The Maureen Puddy UFO Encounters (1972-1973): A Critical Analysis'
 permalink: /ufo-top-100/maureen-puddy-encounter-1973/
-date: '2025-04-17 12:09:21 '
+date: '2025-04-17 16:08:13 '
 image: /assets/images/UFO - Top 100/Maureen Puddy encounter 1973-Full-Text.svg
+description: 'Exploring The Maureen Puddy UFO Encounters (1972-1973): A Critical Analysis within the context of UFO - Top 100.'
 ---
 
 ---
@@ -34,7 +33,7 @@ Immediately following this encounter, Puddy went to the Rosebud police station t
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/LzOQ5S_wPAk" title="YouTube video player (Fn: 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 20,649 -->
+</div><!-- View Count: 0 -->
 
 ### Second Encounter and Telepathic Communication
 
@@ -73,7 +72,7 @@ Assessing Maureen Puddy's credibility as a witness presents significant challeng
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/ZkNVSju99HY" title="YouTube video player (Fallback, Fn: 4)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 3,080,507 -->
+</div><!-- View Count: 0 -->
 
 ### Investigator Reliability
 
@@ -134,7 +133,7 @@ The case has influenced theoretical frameworks within UFO research, particularly
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/ku1NxxsWPiE" title="YouTube video player (Fallback, Fn: 7)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 25,357 -->
+</div><!-- View Count: 0 -->
 
 ### Public Awareness
 

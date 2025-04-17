@@ -1,10 +1,9 @@
 ---
-description: The July 17, 1957 RB-47 UFO incident stands as one of the most compelling and well-documented cases in UFO history, distinguished by its combination of...
-layout: default
 title: 'The 1957 RB-47 UFO Encounter: A Critical Analysis of Multi-Sensor Detection Evidence'
 permalink: /ufo-top-100/rb-47-radar-visual-incident-1957/
-date: '2025-04-17 12:09:22 '
+date: '2025-04-17 16:08:13 '
 image: /assets/images/UFO - Top 100/RB-47 radar visual incident 1957-Full-Text.svg
+description: 'Exploring The 1957 RB-47 UFO Encounter: A Critical Analysis of Multi-Sensor Detection Evidence within the context of UFO - Top 100.'
 ---
 
 ---
@@ -28,7 +27,7 @@ Despite this anomaly, McClure initially kept the observation to himself. The air
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/LU6ozS9caGI" title="YouTube video player (Fn: 13)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 50,334 -->
+</div><!-- View Count: 0 -->
 
 ### Visual Contact
 
@@ -71,7 +70,7 @@ According to analysis mentioned in search result \#12, the unidentified object w
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/infRUoeCldc" title="YouTube video player (Fn: 12)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,763 -->
+</div><!-- View Count: 0 -->
 
 ### Official Investigation
 
@@ -83,8 +82,8 @@ Dr. James E. McDonald, a respected atmospheric physicist and UFO researcher, lat
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/Q57Nej_ugdU" title="YouTube video player (Fallback, Fn: 27)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 319,685 -->
+  <iframe src="https://www.youtube.com/embed/bQ-XmZE8MSw" title="YouTube video player (Fallback, Fn: 23)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Skeptical Perspectives and Alternative Explanations
 

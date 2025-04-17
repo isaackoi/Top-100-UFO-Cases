@@ -1,10 +1,9 @@
 ---
-description: The July 1947 UFO incidents at Muroc Army Air Field represent some of the most significant early military encounters with unidentified aerial phenomena,...
-layout: default
 title: 'The Muroc Field UFO Sightings of 1947: A Detailed Critical Analysis'
 permalink: /ufo-top-100/muroc-field-sightings-1947/
-date: '2025-04-17 12:09:22 '
+date: '2025-04-17 16:08:13 '
 image: /assets/images/UFO - Top 100/Muroc Field sightings 1947-Full-Text.svg
+description: 'Exploring The Muroc Field UFO Sightings of 1947: A Detailed Critical Analysis within the context of UFO - Top 100.'
 ---
 
 ---
@@ -73,8 +72,8 @@ A 1971 declassified Australian government memo claimed that the CIA urged debunk
 ![The Muroc Field UFO Sightings of 1947: A Detailed Critical Analysis - P1](../../assets/images/UFO%20-%20Top%20100/Muroc%20Field%20sightings%201947-P1.svg)
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/z4otrkUXv9Y" title="YouTube video player (Fallback, Fn: 21)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 21,747 -->
+  <iframe src="https://www.youtube.com/embed/RauYwfOkdoA" title="YouTube video player (Fallback, Fn: 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Influence and Impact
 
@@ -114,8 +113,8 @@ The Muroc Field UFO sightings of 1947 remain enigmatic historical events that me
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/RauYwfOkdoA" title="YouTube video player (Fallback, Fn: 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 3,003 -->
+  <iframe src="https://www.youtube.com/embed/z4otrkUXv9Y" title="YouTube video player (Fallback, Fn: 21)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Conclusion
 
@@ -130,6 +129,13 @@ Whether these sightings represented misidentified conventional phenomena, classi
 <div>⁂</div>
 
 
+![The Muroc Field UFO Sightings of 1947: A Detailed Critical Analysis - P2](../../assets/images/UFO%20-%20Top%20100/Muroc%20Field%20sightings%201947-P2.svg)
+
+<div class="youtube-embed-container youtube-embed-fallback">
+  <iframe src="https://www.youtube.com/embed/OylUSOf88fs" title="YouTube video player (Fallback, Fn: 25)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
+
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^32][^33][^34][^4][^5][^6][^7][^8][^9] -->
 
 [^1]: http://www.nicap.org/murocdir.htm
@@ -141,8 +147,6 @@ Whether these sightings represented misidentified conventional phenomena, classi
 [^4]: http://kevinrandle.blogspot.com/2016/08/the-shaver-fiction-carrions-latest-proof.html
 
 [^5]: https://www.secretsdeclassified.af.mil/Portals/67/documents/AFD-100713-052.pdf?ver=2016-07-19-142533-113
-
-![The Muroc Field UFO Sightings of 1947: A Detailed Critical Analysis - P2](../../assets/images/UFO%20-%20Top%20100/Muroc%20Field%20sightings%201947-P2.svg)
 
 [^6]: https://www.youtube.com/watch?v=RauYwfOkdoA
 
@@ -159,11 +163,6 @@ Whether these sightings represented misidentified conventional phenomena, classi
 [^12]: https://www.nbcnews.com/science/cosmic-log/were-soviets-behind-roswell-ufo-flna6c10403209
 
 [^13]: https://www.edwards.af.mil/About/Fact-Sheets/Display/Article/393907/edwards-history/
-
-<div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/OylUSOf88fs" title="YouTube video player (Fallback, Fn: 25)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 394 -->
-
 
 [^14]: https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf
 

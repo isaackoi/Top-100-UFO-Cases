@@ -1,10 +1,9 @@
 ---
-description: On October 1, 1948, the skies over Fargo, North Dakota became the stage for one of the most influential early UFO incidents in American history. Lieutenant...
-layout: default
 title: 'The Gorman Dogfight: A Critical Analysis of the 1948 Fargo UFO Encounter'
 permalink: /ufo-top-100/gorman-dogfight-near-fargo-1948/
-date: '2025-04-17 12:09:18 '
+date: '2025-04-17 16:08:11 '
 image: /assets/images/UFO - Top 100/Gorman dogfight near Fargo 1948-Full-Text.svg
+description: 'Exploring The Gorman Dogfight: A Critical Analysis of the 1948 Fargo UFO Encounter within the context of UFO - Top 100.'
 ---
 
 ---
@@ -68,7 +67,7 @@ The incident quickly gained an elevated status within military circles. Accordin
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/MqMfNUFvO4E" title="YouTube video player (Fallback, Fn: 13)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 15,911 -->
+</div><!-- View Count: 0 -->
 
 ### Evaluating Gorman as a Witness
 

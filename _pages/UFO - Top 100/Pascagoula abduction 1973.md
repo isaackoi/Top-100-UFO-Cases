@@ -1,10 +1,9 @@
 ---
-description: The Pascagoula alien abduction of 1973 stands as one of the most enduring and well-documented UFO encounters in American history. Even now, over 50 years...
-layout: default
 title: 'The Pascagoula Abduction: A Critical Examination of Evidence and Legacy'
 permalink: /ufo-top-100/pascagoula-abduction-1973/
-date: '2025-04-17 12:09:22 '
+date: '2025-04-17 16:08:13 '
 image: /assets/images/UFO - Top 100/Pascagoula abduction 1973-Full-Text.svg
+description: 'Exploring The Pascagoula Abduction: A Critical Examination of Evidence and Legacy within the context of UFO - Top 100.'
 ---
 
 ---
@@ -24,7 +23,7 @@ The entities allegedly seized the paralyzed men and floated them aboard the craf
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/nDFMB4r6W9E" title="YouTube video player (Fn: 3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 83,181 -->
+</div><!-- View Count: 0 -->
 
 ### The Immediate Aftermath
 
@@ -39,7 +38,7 @@ Both men underwent polygraph examinations in the days following the incident. Ac
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/9zTUspQlS8E" title="YouTube video player (Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 3,777,756 -->
+</div><!-- View Count: 0 -->
 
 ## Credibility Assessment: Evaluating the Witnesses and Evidence
 
@@ -102,7 +101,7 @@ The case has achieved significant recognition over time:
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/Ttz-d7o0np8" title="YouTube video player (Fn: 12)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 108 -->
+</div><!-- View Count: 0 -->
 
 ### Role in UFO Discourse
 

@@ -1,10 +1,9 @@
 ---
-description: The Stephen Darbishire UFO photograph stands as one of the most significant early UFO incidents in British history, establishing itself as a foundational...
-layout: default
 title: 'The Stephen Darbishire UFO Photograph (1954): A Critical Examination of the Evidence'
 permalink: /ufo-top-100/stephen-darbishire-photograph-1954/
-date: '2025-04-17 12:09:24 '
+date: '2025-04-17 16:08:14 '
 image: /assets/images/UFO - Top 100/Stephen Darbishire photograph 1954-Full-Text.svg
+description: 'Exploring The Stephen Darbishire UFO Photograph (1954): A Critical Examination of the Evidence within the context of UFO - Top 100.'
 ---
 
 ---
@@ -24,7 +23,7 @@ Stephen managed to capture two slightly out-of-focus photographs of what appeare
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/qKZyMHqwOKU" title="YouTube video player (Fn: 7)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 271 -->
+</div><!-- View Count: 0 -->
 
 ### Initial Response and Media Coverage
 

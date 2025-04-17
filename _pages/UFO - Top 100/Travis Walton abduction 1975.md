@@ -1,10 +1,9 @@
 ---
-description: The 1975 Travis Walton incident stands as one of the most extensively documented and controversial UFO abduction cases in history. On November 5, 1975,...
-layout: default
 title: 'The Travis Walton UFO Incident: A Critical Examination of Evidence and Claims'
 permalink: /ufo-top-100/travis-walton-abduction-1975/
-date: '2025-04-17 12:09:25 '
+date: '2025-04-17 16:08:15 '
 image: /assets/images/UFO - Top 100/Travis Walton abduction 1975-Full-Text.svg
+description: 'Exploring The Travis Walton UFO Incident: A Critical Examination of Evidence and Claims within the context of UFO - Top 100.'
 ---
 
 ---
@@ -46,7 +45,7 @@ Interestingly, Walton has maintained that he doesn't consider his experience an 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/vjzWeGr9p2w" title="YouTube video player (Fn: 7)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 5,600 -->
+</div><!-- View Count: 0 -->
 
 ### Immediate Aftermath
 
@@ -76,7 +75,7 @@ Travis Walton has disputed the validity of certain polygraph tests, particularly
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/cHLb5HbMpbg" title="YouTube video player (Fn: 4)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 9,618,969 -->
+</div><!-- View Count: 0 -->
 
 ### Physical Evidence
 
@@ -180,7 +179,7 @@ Walton has also been critical of some aspects of the broader UFO community. In a
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/0PrmvXyXVLk" title="YouTube video player (Fn: 13)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 190,759 -->
+</div><!-- View Count: 0 -->
 
 ### Unresolved Questions
 

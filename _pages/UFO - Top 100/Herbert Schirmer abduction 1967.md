@@ -1,10 +1,9 @@
 ---
-description: The Herbert Schirmer case stands as one of the most intriguing and well-documented UFO encounters of the late 1960s. As a police officer's account that...
-layout: default
 title: 'The Herbert Schirmer UFO Abduction Case (1967): A Critical Examination'
 permalink: /ufo-top-100/herbert-schirmer-abduction-1967/
-date: '2025-04-17 12:09:19 '
+date: '2025-04-17 16:08:11 '
 image: /assets/images/UFO - Top 100/Herbert Schirmer abduction 1967-Full-Text.svg
+description: 'Exploring The Herbert Schirmer UFO Abduction Case (1967): A Critical Examination within the context of UFO - Top 100.'
 ---
 
 ---
@@ -60,7 +59,7 @@ The immediate physical symptoms Schirmer experienced—particularly the unexplai
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/s-XpymjSBo0" title="YouTube video player (Fallback, Fn: 14)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 283,115 -->
+</div><!-- View Count: 0 -->
 
 ### The Hypnosis Factor
 
@@ -81,7 +80,7 @@ These pattern similarities across independent reports are considered significant
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/XYf-whvwWPU" title="YouTube video player (Fn: 3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 4,149 -->
+</div><!-- View Count: 0 -->
 
 ## Counterarguments and Skepticism
 
@@ -150,7 +149,7 @@ Archival footage of Schirmer discussing his experience can be viewed in limited 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/l927-8UCnqU" title="YouTube video player (Fn: 8)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 172 -->
+</div><!-- View Count: 0 -->
 
 ## Conclusion
 

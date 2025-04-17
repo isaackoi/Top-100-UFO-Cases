@@ -1,10 +1,9 @@
 ---
-description: The Gulf Breeze UFO incident stands as one of the most controversial and widely discussed UFO cases of the late 20th century. From November 1987 through May...
-layout: default
 title: 'The Gulf Breeze UFO Incident (1987-1988): A Critical Examination of Evidence'
 permalink: /ufo-top-100/gulf-breeze-encounter-1987/
-date: '2025-04-17 12:09:19 '
+date: '2025-04-17 16:08:11 '
 image: /assets/images/UFO - Top 100/Gulf Breeze encounter 1987-Full-Text.svg
+description: 'Exploring The Gulf Breeze UFO Incident (1987-1988): A Critical Examination of Evidence within the context of UFO - Top 100.'
 ---
 
 ---
@@ -32,7 +31,12 @@ In total, Walters claimed to have recorded 19 sightings or encounters, taking 32
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/pJzLKIqp-3w" title="YouTube video player (Fn: 13)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 274,595 -->
+</div><!-- View Count: 0 -->
+
+
+<div class="youtube-embed-container">
+  <iframe src="https://www.youtube.com/embed/ehWUg6mwmbc" title="YouTube video player (Fn: 3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### The Broader Gulf Breeze Phenomenon
 
@@ -65,7 +69,7 @@ As the primary witness and documentarian of the Gulf Breeze incidents, Ed Walter
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/inSXILgFDo8" title="YouTube video player (Fn: 11)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 176 -->
+</div><!-- View Count: 0 -->
 
 ### Scientific and Expert Analysis
 
@@ -100,11 +104,6 @@ Walters vehemently denied any knowledge of the model, suggesting it had been "pl
 Several experts suggested that Walters may have created his UFO images through double exposures on his Polaroid camera.[^11] While Walters initially argued that double exposures were impossible with his camera, he later acknowledged that they were achievable with an older camera he owned.[^11] The technical feasibility of producing fake UFO images using the photography equipment available to Walters at the time has been demonstrated in subsequent analyses.
 
 In 2024, a YouTube creator demonstrated a 3D-printed model of the Gulf Breeze UFO that closely resembled the object in Walters' photos, showing how relatively simple it would be to recreate the alleged craft: https://www.youtube.com/watch?v=8LiVR_2v-Mc[^5]
-
-
-<div class="youtube-embed-container">
-  <iframe src="https://www.youtube.com/embed/8LiVR_2v-Mc" title="YouTube video player (Fn: 5)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 885 -->
 
 ### Geographical and Contextual Factors
 

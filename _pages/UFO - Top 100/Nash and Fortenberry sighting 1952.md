@@ -1,10 +1,9 @@
 ---
-description: The 1952 encounter reported by two commercial airline pilots over the Chesapeake Bay stands as one of the most meticulously documented and extensively...
-layout: default
 title: 'The Nash-Fortenberry UFO Sighting (1952): A Critical Examination of the Evidence'
 permalink: /ufo-top-100/nash-and-fortenberry-sighting-1952/
-date: '2025-04-17 12:09:22 '
+date: '2025-04-17 16:08:13 '
 image: /assets/images/UFO - Top 100/Nash and Fortenberry sighting 1952-Full-Text.svg
+description: 'Exploring The Nash-Fortenberry UFO Sighting (1952): A Critical Examination of the Evidence within the context of UFO - Top 100.'
 ---
 
 ---
@@ -61,8 +60,8 @@ Nash further elaborated: "We are also sure that this is not a remotely controlle
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/6EKE-BK9OJw" title="YouTube video player (Fallback, Fn: 8)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 62,601 -->
+  <iframe src="https://www.youtube.com/embed/oLnLmYGobCY" title="YouTube video player (Fallback, Fn: 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Scientific and Skeptical Perspectives
 
@@ -118,8 +117,8 @@ In the broader context of UFO history, the Nash-Fortenberry case remains one of 
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/J7uV9suXnik" title="YouTube video player (Fallback, Fn: 24)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 11,131 -->
+  <iframe src="https://www.youtube.com/embed/6EKE-BK9OJw" title="YouTube video player (Fallback, Fn: 8)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Modern Relevance and Recent Developments
 
@@ -162,14 +161,14 @@ Due to the historical nature of this case, primary sources include official gove
 <div>⁂</div>
 
 
+<div class="youtube-embed-container youtube-embed-fallback">
+  <iframe src="https://www.youtube.com/embed/J7uV9suXnik" title="YouTube video player (Fallback, Fn: 24)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
+
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^3][^4][^5][^6][^7][^8][^9] -->
 
 [^1]: https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting
-
-
-<div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/oLnLmYGobCY" title="YouTube video player (Fallback, Fn: 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 6,480 -->
 
 [^2]: https://www.youtube.com/watch?v=oLnLmYGobCY
 

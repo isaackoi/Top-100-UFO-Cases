@@ -1,10 +1,9 @@
 ---
-description: In the early morning hours of February 25, 1942, the skies above Los Angeles erupted with anti-aircraft fire, searchlights crisscrossed the darkness, and a...
-layout: default
 title: 'The Battle of Los Angeles (1942): Examining the Evidence Behind a Wartime UFO Enigma'
 permalink: /ufo-top-100/battle-of-los-angeles-1942/
-date: '2025-04-17 12:09:14 '
+date: '2025-04-17 16:08:09 '
 image: /assets/images/UFO - Top 100/Battle of Los Angeles 1942-Full-Text.svg
+description: 'Exploring The Battle of Los Angeles (1942): Examining the Evidence Behind a Wartime UFO Enigma within the context of UFO - Top 100.'
 ---
 
 ---
@@ -49,8 +48,8 @@ Some UFO researchers have connected the Battle of Los Angeles to broader narrati
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/eAH59Wh-Ymo" title="YouTube video player (Fallback, Fn: 16)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,706,010 -->
+  <iframe src="https://www.youtube.com/embed/0OJiHUdIGho" title="YouTube video player (Fallback, Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Critical Analysis and Skeptical Perspectives
 
@@ -90,8 +89,8 @@ Despite decades of interest, significant gaps remain in our understanding of wha
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/kIbBCIrorYY" title="YouTube video player (Fallback, Fn: 26)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 108,866 -->
+  <iframe src="https://www.youtube.com/embed/eAH59Wh-Ymo" title="YouTube video player (Fallback, Fn: 16)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Conclusion
 
@@ -106,6 +105,13 @@ Whether viewed as a case of mass misidentification, a genuine encounter with som
 <div>⁂</div>
 
 
+![The Battle of Los Angeles (1942): Examining the Evidence Behind a Wartime UFO Enigma - P2](../../assets/images/UFO%20-%20Top%20100/Battle%20of%20Los%20Angeles%201942-P2.svg)
+
+<div class="youtube-embed-container youtube-embed-fallback">
+  <iframe src="https://www.youtube.com/embed/1QaykjVyjOg" title="YouTube video player (Fallback, Fn: 21)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
+
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^3][^4][^5][^6][^7][^8][^9] -->
 
 [^1]: https://www.garfieldhs.org/apps/pages/index.jsp?uREC_ID=1158176\&type=d\&pREC_ID=1484831
@@ -118,8 +124,6 @@ Whether viewed as a case of mass misidentification, a genuine encounter with som
 
 [^5]: https://www.historicalblindness.com/blogandpodcast/blind-spot-the-great-los-angeles-air-raid-and-the-secret-memos-of-majestic-12
 
-![The Battle of Los Angeles (1942): Examining the Evidence Behind a Wartime UFO Enigma - P2](../../assets/images/UFO%20-%20Top%20100/Battle%20of%20Los%20Angeles%201942-P2.svg)
-
 [^6]: https://blog.johnhartrealestate.com/2024/02/the-battle-of-los-angeles/
 
 [^7]: https://en.wikipedia.org/wiki/Battle_of_Los_Angeles
@@ -131,11 +135,6 @@ Whether viewed as a case of mass misidentification, a genuine encounter with som
 [^10]: https://rationalwiki.org/wiki/Battle_of_Los_Angeles
 
 [^11]: https://www.space.com/11096-battle-los-angeles-film-aliens.html
-
-
-<div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/mbsU-pe2NVo" title="YouTube video player (Fallback, Fn: 25)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 81,725 -->
 
 [^12]: https://www.huffpost.com/entry/the-time-a-ufo-invaded-lo_b_6749734
 

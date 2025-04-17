@@ -1,10 +1,9 @@
 ---
-description: The alleged abduction of Antonio Villas-Boas in 1957 stands as one of the earliest and most influential alien abduction accounts in UFO history. Predating...
-layout: default
 title: 'The Antonio Villas-Boas Abduction Case (1957): A Critical Examination'
 permalink: /ufo-top-100/antonio-villas-boas-abduction-1957/
-date: '2025-04-17 12:09:13 '
+date: '2025-04-17 16:08:08 '
 image: /assets/images/UFO - Top 100/Antonio Villas-Boas abduction 1957-Full-Text.svg
+description: 'Exploring The Antonio Villas-Boas Abduction Case (1957): A Critical Examination within the context of UFO - Top 100.'
 ---
 
 ---
@@ -146,7 +145,7 @@ The key primary sources for studying the Villas-Boas case include:
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/GOwg2AaB71k" title="YouTube video player (Fn: 7)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 4,469 -->
+</div><!-- View Count: 0 -->
 
 ### Investigative Limitations
 

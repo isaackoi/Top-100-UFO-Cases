@@ -1,10 +1,9 @@
 ---
-description: The August 1960 Red Bluff incident stands as one of the most compelling and well-documented UFO encounters from the early Cold War era, involving credible...
-layout: default
 title: 'The Red Bluff UFO Incident of 1960: A Comprehensive Analysis'
 permalink: /ufo-top-100/red-bluff-sighting-1960/
-date: '2025-04-17 12:09:22 '
+date: '2025-04-17 16:08:14 '
 image: /assets/images/UFO - Top 100/Red Bluff sighting 1960-Full-Text.svg
+description: 'Exploring The Red Bluff UFO Incident of 1960: A Comprehensive Analysis within the context of UFO - Top 100.'
 ---
 
 ---
@@ -64,8 +63,8 @@ However, the radar confirmation element became controversial when, the following
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="YouTube video player (Fallback, Fn: 32)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 104,272 -->
+  <iframe src="https://www.youtube.com/embed/JwEiiw7Ad34" title="YouTube video player (Fallback, Fn: 18)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Expert Evaluation
 
@@ -122,8 +121,8 @@ Project Blue Book itself was undergoing changes in this period. Having begun in 
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/lbsFN2Xxh90" title="YouTube video player (Fallback, Fn: 24)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 36,041 -->
+  <iframe src="https://www.youtube.com/embed/dmocgFqT3gw" title="YouTube video player (Fallback, Fn: 22)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Continuing Relevance and Recent Developments
 
@@ -134,7 +133,7 @@ The case gains additional relevance in light of recent developments in UAP discl
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/3vQuB8ioYes" title="YouTube video player (Fn: 10)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 109,242 -->
+</div><!-- View Count: 0 -->
 
 ## Research Gaps and Future Investigations
 

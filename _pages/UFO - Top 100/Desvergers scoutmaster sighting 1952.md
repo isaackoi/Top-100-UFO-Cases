@@ -1,10 +1,9 @@
 ---
-description: On the night of August 19, 1952, a hardware store clerk and Boy Scout leader named Dunham Sanborn "Sonny" DesVergers reported a close encounter with an...
-layout: default
 title: 'The Sonny DesVergers Scoutmaster UFO Encounter: A Critical Examination of the 1952 Case'
 permalink: /ufo-top-100/desvergers-scoutmaster-sighting-1952/
-date: '2025-04-17 12:09:16 '
+date: '2025-04-17 16:08:10 '
 image: /assets/images/UFO - Top 100/Desvergers scoutmaster sighting 1952-Full-Text.svg
+description: 'Exploring The Sonny DesVergers Scoutmaster UFO Encounter: A Critical Examination of the 1952 Case within the context of UFO - Top 100.'
 ---
 
 ---
@@ -60,7 +59,7 @@ Interviews with people who knew DesVergers painted a picture of someone with a t
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/p2HCEm-g1TY" title="YouTube video player (Fallback, Fn: 7)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 244,856 -->
+</div><!-- View Count: 0 -->
 
 ### Evolution of the Story
 

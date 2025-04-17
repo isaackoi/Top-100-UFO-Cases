@@ -1,10 +1,9 @@
 ---
-description: On April 24, 1964, farmer Gary Wilcox reported an extraordinary encounter on his Newark Valley, New York farm that would become one of the most notable...
-layout: default
 title: 'The Gary Wilcox UFO Encounter of 1964: A Critical Examination'
 permalink: /ufo-top-100/gary-wilcox-encounter-1964/
-date: '2025-04-17 12:09:18 '
+date: '2025-04-17 16:08:11 '
 image: /assets/images/UFO - Top 100/Gary Wilcox encounter 1964-Full-Text.svg
+description: 'Exploring The Gary Wilcox UFO Encounter of 1964: A Critical Examination within the context of UFO - Top 100.'
 ---
 
 ---
@@ -26,7 +25,7 @@ Wilcox claimed he touched the object, finding it was "harder than aluminum" with
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/nyXqS1_7bxo" title="YouTube video player (Fn: 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 350 -->
+</div><!-- View Count: 0 -->
 
 ### The Communication
 
@@ -51,7 +50,7 @@ Additionally, on the same date and again on May 8, 1964, Warren Feister of Sulli
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/HBQUPosEgC0" title="YouTube video player (Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 3,631 -->
+</div><!-- View Count: 0 -->
 
 ## Credibility Assessment
 
@@ -108,7 +107,7 @@ The incident received national headlines at the time it occurred[^1], and intere
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/h6fNSnF4sAY" title="YouTube video player (Fn: 4)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 584 -->
+</div><!-- View Count: 0 -->
 
 ### Local Historical Significance
 

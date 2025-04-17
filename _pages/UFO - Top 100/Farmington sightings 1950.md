@@ -1,10 +1,9 @@
 ---
-description: For three days in March 1950, the small town of Farmington, New Mexico became the site of one of the most spectacular mass UFO sightings in American...
-layout: default
 title: 'The 1950 Farmington UFO Armada: A Critical Examination of Mass Sightings'
 permalink: /ufo-top-100/farmington-sightings-1950/
-date: '2025-04-17 12:09:17 '
+date: '2025-04-17 16:08:10 '
 image: /assets/images/UFO - Top 100/Farmington sightings 1950-Full-Text.svg
+description: 'Exploring The 1950 Farmington UFO Armada: A Critical Examination of Mass Sightings within the context of UFO - Top 100.'
 ---
 
 ---
@@ -26,12 +25,12 @@ The objects reportedly engaged in coordinated movements, shifting from one forma
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/QYNcUVZRv2A" title="YouTube video player (Fn: 7)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 5,808 -->
+</div><!-- View Count: 0 -->
 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/_jov2cEVuhw" title="YouTube video player (Fn: 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 2,604 -->
+</div><!-- View Count: 0 -->
 
 ## Geographical and Historical Context
 
@@ -70,7 +69,7 @@ According to David Marler, there were "documented statements from witnesses acro
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/DQs1c9-Ai0o" title="YouTube video player (Fn: 10)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 6,093 -->
+</div><!-- View Count: 0 -->
 
 ## Counterarguments and Skeptical Perspectives
 

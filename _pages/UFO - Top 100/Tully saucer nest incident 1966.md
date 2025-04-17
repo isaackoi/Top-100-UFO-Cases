@@ -1,9 +1,9 @@
 ---
-description: The morning of January 19, 1966, began like any other for banana farmer George Pedley as he drove his tractor near Horseshoe Lagoon in Euramo, Queensland....
-layout: default
 title: 'The Tully "Saucer Nest" Incident (1966): A Critical Examination of Australia''s Famous UFO Case'
 permalink: /ufo-top-100/tully-saucer-nest-incident-1966/
-date: '2025-04-17 12:09:25 '
+date: '2025-04-17 16:08:15 '
+image: /assets/images/UFO - Top 100/Tully saucer nest incident 1966-Full-Text.svg
+description: 'Exploring The Tully "Saucer Nest" Incident (1966): A Critical Examination of Australia''s Famous UFO Case within the context of UFO - Top 100.'
 ---
 
 ---
@@ -33,7 +33,7 @@ Another curious detail was that many of the reeds at the edge of the formation q
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/0Vo1elRMDnw" title="YouTube video player (Fn: 14)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 14,151 -->
+</div><!-- View Count: 0 -->
 
 ### Initial Reporting and Investigation
 
@@ -43,6 +43,8 @@ The Tully Police forwarded the report to the Royal Australian Air Force (RAAF), 
 
 In the days following the initial discovery, at least five more similar "nests" were reportedly found in the area, though none received the same level of attention as the original[^11].
 
+
+![The Tully "Saucer Nest" Incident (1966): A Critical Examination of Australia's Famous UFO Case - Full-Text](../../assets/images/UFO%20-%20Top%20100/Tully%20saucer%20nest%20incident%201966-Full-Text.svg)
 ## Credibility Assessment of Key Sources
 
 ### George Pedley as a Witness
@@ -61,7 +63,7 @@ Bill Chalker, a prominent Australian UFO researcher who interviewed Pedley in 19
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/0YvaAlgokSs" title="YouTube video player (Fn: 17)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 14,086 -->
+</div><!-- View Count: 0 -->
 
 ### Albert Pennisi as a Corroborating Witness
 
@@ -81,8 +83,8 @@ The University of Queensland and local police reportedly concluded that the form
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/sEczN_8Q380" title="YouTube video player (Fallback, Fn: 31)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 4,454,015 -->
+  <iframe src="https://www.youtube.com/embed/cjY27mjpPzo" title="YouTube video player (Fallback, Fn: 27)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Counterarguments and Skeptical Perspectives
 
@@ -109,6 +111,8 @@ Some skeptics might argue that Pedley experienced a brief hallucination or mispe
 
 The discovery of additional "nests" after the publicity surrounding Pedley's experience could potentially be attributed to increased awareness and scrutiny of the area rather than a genuine increase in such formations. This pattern of increased reporting following publicity is well-documented in other paranormal contexts.
 
+
+![The Tully "Saucer Nest" Incident (1966): A Critical Examination of Australia's Famous UFO Case - P1](../../assets/images/UFO%20-%20Top%20100/Tully%20saucer%20nest%20incident%201966-P1.svg)
 ## The Influence and Legacy of the Tully Incident
 
 ### Impact on Crop Circle Phenomena
@@ -186,6 +190,8 @@ Future research into this case could benefit from several approaches:
 4. **Historical Weather Data Analysis**: Detailed examination of meteorological records from January 1966 could help evaluate the plausibility of weather-related explanations.
 5. **Comparative Analysis**: Systematic comparison with other documented "nests" or early crop circles might reveal patterns that support either natural or artificial origins.
 
+
+![The Tully "Saucer Nest" Incident (1966): A Critical Examination of Australia's Famous UFO Case - P2](../../assets/images/UFO%20-%20Top%20100/Tully%20saucer%20nest%20incident%201966-P2.svg)
 ## Conclusion: The Enduring Mystery
 
 The 1966 Tully "saucer nest" incident remains one of Australia's most significant and perplexing UFO cases. While definitive conclusions remain elusive, several aspects of the case merit continued attention.

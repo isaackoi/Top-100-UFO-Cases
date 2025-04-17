@@ -1,10 +1,9 @@
 ---
-description: The early morning of July 1, 1965, started as an ordinary day for lavender farmer Maurice Masse in the small French town of Valensole. What allegedly...
-layout: default
 title: 'The 1965 Valensole UFO Encounter: A Critical Analysis of Evidence and Impact'
 permalink: /ufo-top-100/valensole-incident-1965/
-date: '2025-04-17 12:09:26 '
+date: '2025-04-17 16:08:16 '
 image: /assets/images/UFO - Top 100/Valensole incident 1965-Full-Text.svg
+description: 'Exploring The 1965 Valensole UFO Encounter: A Critical Analysis of Evidence and Impact within the context of UFO - Top 100.'
 ---
 
 ---
@@ -71,7 +70,7 @@ Importantly, researchers who interviewed Masse noted he exhibited reluctance to 
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/nXFSgB4Qa6I" title="YouTube video player (Fallback, Fn: 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 296,075 -->
+</div><!-- View Count: 0 -->
 
 ### Consistency and Psychological Impact
 
@@ -140,7 +139,7 @@ The incident represents what UFO researcher J. Allen Hynek classified as a "Clos
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/2mfy6q79_AQ" title="YouTube video player (Fallback, Fn: 21)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 17,492 -->
+</div><!-- View Count: 0 -->
 
 ### Government Response and Official Interest
 

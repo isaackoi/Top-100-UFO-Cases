@@ -1,10 +1,9 @@
 ---
-description: The Topcliffe UFO incident of September 1952 represents a watershed moment in British UFO history, marking a transition from official dismissal to serious...
-layout: default
 title: 'The Topcliffe Incident (1952): A Critical Examination of a Pivotal UFO Case'
 permalink: /ufo-top-100/topcliffe-incident-1952/
-date: '2025-04-17 12:09:24 '
+date: '2025-04-17 16:08:15 '
 image: /assets/images/UFO - Top 100/Topcliffe incident 1952-Full-Text.svg
+description: 'Exploring The Topcliffe Incident (1952): A Critical Examination of a Pivotal UFO Case within the context of UFO - Top 100.'
 ---
 
 ---
@@ -75,8 +74,8 @@ This represents a complete reversal of the previous policy position, suggesting 
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/xOJmkmVrD_k" title="YouTube video player (Fallback, Fn: 30)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 73,920 -->
+  <iframe src="https://www.youtube.com/embed/dJjd4O1eUzo" title="YouTube video player (Fallback, Fn: 22)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Connected Cases and Pattern Recognition
 
@@ -142,8 +141,8 @@ The 1953 Fighter Command directive that classified all UFO reports as "Restricte
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/MEnTUGDUc40" title="YouTube video player (Fallback, Fn: 26)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 70,512 -->
+  <iframe src="https://www.youtube.com/embed/BOB9plx3ss4" title="YouTube video player (Fallback, Fn: 23)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### International Intelligence Connections
 
@@ -206,14 +205,14 @@ While gaps remain in our understanding due to missing records and the passage of
 <div>⁂</div>
 
 
+<div class="youtube-embed-container youtube-embed-fallback">
+  <iframe src="https://www.youtube.com/embed/Mdr2WAIJL_A" title="YouTube video player (Fallback, Fn: 24)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
+
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^4][^5][^6][^7][^8][^9] -->
 
 [^1]: https://drdavidclarke.co.uk/2022/09/18/70th-anniversary-of-the-rafs-ufo-project/
-
-
-<div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/dJjd4O1eUzo" title="YouTube video player (Fallback, Fn: 22)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 22,538 -->
 
 [^2]: https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf
 

@@ -1,10 +1,9 @@
 ---
-description: The Roswell incident stands as one of the most enduring and influential UFO cases in history, evolving from a simple report of recovered debris in the New...
-layout: default
 title: 'The Roswell Incident (1947): A Critical Examination of the Evidence'
 permalink: /ufo-top-100/roswell-1947/
-date: '2025-04-17 12:09:23 '
+date: '2025-04-17 16:08:14 '
 image: /assets/images/UFO - Top 100/Roswell 1947-Full-Text.svg
+description: 'Exploring The Roswell Incident (1947): A Critical Examination of the Evidence within the context of UFO - Top 100.'
 ---
 
 ---
@@ -70,7 +69,7 @@ For example, Corso incorrectly stated that the 1947 debris was "shipped to Fort 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/ZRWruuXtZ6w" title="YouTube video player (Fn: 7)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 125,631 -->
+</div><!-- View Count: 0 -->
 
 ### Hoaxes and Deliberate Misinformation
 
@@ -81,7 +80,7 @@ One of the most damaging blows to the extraterrestrial hypothesis was the "Alien
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/6WMX41AqIdk" title="YouTube video player (Fallback, Fn: 17)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 2,411,021 -->
+</div><!-- View Count: 0 -->
 
 ### Recent Whistleblower Claims
 
@@ -141,7 +140,7 @@ Economically, the incident has transformed Roswell, New Mexico, from a small agr
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/SbhfKZHiKfQ" title="YouTube video player (Fallback, Fn: 32)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 9,497 -->
+</div><!-- View Count: 0 -->
 
 ### Influence on Conspiracy Culture
 

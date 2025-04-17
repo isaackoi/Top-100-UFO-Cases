@@ -1,10 +1,9 @@
 ---
-description: In June 1965, during the historic Gemini 4 mission, astronaut James McDivitt reported observing an unidentified cylindrical object with a protruding arm...
-layout: default
 title: 'The Gemini 4 UFO Sighting (1965): A Critical Analysis of Evidence and Impact'
 permalink: /ufo-top-100/gemini-4-sighting-1965/
-date: '2025-04-17 12:09:18 '
+date: '2025-04-17 16:08:11 '
 image: /assets/images/UFO - Top 100/Gemini 4 sighting 1965-Full-Text.svg
+description: 'Exploring The Gemini 4 UFO Sighting (1965): A Critical Analysis of Evidence and Impact within the context of UFO - Top 100.'
 ---
 
 ---
@@ -34,7 +33,7 @@ The sighting lasted only briefly before McDivitt lost visual contact with the ob
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/AJGlGGPj4Hg" title="YouTube video player (Fn: 3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 515,208 -->
+</div><!-- View Count: 0 -->
 
 ## Credibility Assessment and Evidence Quality
 
@@ -51,7 +50,7 @@ This measured testimony, acknowledging both the unidentified nature of the objec
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/oPCEsl_C78A" title="YouTube video player (Fn: 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 2,678 -->
+</div><!-- View Count: 0 -->
 
 ### Documentary Evidence Strengths and Limitations
 

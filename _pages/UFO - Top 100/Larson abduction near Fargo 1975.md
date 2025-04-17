@@ -1,10 +1,9 @@
 ---
-description: The late summer of 1975 marked a significant moment in North Dakota's UFO history when a woman named Sandra (Sandy) Larson reported an extraordinary...
-layout: default
 title: 'The 1975 Sandra Larson UFO Abduction Case: A Critical Examination'
 permalink: /ufo-top-100/larson-abduction-near-fargo-1975/
-date: '2025-04-17 12:09:21 '
+date: '2025-04-17 16:08:12 '
 image: /assets/images/UFO - Top 100/Larson abduction near Fargo 1975-Full-Text.svg
+description: 'Exploring The 1975 Sandra Larson UFO Abduction Case: A Critical Examination within the context of UFO - Top 100.'
 ---
 
 ---
@@ -59,8 +58,8 @@ As the skeptical source notes: "A nationally-promoted, prime-time movie on the c
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/AZpKIhBb8c4" title="YouTube video player (Fallback, Fn: 30)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 4,120,521 -->
+  <iframe src="https://www.youtube.com/embed/sEkcpz4EXPY" title="YouTube video player (Fallback, Fn: 29)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Medical Considerations
 
@@ -119,9 +118,16 @@ Whether viewed as an authentic encounter with non-human intelligence, a misinter
 <div>⁂</div>
 
 
+![The 1975 Sandra Larson UFO Abduction Case: A Critical Examination - P2](../../assets/images/UFO%20-%20Top%20100/Larson%20abduction%20near%20Fargo%201975-P2.svg)
+
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/33OVMrguvBo" title="YouTube video player (Fallback, Fn: 31)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 51,063 -->
+</div><!-- View Count: 0 -->
+
+
+<div class="youtube-embed-container youtube-embed-fallback">
+  <iframe src="https://www.youtube.com/embed/AZpKIhBb8c4" title="YouTube video player (Fallback, Fn: 30)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^4][^40][^5][^6][^7][^8][^9] -->
@@ -146,8 +152,6 @@ Whether viewed as an authentic encounter with non-human intelligence, a misinter
 
 [^10]: https://casetext.com/case/state-v-larsen-25/analysis?sort=relevance\&citingPage=1\&sortCiting=date-ascending
 
-![The 1975 Sandra Larson UFO Abduction Case: A Critical Examination - P2](../../assets/images/UFO%20-%20Top%20100/Larson%20abduction%20near%20Fargo%201975-P2.svg)
-
 [^11]: https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky
 
 [^12]: https://en.wikipedia.org/wiki/List_of_wrongful_convictions_in_the_United_States
@@ -163,11 +167,6 @@ Whether viewed as an authentic encounter with non-human intelligence, a misinter
 [^17]: https://www.thenewatlantis.com/publications/can-machines-have-common-sense
 
 [^18]: https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html
-
-<div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/sEkcpz4EXPY" title="YouTube video player (Fallback, Fn: 29)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 467 -->
-
 
 [^19]: https://www.reddit.com/r/television/comments/3who1h/fargo_season_2/
 

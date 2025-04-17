@@ -1,10 +1,9 @@
 ---
-description: The Maury Island Incident stands as one of the earliest and most complex cases in modern UFO history, predating even the famous Roswell incident by several...
-layout: default
 title: 'The Maury Island Incident: A Critical Examination of an Early UFO Encounter'
 permalink: /ufo-top-100/maury-island-incident-1947/
-date: '2025-04-17 12:09:21 '
+date: '2025-04-17 16:08:13 '
 image: /assets/images/UFO - Top 100/Maury Island incident 1947-Full-Text.svg
+description: 'Exploring The Maury Island Incident: A Critical Examination of an Early UFO Encounter within the context of UFO - Top 100.'
 ---
 
 ---
@@ -69,8 +68,8 @@ During the investigation, an unknown person began leaking details of the UFO sig
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/sIQzaVdiiHw" title="YouTube video player (Fallback, Fn: 27)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 20,709 -->
+  <iframe src="https://www.youtube.com/embed/isizjCOkppo" title="YouTube video player (Fallback, Fn: 15)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Physical Evidence Analysis
 
@@ -125,8 +124,8 @@ Local communities in Washington State, particularly Des Moines, have embraced th
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/isizjCOkppo" title="YouTube video player (Fallback, Fn: 15)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 9,342 -->
+  <iframe src="https://www.youtube.com/embed/386YGqVh2v4" title="YouTube video player (Fallback, Fn: 18)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Media Representations
 
@@ -177,16 +176,16 @@ In an era of renewed scientific and governmental interest in unexplained aerial 
 <div>⁂</div>
 
 
+<div class="youtube-embed-container youtube-embed-fallback">
+  <iframe src="https://www.youtube.com/embed/xqDiTG7G_hE" title="YouTube video player (Fallback, Fn: 19)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
+
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^3][^4][^5][^6][^7][^8][^9] -->
 
 [^1]: https://newspaceeconomy.ca/2025/02/24/the-maury-island-incident-a-deep-dive-into-an-early-ufo-mystery/
 
 [^2]: https://en.wikipedia.org/wiki/Maury_Island_incident
-
-
-<div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/O6FCMofaCNo" title="YouTube video player (Fallback, Fn: 22)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 7,985 -->
 
 [^3]: https://www.nwlegendsmuseum.com/MauryIsland.html
 

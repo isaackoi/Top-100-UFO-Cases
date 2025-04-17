@@ -1,10 +1,9 @@
 ---
-description: The 1966 UFO chase involving two Portage County sheriff's deputies stands as one of the most thoroughly documented law enforcement encounters with...
-layout: default
 title: 'The Spaur/Neff Ravenna UFO Chase of 1966: A Critical Examination'
 permalink: /ufo-top-100/spaur-neff-ravenna-sighting-1966/
-date: '2025-04-17 12:09:24 '
+date: '2025-04-17 16:08:14 '
 image: /assets/images/UFO - Top 100/Spaur Neff Ravenna sighting 1966-Full-Text.svg
+description: 'Exploring The Spaur/Neff Ravenna UFO Chase of 1966: A Critical Examination within the context of UFO - Top 100.'
 ---
 
 ---
@@ -36,7 +35,7 @@ At approximately 5:58 AM, the officers contacted the Federal Aviation Agency at 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/c_7XQDu5yM0" title="YouTube video player (Fn: 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 4,845 -->
+</div><!-- View Count: 0 -->
 
 ## Credibility Assessment
 
@@ -107,13 +106,13 @@ Whether the deputies encountered an extraterrestrial craft, an experimental airc
 <div>⁂</div>
 
 
+![The Spaur/Neff Ravenna UFO Chase of 1966: A Critical Examination - P2](../../assets/images/UFO%20-%20Top%20100/Spaur%20Neff%20Ravenna%20sighting%201966-P2.svg)
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^3][^4][^5][^6][^7][^8][^9] -->
 
 [^1]: https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-April171966-Ravenna-Mantua-Ohio.pdf
 
 [^2]: https://www.youtube.com/watch?v=c_7XQDu5yM0
-
-![The Spaur/Neff Ravenna UFO Chase of 1966: A Critical Examination - P2](../../assets/images/UFO%20-%20Top%20100/Spaur%20Neff%20Ravenna%20sighting%201966-P2.svg)
 
 [^3]: https://theufotimeline.com/events/spaur-neff-chase/
 

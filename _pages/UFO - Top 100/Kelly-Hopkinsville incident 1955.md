@@ -1,10 +1,9 @@
 ---
-description: On a hot August night in 1955, a rural Kentucky family reported a terrifying encounter with what they believed were extraterrestrial beings, igniting one of...
-layout: default
 title: 'The Kelly-Hopkinsville Encounter of 1955: A Critical Examination of the Evidence'
 permalink: /ufo-top-100/kelly-hopkinsville-incident-1955/
-date: '2025-04-17 12:09:20 '
+date: '2025-04-17 16:08:12 '
 image: /assets/images/UFO - Top 100/Kelly-Hopkinsville incident 1955-Full-Text.svg
+description: 'Exploring The Kelly-Hopkinsville Encounter of 1955: A Critical Examination of the Evidence within the context of UFO - Top 100.'
 ---
 
 ---
@@ -81,8 +80,8 @@ However, certain aspects have led some to question their reliability:
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/xOHVl97sOlo" title="YouTube video player (Fallback, Fn: 25)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 479,289 -->
+  <iframe src="https://www.youtube.com/embed/nL10pu18Ibk" title="YouTube video player (Fallback, Fn: 15)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Official Investigation
 
@@ -156,7 +155,7 @@ The Kelly-Hopkinsville encounter has inspired numerous creative works:
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/sZiQVzaOvF8" title="YouTube video player (Fallback, Fn: 19)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 90,809 -->
+</div><!-- View Count: 0 -->
 
 ### Local Legacy
 
@@ -222,8 +221,8 @@ The Kelly-Hopkinsville encounter reminds us that extraordinary claims require ex
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/8aIAGZUVrRI" title="YouTube video player (Fallback, Fn: 28)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 87,381 -->
+  <iframe src="https://www.youtube.com/embed/2qUcBTNIV4Q" title="YouTube video player (Fallback, Fn: 22)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^32][^4][^5][^6][^7][^8][^9] -->

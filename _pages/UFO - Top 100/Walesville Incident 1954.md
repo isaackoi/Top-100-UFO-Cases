@@ -1,10 +1,9 @@
 ---
-description: On a summer day in 1954, a military jet crashed in a small upstate New York village, killing four civilians on the ground. The incident quickly became...
-layout: default
 title: 'The Walesville Incident (1954): When a Jet Crash and UFO Claims Converged'
 permalink: /ufo-top-100/walesville-incident-1954/
-date: '2025-04-17 12:09:26 '
+date: '2025-04-17 16:08:16 '
 image: /assets/images/UFO - Top 100/Walesville Incident 1954-Full-Text.svg
+description: 'Exploring The Walesville Incident (1954): When a Jet Crash and UFO Claims Converged within the context of UFO - Top 100.'
 ---
 
 ---
@@ -59,8 +58,8 @@ Randle concluded that "the Walesville case, like that of the death of Thomas Man
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/6Z2BtCLos_U" title="YouTube video player (Fallback, Fn: 25)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 2,336,755 -->
+  <iframe src="https://www.youtube.com/embed/GisgEwTyb24" title="YouTube video player (Fallback, Fn: 7)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Competing Narratives and Evidence Assessment
 
@@ -115,8 +114,8 @@ The most significant weakness in the UFO explanation is the lack of corroboratin
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/GisgEwTyb24" title="YouTube video player (Fallback, Fn: 7)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 945,392 -->
+  <iframe src="https://www.youtube.com/embed/6Z2BtCLos_U" title="YouTube video player (Fallback, Fn: 25)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Research Gaps and Areas for Further Investigation
 

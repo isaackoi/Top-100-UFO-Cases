@@ -1,10 +1,9 @@
 ---
-description: In the early morning hours of November 2, 1968, a respected French physician experienced what would become one of the most intriguing and well-documented...
-layout: default
 title: 'The Strange Case of Dr. X: The 1968 UFO Encounter and Miraculous Healing'
 permalink: /ufo-top-100/doctor-x-ufo-encounter-1968/
-date: '2025-04-17 12:09:17 '
+date: '2025-04-17 16:08:10 '
 image: /assets/images/UFO - Top 100/Doctor X UFO encounter 1968-Full-Text.svg
+description: 'Exploring The Strange Case of Dr. X: The 1968 UFO Encounter and Miraculous Healing within the context of UFO - Top 100.'
 ---
 
 ---
@@ -36,12 +35,12 @@ In a state of shock, Dr. X checked the time (approximately 4:05 AM) and immediat
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/V7hOXs4vBqQ" title="YouTube video player (Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 7,102 -->
+</div><!-- View Count: 0 -->
 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/BVH9wu28yEQ" title="YouTube video player (Fn: 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 64,273 -->
+</div><!-- View Count: 0 -->
 
 ## Strange Aftermath and Investigation
 
@@ -101,8 +100,8 @@ It's worth noting that throughout history, miraculous healings have been attribu
 ![The Strange Case of Dr. X: The 1968 UFO Encounter and Miraculous Healing - P1](../../assets/images/UFO%20-%20Top%20100/Doctor%20X%20UFO%20encounter%201968-P1.svg)
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/mcQajFCDf3Q" title="YouTube video player (Fallback, Fn: 46)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,774,550 -->
+  <iframe src="https://www.youtube.com/embed/nJe0CXNhH9A" title="YouTube video player (Fallback, Fn: 19)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Influence and Impact
 
@@ -155,6 +154,8 @@ The case exemplifies the fundamental challenge of UFO research: how to evaluate 
 <div>⁂</div>
 
 
+![The Strange Case of Dr. X: The 1968 UFO Encounter and Miraculous Healing - P2](../../assets/images/UFO%20-%20Top%20100/Doctor%20X%20UFO%20encounter%201968-P2.svg)
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^4][^40][^41][^42][^43][^44][^45][^46][^47][^48][^49][^5][^50][^51][^52][^6][^7][^8][^9] -->
 
 [^1]: https://www.youtube.com/watch?v=BVH9wu28yEQ
@@ -183,8 +184,6 @@ The case exemplifies the fundamental challenge of UFO research: how to evaluate 
 
 [^13]: https://marginalrevolution.com/marginalrevolution/2022/05/the-best-arguments-for-and-against-the-alien-visitation-hypothesis.html
 
-
-![The Strange Case of Dr. X: The 1968 UFO Encounter and Miraculous Healing - P2](../../assets/images/UFO%20-%20Top%20100/Doctor%20X%20UFO%20encounter%201968-P2.svg)
 [^14]: https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf
 
 [^15]: https://en.wikipedia.org/wiki/Aimé_Michel

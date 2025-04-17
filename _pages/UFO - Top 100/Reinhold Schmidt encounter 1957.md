@@ -1,10 +1,9 @@
 ---
-description: As the Space Age dawned with the Soviet Union's launch of Sputnik in October 1957, an equally mysterious event unfolded in the American heartland. On...
-layout: default
 title: 'The Reinhold Schmidt UFO Encounter (1957): A Critical Analysis'
 permalink: /ufo-top-100/reinhold-schmidt-encounter-1957/
-date: '2025-04-17 12:09:23 '
+date: '2025-04-17 16:08:14 '
 image: /assets/images/UFO - Top 100/Reinhold Schmidt encounter 1957-Full-Text.svg
+description: 'Exploring The Reinhold Schmidt UFO Encounter (1957): A Critical Analysis within the context of UFO - Top 100.'
 ---
 
 ---
@@ -28,7 +27,7 @@ Schmidt observed that the craft had large propellers at each end—an unusual de
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/zjF52HHXw9Q" title="YouTube video player (Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 110 -->
+</div><!-- View Count: 0 -->
 
 ### Immediate Aftermath and Investigation
 
@@ -89,7 +88,7 @@ For a balanced assessment, several elements initially seemed to lend some suppor
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/1IrWNGj7yN4" title="YouTube video player (Fallback, Fn: 35)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 4,966 -->
+</div><!-- View Count: 0 -->
 
 ## Counterarguments and Skeptical Perspectives
 
@@ -200,11 +199,11 @@ While skeptical explanations appear most consistent with the available evidence�
 <div>⁂</div>
 
 
+![The Reinhold Schmidt UFO Encounter (1957): A Critical Analysis - P2](../../assets/images/UFO%20-%20Top%20100/Reinhold%20Schmidt%20encounter%201957-P2.svg)
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^4][^40][^41][^42][^43][^44][^45][^46][^5][^6][^7][^8][^9] -->
 
 [^1]: https://en.wikipedia.org/wiki/Reinhold_O._Schmidt
-
-![The Reinhold Schmidt UFO Encounter (1957): A Critical Analysis - P2](../../assets/images/UFO%20-%20Top%20100/Reinhold%20Schmidt%20encounter%201957-P2.svg)
 
 [^2]: https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0
 

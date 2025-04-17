@@ -1,10 +1,9 @@
 ---
-description: The 1959 Papua New Guinea UFO encounters witnessed by Anglican missionary Reverend William Booth Gill and dozens of others represent one of ufology's most...
-layout: default
 title: 'The Reverend William B. Gill UFO Sightings (1959): An Evidence-Based Analysis'
 permalink: /ufo-top-100/reverend-w-b-gill-sightings-1959/
-date: '2025-04-17 12:09:23 '
+date: '2025-04-17 16:08:14 '
 image: /assets/images/UFO - Top 100/Reverend W B Gill sightings 1959-Full-Text.svg
+description: 'Exploring The Reverend William B. Gill UFO Sightings (1959): An Evidence-Based Analysis within the context of UFO - Top 100.'
 ---
 
 ---
@@ -34,12 +33,12 @@ After a period of observation, the witnesses attended their evening church servi
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/Wiuumvz0I6M" title="YouTube video player (Fn: 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,558 -->
+</div><!-- View Count: 0 -->
 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/4I75neaOIGE" title="YouTube video player (Fn: 5)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 149,885 -->
+</div><!-- View Count: 0 -->
 
 ### The Second Night - June 27, 1959
 
@@ -74,7 +73,7 @@ Gill also had witnesses independently draw what they had seen. He noted, "This h
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/S-AIFaLHwdY" title="YouTube video player (Fallback, Fn: 13)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 70 -->
+</div><!-- View Count: 0 -->
 
 ### Expert Evaluations
 

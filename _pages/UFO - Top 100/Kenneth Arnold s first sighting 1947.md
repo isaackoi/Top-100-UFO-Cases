@@ -1,9 +1,9 @@
 ---
-description: On June 24, 1947, businessman and private pilot Kenneth Arnold reported seeing nine unidentified flying objects near Mount Rainier in Washington State—a...
-layout: default
 title: 'Kenneth Arnold''s 1947 UFO Sighting: The Birth of Modern UFO Phenomenon'
 permalink: /ufo-top-100/kenneth-arnolds-first-sighting-1947/
-date: '2025-04-17 12:09:20 '
+date: '2025-04-17 16:08:12 '
+image: /assets/images/UFO - Top 100/Kenneth Arnold s first sighting 1947-Full-Text.svg
+description: 'Exploring Kenneth Arnold''s 1947 UFO Sighting: The Birth of Modern UFO Phenomenon within the context of UFO - Top 100.'
 ---
 
 ---
@@ -23,7 +23,7 @@ During this flight, Arnold made a short detour to search for a downed U.S. Marin
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/01sVLTO8xmo" title="YouTube video player (Fn: 14)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 20,509 -->
+</div><!-- View Count: 0 -->
 
 ### The Objects and Their Behavior
 
@@ -39,6 +39,8 @@ Perhaps the most extraordinary aspect of Arnold's report was the calculated spee
 
 Arnold also noted distinctive movement patterns, describing how the objects "flew erratically" and moved "like a saucer if you skip it across the water"[^2]. He further characterized their motion as periodically flipping, banking, and weaving side-to-side, "like the tail of a Chinese kite"[^12].
 
+
+![Kenneth Arnold's 1947 UFO Sighting: The Birth of Modern UFO Phenomenon - Full-Text](../../assets/images/UFO%20-%20Top%20100/Kenneth%20Arnold%20s%20first%20sighting%201947-Full-Text.svg)
 ### Immediate Aftermath and Reporting
 
 After landing in Yakima, Arnold immediately reported what he had witnessed to the general manager of the airfield[^14]. The next day, he attempted to report his sighting to the FBI, but found their office closed[^11]. He then went to the office of the East Oregonian newspaper, where he spoke with reporters Bill Bequette and Nolan Skiff[^11][^12].
@@ -83,8 +85,8 @@ Several natural explanations have been proposed for what Arnold might have witne
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/MJp-YR34XBs" title="YouTube video player (Fallback, Fn: 23)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 180,397 -->
+  <iframe src="https://www.youtube.com/embed/qdXNAOxs6mo" title="YouTube video player (Fallback, Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Psychological and Cultural Factors
 
@@ -98,6 +100,8 @@ Flying at high altitude presents significant challenges for accurately judging s
 
 Additionally, the human tendency to interpret unfamiliar sights through familiar frameworks might have influenced how Arnold processed what he saw. In the aviation culture of 1947, with new aircraft designs constantly emerging following World War II, interpreting unusual aerial phenomena as advanced technology would have been a natural conclusion.
 
+
+![Kenneth Arnold's 1947 UFO Sighting: The Birth of Modern UFO Phenomenon - P1](../../assets/images/UFO%20-%20Top%20100/Kenneth%20Arnold%20s%20first%20sighting%201947-P1.svg)
 ## The Influence and Legacy of the Arnold Sighting
 
 ### Birth of Modern UFO Culture
@@ -136,8 +140,8 @@ Even after his sighting, Arnold remained connected to the UFO phenomenon. In 196
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/qdXNAOxs6mo" title="YouTube video player (Fallback, Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 4,144 -->
+  <iframe src="https://www.youtube.com/embed/MJp-YR34XBs" title="YouTube video player (Fallback, Fn: 23)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Critical Assessment and Unanswered Questions
 
@@ -189,6 +193,8 @@ As the National Air and Space Museum aptly noted on the 75th anniversary of the 
 
 <div>⁂</div>
 
+
+![Kenneth Arnold's 1947 UFO Sighting: The Birth of Modern UFO Phenomenon - P2](../../assets/images/UFO%20-%20Top%20100/Kenneth%20Arnold%20s%20first%20sighting%201947-P2.svg)
 
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^32][^33][^4][^5][^6][^7][^8][^9] -->
 

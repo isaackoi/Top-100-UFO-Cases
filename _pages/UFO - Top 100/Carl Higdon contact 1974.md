@@ -1,10 +1,9 @@
 ---
-description: The Carl Higdon case stands among the most peculiar and detailed alien abduction accounts from the 1970s. As we approach the 50th anniversary of this...
-layout: default
 title: 'The Carl Higdon Abduction: A Critical Examination of a Wyoming UFO Encounter'
 permalink: /ufo-top-100/carl-higdon-contact-1974/
-date: '2025-04-17 12:09:15 '
+date: '2025-04-17 16:08:09 '
 image: /assets/images/UFO - Top 100/Carl Higdon contact 1974-Full-Text.svg
+description: 'Exploring The Carl Higdon Abduction: A Critical Examination of a Wyoming UFO Encounter within the context of UFO - Top 100.'
 ---
 
 ---
@@ -32,12 +31,12 @@ Higdon's next clear memory was of being back in Wyoming, finding himself disorie
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/7kpVHNDAHx4" title="YouTube video player (Fn: 8)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 47 -->
+</div><!-- View Count: 0 -->
 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/4YgB5oheYSo" title="YouTube video player (Fn: 10)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 17,435 -->
+</div><!-- View Count: 0 -->
 
 ## Investigation and Evidence Assessment
 
@@ -79,7 +78,7 @@ Additional investigators included:
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/P6LCz175is4" title="YouTube video player (Fn: 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 314,750 -->
+</div><!-- View Count: 0 -->
 
 ## Critical Perspectives and Skeptical Analysis
 

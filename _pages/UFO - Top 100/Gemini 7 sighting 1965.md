@@ -1,10 +1,9 @@
 ---
-description: The Gemini 7 UFO incident represents one of the earliest and most intriguing reported encounters between American astronauts and unidentified objects in...
-layout: default
 title: 'The Gemini 7 UFO Sighting (1965): Evidence and Analysis'
 permalink: /ufo-top-100/gemini-7-sighting-1965/
-date: '2025-04-17 12:09:18 '
+date: '2025-04-17 16:08:11 '
 image: /assets/images/UFO - Top 100/Gemini 7 sighting 1965-Full-Text.svg
+description: 'Exploring The Gemini 7 UFO Sighting (1965): Evidence and Analysis within the context of UFO - Top 100.'
 ---
 
 ---
@@ -70,7 +69,7 @@ Other Gemini missions also had reported sightings, including Gemini 4, where pil
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/FinKsrsuAaU" title="YouTube video player (Fallback, Fn: 21)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 183,775 -->
+</div><!-- View Count: 0 -->
 
 ## Explanations and Skeptical Perspectives
 
@@ -160,17 +159,17 @@ As government transparency around UAP increases and scientific interest in the s
 <div>⁂</div>
 
 
+![The Gemini 7 UFO Sighting (1965): Evidence and Analysis - P2](../../assets/images/UFO%20-%20Top%20100/Gemini%207%20sighting%201965-P2.svg)
+
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/8o4Tbuc_z-Q" title="YouTube video player (Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 43,179 -->
+</div><!-- View Count: 0 -->
 
 
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^32][^33][^34][^35][^36][^37][^38][^4][^5][^6][^7][^8][^9] -->
 
 [^1]: https://www.thisdayinaviation.com/tag/gemini-vii/
 
-
-![The Gemini 7 UFO Sighting (1965): Evidence and Analysis - P2](../../assets/images/UFO%20-%20Top%20100/Gemini%207%20sighting%201965-P2.svg)
 [^2]: https://en.wikipedia.org/wiki/UFO_sightings_in_outer_space
 
 [^3]: http://pages.suddenlink.net/anomalousimages/images/astroufo.html

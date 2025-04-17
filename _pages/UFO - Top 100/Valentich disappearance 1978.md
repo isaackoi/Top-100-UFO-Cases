@@ -1,10 +1,9 @@
 ---
-description: On October 21, 1978, twenty-year-old Frederick Valentich vanished while piloting a Cessna 182L aircraft over Bass Strait, Australia. His final radio...
-layout: default
 title: 'The Frederick Valentich Disappearance: A Critical Analysis of Australia''s Most Enduring UFO Mystery'
 permalink: /ufo-top-100/valentich-disappearance-1978/
-date: '2025-04-17 12:09:26 '
+date: '2025-04-17 16:08:16 '
 image: /assets/images/UFO - Top 100/Valentich disappearance 1978-Full-Text.svg
+description: 'Exploring The Frederick Valentich Disappearance: A Critical Analysis of Australia''s Most Enduring UFO Mystery within the context of UFO - Top 100.'
 ---
 
 ---
@@ -26,7 +25,7 @@ The purpose of Valentich's flight remains unclear. He told flight officials he w
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/I2EpE6Zlwyg" title="YouTube video player (Fn: 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 168,151 -->
+</div><!-- View Count: 0 -->
 
 ### The Disappearance and Final Transmission
 
@@ -73,7 +72,7 @@ The Australian Department of Transport conducted an official investigation and r
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/Ha0SFmN5CEc" title="YouTube video player (Fallback, Fn: 23)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 733 -->
+</div><!-- View Count: 0 -->
 
 ### Additional Witness Testimony
 

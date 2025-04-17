@@ -1,10 +1,9 @@
 ---
-description: Before examining the evidence surrounding Claude Vorilhon's claimed extraterrestrial encounter in 1973, it is important to note that this case represents...
-layout: default
 title: 'Claude Vorilhon''s 1973 Alien Encounter: Origins of the Raëlian Movement'
 permalink: /ufo-top-100/claude-vorilhon-contact-1973/
-date: '2025-04-17 12:09:16 '
+date: '2025-04-17 16:08:09 '
 image: /assets/images/UFO - Top 100/Claude Vorilhon contact 1973-Full-Text.svg
+description: 'Exploring Claude Vorilhon''s 1973 Alien Encounter: Origins of the Raëlian Movement within the context of UFO - Top 100.'
 ---
 
 ---
@@ -40,7 +39,7 @@ According to Vorilhon, on October 7, 1975, he experienced another significant en
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/3pI0gvqKktM" title="YouTube video player (Fn: 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 242,493 -->
+</div><!-- View Count: 0 -->
 
 ### Foundation of the Raëlian Movement
 

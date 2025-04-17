@@ -1,10 +1,9 @@
 ---
-description: The December 1978 UFO sightings over the Kaikōura mountain ranges in New Zealand's South Island stand as one of the most thoroughly documented UFO cases in...
-layout: default
 title: 'The Wellington/Kaikoura UFO Incident (1978): A Comprehensive Analysis'
 permalink: /ufo-top-100/wellington-kaikoura-incident-1978/
-date: '2025-04-17 12:09:26 '
+date: '2025-04-17 16:08:16 '
 image: /assets/images/UFO - Top 100/Wellington Kaikoura incident 1978-Full-Text.svg
+description: 'Exploring The Wellington/Kaikoura UFO Incident (1978): A Comprehensive Analysis within the context of UFO - Top 100.'
 ---
 
 ---
@@ -74,7 +73,7 @@ Dr. Maccabee concluded that this case ranks "among the top 10 UFO sightings worl
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/bzU1w4iz1uY" title="YouTube video player (Fallback, Fn: 3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,654,308 -->
+</div><!-- View Count: 0 -->
 
 ### Official Investigation
 
@@ -131,8 +130,8 @@ As noted in contemporary accounts, "The media had a feast"[^7]. However, some ob
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/j9iyUHmHaEo" title="YouTube video player (Fallback, Fn: 20)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 540,140 -->
+  <iframe src="https://www.youtube.com/embed/Ez_YkKnPBpY" title="YouTube video player (Fallback, Fn: 18)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Government Response and Document Declassification
 
@@ -196,8 +195,8 @@ Whether one favors the extraterrestrial hypothesis or believes some as-yet-unexp
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/Ez_YkKnPBpY" title="YouTube video player (Fallback, Fn: 18)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 74,871 -->
+  <iframe src="https://www.youtube.com/embed/j9iyUHmHaEo" title="YouTube video player (Fallback, Fn: 20)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^3][^4][^5][^6][^7][^8][^9] -->

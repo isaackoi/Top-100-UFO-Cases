@@ -1,10 +1,9 @@
 ---
-description: The Japan Airlines Flight 1628 incident stands as one of the most significant and well-documented UFO encounters in aviation history, involving experienced...
-layout: default
 title: 'The JAL 1628 UFO Incident: A Critical Analysis of the 1986 Alaska Case'
 permalink: /ufo-top-100/jal-1628-sighting-over-alaska-1986/
-date: '2025-04-17 12:09:19 '
+date: '2025-04-17 16:08:12 '
 image: /assets/images/UFO - Top 100/JAL 1628 sighting over Alaska 1986-Full-Text.svg
+description: 'Exploring The JAL 1628 UFO Incident: A Critical Analysis of the 1986 Alaska Case within the context of UFO - Top 100.'
 ---
 
 ---
@@ -32,12 +31,12 @@ During the encounter, ARTCC asked a United Airlines flight (Flight 69) that was 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/RHC_pfTXY-w" title="YouTube video player (Fn: 4)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 889 -->
+</div><!-- View Count: 0 -->
 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/ekykrn0h7ZE" title="YouTube video player (Fn: 3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 29 -->
+</div><!-- View Count: 0 -->
 
 ## Witness Credibility and Evidence Assessment
 
@@ -66,7 +65,7 @@ However, the FAA's official analysis contradicts these claims. In March 1987, th
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/79C3S0hmyLc" title="YouTube video player (Fn: 10)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 3,380 -->
+</div><!-- View Count: 0 -->
 
 ## Skeptical Perspectives and Alternative Explanations
 

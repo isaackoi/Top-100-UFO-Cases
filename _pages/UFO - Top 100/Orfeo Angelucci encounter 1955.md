@@ -1,10 +1,9 @@
 ---
-description: Orfeo Angelucci's claims of extraterrestrial contact stand as one of the earliest and most spiritually infused accounts in modern UFO history. His 1955 book...
-layout: default
 title: 'Orfeo Angelucci''s Extraterrestrial Encounters: A Critical Analysis of the 1950s Contactee Experience'
 permalink: /ufo-top-100/orfeo-angelucci-encounter-1955/
-date: '2025-04-17 12:09:22 '
+date: '2025-04-17 16:08:13 '
 image: /assets/images/UFO - Top 100/Orfeo Angelucci encounter 1955-Full-Text.svg
+description: 'Exploring Orfeo Angelucci''s Extraterrestrial Encounters: A Critical Analysis of the 1950s Contactee Experience within the context of UFO - Top 100.'
 ---
 
 ---

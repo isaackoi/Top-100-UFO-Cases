@@ -1,10 +1,9 @@
 ---
-description: The Delphos Ring incident stands as one of the most scientifically intriguing UFO cases in history due to its persistent physical evidence, multiple...
-layout: default
 title: 'The Delphos Ring Incident (1971): A Comprehensive Analysis of Physical Trace Evidence in UFO Research'
 permalink: /ufo-top-100/delphos-ring-incident-1971/
-date: '2025-04-17 12:09:16 '
+date: '2025-04-17 16:08:10 '
 image: /assets/images/UFO - Top 100/Delphos Ring incident 1971-Full-Text.svg
+description: 'Exploring The Delphos Ring Incident (1971): A Comprehensive Analysis of Physical Trace Evidence in UFO Research within the context of UFO - Top 100.'
 ---
 
 ---
@@ -28,7 +27,7 @@ Sheriff Harlan Enlow responded to the scene and conducted a preliminary investig
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/mD_oVY8XA0M" title="YouTube video player (Fn: 7)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 492,849 -->
+</div><!-- View Count: 0 -->
 
 ## Scientific Investigation and Physical Evidence
 
@@ -80,7 +79,7 @@ This multi-disciplinary approach to investigation provided a robust foundation f
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/uFEgZJr_Jkw" title="YouTube video player (Fallback, Fn: 15)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 310,963 -->
+</div><!-- View Count: 0 -->
 
 ## Skeptical Perspectives and Alternative Explanations
 

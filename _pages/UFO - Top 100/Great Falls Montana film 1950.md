@@ -1,9 +1,9 @@
 ---
-description: This report examines one of the most enduring and significant cases in UFO history—the 1950 film captured by Nick Mariana in Great Falls, Montana. Often...
-layout: default
 title: 'The Great Falls, Montana UFO Film (1950): A Critical Analysis and Historical Investigation'
 permalink: /ufo-top-100/great-falls-montana-film-1950/
-date: '2025-04-17 12:09:18 '
+date: '2025-04-17 16:08:11 '
+image: /assets/images/UFO - Top 100/Great Falls Montana film 1950-Full-Text.svg
+description: 'Exploring The Great Falls, Montana UFO Film (1950): A Critical Analysis and Historical Investigation within the context of UFO - Top 100.'
 ---
 
 ---
@@ -31,9 +31,11 @@ The Air Force's involvement marked the beginning of a contentious chapter in the
 While the Air Force acknowledged that a single frame was damaged during transportation, they insisted they returned the film as they had received it[^6]. This dispute over potential evidence tampering would become a significant point of controversy in the case and fodder for conspiracy theories in later years[^14].
 
 
+![The Great Falls, Montana UFO Film (1950): A Critical Analysis and Historical Investigation - Full-Text](../../assets/images/UFO%20-%20Top%20100/Great%20Falls%20Montana%20film%201950-Full-Text.svg)
+
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/DJ2vKHj8rVM" title="YouTube video player (Fn: 14)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,309 -->
+</div><!-- View Count: 0 -->
 
 ## Technical Analyses and Expert Opinions
 
@@ -50,7 +52,7 @@ In 1953, the CIA sponsored the Robertson Panel to investigate the UFO phenomenon
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/UHHLRkYn37Y" title="YouTube video player (Fn: 5)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 198 -->
+</div><!-- View Count: 0 -->
 
 ### The Condon Committee (1968)
 
@@ -71,7 +73,7 @@ Raunig initially supported Mariana's claims and confirmed seeing the objects[^1]
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/S6ZQf4WWbT0" title="YouTube video player (Fallback, Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 2,018 -->
+</div><!-- View Count: 0 -->
 
 ### The Film Itself
 
@@ -92,6 +94,8 @@ The primary conventional explanation offered by the Air Force was that Mariana h
 2. Technical analyses suggested the objects were moving too fast for jets from that era[^13].
 3. The objects appear to be rotating, which would be inconsistent with aircraft[^1][^3].
 
+
+![The Great Falls, Montana UFO Film (1950): A Critical Analysis and Historical Investigation - P1](../../assets/images/UFO%20-%20Top%20100/Great%20Falls%20Montana%20film%201950-P1.svg)
 ### Contextual Factors
 
 The sighting occurred during the early years of the "flying saucer" craze in America. The late 1940s and early 1950s witnessed numerous UFO reports following Kenneth Arnold's famous 1947 sighting[^7]. This cultural context has led some to suggest that witnesses might have been primed to interpret unusual aerial phenomena as spacecraft.
@@ -160,6 +164,8 @@ Further historical research could better establish the context of the sighting:
 - Investigation of any similar sightings in the Great Falls area during that period
 
 
+
+![The Great Falls, Montana UFO Film (1950): A Critical Analysis and Historical Investigation - P2](../../assets/images/UFO%20-%20Top%20100/Great%20Falls%20Montana%20film%201950-P2.svg)
 ## Conclusion
 
 The Great Falls, Montana UFO film of 1950 represents a fascinating case study in UFO evidence. After more than 70 years of scrutiny, it continues to resist definitive explanation. While skeptical interpretations offer plausible conventional explanations, multiple technical analyses have concluded that the objects in the film exhibit characteristics inconsistent with aircraft, balloons, or other known phenomena of the era.

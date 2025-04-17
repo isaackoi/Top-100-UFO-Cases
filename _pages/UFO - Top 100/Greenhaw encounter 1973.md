@@ -1,10 +1,9 @@
 ---
-description: The Greenhaw encounter of 1973, widely known as the "Falkville Metal Man" incident, stands as one of the most intriguing and visually documented alleged...
-layout: default
 title: 'The Falkville Metal Man: A Critical Analysis of the 1973 Greenhaw UFO Encounter'
 permalink: /ufo-top-100/greenhaw-encounter-1973/
-date: '2025-04-17 12:09:19 '
+date: '2025-04-17 16:08:11 '
 image: /assets/images/UFO - Top 100/Greenhaw encounter 1973-Full-Text.svg
+description: 'Exploring The Falkville Metal Man: A Critical Analysis of the 1973 Greenhaw UFO Encounter within the context of UFO - Top 100.'
 ---
 
 ---
@@ -93,8 +92,8 @@ Without access to the original photographs for modern forensic analysis, definit
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/6WMX41AqIdk" title="YouTube video player (Fallback, Fn: 45)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 2,411,022 -->
+  <iframe src="https://www.youtube.com/embed/cGYG-FS32VM" title="YouTube video player (Fallback, Fn: 18)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Contextual Credibility
 
@@ -169,8 +168,8 @@ Several significant gaps in the evidence warrant further research:
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/Wg5NbZI3qFs" title="YouTube video player (Fallback, Fn: 41)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 62,445 -->
+  <iframe src="https://www.youtube.com/embed/r2V3ViH1Se4" title="YouTube video player (Fallback, Fn: 37)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Contemporary Relevance
 
@@ -201,6 +200,13 @@ As government disclosure about UAPs continues to evolve, cases like the Greenhaw
 <div>⁂</div>
 
 
+![The Falkville Metal Man: A Critical Analysis of the 1973 Greenhaw UFO Encounter - P2](../../assets/images/UFO%20-%20Top%20100/Greenhaw%20encounter%201973-P2.svg)
+
+<div class="youtube-embed-container youtube-embed-fallback">
+  <iframe src="https://www.youtube.com/embed/2bX2MJyakgE" title="YouTube video player (Fallback, Fn: 38)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
+
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^4][^40][^41][^42][^43][^44][^45][^46][^47][^48][^49][^5][^50][^51][^52][^53][^54][^55][^56][^57][^58][^6][^7][^8][^9] -->
 
 [^1]: https://www.xaluannews.com/modules.php?name=News\&file=article\&sid=3312874
@@ -219,8 +225,6 @@ As government disclosure about UAPs continues to evolve, cases like the Greenhaw
 
 [^8]: https://www.twz.com/ufo-whistleblower-claims-massive-coverup-retribution-in-sworn-testimony
 
-
-![The Falkville Metal Man: A Critical Analysis of the 1973 Greenhaw UFO Encounter - P2](../../assets/images/UFO%20-%20Top%20100/Greenhaw%20encounter%201973-P2.svg)
 [^9]: https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/
 
 [^10]: https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/
@@ -248,11 +252,6 @@ As government disclosure about UAPs continues to evolve, cases like the Greenhaw
 [^21]: https://www.forbes.com/sites/danidiplacido/2023/06/13/claims-made-by-ufo-whistleblower-david-grusch-are-pure-science-fiction/
 
 [^22]: http://strangeco.blogspot.com/2020/12/newspaper-clipping-of-day_9.html
-
-<div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/cphe8d5xnPA" title="YouTube video player (Fallback, Fn: 44)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 12,721 -->
-
 
 [^23]: https://podcasts.apple.com/gb/podcast/407-the-mystery-of-the-metal-man/id1236963001?i=1000695663684
 

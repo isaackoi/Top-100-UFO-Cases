@@ -1,10 +1,9 @@
 ---
-description: On June 24, 1947, prospector Fred M. Johnson reported observing unidentified flying objects while working on Mount Adams in Washington state. His...
-layout: default
 title: 'Fred M. Johnson''s 1947 UFO Sighting: A Critical Analysis of Evidence and Impact'
 permalink: /ufo-top-100/fred-m-johnson-sighting-1947/
-date: '2025-04-17 12:09:18 '
+date: '2025-04-17 16:08:11 '
 image: /assets/images/UFO - Top 100/Fred M Johnson sighting 1947-Full-Text.svg
+description: 'Exploring Fred M. Johnson''s 1947 UFO Sighting: A Critical Analysis of Evidence and Impact within the context of UFO - Top 100.'
 ---
 
 ---
@@ -67,7 +66,7 @@ The reported compass anomaly represents a potentially significant piece of evide
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/mD_oVY8XA0M" title="YouTube video player (Fallback, Fn: 23)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 492,849 -->
+</div><!-- View Count: 0 -->
 
 ## Counterarguments and Skeptical Perspectives
 

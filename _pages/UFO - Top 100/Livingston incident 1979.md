@@ -1,10 +1,9 @@
 ---
-description: The Livingston Incident stands as one of the most significant UFO encounters in European history, distinguished by its unique status as the only UFO...
-layout: default
 title: 'The Livingston Incident (1979): A Critical Examination of Scotland''s Most Compelling UFO Case'
 permalink: /ufo-top-100/livingston-incident-1979/
-date: '2025-04-17 12:09:21 '
+date: '2025-04-17 16:08:13 '
 image: /assets/images/UFO - Top 100/Livingston incident 1979-Full-Text.svg
+description: 'Exploring The Livingston Incident (1979): A Critical Examination of Scotland''s Most Compelling UFO Case within the context of UFO - Top 100.'
 ---
 
 ---
@@ -88,7 +87,7 @@ Under this hypothesis, Taylor may have fallen unconscious due to a seizure, with
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/zOMGjShv-Do" title="YouTube video player (Fn: 13)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 203 -->
+</div><!-- View Count: 0 -->
 
 ### Environmental Factors
 
@@ -137,7 +136,7 @@ These modern testimonies highlight the continued relevance of historical cases l
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/J7uV9suXnik" title="YouTube video player (Fn: 12)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 11,131 -->
+</div><!-- View Count: 0 -->
 
 ## Gaps in the Evidence and Avenues for Further Research
 
@@ -180,7 +179,7 @@ As with many historical UFO cases, the full truth may remain elusive, but the Li
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/XY-3ga6DGKo" title="YouTube video player (Fn: 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 2,011 -->
+</div><!-- View Count: 0 -->
 
 
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^3][^4][^5][^6][^7][^8][^9] -->

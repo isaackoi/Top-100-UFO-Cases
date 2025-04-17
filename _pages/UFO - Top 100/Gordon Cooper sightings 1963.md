@@ -1,10 +1,9 @@
 ---
-description: Gordon Cooper's reported UFO sightings, particularly during his 1963 Mercury-Atlas 9 spaceflight, represent one of the most intriguing cases of unexplained...
-layout: default
 title: 'Gordon Cooper''s UFO Sightings (1963): A Comprehensive Analysis of Evidence'
 permalink: /ufo-top-100/gordon-cooper-sightings-1963/
-date: '2025-04-17 12:09:18 '
+date: '2025-04-17 16:08:11 '
 image: /assets/images/UFO - Top 100/Gordon Cooper sightings 1963-Full-Text.svg
+description: 'Exploring Gordon Cooper''s UFO Sightings (1963): A Comprehensive Analysis of Evidence within the context of UFO - Top 100.'
 ---
 
 ---
@@ -32,7 +31,7 @@ In a 1999 interview, Cooper elaborated that these objects "didn't have wings" an
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/FTFlrcvOOcw" title="YouTube video player (Fn: 10)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 11,026 -->
+</div><!-- View Count: 0 -->
 
 ### The 1957 Edwards Air Force Base Incident
 
@@ -151,12 +150,12 @@ In the words of Cooper himself: "I do believe UFOs exist and that the truly unex
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/fhDU2O-Zo-A" title="YouTube video player (Fn: 11)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 19,540 -->
+</div><!-- View Count: 0 -->
 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/UESsdUGTPDY" title="YouTube video player (Fn: 5)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,624,508 -->
+</div><!-- View Count: 0 -->
 
 
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^4][^5][^6][^7][^8][^9] -->

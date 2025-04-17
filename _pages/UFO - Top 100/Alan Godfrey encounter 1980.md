@@ -1,10 +1,9 @@
 ---
-description: The Alan Godfrey case stands as one of Britain's most compelling UFO encounters, involving a respected police officer, physical evidence, missing time, and...
-layout: default
 title: 'Alan Godfrey''s 1980 UFO Encounter: A Critical Analysis of the Todmorden Incident'
 permalink: /ufo-top-100/alan-godfrey-encounter-1980/
-date: '2025-04-17 12:09:13 '
+date: '2025-04-17 16:08:08 '
 image: /assets/images/UFO - Top 100/Alan Godfrey encounter 1980-Full-Text.svg
+description: 'Exploring Alan Godfrey''s 1980 UFO Encounter: A Critical Analysis of the Todmorden Incident within the context of UFO - Top 100.'
 ---
 
 ---
@@ -20,12 +19,12 @@ Todmorden, a small town situated in the Calder Valley on the border between Lanc
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/-YfAlpWVtac" title="YouTube video player (Fn: 8)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 30,702 -->
+</div><!-- View Count: 0 -->
 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/EYmyO0Ee7nw" title="YouTube video player (Fn: 7)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 2,955 -->
+</div><!-- View Count: 0 -->
 
 ### Alan Godfrey: Background and Career
 

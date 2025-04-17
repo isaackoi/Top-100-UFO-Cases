@@ -1,10 +1,9 @@
 ---
-description: On a clear October night in 1958, two men driving near a reservoir in Maryland had an encounter that would earn a place in UFO history. Despite being one of...
-layout: default
 title: 'The Loch Raven Dam UFO Incident (1958): A Critical Examination of a Forgotten Case'
 permalink: /ufo-top-100/loch-raven-dam-incident-1958/
-date: '2025-04-17 12:09:21 '
+date: '2025-04-17 16:08:13 '
 image: /assets/images/UFO - Top 100/Loch Raven Dam incident 1958-Full-Text.svg
+description: 'Exploring The Loch Raven Dam UFO Incident (1958): A Critical Examination of a Forgotten Case within the context of UFO - Top 100.'
 ---
 
 ---

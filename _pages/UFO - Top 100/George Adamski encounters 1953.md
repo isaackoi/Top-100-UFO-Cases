@@ -1,10 +1,9 @@
 ---
-description: George Adamski's alleged encounters with extraterrestrial beings stands as one of the most influential and controversial cases in ufology history. While his...
-layout: default
 title: 'George Adamski''s UFO Encounters (1953): A Critical Examination'
 permalink: /ufo-top-100/george-adamski-encounters-1953/
-date: '2025-04-17 12:09:18 '
+date: '2025-04-17 16:08:11 '
 image: /assets/images/UFO - Top 100/George Adamski encounters 1953-Full-Text.svg
+description: 'Exploring George Adamski''s UFO Encounters (1953): A Critical Examination within the context of UFO - Top 100.'
 ---
 
 ---
@@ -99,7 +98,7 @@ Several investigations into Adamski's claims revealed significant problems with 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/3cjoAmg_S0M" title="YouTube video player (Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 75,152 -->
+</div><!-- View Count: 0 -->
 
 ### The Straith Letter Controversy
 

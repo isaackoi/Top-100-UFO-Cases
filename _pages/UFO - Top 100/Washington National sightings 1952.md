@@ -1,10 +1,9 @@
 ---
-description: The summer of 1952 marked what many consider one of the most significant and widely publicized UFO incidents in American history. Over two consecutive...
-layout: default
 title: 'The 1952 Washington National Sightings: A Critical Examination of the "Invasion of Washington"'
 permalink: /ufo-top-100/washington-national-sightings-1952/
-date: '2025-04-17 12:09:26 '
+date: '2025-04-17 16:08:16 '
 image: /assets/images/UFO - Top 100/Washington National sightings 1952-Full-Text.svg
+description: 'Exploring The 1952 Washington National Sightings: A Critical Examination of the "Invasion of Washington" within the context of UFO - Top 100.'
 ---
 
 ---
@@ -52,7 +51,7 @@ As with the previous weekend, the sightings and radar returns ended at sunrise[^
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/2k7K5H6Htl8" title="YouTube video player (Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,914 -->
+</div><!-- View Count: 0 -->
 
 ## Credibility Assessment: Evaluating the Evidence
 
@@ -85,8 +84,8 @@ The credibility of the sightings is further evidenced by the unprecedented gover
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/UKzI3uu_oTQ" title="YouTube video player (Fallback, Fn: 28)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 382,385 -->
+  <iframe src="https://www.youtube.com/embed/v9wUHdXmgQU" title="YouTube video player (Fallback, Fn: 14)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Counterarguments and Skeptical Perspectives
 
@@ -200,7 +199,7 @@ Kevin Randle's updated book on the Washington sightings, mentioned in the search
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/5lFXPrG5KyQ" title="YouTube video player (Fn: 13)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 97,084 -->
+</div><!-- View Count: 0 -->
 
 ## Conclusion
 

@@ -1,10 +1,9 @@
 ---
-description: Before delving into the detailed analysis, it is important to highlight that the Socorro incident remains one of the most credible and well-documented UFO...
-layout: default
 title: 'The Socorro UFO Incident: A Critical Examination of the Lonnie Zamora Sighting (1964)'
 permalink: /ufo-top-100/socorro-sighting-by-lonnie-zamora-1964/
-date: '2025-04-17 12:09:23 '
+date: '2025-04-17 16:08:14 '
 image: /assets/images/UFO - Top 100/Socorro sighting by Lonnie Zamora 1964-Full-Text.svg
+description: 'Exploring The Socorro UFO Incident: A Critical Examination of the Lonnie Zamora Sighting (1964) within the context of UFO - Top 100.'
 ---
 
 ---
@@ -69,8 +68,8 @@ Significantly, Project Blue Book ultimately classified the Socorro incident as "
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/r1FOPCs8Kps" title="YouTube video player (Fallback, Fn: 20)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 60,315 -->
+  <iframe src="https://www.youtube.com/embed/VuKlJuXRtqg" title="YouTube video player (Fallback, Fn: 11)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Credibility Assessment of Witnesses and Sources
 
@@ -136,8 +135,8 @@ As Kevin J. Ashley noted in recent research on the case, there may be explanatio
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/VuKlJuXRtqg" title="YouTube video player (Fallback, Fn: 11)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 23,503 -->
+  <iframe src="https://www.youtube.com/embed/pVdqTp4ayE0" title="YouTube video player (Fallback, Fn: 18)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ## Impact and Significance of the Socorro Incident
 
@@ -161,7 +160,7 @@ Beyond its importance to UFO researchers, the Socorro incident has broader cultu
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/eZRu3Ao6zK8" title="YouTube video player (Fn: 4)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,671,824 -->
+</div><!-- View Count: 0 -->
 
 ## Gaps in Evidence and Future Research Directions
 

@@ -1,10 +1,9 @@
 ---
-description: On the evening of November 9, 1965, as millions of Americans were heading home during rush hour, the largest power failure in history plunged the...
-layout: default
 title: 'The 1965 Northeast Blackout: Examining the UFO Connection'
 permalink: /ufo-top-100/the-northeast-blackout-1965/
-date: '2025-04-17 12:09:24 '
+date: '2025-04-17 16:08:15 '
 image: /assets/images/UFO - Top 100/The Northeast Blackout 1965-Full-Text.svg
+description: 'Exploring The 1965 Northeast Blackout: Examining the UFO Connection within the context of UFO - Top 100.'
 ---
 
 ---
@@ -157,12 +156,12 @@ This case continues to hold relevance not only for UFO researchers but also for 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/tpQLavaJWEU" title="YouTube video player (Fn: 10)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 157 -->
+</div><!-- View Count: 0 -->
 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/AJGlGGPj4Hg" title="YouTube video player (Fn: 4)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 515,208 -->
+</div><!-- View Count: 0 -->
 
 
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^2][^3][^4][^5][^6][^7][^8][^9] -->

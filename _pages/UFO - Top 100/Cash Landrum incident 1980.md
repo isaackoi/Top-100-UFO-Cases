@@ -1,10 +1,9 @@
 ---
-description: The Cash-Landrum incident stands as one of the most physically harmful and well-documented UFO encounters in American history. This 1980 Texas case is...
-layout: default
 title: 'The Cash-Landrum UFO Incident (1980): A Critical Examination of Evidence'
 permalink: /ufo-top-100/cash-landrum-incident-1980/
-date: '2025-04-17 12:09:15 '
+date: '2025-04-17 16:08:09 '
 image: /assets/images/UFO - Top 100/Cash Landrum incident 1980-Full-Text.svg
+description: 'Exploring The Cash-Landrum UFO Incident (1980): A Critical Examination of Evidence within the context of UFO - Top 100.'
 ---
 
 ---
@@ -26,7 +25,7 @@ Betty Cash stopped the car due to concerns about the intense heat[^6]. Both adul
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/uJR6RepzUvk" title="YouTube video player (Fn: 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 363 -->
+</div><!-- View Count: 0 -->
 
 ### Object Description and Behavior
 
@@ -42,6 +41,11 @@ According to Betty Cash, "They seemed to rush in from all directions... It seeme
 
 
 ![The Cash-Landrum UFO Incident (1980): A Critical Examination of Evidence - Full-Text](../../assets/images/UFO%20-%20Top%20100/Cash%20Landrum%20incident%201980-Full-Text.svg)
+
+<div class="youtube-embed-container">
+  <iframe src="https://www.youtube.com/embed/Shr6edXHCbw" title="YouTube video player (Fn: 10)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
+
 ## Health Effects and Aftermath
 
 ### Medical Symptoms
@@ -71,18 +75,13 @@ Vickie's immediate religious interpretation of the object suggests she was genui
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/7V757DZ5Xwk" title="YouTube video player (Fn: 5)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 8,827 -->
+</div><!-- View Count: 0 -->
 
 ### Corroborating Witnesses
 
 Dayton police officer Lamar Walker and his wife Marie claimed to have seen approximately 12 helicopters in the same area that night, though they did not report seeing the UFO itself[^2][^5]. This partial corroboration supports one element of the witnesses' account.
 
 According to Schuessler, at least 10 other people in the area reported seeing the UFO, and some also observed military helicopters[^7]. However, these additional witnesses are not well-documented in the primary literature on the case.
-
-
-<div class="youtube-embed-container">
-  <iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="YouTube video player (Fn: 7)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 262,512 -->
 
 ### Physical Evidence
 

@@ -1,10 +1,9 @@
 ---
-description: On January 7, 1948, Captain Thomas F. Mantell Jr. became the first documented fatality directly connected to a UFO pursuit, creating a watershed moment in...
-layout: default
 title: 'The Thomas F. Mantell UFO Incident (1948): A Critical Analysis of Evidence'
 permalink: /ufo-top-100/thomas-f-mantell-incident-1948/
-date: '2025-04-17 12:09:24 '
+date: '2025-04-17 16:08:15 '
 image: /assets/images/UFO - Top 100/Thomas F Mantell incident 1948-Full-Text.svg
+description: 'Exploring The Thomas F. Mantell UFO Incident (1948): A Critical Analysis of Evidence within the context of UFO - Top 100.'
 ---
 
 ---
@@ -83,8 +82,8 @@ As noted in source[^8], looking back with 77 years of hindsight, many analysts c
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/tNMe2Gfniqg" title="YouTube video player (Fallback, Fn: 31)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 380,395 -->
+  <iframe src="https://www.youtube.com/embed/QQHiriUlTA4" title="YouTube video player (Fallback, Fn: 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Physiological Factors in the Crash
 
@@ -148,8 +147,8 @@ If such a recording exists and contains these statements, it would strengthen th
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/xOJmkmVrD_k" title="YouTube video player (Fallback, Fn: 33)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 73,920 -->
+  <iframe src="https://www.youtube.com/embed/ApgMsCJh9dA" title="YouTube video player (Fallback, Fn: 10)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Project Skyhook Security Classification
 
@@ -190,6 +189,11 @@ What makes the Mantell case significant is not just the tragic outcome but its t
 
 ![The Thomas F. Mantell UFO Incident (1948): A Critical Analysis of Evidence - P2](../../assets/images/UFO%20-%20Top%20100/Thomas%20F%20Mantell%20incident%201948-P2.svg)
 
+<div class="youtube-embed-container youtube-embed-fallback">
+  <iframe src="https://www.youtube.com/embed/mtBbu-hp9zs" title="YouTube video player (Fallback, Fn: 18)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
+
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^4][^40][^41][^5][^6][^7][^8][^9] -->
 
 [^1]: https://www.army.mil/article/263119/questions_remain_75_years_after_mysterious_fort_knox_ufo_incident_downed_pilot
@@ -213,11 +217,6 @@ What makes the Mantell case significant is not just the tragic outcome but its t
 [^10]: https://www.youtube.com/watch?v=ApgMsCJh9dA
 
 [^11]: https://www.aljazeera.com/news/2023/7/27/key-takeaways-from-the-us-congressional-hearing-on-ufos
-
-<div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/pPQtKT5NtR8" title="YouTube video player (Fallback, Fn: 32)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 55,407 -->
-
 
 [^12]: https://www.npr.org/2023/07/27/1190390376/ufo-hearing-non-human-biologics-uaps
 

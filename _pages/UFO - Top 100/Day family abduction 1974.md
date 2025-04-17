@@ -1,10 +1,9 @@
 ---
-description: The 1974 incident commonly known as the "Day family abduction" or "Aveley Abduction" represents one of the most significant UFO encounter cases in British...
-layout: default
 title: 'The Day Family Abduction (1974): A Critical Examination of the Aveley UFO Case'
 permalink: /ufo-top-100/day-family-abduction-1974/
-date: '2025-04-17 12:09:16 '
+date: '2025-04-17 16:08:10 '
 image: /assets/images/UFO - Top 100/Day family abduction 1974-Full-Text.svg
+description: 'Exploring The Day Family Abduction (1974): A Critical Examination of the Aveley UFO Case within the context of UFO - Top 100.'
 ---
 
 ---
@@ -38,7 +37,7 @@ The documentary "The Aveley Extraterrestrial Abduction" adds that the family enc
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/XKzRI7DffWE" title="YouTube video player (Fn: 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 764,847 -->
+</div><!-- View Count: 0 -->
 
 ## Credibility Assessment
 
@@ -73,7 +72,7 @@ Time perception itself is subjective and can be influenced by various factors in
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/OUeT32Zc4rY" title="YouTube video player (Fallback, Fn: 24)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,130,295 -->
+</div><!-- View Count: 0 -->
 
 ### The Reliability of Hypnosis and Recovered Memories
 
@@ -116,7 +115,7 @@ The case was still being discussed in local media in 2012, nearly 40 years after
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/U5URbtVfMmc" title="YouTube video player (Fn: 15)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 749,684 -->
+</div><!-- View Count: 0 -->
 
 ### Lasting Recognition
 
@@ -174,11 +173,11 @@ Future research focusing on previously unexplored documentation, witness testimo
 <div>⁂</div>
 
 
+![The Day Family Abduction (1974): A Critical Examination of the Aveley UFO Case - P2](../../assets/images/UFO%20-%20Top%20100/Day%20family%20abduction%201974-P2.svg)
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^32][^33][^34][^35][^36][^37][^38][^4][^5][^6][^7][^8][^9] -->
 
 [^1]: https://en.wikipedia.org/wiki/Kidnapping_of_Jack_Teich
-
-![The Day Family Abduction (1974): A Critical Examination of the Aveley UFO Case - P2](../../assets/images/UFO%20-%20Top%20100/Day%20family%20abduction%201974-P2.svg)
 
 [^2]: https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/
 

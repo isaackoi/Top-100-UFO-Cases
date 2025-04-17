@@ -1,10 +1,9 @@
 ---
-description: Long before the modern UFO era began with Kenneth Arnold's famous 1947 sighting, a Texas farmer named John Martin reported an unusual aerial phenomenon that...
-layout: default
 title: 'The John Martin Sighting of 1878: America''s First "Saucer" Report and Its Historical Significance'
 permalink: /ufo-top-100/john-martin-sighting-1878/
-date: '2025-04-17 12:09:19 '
+date: '2025-04-17 16:08:12 '
 image: /assets/images/UFO - Top 100/John Martin sighting 1878-Full-Text.svg
+description: 'Exploring The John Martin Sighting of 1878: America''s First "Saucer" Report and Its Historical Significance within the context of UFO - Top 100.'
 ---
 
 ---

@@ -1,10 +1,9 @@
 ---
-description: The 1948 Chiles-Whitted UFO sighting represents one of the most influential early UFO cases in American history. When two experienced commercial pilots...
-layout: default
 title: 'The Chiles-Whitted UFO Encounter (1948): A Critical Analysis of Evidence'
 permalink: /ufo-top-100/chiles-and-whitted-sighting-1948/
-date: '2025-04-17 12:09:15 '
+date: '2025-04-17 16:08:09 '
 image: /assets/images/UFO - Top 100/Chiles and Whitted sighting 1948-Full-Text.svg
+description: 'Exploring The Chiles-Whitted UFO Encounter (1948): A Critical Analysis of Evidence within the context of UFO - Top 100.'
 ---
 
 ---
@@ -48,7 +47,7 @@ However, some discrepancies do exist in their accounts. They disagreed on the ex
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/tjsKXhQeez4" title="YouTube video player (Fn: 12)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 28,701 -->
+</div><!-- View Count: 0 -->
 
 ### Government Investigation
 
@@ -73,8 +72,8 @@ Martin Shough's detailed analysis concludes: "There is nothing in this case that
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/FM_kzZpBw4Q" title="YouTube video player (Fallback, Fn: 35)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,495,488 -->
+  <iframe src="https://www.youtube.com/embed/iAyOhHAIzCQ" title="YouTube video player (Fallback, Fn: 30)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Arguments Against the Meteor Explanation
 
@@ -125,8 +124,8 @@ Despite extensive investigation, several crucial questions remain unresolved:
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/xxpZoffSIr0" title="YouTube video player (Fallback, Fn: 33)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 171,919 -->
+  <iframe src="https://www.youtube.com/embed/u7A1_fDLDco" title="YouTube video player (Fallback, Fn: 31)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Research Opportunities and Knowledge Gaps
 
@@ -153,6 +152,8 @@ More than 75 years later, the Chiles-Whitted case exemplifies the central challe
 <div>⁂</div>
 
 
+![The Chiles-Whitted UFO Encounter (1948): A Critical Analysis of Evidence - P2](../../assets/images/UFO%20-%20Top%20100/Chiles%20and%20Whitted%20sighting%201948-P2.svg)
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^31][^32][^33][^34][^35][^36][^37][^38][^4][^5][^6][^7][^8][^9] -->
 
 [^1]: https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter
@@ -163,8 +164,6 @@ More than 75 years later, the Chiles-Whitted case exemplifies the central challe
 
 [^4]: https://theufodatabase.com/docs/chiles-whitted-incident-ground-observer-robins-afb
 
-
-![The Chiles-Whitted UFO Encounter (1948): A Critical Analysis of Evidence - P2](../../assets/images/UFO%20-%20Top%20100/Chiles%20and%20Whitted%20sighting%201948-P2.svg)
 [^5]: http://www.nicap.org/reports/480724montgomery_shough.pdf
 
 [^6]: https://podcasts.apple.com/ng/podcast/secrets-in-the-skies-the-1948-chiles-whitted-ufo-case/id1542823398?i=1000658132330

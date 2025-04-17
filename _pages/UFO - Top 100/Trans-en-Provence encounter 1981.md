@@ -1,10 +1,9 @@
 ---
-description: The Trans-en-Provence incident stands as one of the most scientifically documented UFO cases in history. On a January afternoon in 1981, a French farmer...
-layout: default
 title: 'The Trans-en-Provence UFO Encounter (1981): A Critical Examination of the Evidence'
 permalink: /ufo-top-100/trans-en-provence-encounter-1981/
-date: '2025-04-17 12:09:24 '
+date: '2025-04-17 16:08:15 '
 image: /assets/images/UFO - Top 100/Trans-en-Provence encounter 1981-Full-Text.svg
+description: 'Exploring The Trans-en-Provence UFO Encounter (1981): A Critical Examination of the Evidence within the context of UFO - Top 100.'
 ---
 
 ---
@@ -73,8 +72,8 @@ However, as with any single-witness case, the testimony must be considered with 
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/Xn1gzuUnET4" title="YouTube video player (Fallback, Fn: 28)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 2,465 -->
+  <iframe src="https://www.youtube.com/embed/q9sQ2HCiSBE" title="YouTube video player (Fallback, Fn: 8)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Scientific Credibility
 
@@ -131,8 +130,8 @@ Jacques Patenet, who headed the French government's UFO research unit at the tim
 
 
 <div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/UuptR_x1tRU" title="YouTube video player (Fallback, Fn: 30)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 364 -->
+  <iframe src="https://www.youtube.com/embed/RgyY-wwhIEo" title="YouTube video player (Fallback, Fn: 12)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
 
 ### Scientific Impact
 
@@ -189,16 +188,16 @@ As France's historic decision to open its UFO files demonstrates, transparent in
 <div>⁂</div>
 
 
+<div class="youtube-embed-container youtube-embed-fallback">
+  <iframe src="https://www.youtube.com/embed/6t0_TRLz1Tg" title="YouTube video player (Fallback, Fn: 26)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><!-- View Count: 0 -->
+
+
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^3][^30][^4][^5][^6][^7][^8][^9] -->
 
 [^1]: https://www.theblackvault.com/casefiles/trans-en-provence-france-physical-trace-case-january-8-1981/
 
 [^2]: http://calphysics.org/ufoskeptic.org/trans.html
-
-
-<div class="youtube-embed-container youtube-embed-fallback">
-  <iframe src="https://www.youtube.com/embed/6t0_TRLz1Tg" title="YouTube video player (Fallback, Fn: 26)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 210 -->
 
 [^3]: https://www.newscientist.com/article/dn11443-france-opens-up-its-ufo-files/
 

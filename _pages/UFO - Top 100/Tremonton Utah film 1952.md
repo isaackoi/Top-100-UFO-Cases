@@ -1,9 +1,9 @@
 ---
-description: The Tremonton UFO film stands as one of the most thoroughly examined and debated pieces of UFO evidence from the early 1950s. Shot by a credentialed Navy...
-layout: default
 title: 'The Tremonton, Utah UFO Film (1952): A Critical Analysis of the Evidence'
 permalink: /ufo-top-100/tremonton-utah-film-1952/
-date: '2025-04-17 12:09:25 '
+date: '2025-04-17 16:08:15 '
+image: /assets/images/UFO - Top 100/Tremonton Utah film 1952-Full-Text.svg
+description: 'Exploring The Tremonton, Utah UFO Film (1952): A Critical Analysis of the Evidence within the context of UFO - Top 100.'
 ---
 
 ---
@@ -27,14 +27,16 @@ Unfortunately, by the time Newhouse had retrieved the camera, loaded it with Kod
 The resulting footage, approximately 1,200 frames of 16mm color film, captured bright objects moving in seemingly random patterns across the sky. During the filming, one object reportedly separated from the group, reversed course, and traveled in the opposite direction. Newhouse specifically filmed this separated object by holding the camera still and allowing it to pass through the field of view several times[^4][^11].
 
 
+![The Tremonton, Utah UFO Film (1952): A Critical Analysis of the Evidence - Full-Text](../../assets/images/UFO%20-%20Top%20100/Tremonton%20Utah%20film%201952-Full-Text.svg)
+
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/vbLvzgJMsIQ" title="YouTube video player (Fn: 11)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 19,963 -->
+</div><!-- View Count: 0 -->
 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/WNNHzB3quAg" title="YouTube video player (Fn: 7)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 4,712 -->
+</div><!-- View Count: 0 -->
 
 ## Official Investigations and Analyses
 
@@ -76,6 +78,8 @@ The existence of a second witness, Norma Newhouse, who first spotted the objects
 
 The scientific analyses conducted by government agencies represent another important source of information. The Navy Photo Interpretation Laboratory's extensive analysis involved objective measurement techniques and experienced photo analysts. However, their methodology was later criticized by the Robertson Panel, particularly regarding densitometric measurements made from duplicate rather than original film and questions about their assumptions in calculating object movements[^8].
 
+
+![The Tremonton, Utah UFO Film (1952): A Critical Analysis of the Evidence - P1](../../assets/images/UFO%20-%20Top%20100/Tremonton%20Utah%20film%201952-P1.svg)
 ## Alternative Explanations and Skeptical Perspectives
 
 The primary conventional explanation for the Tremonton film is that it shows a flock of seagulls. This explanation, favored by the Robertson Panel and eventually adopted by Project Blue Book, is based on several observations:
@@ -126,6 +130,8 @@ What makes the Tremonton case particularly valuable is not necessarily what it p
 
 Whether one accepts the seagull explanation or believes something more extraordinary was captured that day in 1952, the Tremonton film continues to serve as an important historical document in the ongoing study of unidentified aerial phenomena.
 
+
+![The Tremonton, Utah UFO Film (1952): A Critical Analysis of the Evidence - P2](../../assets/images/UFO%20-%20Top%20100/Tremonton%20Utah%20film%201952-P2.svg)
 ## Available Video Resources
 
 The original Tremonton UFO footage shot by Delbert Newhouse can be viewed at: https://www.youtube.com/watch?v=WNNHzB3quAg[^7]
@@ -137,7 +143,7 @@ A more detailed version with Newhouse's testimony and analysis can be found at: 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/xcAI2NuTyso" title="YouTube video player (Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 1,321 -->
+</div><!-- View Count: 0 -->
 
 
 <!-- Invisible Footnote References: [^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^21][^3][^4][^5][^6][^7][^8][^9] -->

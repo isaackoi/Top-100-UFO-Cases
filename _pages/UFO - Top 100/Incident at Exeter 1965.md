@@ -1,10 +1,9 @@
 ---
-description: The Exeter incident of 1965 stands as one of the most thoroughly documented and widely discussed UFO cases in American history. Taking place in the early...
-layout: default
 title: 'The Incident at Exeter (1965): A Critical Analysis of the Evidence'
 permalink: /ufo-top-100/incident-at-exeter-1965/
-date: '2025-04-17 12:09:19 '
+date: '2025-04-17 16:08:11 '
 image: /assets/images/UFO - Top 100/Incident at Exeter 1965-Full-Text.svg
+description: 'Exploring The Incident at Exeter (1965): A Critical Analysis of the Evidence within the context of UFO - Top 100.'
 ---
 
 ---
@@ -129,12 +128,12 @@ The festival serves not only as a commemoration of the specific 1965 incident bu
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/VkrmkxwFtoY" title="YouTube video player (Fn: 10)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 281 -->
+</div><!-- View Count: 0 -->
 
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/Fmj17eZn4Dc" title="YouTube video player (Fn: 4)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div><!-- View Count: 138 -->
+</div><!-- View Count: 0 -->
 
 ## Unresolved Questions and Future Research Directions
 
