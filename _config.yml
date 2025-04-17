@@ -13,14 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Top 100 UFO Cases - A Skynet Project
+email: isaackoi@gmail.com # your email address
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
+  A Skynet Project to document the top 100 UFO cases. This is a work in progress.
+  You can edit this line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+twitter_username: isaackoi
 minimal_mistakes_skin: default
 search: true
 
@@ -58,34 +57,37 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Isaac Koi"
+  avatar : "/assets/images/Usual/logo - isaackoi.jpg"
+  bio    : "A Skynet Project to document the top 100 UFO cases." 
   links:
-    - label: "Website"
+    - label: "New Uploads blog"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://uploads.isaackoi.com"
+    - label: "UFO databases blog"
+      icon: "fas fa-fw fa-link"
+      url: "https://data.isaackoi.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://x.com/isaackoi"
+    # - label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://x.com/isaackoi"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -105,7 +107,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      #author_profile: true
 
 category_archive:
   type: liquid
