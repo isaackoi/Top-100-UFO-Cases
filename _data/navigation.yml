@@ -1,5 +1,7 @@
 main:
-  - title: "Posts"
+  - title: "Home"
+    url: /UFO - Top 100.md
+  - title: "Blog"
     url: /posts/
   - title: "Categories"
     url: /categories/
