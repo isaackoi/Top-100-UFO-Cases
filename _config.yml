@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   You can edit this line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: isaackoi
-minimal_mistakes_skin: default
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Build settings
@@ -61,15 +61,15 @@ author:
   avatar : "/assets/images/Usual/logo - isaackoi.jpg"
   bio    : "A Skynet Project to document the top 100 UFO cases." 
   links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/isaackoi"
     - label: "New Uploads blog"
       icon: "fas fa-fw fa-link"
       url: "https://uploads.isaackoi.com"
     - label: "UFO databases blog"
       icon: "fas fa-fw fa-link"
       url: "https://data.isaackoi.com/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/isaackoi"
     # - label: "GitHub"
     #  icon: "fab fa-fw fa-github"
     #  url: "https://github.com/"
@@ -82,6 +82,12 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/isaackoi"
+    - label: "New Uploads blog"
+      icon: "fas fa-fw fa-link"
+      url: "https://uploads.isaackoi.com"
+    - label: "UFO databases blog"
+      icon: "fas fa-fw fa-link"
+      url: "https://data.isaackoi.com/"
     #- label: "GitHub"
     #  icon: "fab fa-fw fa-github"
     #  url: "https://github.com/"
@@ -107,7 +113,7 @@ defaults:
       type: pages
     values:
       layout: single
-      #author_profile: true
+      author_profile: true
 
 category_archive:
   type: liquid
