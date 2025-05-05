@@ -5,29 +5,39 @@ sitemap: false # Exclude from sitemap.xml
 [
   {%- assign index_pages = site.pages | where_exp: "item", "item.search != false" -%}
   {%- assign index_posts = site.posts | where_exp: "item", "item.search != false" -%}
-  {%- assign index_collections = "" -%}
+  
+  {%# Initialize index_docs as an empty array BEFORE the loop #}
+  {%- assign index_docs = [] -%} 
+  
+  {%- assign index_collections_string = "" -%} {# Renamed for clarity if you need the string list #}
+
   {%- for collection in site.collections -%}
     {%- if collection.output and collection.label != "posts" -%}
-      {%- assign index_collections = index_collections | append: "," | append: collection.label -%}
+      {%# This part builds a comma-separated string of collection labels. Keep if needed, remove if not. #}
+      {%- assign index_collections_string = index_collections_string | append: "," | append: collection.label -%}
+      
+      {%# Filter docs from the current collection #}
       {%- assign collection_docs = collection.docs | where_exp: "item", "item.search != false" -%}
+      
+      {%# Concatenate the current collection's docs to the main index_docs array #}
       {%- assign index_docs = index_docs | concat: collection_docs -%}
     {%- endif -%}
   {%- endfor -%}
+
+  {%# Combine pages, posts, and all collected documents into the final list #}
   {%- assign index_items = index_pages | concat: index_posts | concat: index_docs -%}
 
   {%- for item in index_items limit: 1500 -%}
     {%- capture item_content -%}
-      {%- if item.layout == 'nil' or item.layout == 'null' -%}
-        {{ item.content | strip_html | strip_newlines | replace: '\', '\\' | replace: '"', '\"' }}
-      {%- else -%}
-        {{ item.content | strip_html | strip_newlines | replace: '\', '\\' | replace: '"', '\"' }}
-      {%- endif -%}
+      {# Simplified: The content processing is the same regardless of layout in the original code #}
+      {{ item.content | strip_html | strip_newlines | replace: '\', '\\' | replace: '"', '\"' }}
     {%- endcapture -%}
-    {%- assign item_content = item_content | split: ' ' | slice: 0, 300 | join: ' ' | append: "..." -%}
+    {%# Create excerpt: strip, limit words, add ellipsis #}
+    {%- assign item_content_excerpt = item_content | strip_html | strip_newlines | split: ' ' | slice: 0, 300 | join: ' ' | append: "..." -%}
 
     {
       "title": {{ item.title | default: item.name | jsonify }},
-      "excerpt": {{ item.excerpt | default: item_content | jsonify }},
+      "excerpt": {{ item.excerpt | default: item_content_excerpt | jsonify }},
       "categories": {{ item.categories | jsonify }},
       "tags": {{ item.tags | jsonify }},
       "url": {{ item.url | relative_url | jsonify }},
