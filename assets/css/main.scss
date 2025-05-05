@@ -176,3 +176,36 @@ sup > a.footnote {
 sup:has(> a.footnote) + sup:has(> a.footnote) {
   margin-left: 0.2em; /* Adjust spacing as needed (e.g., 1px, 0.1em, 0.25em) */
 }
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* Theme Toggle Icon Visibility Control
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* By default (which is light mode, or when data-theme="light"):
+   - Show the sun icon wrapper
+   - Hide the moon icon wrapper */
+   .theme-toggle .icon-sun-wrapper {
+    display: block; /* Or 'inline' if 'block' causes layout issues */
+  }
+  .theme-toggle .icon-moon-wrapper {
+    display: none;
+  }
+  
+  /* When dark mode is active (html[data-theme="dark"]):
+     - Hide the sun icon wrapper
+     - Show the moon icon wrapper */
+  html[data-theme="dark"] .theme-toggle .icon-sun-wrapper {
+    display: none;
+  }
+  html[data-theme="dark"] .theme-toggle .icon-moon-wrapper {
+    display: block; /* Or 'inline' if needed */
+  }
+  
+  /* Optional: Add a subtle transition if you like */
+  .theme-toggle svg .icon-wrapper {
+    transition: opacity 0.2s ease-in-out; /* Transition only works if using opacity, not display */
+    /* Note: Transitions don't work smoothly with display:none/block.
+       If you want fading, you'd need a different approach using opacity
+       and potentially absolute positioning, which is more complex.
+       The display: none/block method is simpler and guarantees only one is shown. */
+  }
