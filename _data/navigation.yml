@@ -1,6 +1,8 @@
 main:
   - title: "Home"
     url: /ufo-top-100/
+  - title: "Blog"
+    url: /posts/
   - title: "About"
     url: /about/
     
