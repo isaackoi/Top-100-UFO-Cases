@@ -13,18 +13,18 @@ sitemap: false # Exclude from sitemap.xml
 
   {%- for collection in site.collections -%}
     {%- if collection.output and collection.label != "posts" -%}
-      {%# This part builds a comma-separated string of collection labels. Keep if needed, remove if not. #}
+      {%- comment -%} This part builds a comma-separated string of collection labels. Keep if needed, remove if not. {%- endcomment -%}
       {%- assign index_collections_string = index_collections_string | append: "," | append: collection.label -%}
 
-      {%# Filter docs from the current collection #}
+      {%- comment -%} Filter docs from the current collection {%- endcomment -%}
       {%- assign collection_docs = collection.docs | where_exp: "item", "item.search != false" -%}
 
-      {%# Concatenate the current collection's docs to the main index_docs array #}
+      {%- comment -%} Concatenate the current collection's docs to the main index_docs array {%- endcomment -%}
       {%- assign index_docs = index_docs | concat: collection_docs -%}
     {%- endif -%}
   {%- endfor -%}
 
-  {%# Combine pages, posts, and all collected documents into the final list #}
+  {%- comment -%} Combine pages, posts, and all collected documents into the final list {%- endcomment -%}
   {%- assign index_items = index_pages | concat: index_posts | concat: index_docs -%}
 
   {%- for item in index_items limit: 1500 -%}
