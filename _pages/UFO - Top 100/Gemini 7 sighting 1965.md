@@ -1,7 +1,7 @@
 ---
 title: 'The Gemini 7 UFO Sighting (1965): Evidence and Analysis'
 permalink: /gemini-7-sighting-1965/
-date: '2025-05-05 15:17:02 '
+date: '2025-05-05 19:56:17 '
 image: /assets/images/UFO - Top 100/Gemini 7 sighting 1965-Full-Text.svg
 description: 'Exploring The Gemini 7 UFO Sighting (1965): Evidence and Analysis within the context of UFO - Top 100.'
 ---

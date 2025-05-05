@@ -1,7 +1,7 @@
 ---
 title: 'The Nash-Fortenberry UFO Sighting (1952): A Critical Examination of the Evidence'
 permalink: /nash-and-fortenberry-sighting-1952/
-date: '2025-05-05 15:17:05 '
+date: '2025-05-05 19:56:19 '
 image: /assets/images/UFO - Top 100/Nash and Fortenberry sighting 1952-Full-Text.svg
 description: 'Exploring The Nash-Fortenberry UFO Sighting (1952): A Critical Examination of the Evidence within the context of UFO - Top 100.'
 ---

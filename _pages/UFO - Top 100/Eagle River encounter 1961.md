@@ -1,7 +1,7 @@
 ---
 title: 'The Eagle River UFO Encounter (1961): A Critical Analysis of the Simonton Pancake Case'
 permalink: /eagle-river-encounter-1961/
-date: '2025-05-05 15:17:01 '
+date: '2025-05-05 19:56:16 '
 image: /assets/images/UFO - Top 100/Eagle River encounter 1961-Full-Text.svg
 description: 'Exploring The Eagle River UFO Encounter (1961): A Critical Analysis of the Simonton Pancake Case within the context of UFO - Top 100.'
 ---

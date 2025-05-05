@@ -1,7 +1,7 @@
 ---
 title: 'The 1965 Northeast Blackout: Examining the UFO Connection'
 permalink: /the-northeast-blackout-1965/
-date: '2025-05-05 15:17:06 '
+date: '2025-05-05 19:56:21 '
 image: /assets/images/UFO - Top 100/The Northeast Blackout 1965-Full-Text.svg
 description: 'Exploring The 1965 Northeast Blackout: Examining the UFO Connection within the context of UFO - Top 100.'
 ---

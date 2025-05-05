@@ -1,7 +1,7 @@
 ---
 title: 'The Herbert Schirmer UFO Abduction Case (1967): A Critical Examination'
 permalink: /herbert-schirmer-abduction-1967/
-date: '2025-05-05 15:17:03 '
+date: '2025-05-05 19:56:18 '
 image: /assets/images/UFO - Top 100/Herbert Schirmer abduction 1967-Full-Text.svg
 description: 'Exploring The Herbert Schirmer UFO Abduction Case (1967): A Critical Examination within the context of UFO - Top 100.'
 ---

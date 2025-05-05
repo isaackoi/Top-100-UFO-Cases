@@ -1,7 +1,7 @@
 ---
 title: 'The Delphos Ring Incident (1971): A Comprehensive Analysis of Physical Trace Evidence in UFO Research'
 permalink: /delphos-ring-incident-1971/
-date: '2025-05-05 15:17:01 '
+date: '2025-05-05 19:56:16 '
 image: /assets/images/UFO - Top 100/Delphos Ring incident 1971-Full-Text.svg
 description: 'Exploring The Delphos Ring Incident (1971): A Comprehensive Analysis of Physical Trace Evidence in UFO Research within the context of UFO - Top 100.'
 ---

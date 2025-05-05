@@ -1,7 +1,7 @@
 ---
 title: 'The Incident at Exeter (1965): A Critical Analysis of the Evidence'
 permalink: /incident-at-exeter-1965/
-date: '2025-05-05 15:17:03 '
+date: '2025-05-05 19:56:18 '
 image: /assets/images/UFO - Top 100/Incident at Exeter 1965-Full-Text.svg
 description: 'Exploring The Incident at Exeter (1965): A Critical Analysis of the Evidence within the context of UFO - Top 100.'
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'The Fort Itaipu UFO Incident of 1957: A Critical Analysis'
 permalink: /fort-itaipu-brazil-sighting-1957/
-date: '2025-05-05 15:17:02 '
+date: '2025-05-05 19:56:17 '
 image: /assets/images/UFO - Top 100/Fort Itaipu Brazil sighting 1957-Full-Text.svg
 description: 'Exploring The Fort Itaipu UFO Incident of 1957: A Critical Analysis within the context of UFO - Top 100.'
 ---

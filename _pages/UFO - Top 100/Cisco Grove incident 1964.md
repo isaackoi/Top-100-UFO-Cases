@@ -1,7 +1,7 @@
 ---
 title: 'The Cisco Grove UFO Incident (1964): A Detailed Examination of Evidence and Impact'
 permalink: /cisco-grove-incident-1964/
-date: '2025-05-05 15:17:01 '
+date: '2025-05-05 19:56:15 '
 image: /assets/images/UFO - Top 100/Cisco Grove incident 1964-Full-Text.svg
 description: 'Exploring The Cisco Grove UFO Incident (1964): A Detailed Examination of Evidence and Impact within the context of UFO - Top 100.'
 ---

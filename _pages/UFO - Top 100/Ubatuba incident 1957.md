@@ -1,7 +1,7 @@
 ---
 title: 'The Ubatuba Incident (1957): A Comprehensive Analysis of Alleged UFO Debris'
 permalink: /ubatuba-incident-1957/
-date: '2025-05-05 15:17:07 '
+date: '2025-05-05 19:56:22 '
 image: /assets/images/UFO - Top 100/Ubatuba incident 1957-Full-Text.svg
 description: 'Exploring The Ubatuba Incident (1957): A Comprehensive Analysis of Alleged UFO Debris within the context of UFO - Top 100.'
 ---

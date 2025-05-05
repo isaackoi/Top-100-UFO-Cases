@@ -1,7 +1,7 @@
 ---
 title: 'The Maury Island Incident: A Critical Examination of an Early UFO Encounter'
 permalink: /maury-island-incident-1947/
-date: '2025-05-05 15:17:04 '
+date: '2025-05-05 19:56:19 '
 image: /assets/images/UFO - Top 100/Maury Island incident 1947-Full-Text.svg
 description: 'Exploring The Maury Island Incident: A Critical Examination of an Early UFO Encounter within the context of UFO - Top 100.'
 ---

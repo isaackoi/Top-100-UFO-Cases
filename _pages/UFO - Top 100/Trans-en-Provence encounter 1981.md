@@ -1,7 +1,7 @@
 ---
 title: 'The Trans-en-Provence UFO Encounter (1981): A Critical Examination of the Evidence'
 permalink: /trans-en-provence-encounter-1981/
-date: '2025-05-05 15:17:06 '
+date: '2025-05-05 19:56:21 '
 image: /assets/images/UFO - Top 100/Trans-en-Provence encounter 1981-Full-Text.svg
 description: 'Exploring The Trans-en-Provence UFO Encounter (1981): A Critical Examination of the Evidence within the context of UFO - Top 100.'
 ---

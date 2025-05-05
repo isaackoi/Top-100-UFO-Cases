@@ -1,7 +1,7 @@
 ---
 title: 'The Rendlesham Forest Incident: A Critical Analysis of Britain''s Most Famous UFO Case'
 permalink: /rendlesham-forest-incident-1980/
-date: '2025-05-05 15:17:05 '
+date: '2025-05-05 19:56:20 '
 image: /assets/images/UFO - Top 100/Rendlesham Forest incident 1980-Full-Text.svg
 description: 'Exploring The Rendlesham Forest Incident: A Critical Analysis of Britain''s Most Famous UFO Case within the context of UFO - Top 100.'
 ---

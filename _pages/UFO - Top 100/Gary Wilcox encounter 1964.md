@@ -1,7 +1,7 @@
 ---
 title: 'The Gary Wilcox UFO Encounter of 1964: A Critical Examination'
 permalink: /gary-wilcox-encounter-1964/
-date: '2025-05-05 15:17:02 '
+date: '2025-05-05 19:56:17 '
 image: /assets/images/UFO - Top 100/Gary Wilcox encounter 1964-Full-Text.svg
 description: 'Exploring The Gary Wilcox UFO Encounter of 1964: A Critical Examination within the context of UFO - Top 100.'
 ---

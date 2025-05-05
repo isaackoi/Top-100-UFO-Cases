@@ -1,7 +1,7 @@
 ---
 title: 'Alan Godfrey''s 1980 UFO Encounter: A Critical Analysis of the Todmorden Incident'
 permalink: /alan-godfrey-encounter-1980/
-date: '2025-05-05 15:16:59 '
+date: '2025-05-05 19:56:14 '
 image: /assets/images/UFO - Top 100/Alan Godfrey encounter 1980-Full-Text.svg
 description: 'Exploring Alan Godfrey''s 1980 UFO Encounter: A Critical Analysis of the Todmorden Incident within the context of UFO - Top 100.'
 ---

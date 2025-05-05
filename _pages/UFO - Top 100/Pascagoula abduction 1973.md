@@ -1,7 +1,7 @@
 ---
 title: 'The Pascagoula Abduction: A Critical Examination of Evidence and Legacy'
 permalink: /pascagoula-abduction-1973/
-date: '2025-05-05 15:17:05 '
+date: '2025-05-05 19:56:20 '
 image: /assets/images/UFO - Top 100/Pascagoula abduction 1973-Full-Text.svg
 description: 'Exploring The Pascagoula Abduction: A Critical Examination of Evidence and Legacy within the context of UFO - Top 100.'
 ---

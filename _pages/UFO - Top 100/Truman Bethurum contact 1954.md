@@ -1,7 +1,7 @@
 ---
 title: 'Truman Bethurum and the Planet Clarion: A Critical Analysis of the 1954 Contact Claims'
 permalink: /truman-bethurum-contact-1954/
-date: '2025-05-05 15:17:07 '
+date: '2025-05-05 19:56:22 '
 image: /assets/images/UFO - Top 100/Truman Bethurum contact 1954-Full-Text.svg
 description: 'Exploring Truman Bethurum and the Planet Clarion: A Critical Analysis of the 1954 Contact Claims within the context of UFO - Top 100.'
 ---

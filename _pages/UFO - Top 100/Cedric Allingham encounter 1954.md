@@ -1,7 +1,7 @@
 ---
 title: 'The Cedric Allingham Encounter (1954): Britain''s First UFO Contactee Case Unveiled'
 permalink: /cedric-allingham-encounter-1954/
-date: '2025-05-05 15:17:00 '
+date: '2025-05-05 19:56:15 '
 image: /assets/images/UFO - Top 100/Cedric Allingham encounter 1954-Full-Text.svg
 description: 'Exploring The Cedric Allingham Encounter (1954): Britain''s First UFO Contactee Case Unveiled within the context of UFO - Top 100.'
 ---

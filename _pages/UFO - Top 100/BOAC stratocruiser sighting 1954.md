@@ -1,7 +1,7 @@
 ---
 title: 'The 1954 BOAC Stratocruiser UFO Encounter: A Critical Analysis'
 permalink: /boac-stratocruiser-sighting-1954/
-date: '2025-05-05 15:17:00 '
+date: '2025-05-05 19:56:15 '
 image: /assets/images/UFO - Top 100/BOAC stratocruiser sighting 1954-Full-Text.svg
 description: 'Exploring The 1954 BOAC Stratocruiser UFO Encounter: A Critical Analysis within the context of UFO - Top 100.'
 ---

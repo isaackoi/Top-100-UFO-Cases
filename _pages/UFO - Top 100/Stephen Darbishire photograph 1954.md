@@ -1,7 +1,7 @@
 ---
 title: 'The Stephen Darbishire UFO Photograph (1954): A Critical Examination of the Evidence'
 permalink: /stephen-darbishire-photograph-1954/
-date: '2025-05-05 15:17:06 '
+date: '2025-05-05 19:56:21 '
 image: /assets/images/UFO - Top 100/Stephen Darbishire photograph 1954-Full-Text.svg
 description: 'Exploring The Stephen Darbishire UFO Photograph (1954): A Critical Examination of the Evidence within the context of UFO - Top 100.'
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'The Andreasson Affair: A Critical Analysis of the 1967 UFO Abduction Case'
 permalink: /andreasson-abduction-1967/
-date: '2025-05-05 15:17:00 '
+date: '2025-05-05 19:56:14 '
 image: /assets/images/UFO - Top 100/Andreasson abduction 1967-Full-Text.svg
 description: 'Exploring The Andreasson Affair: A Critical Analysis of the 1967 UFO Abduction Case within the context of UFO - Top 100.'
 ---

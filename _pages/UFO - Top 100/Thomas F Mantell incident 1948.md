@@ -1,7 +1,7 @@
 ---
 title: 'The Thomas F. Mantell UFO Incident (1948): A Critical Analysis of Evidence'
 permalink: /thomas-f-mantell-incident-1948/
-date: '2025-05-05 15:17:06 '
+date: '2025-05-05 19:56:21 '
 image: /assets/images/UFO - Top 100/Thomas F Mantell incident 1948-Full-Text.svg
 description: 'Exploring The Thomas F. Mantell UFO Incident (1948): A Critical Analysis of Evidence within the context of UFO - Top 100.'
 ---

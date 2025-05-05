@@ -1,7 +1,7 @@
 ---
 title: 'The Rex Heflin UFO Photographs (1965): A Comprehensive Analysis of Evidence'
 permalink: /rex-heflin-photographs-1965/
-date: '2025-05-05 15:17:05 '
+date: '2025-05-05 19:56:20 '
 image: /assets/images/UFO - Top 100/Rex Heflin photographs 1965-Full-Text.svg
 description: 'Exploring The Rex Heflin UFO Photographs (1965): A Comprehensive Analysis of Evidence within the context of UFO - Top 100.'
 ---

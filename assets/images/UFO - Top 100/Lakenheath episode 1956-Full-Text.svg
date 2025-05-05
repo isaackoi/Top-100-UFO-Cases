@@ -1,172 +1,253 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="696" height="588" viewBox="0 0 696 588" style="fill:none;stroke:none;fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="552" height="600" viewBox="0 0 552 600" style="fill:none;stroke:none;fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" version="1.1">
   <style class="text-font-style fontImports" data-font-family="Roboto">@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=block');</style>
-  <rect x="0" y="0" width="696" height="588" fill="#252a34" stroke="none" id="programmatic_background"/>
-  <g id="g-root-tf_v7dloq1bhy0ao-stroke-fill" data-item-order="-375540" transform="translate(18, 12)"/>
-  <g id="g-root-sy_-1_Vector_18f39je1bhy0ox-stroke-fill" data-item-order="-10255" transform="translate(248, 149)">
-    <g id="sy_-1_Vector_18f39je1bhy0ox-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="2">
+  <rect x="0" y="0" width="552" height="6E+2" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <g id="g-root-tf_1cynm6i1bi6h3j-stroke-fill" data-item-order="-304128" transform="translate(12, 12)"/>
+  <g id="g-root-cp_1_column-1_1lzaf4a1bi51j6-stroke-fill" data-item-order="-230390" transform="translate(53, 143)">
+    <g id="cp_1_column-1_1lzaf4a1bi51j6-fill" stroke="none" fill="none">
       <g>
-        <path d="M 10 292L 10 202M 10 196L 10 106M 10 100L 10 10"/>
+        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
+      </g>
+    </g>
+    <g id="cp_1_column-1_1lzaf4a1bi51j6-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
+      <g>
+        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
+      </g>
+    </g>
+    <g id="cp_1_column-1_1lzaf4a1bi51j6-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
+      <g>
+        <path d="M 13 16L 13 142"/>
+      </g>
+    </g>
+    <g id="cp_1_column-1_1lzaf4a1bi51j6-fill" stroke="none" fill="none">
+      <g>
+        <path d="M 10 145C 10 146.656854 11.343146 148 13 148C 14.656854 148 16 146.656854 16 145C 16 143.343146 14.656854 142 13 142C 11.343146 142 10 143.343146 10 145"/>
+      </g>
+    </g>
+    <g id="cp_1_column-1_1lzaf4a1bi51j6-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
+      <g>
+        <path d="M 10 145C 10 146.656854 11.343146 148 13 148C 14.656854 148 16 146.656854 16 145C 16 143.343146 14.656854 142 13 142C 11.343146 142 10 143.343146 10 145"/>
       </g>
     </g>
   </g>
-  <g id="g-root-sy_-1_line_zjg9ai1bhy1hm-stroke-fill" data-item-order="-10251" transform="translate(248, 437)">
-    <g id="sy_-1_line_zjg9ai1bhy1hm-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="2">
+  <g id="g-root-cp_3_column-3_1d3neve1bi52bw-stroke-fill" data-item-order="-230374" transform="translate(233, 143)">
+    <g id="cp_3_column-3_1d3neve1bi52bw-fill" stroke="none" fill="none">
       <g>
-        <path d="M 10 94L 10 10"/>
-        <path d="M 3.5 88L 10 94.5L 16.5 88" stroke-dasharray="none"/>
+        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
+      </g>
+    </g>
+    <g id="cp_3_column-3_1d3neve1bi52bw-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
+      <g>
+        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
+      </g>
+    </g>
+    <g id="cp_3_column-3_1d3neve1bi52bw-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
+      <g>
+        <path d="M 13 16L 13 142"/>
+      </g>
+    </g>
+    <g id="cp_3_column-3_1d3neve1bi52bw-fill" stroke="none" fill="none">
+      <g>
+        <path d="M 10 145C 10 146.656854 11.343146 148 13 148C 14.656854 148 16 146.656854 16 145C 16 143.343146 14.656854 142 13 142C 11.343146 142 10 143.343146 10 145"/>
+      </g>
+    </g>
+    <g id="cp_3_column-3_1d3neve1bi52bw-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
+      <g>
+        <path d="M 10 145C 10 146.656854 11.343146 148 13 148C 14.656854 148 16 146.656854 16 145C 16 143.343146 14.656854 142 13 142C 11.343146 142 10 143.343146 10 145"/>
       </g>
     </g>
   </g>
-  <g id="g-root-sy_4_cu_v3mr621bhy29v-stroke-fill" data-item-order="-10248" transform="translate(245, 431)">
-    <g id="sy_4_cu_v3mr621bhy29v-fill" stroke="none" fill="none">
+  <g id="g-root-cp_1_g-1_18ntwqy1bi5346-stroke-fill" data-item-order="-230356" transform="translate(56, 290)">
+    <g id="cp_1_g-1_18ntwqy1bi5346-fill" stroke="none" fill="none">
       <g>
-        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
+        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
       </g>
     </g>
-    <g id="sy_4_cu_v3mr621bhy29v-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#a6da37" stroke-width="2">
+    <g id="cp_1_g-1_18ntwqy1bi5346-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
       <g>
-        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
-      </g>
-    </g>
-    <g id="sy_4_cu_v3mr621bhy29v-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#a6da37" stroke-width="2">
-      <g>
-        <path d="M 37 13L 16 13"/>
+        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
       </g>
     </g>
   </g>
-  <g id="g-root-sy_3_cu_m8m80a1bhxzws-stroke-fill" data-item-order="-10244" transform="translate(245, 335)">
-    <g id="sy_3_cu_m8m80a1bhxzws-fill" stroke="none" fill="none">
+  <g id="g-root-cp_2_g-2_v30a2y1bi6g3s-stroke-fill" data-item-order="-230348" transform="translate(146, 290)">
+    <g id="cp_2_g-2_v30a2y1bi6g3s-fill" stroke="none" fill="none">
       <g>
-        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
+        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
       </g>
     </g>
-    <g id="sy_3_cu_m8m80a1bhxzws-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
+    <g id="cp_2_g-2_v30a2y1bi6g3s-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#1ac3fb" stroke-width="2">
       <g>
-        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
-      </g>
-    </g>
-    <g id="sy_3_cu_m8m80a1bhxzws-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
-      <g>
-        <path d="M 37 13L 16 13"/>
+        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
       </g>
     </g>
   </g>
-  <g id="g-root-sy_2_cu_hsspvu1bhy0p1-stroke-fill" data-item-order="-10240" transform="translate(245, 239)">
-    <g id="sy_2_cu_hsspvu1bhy0p1-fill" stroke="none" fill="none">
+  <g id="g-root-cp_3_g-3_qn6ryi1bi6gw2-stroke-fill" data-item-order="-230342" transform="translate(236, 290)">
+    <g id="cp_3_g-3_qn6ryi1bi6gw2-fill" stroke="none" fill="none">
       <g>
-        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
+        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
       </g>
     </g>
-    <g id="sy_2_cu_hsspvu1bhy0p1-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#1ac3fb" stroke-width="2">
+    <g id="cp_3_g-3_qn6ryi1bi6gw2-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
       <g>
-        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
-      </g>
-    </g>
-    <g id="sy_2_cu_hsspvu1bhy0p1-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#1ac3fb" stroke-width="2">
-      <g>
-        <path d="M 37 13L 16 13"/>
+        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
       </g>
     </g>
   </g>
-  <g id="g-root-sy_1_cu_8x5pmy1bhy1hq-stroke-fill" data-item-order="-10236" transform="translate(245, 143)">
-    <g id="sy_1_cu_8x5pmy1bhy1hq-fill" stroke="none" fill="none">
+  <g id="g-root-cp_4_g-4_hrjrpm1bi6hos-stroke-fill" data-item-order="-230336" transform="translate(326, 290)">
+    <g id="cp_4_g-4_hrjrpm1bi6hos-fill" stroke="none" fill="none">
       <g>
-        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
+        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
       </g>
     </g>
-    <g id="sy_1_cu_8x5pmy1bhy1hq-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
+    <g id="cp_4_g-4_hrjrpm1bi6hos-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#a6da37" stroke-width="2">
       <g>
-        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
-      </g>
-    </g>
-    <g id="sy_1_cu_8x5pmy1bhy1hq-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
-      <g>
-        <path d="M 37 13L 16 13"/>
+        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
       </g>
     </g>
   </g>
-  <g id="g-root-tx_thelaken_4hc7ii1bhy29z-stroke-fill" data-item-order="0" transform="translate(74, 50)">
-    <g id="tx_thelaken_4hc7ii1bhy29z-fill" stroke="none" fill="#f4f4f4">
+  <g id="g-root-cp_2_column-2_dccqoa1bi6fba-stroke-fill" data-item-order="-230328" transform="translate(143, 371)">
+    <g id="cp_2_column-2_dccqoa1bi6fba-fill" stroke="none" fill="none">
+      <g>
+        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
+      </g>
+    </g>
+    <g id="cp_2_column-2_dccqoa1bi6fba-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#1ac3fb" stroke-width="2">
+      <g>
+        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
+      </g>
+    </g>
+    <g id="cp_2_column-2_dccqoa1bi6fba-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#1ac3fb" stroke-width="2">
+      <g>
+        <path d="M 13 16L 13 142"/>
+      </g>
+    </g>
+    <g id="cp_2_column-2_dccqoa1bi6fba-fill" stroke="none" fill="none">
+      <g>
+        <path d="M 10 145C 10 146.656854 11.343146 148 13 148C 14.656854 148 16 146.656854 16 145C 16 143.343146 14.656854 142 13 142C 11.343146 142 10 143.343146 10 145"/>
+      </g>
+    </g>
+    <g id="cp_2_column-2_dccqoa1bi6fba-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#1ac3fb" stroke-width="2">
+      <g>
+        <path d="M 10 145C 10 146.656854 11.343146 148 13 148C 14.656854 148 16 146.656854 16 145C 16 143.343146 14.656854 142 13 142C 11.343146 142 10 143.343146 10 145"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-cp_4_column-4_8wj8ju1bi6g3k-stroke-fill" data-item-order="-230312" transform="translate(323, 371)">
+    <g id="cp_4_column-4_8wj8ju1bi6g3k-fill" stroke="none" fill="none">
+      <g>
+        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
+      </g>
+    </g>
+    <g id="cp_4_column-4_8wj8ju1bi6g3k-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#a6da37" stroke-width="2">
+      <g>
+        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
+      </g>
+    </g>
+    <g id="cp_4_column-4_8wj8ju1bi6g3k-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#a6da37" stroke-width="2">
+      <g>
+        <path d="M 13 16L 13 118"/>
+      </g>
+    </g>
+    <g id="cp_4_column-4_8wj8ju1bi6g3k-fill" stroke="none" fill="none">
+      <g>
+        <path d="M 10 121C 10 122.656854 11.343146 124 13 124C 14.656854 124 16 122.656854 16 121C 16 119.343146 14.656854 118 13 118C 11.343146 118 10 119.343146 10 121"/>
+      </g>
+    </g>
+    <g id="cp_4_column-4_8wj8ju1bi6g3k-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#a6da37" stroke-width="2">
+      <g>
+        <path d="M 10 121C 10 122.656854 11.343146 124 13 124C 14.656854 124 16 122.656854 16 121C 16 119.343146 14.656854 118 13 118C 11.343146 118 10 119.343146 10 121"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_thelaken_w8ay1bi6gwa-stroke-fill" data-item-order="0" transform="translate(26, 50)">
+    <g id="tx_thelaken_w8ay1bi6gwa-fill" stroke="none" fill="#f4f4f4">
       <g>
         <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12.82" y="34" dominant-baseline="ideographic">The Lakenheath-Bentwaters UFO Incident: A Timeline of Events</tspan>
+          <tspan x="13.27" y="34" dominant-baseline="ideographic">The Lakenheath-Bentwaters UFO Incident: A Timeline </tspan>
+          <tspan x="207.46" y="58" dominant-baseline="ideographic">of Events</tspan>
         </text>
       </g>
     </g>
   </g>
-  <g id="g-root-tx_incident_256h61bhxzwg-stroke-fill" data-item-order="0" transform="translate(296, 410)">
-    <g id="tx_incident_256h61bhxzwg-fill" stroke="none" fill="#f4f4f4">
-      <g>
-        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="34" dominant-baseline="ideographic">Incident listed as "unexplained" in UK </tspan>
-          <tspan x="12" y="58" dominant-baseline="ideographic">briefing</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_intercep_1cw5pu21bhy22x-stroke-fill" data-item-order="0" transform="translate(296, 314)">
-    <g id="tx_intercep_1cw5pu21bhy22x-fill" stroke="none" fill="#f4f4f4">
-      <g>
-        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="34" dominant-baseline="ideographic">Interceptor response and visual </tspan>
-          <tspan x="12" y="58" dominant-baseline="ideographic">confirmation</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_detectio_zlboju1bhy0i2-stroke-fill" data-item-order="0" transform="translate(296, 230)">
-    <g id="tx_detectio_zlboju1bhy0i2-fill" stroke="none" fill="#f4f4f4">
-      <g>
-        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="34" dominant-baseline="ideographic">Detection of multiple UREs</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_initialr_v5i6fe1bhy1ab-stroke-fill" data-item-order="0" transform="translate(296, 134)">
-    <g id="tx_initialr_v5i6fe1bhy1ab-fill" stroke="none" fill="#f4f4f4">
-      <g>
-        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="34" dominant-baseline="ideographic">Initial radar contact at RAF Bentwaters</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_1957_huo5561bhxzpg-stroke-fill" data-item-order="0" transform="translate(164, 422)">
-    <g id="tx_1957_huo5561bhxzpg-fill" stroke="none" fill="#a6da37">
+  <g id="g-root-tx_august13_1lr68zu1bi6f4b-stroke-fill" data-item-order="0" transform="translate(68, 146)">
+    <g id="tx_august13_1lr68zu1bi6f4b-fill" stroke="none" fill="#4f91fc">
       <g>
         <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="22.09" y="34" dominant-baseline="ideographic">1957</tspan>
+          <tspan x="12" y="34" dominant-baseline="ideographic">August 13, </tspan>
+          <tspan x="12" y="58" dominant-baseline="ideographic">1956, 21:30 </tspan>
+          <tspan x="12" y="82" dominant-baseline="ideographic">GMT</tspan>
         </text>
       </g>
     </g>
   </g>
-  <g id="g-root-tx_august13_8z14wa1bhy0i5-stroke-fill" data-item-order="0" transform="translate(32, 326)">
-    <g id="tx_august13_8z14wa1bhy0i5-fill" stroke="none" fill="#43dd93">
+  <g id="g-root-tx_initialr_1hbcqve1bi6fwk-stroke-fill" data-item-order="0" transform="translate(68, 230)">
+    <g id="tx_initialr_1hbcqve1bi6fwk-fill" stroke="none" fill="#f4f4f4">
       <g>
-        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="21.25" y="34" dominant-baseline="ideographic">August 13-14, 1956</tspan>
+        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
+          <tspan x="12" y="28" dominant-baseline="ideographic">Initial radar contact </tspan>
+          <tspan x="12" y="46" dominant-baseline="ideographic">at RAF Bentwaters</tspan>
         </text>
       </g>
     </g>
   </g>
-  <g id="g-root-tx_august13_1uoooi21bhy1vy-stroke-fill" data-item-order="0" transform="translate(56, 218)">
-    <g id="tx_august13_1uoooi21bhy1vy-fill" stroke="none" fill="#1ac3fb">
+  <g id="g-root-tx_august13_v4vpca1bi6f4d-stroke-fill" data-item-order="0" transform="translate(248, 146)">
+    <g id="tx_august13_v4vpca1bi6f4d-fill" stroke="none" fill="#43dd93">
       <g>
         <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="23.16" y="34" dominant-baseline="ideographic">August 13, 1956, </tspan>
-          <tspan x="76.23" y="58" dominant-baseline="ideographic">21:35 GMT</tspan>
+          <tspan x="12" y="34" dominant-baseline="ideographic">August 13-14, </tspan>
+          <tspan x="12" y="58" dominant-baseline="ideographic">1956</tspan>
         </text>
       </g>
     </g>
   </g>
-  <g id="g-root-tx_august13_1hdun7u1bhy0b3-stroke-fill" data-item-order="0" transform="translate(56, 122)">
-    <g id="tx_august13_1hdun7u1bhy0b3-fill" stroke="none" fill="#4f91fc">
+  <g id="g-root-tx_intercep_htf6yy1bi6gpa-stroke-fill" data-item-order="0" transform="translate(248, 206)">
+    <g id="tx_intercep_htf6yy1bi6gpa-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
+          <tspan x="12" y="31" dominant-baseline="ideographic">Interceptor response </tspan>
+          <tspan x="12" y="49" dominant-baseline="ideographic">and visual </tspan>
+          <tspan x="12" y="67" dominant-baseline="ideographic">confirmation</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_august13_2rnka1bi6fwn-stroke-fill" data-item-order="0" transform="translate(158, 386)">
+    <g id="tx_august13_2rnka1bi6fwn-fill" stroke="none" fill="#1ac3fb">
       <g>
         <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="23.16" y="34" dominant-baseline="ideographic">August 13, 1956, </tspan>
-          <tspan x="76.23" y="58" dominant-baseline="ideographic">21:30 GMT</tspan>
+          <tspan x="12" y="34" dominant-baseline="ideographic">August 13, </tspan>
+          <tspan x="12" y="58" dominant-baseline="ideographic">1956, 21:35 </tspan>
+          <tspan x="12" y="82" dominant-baseline="ideographic">GMT</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_detectio_1uo27ey1bi6ghs-stroke-fill" data-item-order="0" transform="translate(158, 470)">
+    <g id="tx_detectio_1uo27ey1bi6ghs-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
+          <tspan x="12" y="28" dominant-baseline="ideographic">Detection of multiple </tspan>
+          <tspan x="12" y="46" dominant-baseline="ideographic">UREs</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_1957_18hl5vu1bi6fpl-stroke-fill" data-item-order="0" transform="translate(338, 386)">
+    <g id="tx_1957_18hl5vu1bi6fpl-fill" stroke="none" fill="#a6da37">
+      <g>
+        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="12" y="34" dominant-baseline="ideographic">1957</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_incident_v64nii1bi6hai-stroke-fill" data-item-order="0" transform="translate(338, 422)">
+    <g id="tx_incident_v64nii1bi6hai-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
+          <tspan x="12" y="31" dominant-baseline="ideographic">Incident listed as </tspan>
+          <tspan x="12" y="49" dominant-baseline="ideographic">"unexplained" in UK </tspan>
+          <tspan x="12" y="67" dominant-baseline="ideographic">briefing</tspan>
         </text>
       </g>
     </g>
@@ -179,7 +260,7 @@
           <path d="M -12.5 12.5 l 13 -13 l 6 0 l -13 13 Z M -0.5 12.5 l 13 -13 l 6 0 l -13 13 Z M 11.5 12.5 l 13 -13 l 6 0 l -13 13 Z"/>
         </g>
       </symbol>
-      <pattern id="crawlingPattern-5c87005e" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#5c87005e">
+      <pattern id="crawlingPattern-0060fba2" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#0060fba2">
         <use href="#crawlingSymbol"/>
       </pattern>
       <pattern id="crawlingPattern-00b15c75" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#00b15c75">
@@ -188,7 +269,7 @@
       <pattern id="crawlingPattern-00a3d9d9" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#00a3d9d9">
         <use href="#crawlingSymbol"/>
       </pattern>
-      <pattern id="crawlingPattern-0060fba2" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#0060fba2">
+      <pattern id="crawlingPattern-5c87005e" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#5c87005e">
         <use href="#crawlingSymbol"/>
       </pattern>
     </defs>

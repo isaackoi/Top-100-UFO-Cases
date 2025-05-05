@@ -1,7 +1,7 @@
 ---
 title: 'The Frederick Valentich Disappearance: A Critical Analysis of Australia''s Most Enduring UFO Mystery'
 permalink: /valentich-disappearance-1978/
-date: '2025-05-05 15:17:07 '
+date: '2025-05-05 19:56:23 '
 image: /assets/images/UFO - Top 100/Valentich disappearance 1978-Full-Text.svg
 description: 'Exploring The Frederick Valentich Disappearance: A Critical Analysis of Australia''s Most Enduring UFO Mystery within the context of UFO - Top 100.'
 ---

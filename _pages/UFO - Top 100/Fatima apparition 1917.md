@@ -1,7 +1,7 @@
 ---
 title: 'The Fatima Apparitions of 1917: Miracle or Extraterrestrial Encounter?'
 permalink: /fatima-apparition-1917/
-date: '2025-05-05 15:17:02 '
+date: '2025-05-05 19:56:16 '
 image: /assets/images/UFO - Top 100/Fatima apparition 1917-Full-Text.svg
 description: 'Exploring The Fatima Apparitions of 1917: Miracle or Extraterrestrial Encounter? within the context of UFO - Top 100.'
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'The Travis Walton UFO Incident: A Critical Examination of Evidence and Claims'
 permalink: /travis-walton-abduction-1975/
-date: '2025-05-05 15:17:06 '
+date: '2025-05-05 19:56:21 '
 image: /assets/images/UFO - Top 100/Travis Walton abduction 1975-Full-Text.svg
 description: 'Exploring The Travis Walton UFO Incident: A Critical Examination of Evidence and Claims within the context of UFO - Top 100.'
 ---

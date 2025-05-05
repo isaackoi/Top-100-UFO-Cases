@@ -1,250 +1,142 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="552" height="552" viewBox="0 0 552 552" style="fill:none;stroke:none;fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="816" height="348" viewBox="0 0 816 348" style="fill:none;stroke:none;fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" version="1.1">
   <style class="text-font-style fontImports" data-font-family="Roboto">@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=block');</style>
-  <rect x="0" y="0" width="552" height="552" fill="#252a34" stroke="none" id="programmatic_background"/>
-  <g id="g-root-tf_94mvs81bsegoy-stroke-fill" data-item-order="-278784" transform="translate(12, 12)"/>
-  <g id="g-root-cp_1_column-1_18itl601bseh39-stroke-fill" data-item-order="-207350" transform="translate(53, 119)">
-    <g id="cp_1_column-1_18itl601bseh39-fill" stroke="none" fill="none">
+  <rect x="0" y="0" width="816" height="348" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <g id="g-root-tf_mcz3vs1bs1u68-stroke-fill" data-item-order="-256608" transform="translate(12, 12)"/>
+  <g id="g-root-cp_1_g-1_2r7u01bs1vd5-stroke-fill" data-item-order="-169596" transform="translate(62, 236)">
+    <g id="cp_1_g-1_2r7u01bs1vd5-fill" stroke="none" fill="none">
       <g>
-        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
+        <path d="M 10 10L 178 10L 178 22L 10 22L 10 10Z"/>
       </g>
     </g>
-    <g id="cp_1_column-1_18itl601bseh39-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
+    <g id="cp_1_g-1_2r7u01bs1vd5-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
       <g>
-        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
-      </g>
-    </g>
-    <g id="cp_1_column-1_18itl601bseh39-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
-      <g>
-        <path d="M 13 16L 13 118"/>
-      </g>
-    </g>
-    <g id="cp_1_column-1_18itl601bseh39-fill" stroke="none" fill="none">
-      <g>
-        <path d="M 10 121C 10 122.656854 11.343146 124 13 124C 14.656854 124 16 122.656854 16 121C 16 119.343146 14.656854 118 13 118C 11.343146 118 10 119.343146 10 121"/>
-      </g>
-    </g>
-    <g id="cp_1_column-1_18itl601bseh39-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
-      <g>
-        <path d="M 10 121C 10 122.656854 11.343146 124 13 124C 14.656854 124 16 122.656854 16 121C 16 119.343146 14.656854 118 13 118C 11.343146 118 10 119.343146 10 121"/>
+        <path d="M 10 10L 178 10L 178 22L 10 22L 10 10Z"/>
       </g>
     </g>
   </g>
-  <g id="g-root-cp_3_column-3_zn6kx41bsehvz-stroke-fill" data-item-order="-207334" transform="translate(233, 119)">
-    <g id="cp_3_column-3_zn6kx41bsehvz-fill" stroke="none" fill="none">
+  <g id="g-root-cp_2_g-2_2r7u01bs1vd7-stroke-fill" data-item-order="-169592" transform="translate(230, 236)">
+    <g id="cp_2_g-2_2r7u01bs1vd7-fill" stroke="none" fill="none">
       <g>
-        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
+        <path d="M 10 10L 178 10L 178 22L 10 22Z"/>
       </g>
     </g>
-    <g id="cp_3_column-3_zn6kx41bsehvz-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
+    <g id="cp_2_g-2_2r7u01bs1vd7-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#8769fd" stroke-width="2">
       <g>
-        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
-      </g>
-    </g>
-    <g id="cp_3_column-3_zn6kx41bsehvz-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
-      <g>
-        <path d="M 13 16L 13 118"/>
-      </g>
-    </g>
-    <g id="cp_3_column-3_zn6kx41bsehvz-fill" stroke="none" fill="none">
-      <g>
-        <path d="M 10 121C 10 122.656854 11.343146 124 13 124C 14.656854 124 16 122.656854 16 121C 16 119.343146 14.656854 118 13 118C 11.343146 118 10 119.343146 10 121"/>
-      </g>
-    </g>
-    <g id="cp_3_column-3_zn6kx41bsehvz-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
-      <g>
-        <path d="M 10 121C 10 122.656854 11.343146 124 13 124C 14.656854 124 16 122.656854 16 121C 16 119.343146 14.656854 118 13 118C 11.343146 118 10 119.343146 10 121"/>
+        <path d="M 10 10L 178 10L 178 22L 10 22Z"/>
       </g>
     </g>
   </g>
-  <g id="g-root-cp_1_g-1_v7d2so1bseio9-stroke-fill" data-item-order="-207316" transform="translate(56, 242)">
-    <g id="cp_1_g-1_v7d2so1bseio9-fill" stroke="none" fill="none">
+  <g id="g-root-cp_3_g-3_1uoo8rs1bs1ssk-stroke-fill" data-item-order="-169588" transform="translate(398, 236)">
+    <g id="cp_3_g-3_1uoo8rs1bs1ssk-fill" stroke="none" fill="none">
       <g>
-        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
+        <path d="M 10 10L 178 10L 178 22L 10 22Z"/>
       </g>
     </g>
-    <g id="cp_1_g-1_v7d2so1bseio9-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
+    <g id="cp_3_g-3_1uoo8rs1bs1ssk-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
       <g>
-        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-cp_2_g-2_qs61rc1bsegar-stroke-fill" data-item-order="-207308" transform="translate(146, 242)">
-    <g id="cp_2_g-2_qs61rc1bsegar-fill" stroke="none" fill="none">
-      <g>
-        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
-      </g>
-    </g>
-    <g id="cp_2_g-2_qs61rc1bsegar-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#8769fd" stroke-width="2">
-      <g>
-        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
+        <path d="M 10 10L 178 10L 178 22L 10 22Z"/>
       </g>
     </g>
   </g>
-  <g id="g-root-cp_3_g-3_hwj1ig1bseh3h-stroke-fill" data-item-order="-207302" transform="translate(236, 242)">
-    <g id="cp_3_g-3_hwj1ig1bseh3h-fill" stroke="none" fill="none">
+  <g id="g-root-cp_4_g-4_1lt18iw1bs1tl9-stroke-fill" data-item-order="-169584" transform="translate(566, 229.5)">
+    <g id="cp_4_g-4_1lt18iw1bs1tl9-fill" stroke="none" fill="none">
       <g>
-        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
+        <path d="M 10 16.5L 159.714 16.5L 159.714 10L 178 22.5L 159.714 35L 159.714 28.5L 10 28.5L 10 16.5Z"/>
       </g>
     </g>
-    <g id="cp_3_g-3_hwj1ig1bseh3h-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
+    <g id="cp_4_g-4_1lt18iw1bs1tl9-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#a6da37" stroke-width="2">
       <g>
-        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-cp_4_g-4_dgpje01bsehvr-stroke-fill" data-item-order="-207296" transform="translate(326, 242)">
-    <g id="cp_4_g-4_dgpje01bsehvr-fill" stroke="none" fill="none">
-      <g>
-        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
-      </g>
-    </g>
-    <g id="cp_4_g-4_dgpje01bsehvr-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#a6da37" stroke-width="2">
-      <g>
-        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
+        <path d="M 10 16.5L 159.7143 16.5L 159.7143 10L 178 22.5L 159.7143 35L 159.7143 28.5L 10 28.5L 10 16.5Z"/>
       </g>
     </g>
   </g>
-  <g id="g-root-cp_2_column-2_dgpje01bsehvt-stroke-fill" data-item-order="-207288" transform="translate(143, 323)">
-    <g id="cp_2_column-2_dgpje01bsehvt-fill" stroke="none" fill="none">
-      <g>
-        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
-      </g>
-    </g>
-    <g id="cp_2_column-2_dgpje01bsehvt-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#8769fd" stroke-width="2">
-      <g>
-        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
-      </g>
-    </g>
-    <g id="cp_2_column-2_dgpje01bsehvt-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#8769fd" stroke-width="2">
-      <g>
-        <path d="M 13 16L 13 142"/>
-      </g>
-    </g>
-    <g id="cp_2_column-2_dgpje01bsehvt-fill" stroke="none" fill="none">
-      <g>
-        <path d="M 10 145C 10 146.656854 11.343146 148 13 148C 14.656854 148 16 146.656854 16 145C 16 143.343146 14.656854 142 13 142C 11.343146 142 10 143.343146 10 145"/>
-      </g>
-    </g>
-    <g id="cp_2_column-2_dgpje01bsehvt-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#8769fd" stroke-width="2">
-      <g>
-        <path d="M 10 145C 10 146.656854 11.343146 148 13 148C 14.656854 148 16 146.656854 16 145C 16 143.343146 14.656854 142 13 142C 11.343146 142 10 143.343146 10 145"/>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-cp_4_column-4_5vi3s1bsegaz-stroke-fill" data-item-order="-207272" transform="translate(323, 323)">
-    <g id="cp_4_column-4_5vi3s1bsegaz-fill" stroke="none" fill="none">
-      <g>
-        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
-      </g>
-    </g>
-    <g id="cp_4_column-4_5vi3s1bsegaz-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#a6da37" stroke-width="2">
-      <g>
-        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
-      </g>
-    </g>
-    <g id="cp_4_column-4_5vi3s1bsegaz-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#a6da37" stroke-width="2">
-      <g>
-        <path d="M 13 16L 13 118"/>
-      </g>
-    </g>
-    <g id="cp_4_column-4_5vi3s1bsegaz-fill" stroke="none" fill="none">
-      <g>
-        <path d="M 10 121C 10 122.656854 11.343146 124 13 124C 14.656854 124 16 122.656854 16 121C 16 119.343146 14.656854 118 13 118C 11.343146 118 10 119.343146 10 121"/>
-      </g>
-    </g>
-    <g id="cp_4_column-4_5vi3s1bsegaz-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#a6da37" stroke-width="2">
-      <g>
-        <path d="M 10 121C 10 122.656854 11.343146 124 13 124C 14.656854 124 16 122.656854 16 121C 16 119.343146 14.656854 118 13 118C 11.343146 118 10 119.343146 10 121"/>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_thestran_1ur61yg1bsegw5-stroke-fill" data-item-order="0" transform="translate(26, 50)">
-    <g id="tx_thestran_1ur61yg1bsegw5-fill" stroke="none" fill="#f4f4f4">
-      <g>
-        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="15.82" y="34" dominant-baseline="ideographic">The Strange Case of Dr. X: A UFO Encounter Timeline</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_november_1hfpjl41bseih2-stroke-fill" data-item-order="0" transform="translate(68, 122)">
-    <g id="tx_november_1hfpjl41bseih2-fill" stroke="none" fill="#4f91fc">
+  <g id="g-root-tx_thestran_1hd7qeg1bs1udj-stroke-fill" data-item-order="0" transform="translate(158, 50)">
+    <g id="tx_thestran_1hd7qeg1bs1udj-fill" stroke="none" fill="#f4f4f4">
       <g>
         <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="34" dominant-baseline="ideographic">November 2, </tspan>
-          <tspan x="12" y="58" dominant-baseline="ideographic">1968, 4:00 AM</tspan>
+          <tspan x="11.83" y="34" dominant-baseline="ideographic">The Strange Case of Dr. X: A UFO Encounter Timeline</tspan>
         </text>
       </g>
     </g>
   </g>
-  <g id="g-root-tx_drxawake_18kp0fc1bseg3z-stroke-fill" data-item-order="0" transform="translate(68, 182)">
-    <g id="tx_drxawake_18kp0fc1bseg3z-fill" stroke="none" fill="#f4f4f4">
+  <g id="g-root-tx_drxawake_1cxe8a01bs1v5s-stroke-fill" data-item-order="0" transform="translate(74, 122)">
+    <g id="tx_drxawake_1cxe8a01bs1v5s-fill" stroke="none" fill="#f4f4f4">
       <g>
         <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="28" dominant-baseline="ideographic">Dr. X awakens to his </tspan>
-          <tspan x="12" y="46" dominant-baseline="ideographic">son's cries</tspan>
+          <tspan x="13.43" y="28" dominant-baseline="ideographic">Dr. X awakens to his </tspan>
+          <tspan x="45.76" y="46" dominant-baseline="ideographic">son's cries</tspan>
         </text>
       </g>
     </g>
   </g>
-  <g id="g-root-tx_november_144viaw1bsegw8-stroke-fill" data-item-order="0" transform="translate(248, 122)">
-    <g id="tx_november_144viaw1bsegw8-fill" stroke="none" fill="#43dd93">
+  <g id="g-root-tx_november_zmk6zs1bs1tkx-stroke-fill" data-item-order="0" transform="translate(74, 170)">
+    <g id="tx_november_zmk6zs1bs1tkx-fill" stroke="none" fill="#4f91fc">
       <g>
         <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="34" dominant-baseline="ideographic">November 5, </tspan>
-          <tspan x="12" y="58" dominant-baseline="ideographic">1968</tspan>
+          <tspan x="24.94" y="34" dominant-baseline="ideographic">November 2, </tspan>
+          <tspan x="16.11" y="58" dominant-baseline="ideographic">1968, 4:00 AM</tspan>
         </text>
       </g>
     </g>
   </g>
-  <g id="g-root-tx_drxwrite_qtezxk1bseih5-stroke-fill" data-item-order="0" transform="translate(248, 182)">
-    <g id="tx_drxwrite_qtezxk1bseih5-fill" stroke="none" fill="#f4f4f4">
+  <g id="g-root-tx_drxobser_qqx6qw1bs1udm-stroke-fill" data-item-order="0" transform="translate(242, 98)">
+    <g id="tx_drxobser_qqx6qw1bs1udm-fill" stroke="none" fill="#f4f4f4">
       <g>
         <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="28" dominant-baseline="ideographic">Dr. X writes to Aimé </tspan>
-          <tspan x="12" y="46" dominant-baseline="ideographic">Michel</tspan>
+          <tspan x="13.15" y="31" dominant-baseline="ideographic">Dr. X observes UFOs </tspan>
+          <tspan x="26.38" y="49" dominant-baseline="ideographic">and experiences </tspan>
+          <tspan x="56.65" y="67" dominant-baseline="ideographic">healing</tspan>
         </text>
       </g>
     </g>
   </g>
-  <g id="g-root-tx_november_dikync1bsegwa-stroke-fill" data-item-order="0" transform="translate(158, 338)">
-    <g id="tx_november_dikync1bsegwa-fill" stroke="none" fill="#8769fd">
+  <g id="g-root-tx_november_dg35go1bs1ssr-stroke-fill" data-item-order="0" transform="translate(242, 170)">
+    <g id="tx_november_dg35go1bs1ssr-fill" stroke="none" fill="#8769fd">
       <g>
         <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="34" dominant-baseline="ideographic">November 2, </tspan>
-          <tspan x="12" y="58" dominant-baseline="ideographic">1968, 4:05 AM</tspan>
+          <tspan x="24.94" y="34" dominant-baseline="ideographic">November 2, </tspan>
+          <tspan x="16.11" y="58" dominant-baseline="ideographic">1968, 4:05 AM</tspan>
         </text>
       </g>
     </g>
   </g>
-  <g id="g-root-tx_drxobser_74ga01bseih7-stroke-fill" data-item-order="0" transform="translate(158, 398)">
-    <g id="tx_drxobser_74ga01bseih7-fill" stroke="none" fill="#f4f4f4">
+  <g id="g-root-tx_drxwrite_909nc81bs1tl0-stroke-fill" data-item-order="0" transform="translate(410, 122)">
+    <g id="tx_drxwrite_909nc81bs1tl0-fill" stroke="none" fill="#f4f4f4">
       <g>
         <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="31" dominant-baseline="ideographic">Dr. X observes UFOs </tspan>
-          <tspan x="12" y="49" dominant-baseline="ideographic">and experiences </tspan>
-          <tspan x="12" y="67" dominant-baseline="ideographic">healing</tspan>
+          <tspan x="14.77" y="28" dominant-baseline="ideographic">Dr. X writes to Aimé </tspan>
+          <tspan x="57.91" y="46" dominant-baseline="ideographic">Michel</tspan>
         </text>
       </g>
     </g>
   </g>
-  <g id="g-root-tx_november_1ut1h7s1bsefwk-stroke-fill" data-item-order="0" transform="translate(338, 338)">
-    <g id="tx_november_1ut1h7s1bsefwk-fill" stroke="none" fill="#a6da37">
+  <g id="g-root-tx_november_1upx6y01bs1uyt-stroke-fill" data-item-order="0" transform="translate(410, 170)">
+    <g id="tx_november_1upx6y01bs1uyt-fill" stroke="none" fill="#43dd93">
       <g>
         <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="34" dominant-baseline="ideographic">November 8, </tspan>
-          <tspan x="12" y="58" dominant-baseline="ideographic">1968</tspan>
+          <tspan x="16.45" y="34" dominant-baseline="ideographic">November 5, </tspan>
+          <tspan x="50.55" y="58" dominant-baseline="ideographic">1968</tspan>
         </text>
       </g>
     </g>
   </g>
-  <g id="g-root-tx_michelar_1lxegyw1bsegp9-stroke-fill" data-item-order="0" transform="translate(338, 398)">
-    <g id="tx_michelar_1lxegyw1bsegp9-fill" stroke="none" fill="#f4f4f4">
+  <g id="g-root-tx_michelar_1lua6p41bs1vri-stroke-fill" data-item-order="0" transform="translate(578, 122)">
+    <g id="tx_michelar_1lua6p41bs1vri-fill" stroke="none" fill="#f4f4f4">
       <g>
         <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="28" dominant-baseline="ideographic">Michel arrives for </tspan>
-          <tspan x="12" y="46" dominant-baseline="ideographic">investigation</tspan>
+          <tspan x="16.34" y="28" dominant-baseline="ideographic">Michel arrives for </tspan>
+          <tspan x="31.46" y="46" dominant-baseline="ideographic">investigation</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_november_1hf35ns1bs1tdz-stroke-fill" data-item-order="0" transform="translate(578, 170)">
+    <g id="tx_november_1hf35ns1bs1tdz-fill" stroke="none" fill="#a6da37">
+      <g>
+        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="16.45" y="34" dominant-baseline="ideographic">November 8, </tspan>
+          <tspan x="50.55" y="58" dominant-baseline="ideographic">1968</tspan>
         </text>
       </g>
     </g>
@@ -260,10 +152,10 @@
       <pattern id="crawlingPattern-0060fba2" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#0060fba2">
         <use href="#crawlingSymbol"/>
       </pattern>
-      <pattern id="crawlingPattern-00b15c75" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#00b15c75">
+      <pattern id="crawlingPattern-3300fc7a" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#3300fc7a">
         <use href="#crawlingSymbol"/>
       </pattern>
-      <pattern id="crawlingPattern-3300fc7a" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#3300fc7a">
+      <pattern id="crawlingPattern-00b15c75" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#00b15c75">
         <use href="#crawlingSymbol"/>
       </pattern>
       <pattern id="crawlingPattern-5c87005e" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#5c87005e">

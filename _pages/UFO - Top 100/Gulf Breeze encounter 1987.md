@@ -1,7 +1,7 @@
 ---
 title: 'The Gulf Breeze UFO Incident (1987-1988): A Critical Examination of Evidence'
 permalink: /gulf-breeze-encounter-1987/
-date: '2025-05-05 15:17:03 '
+date: '2025-05-05 19:56:18 '
 image: /assets/images/UFO - Top 100/Gulf Breeze encounter 1987-Full-Text.svg
 description: 'Exploring The Gulf Breeze UFO Incident (1987-1988): A Critical Examination of Evidence within the context of UFO - Top 100.'
 ---

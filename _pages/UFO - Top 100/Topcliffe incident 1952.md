@@ -1,7 +1,7 @@
 ---
 title: 'The Topcliffe Incident (1952): A Critical Examination of a Pivotal UFO Case'
 permalink: /topcliffe-incident-1952/
-date: '2025-05-05 15:17:06 '
+date: '2025-05-05 19:56:21 '
 image: /assets/images/UFO - Top 100/Topcliffe incident 1952-Full-Text.svg
 description: 'Exploring The Topcliffe Incident (1952): A Critical Examination of a Pivotal UFO Case within the context of UFO - Top 100.'
 ---

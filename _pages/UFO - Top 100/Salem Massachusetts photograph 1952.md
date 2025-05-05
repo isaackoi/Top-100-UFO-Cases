@@ -1,7 +1,7 @@
 ---
 title: 'The Salem UFO Photograph of 1952: A Critical Examination of Evidence and Legacy'
 permalink: /salem-massachusetts-photograph-1952/
-date: '2025-05-05 15:17:06 '
+date: '2025-05-05 19:56:20 '
 image: /assets/images/UFO - Top 100/Salem Massachusetts photograph 1952-Full-Text.svg
 description: 'Exploring The Salem UFO Photograph of 1952: A Critical Examination of Evidence and Legacy within the context of UFO - Top 100.'
 ---

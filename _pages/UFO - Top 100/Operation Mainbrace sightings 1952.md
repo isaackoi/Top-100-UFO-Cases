@@ -1,7 +1,7 @@
 ---
 title: 'Operation Mainbrace UFO Sightings (1952): A Critical Analysis of the Evidence'
 permalink: /operation-mainbrace-sightings-1952/
-date: '2025-05-05 15:17:05 '
+date: '2025-05-05 19:56:20 '
 image: /assets/images/UFO - Top 100/Operation Mainbrace sightings 1952-Full-Text.svg
 description: 'Exploring Operation Mainbrace UFO Sightings (1952): A Critical Analysis of the Evidence within the context of UFO - Top 100.'
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'The Sonny DesVergers Scoutmaster UFO Encounter: A Critical Examination of the 1952 Case'
 permalink: /desvergers-scoutmaster-sighting-1952/
-date: '2025-05-05 15:17:01 '
+date: '2025-05-05 19:56:16 '
 image: /assets/images/UFO - Top 100/Desvergers scoutmaster sighting 1952-Full-Text.svg
 description: 'Exploring The Sonny DesVergers Scoutmaster UFO Encounter: A Critical Examination of the 1952 Case within the context of UFO - Top 100.'
 ---

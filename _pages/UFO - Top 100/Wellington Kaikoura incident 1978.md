@@ -1,7 +1,7 @@
 ---
 title: 'The Wellington/Kaikoura UFO Incident (1978): A Comprehensive Analysis'
 permalink: /wellington-kaikoura-incident-1978/
-date: '2025-05-05 15:17:08 '
+date: '2025-05-05 19:56:23 '
 image: /assets/images/UFO - Top 100/Wellington Kaikoura incident 1978-Full-Text.svg
 description: 'Exploring The Wellington/Kaikoura UFO Incident (1978): A Comprehensive Analysis within the context of UFO - Top 100.'
 ---

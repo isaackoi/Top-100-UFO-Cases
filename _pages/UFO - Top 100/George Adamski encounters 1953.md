@@ -1,7 +1,7 @@
 ---
 title: 'George Adamski''s UFO Encounters (1953): A Critical Examination'
 permalink: /george-adamski-encounters-1953/
-date: '2025-05-05 15:17:02 '
+date: '2025-05-05 19:56:17 '
 image: /assets/images/UFO - Top 100/George Adamski encounters 1953-Full-Text.svg
 description: 'Exploring George Adamski''s UFO Encounters (1953): A Critical Examination within the context of UFO - Top 100.'
 ---

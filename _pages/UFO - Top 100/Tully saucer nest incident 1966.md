@@ -1,7 +1,7 @@
 ---
 title: 'The Tully "Saucer Nest" Incident (1966): A Critical Examination of Australia''s Famous UFO Case'
 permalink: /tully-saucer-nest-incident-1966/
-date: '2025-05-05 15:17:07 '
+date: '2025-05-05 19:56:22 '
 image: /assets/images/UFO - Top 100/Tully saucer nest incident 1966-Full-Text.svg
 description: 'Exploring The Tully "Saucer Nest" Incident (1966): A Critical Examination of Australia''s Famous UFO Case within the context of UFO - Top 100.'
 ---

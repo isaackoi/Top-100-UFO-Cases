@@ -1,7 +1,7 @@
 ---
 title: 'The Stefan Michalak Encounter: A Critical Analysis of Canada''s Most Documented UFO Case'
 permalink: /steven-michalak-encounter-1967/
-date: '2025-05-05 15:17:06 '
+date: '2025-05-05 19:56:21 '
 image: /assets/images/UFO - Top 100/Steven Michalak encounter 1967-Full-Text.svg
 description: 'Exploring The Stefan Michalak Encounter: A Critical Analysis of Canada''s Most Documented UFO Case within the context of UFO - Top 100.'
 ---

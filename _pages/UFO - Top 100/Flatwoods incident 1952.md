@@ -1,7 +1,7 @@
 ---
 title: 'The Flatwoods Monster Incident (1952): A Comprehensive Analysis'
 permalink: /flatwoods-incident-1952/
-date: '2025-05-05 15:17:02 '
+date: '2025-05-05 19:56:16 '
 image: /assets/images/UFO - Top 100/Flatwoods incident 1952-Full-Text.svg
 description: 'Exploring The Flatwoods Monster Incident (1952): A Comprehensive Analysis within the context of UFO - Top 100.'
 ---

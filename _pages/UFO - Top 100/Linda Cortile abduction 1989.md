@@ -1,7 +1,7 @@
 ---
 title: 'The Linda Cortile UFO Abduction Case: A Critical Examination of the "Most Important" Alien Abduction of the Century'
 permalink: /linda-cortile-abduction-1989/
-date: '2025-05-05 15:17:04 '
+date: '2025-05-05 19:56:19 '
 image: /assets/images/UFO - Top 100/Linda Cortile abduction 1989-Full-Text.svg
 description: 'Exploring The Linda Cortile UFO Abduction Case: A Critical Examination of the "Most Important" Alien Abduction of the Century within the context of UFO - Top 10'
 ---

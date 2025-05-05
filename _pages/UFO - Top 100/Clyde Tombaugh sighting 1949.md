@@ -1,7 +1,7 @@
 ---
 title: 'Clyde Tombaugh''s 1949 UFO Sighting: A Critical Analysis of an Astronomer''s Encounter'
 permalink: /clyde-tombaugh-sighting-1949/
-date: '2025-05-05 15:17:01 '
+date: '2025-05-05 19:56:16 '
 image: /assets/images/UFO - Top 100/Clyde Tombaugh sighting 1949-Full-Text.svg
 description: 'Exploring Clyde Tombaugh''s 1949 UFO Sighting: A Critical Analysis of an Astronomer''s Encounter within the context of UFO - Top 100.'
 ---

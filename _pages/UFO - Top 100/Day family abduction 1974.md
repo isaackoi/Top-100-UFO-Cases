@@ -1,7 +1,7 @@
 ---
 title: 'The Day Family Abduction (1974): A Critical Examination of the Aveley UFO Case'
 permalink: /day-family-abduction-1974/
-date: '2025-05-05 15:17:01 '
+date: '2025-05-05 19:56:16 '
 image: /assets/images/UFO - Top 100/Day family abduction 1974-Full-Text.svg
 description: 'Exploring The Day Family Abduction (1974): A Critical Examination of the Aveley UFO Case within the context of UFO - Top 100.'
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'The Oloron "Angel Hair" UFO Incident of 1952: A Critical Analysis'
 permalink: /oloron-angel-hair-incident-1952/
-date: '2025-05-05 15:17:05 '
+date: '2025-05-05 19:56:20 '
 image: /assets/images/UFO - Top 100/Oloron Angel Hair incident 1952-Full-Text.svg
 description: 'Exploring The Oloron "Angel Hair" UFO Incident of 1952: A Critical Analysis within the context of UFO - Top 100.'
 ---

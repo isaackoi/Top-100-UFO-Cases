@@ -1,7 +1,7 @@
 ---
 title: 'Kenneth Arnold''s 1947 UFO Sighting: The Birth of Modern UFO Phenomenon'
 permalink: /kenneth-arnolds-first-sighting-1947/
-date: '2025-05-05 15:17:04 '
+date: '2025-05-05 19:56:18 '
 image: /assets/images/UFO - Top 100/Kenneth Arnold s first sighting 1947-Full-Text.svg
 description: 'Exploring Kenneth Arnold''s 1947 UFO Sighting: The Birth of Modern UFO Phenomenon within the context of UFO - Top 100.'
 ---

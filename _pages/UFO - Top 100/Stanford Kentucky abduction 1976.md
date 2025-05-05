@@ -1,7 +1,7 @@
 ---
 title: 'The 1976 Stanford, Kentucky Abduction Case: A Critical Examination of the Evidence'
 permalink: /stanford-kentucky-abduction-1976/
-date: '2025-05-05 15:17:06 '
+date: '2025-05-05 19:56:21 '
 image: /assets/images/UFO - Top 100/Stanford Kentucky abduction 1976-Full-Text.svg
 description: 'Exploring The 1976 Stanford, Kentucky Abduction Case: A Critical Examination of the Evidence within the context of UFO - Top 100.'
 ---

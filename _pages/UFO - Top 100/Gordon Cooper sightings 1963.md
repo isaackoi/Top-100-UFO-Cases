@@ -1,7 +1,7 @@
 ---
 title: 'Gordon Cooper''s UFO Sightings (1963): A Comprehensive Analysis of Evidence'
 permalink: /gordon-cooper-sightings-1963/
-date: '2025-05-05 15:17:02 '
+date: '2025-05-05 19:56:17 '
 image: /assets/images/UFO - Top 100/Gordon Cooper sightings 1963-Full-Text.svg
 description: 'Exploring Gordon Cooper''s UFO Sightings (1963): A Comprehensive Analysis of Evidence within the context of UFO - Top 100.'
 ---

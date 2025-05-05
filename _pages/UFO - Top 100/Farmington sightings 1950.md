@@ -1,7 +1,7 @@
 ---
 title: 'The 1950 Farmington UFO Armada: A Critical Examination of Mass Sightings'
 permalink: /farmington-sightings-1950/
-date: '2025-05-05 15:17:02 '
+date: '2025-05-05 19:56:16 '
 image: /assets/images/UFO - Top 100/Farmington sightings 1950-Full-Text.svg
 description: 'Exploring The 1950 Farmington UFO Armada: A Critical Examination of Mass Sightings within the context of UFO - Top 100.'
 ---

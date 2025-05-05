@@ -1,7 +1,7 @@
 ---
 title: 'Apollo 11 UFO Sightings (1969): A Critical Examination of Evidence and Impact'
 permalink: /apollo-11-sightings-1969/
-date: '2025-05-05 15:17:00 '
+date: '2025-05-05 19:56:14 '
 image: /assets/images/UFO - Top 100/Apollo 11 sightings 1969-Full-Text.svg
 description: 'Exploring Apollo 11 UFO Sightings (1969): A Critical Examination of Evidence and Impact within the context of UFO - Top 100.'
 ---

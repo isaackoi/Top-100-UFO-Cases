@@ -1,7 +1,7 @@
 ---
 title: 'The Trindade Island UFO Photographs (1958): A Critical Analysis'
 permalink: /trindade-island-photographs-1958/
-date: '2025-05-05 15:17:07 '
+date: '2025-05-05 19:56:22 '
 image: /assets/images/UFO - Top 100/Trindade Island photographs 1958-Full-Text.svg
 description: 'Exploring The Trindade Island UFO Photographs (1958): A Critical Analysis within the context of UFO - Top 100.'
 ---

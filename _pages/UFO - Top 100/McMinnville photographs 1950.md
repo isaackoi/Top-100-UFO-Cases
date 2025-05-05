@@ -1,7 +1,7 @@
 ---
 title: 'The McMinnville UFO Photographs: A Critical Analysis of the 1950 Trent UFO Case'
 permalink: /mcminnville-photographs-1950/
-date: '2025-05-05 15:17:04 '
+date: '2025-05-05 19:56:19 '
 image: /assets/images/UFO - Top 100/McMinnville photographs 1950-Full-Text.svg
 description: 'Exploring The McMinnville UFO Photographs: A Critical Analysis of the 1950 Trent UFO Case within the context of UFO - Top 100.'
 ---

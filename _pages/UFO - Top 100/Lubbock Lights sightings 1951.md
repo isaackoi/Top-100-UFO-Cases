@@ -1,7 +1,7 @@
 ---
 title: 'The Lubbock Lights of 1951: A Critical Examination of a UFO Cold Case'
 permalink: /lubbock-lights-sightings-1951/
-date: '2025-05-05 15:17:04 '
+date: '2025-05-05 19:56:19 '
 image: /assets/images/UFO - Top 100/Lubbock Lights sightings 1951-Full-Text.svg
 description: 'Exploring The Lubbock Lights of 1951: A Critical Examination of a UFO Cold Case within the context of UFO - Top 100.'
 ---

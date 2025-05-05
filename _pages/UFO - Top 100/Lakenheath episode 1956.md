@@ -1,7 +1,7 @@
 ---
 title: 'The Lakenheath-Bentwaters UFO Incident (1956): A Critical Examination of the Evidence'
 permalink: /lakenheath-episode-1956/
-date: '2025-05-05 15:17:04 '
+date: '2025-05-05 19:56:18 '
 image: /assets/images/UFO - Top 100/Lakenheath episode 1956-Full-Text.svg
 description: 'Exploring The Lakenheath-Bentwaters UFO Incident (1956): A Critical Examination of the Evidence within the context of UFO - Top 100.'
 ---

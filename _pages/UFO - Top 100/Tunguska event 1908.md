@@ -1,7 +1,7 @@
 ---
 title: 'The Tunguska Event of 1908: Cosmic Impact or Extraterrestrial Craft?'
 permalink: /tunguska-event-1908/
-date: '2025-05-05 15:17:07 '
+date: '2025-05-05 19:56:22 '
 image: /assets/images/UFO - Top 100/Tunguska event 1908-Full-Text.svg
 description: 'Exploring The Tunguska Event of 1908: Cosmic Impact or Extraterrestrial Craft? within the context of UFO - Top 100.'
 ---

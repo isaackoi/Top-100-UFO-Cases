@@ -1,7 +1,7 @@
 ---
 title: 'The John Martin Sighting of 1878: America''s First "Saucer" Report and Its Historical Significance'
 permalink: /john-martin-sighting-1878/
-date: '2025-05-05 15:17:03 '
+date: '2025-05-05 19:56:18 '
 image: /assets/images/UFO - Top 100/John Martin sighting 1878-Full-Text.svg
 description: 'Exploring The John Martin Sighting of 1878: America''s First "Saucer" Report and Its Historical Significance within the context of UFO - Top 100.'
 ---

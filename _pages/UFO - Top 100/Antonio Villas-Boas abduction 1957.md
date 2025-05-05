@@ -1,7 +1,7 @@
 ---
 title: 'The Antonio Villas-Boas Abduction Case (1957): A Critical Examination'
 permalink: /antonio-villas-boas-abduction-1957/
-date: '2025-05-05 15:17:00 '
+date: '2025-05-05 19:56:14 '
 image: /assets/images/UFO - Top 100/Antonio Villas-Boas abduction 1957-Full-Text.svg
 description: 'Exploring The Antonio Villas-Boas Abduction Case (1957): A Critical Examination within the context of UFO - Top 100.'
 ---

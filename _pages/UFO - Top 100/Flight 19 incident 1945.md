@@ -1,7 +1,7 @@
 ---
 title: 'The Flight 19 Incident (1945): Examining the Evidence Behind a Bermuda Triangle Mystery'
 permalink: /flight-19-incident-1945/
-date: '2025-05-05 15:17:02 '
+date: '2025-05-05 19:56:17 '
 image: /assets/images/UFO - Top 100/Flight 19 incident 1945-Full-Text.svg
 description: 'Exploring The Flight 19 Incident (1945): Examining the Evidence Behind a Bermuda Triangle Mystery within the context of UFO - Top 100.'
 ---

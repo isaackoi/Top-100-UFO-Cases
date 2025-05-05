@@ -1,7 +1,7 @@
 ---
 title: 'The Gorman Dogfight: A Critical Analysis of the 1948 Fargo UFO Encounter'
 permalink: /gorman-dogfight-near-fargo-1948/
-date: '2025-05-05 15:17:02 '
+date: '2025-05-05 19:56:17 '
 image: /assets/images/UFO - Top 100/Gorman dogfight near Fargo 1948-Full-Text.svg
 description: 'Exploring The Gorman Dogfight: A Critical Analysis of the 1948 Fargo UFO Encounter within the context of UFO - Top 100.'
 ---

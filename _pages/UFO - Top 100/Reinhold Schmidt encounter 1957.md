@@ -1,7 +1,7 @@
 ---
 title: 'The Reinhold Schmidt UFO Encounter (1957): A Critical Analysis'
 permalink: /reinhold-schmidt-encounter-1957/
-date: '2025-05-05 15:17:05 '
+date: '2025-05-05 19:56:20 '
 image: /assets/images/UFO - Top 100/Reinhold Schmidt encounter 1957-Full-Text.svg
 description: 'Exploring The Reinhold Schmidt UFO Encounter (1957): A Critical Analysis within the context of UFO - Top 100.'
 ---

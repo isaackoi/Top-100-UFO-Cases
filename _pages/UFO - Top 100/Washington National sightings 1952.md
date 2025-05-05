@@ -1,7 +1,7 @@
 ---
 title: 'The 1952 Washington National Sightings: A Critical Examination of the "Invasion of Washington"'
 permalink: /washington-national-sightings-1952/
-date: '2025-05-05 15:17:07 '
+date: '2025-05-05 19:56:23 '
 image: /assets/images/UFO - Top 100/Washington National sightings 1952-Full-Text.svg
 description: 'Exploring The 1952 Washington National Sightings: A Critical Examination of the "Invasion of Washington" within the context of UFO - Top 100.'
 ---

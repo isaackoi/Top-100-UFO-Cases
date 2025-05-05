@@ -1,7 +1,7 @@
 ---
 title: 'The Falkville Metal Man: A Critical Analysis of the 1973 Greenhaw UFO Encounter'
 permalink: /greenhaw-encounter-1973/
-date: '2025-05-05 15:17:03 '
+date: '2025-05-05 19:56:17 '
 image: /assets/images/UFO - Top 100/Greenhaw encounter 1973-Full-Text.svg
 description: 'Exploring The Falkville Metal Man: A Critical Analysis of the 1973 Greenhaw UFO Encounter within the context of UFO - Top 100.'
 ---

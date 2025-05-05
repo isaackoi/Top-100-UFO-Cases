@@ -1,195 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="456" height="552" viewBox="0 0 456 552" style="fill:none;stroke:none;fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="816" height="780" viewBox="0 0 816 780" style="fill:none;stroke:none;fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" version="1.1">
   <style class="text-font-style fontImports" data-font-family="Roboto">@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=block');</style>
-  <rect x="0" y="0" width="456" height="552" fill="#252a34" stroke="none" id="programmatic_background"/>
-  <g id="g-root-tf_dcylng19afbbd-stroke-fill" data-item-order="-231264" transform="translate(9, 12)"/>
-  <g id="g-root-cp_1_column-1_1hgyejg19adx4z-stroke-fill" data-item-order="-168470" transform="translate(50, 167)">
-    <g id="cp_1_column-1_1hgyejg19adx4z-fill" stroke="none" fill="none">
+  <rect x="0" y="0" width="816" height="7.8E+2" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <g id="g-root-tf_1ur5yqk19a5ipw-stroke-fill" data-item-order="-597243" transform="translate(13, 12)">
+    <g id="tf_1ur5yqk19a5ipw-fill" stroke="none" fill="#2c2c2c">
       <g>
-        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
-      </g>
-    </g>
-    <g id="cp_1_column-1_1hgyejg19adx4z-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
-      <g>
-        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
-      </g>
-    </g>
-    <g id="cp_1_column-1_1hgyejg19adx4z-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
-      <g>
-        <path d="M 13 16L 13 94"/>
-      </g>
-    </g>
-    <g id="cp_1_column-1_1hgyejg19adx4z-fill" stroke="none" fill="none">
-      <g>
-        <path d="M 10 97C 10 98.656854 11.343146 100 13 100C 14.656854 100 16 98.656854 16 97C 16 95.343146 14.656854 94 13 94C 11.343146 94 10 95.343146 10 97"/>
-      </g>
-    </g>
-    <g id="cp_1_column-1_1hgyejg19adx4z-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
-      <g>
-        <path d="M 10 97C 10 98.656854 11.343146 100 13 100C 14.656854 100 16 98.656854 16 97C 16 95.343146 14.656854 94 13 94C 11.343146 94 10 95.343146 10 97"/>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-cp_3_column-3_145hw6419adypx-stroke-fill" data-item-order="-168454" transform="translate(230, 143)">
-    <g id="cp_3_column-3_145hw6419adypx-fill" stroke="none" fill="none">
-      <g>
-        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
-      </g>
-    </g>
-    <g id="cp_3_column-3_145hw6419adypx-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#a6da37" stroke-width="2">
-      <g>
-        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
-      </g>
-    </g>
-    <g id="cp_3_column-3_145hw6419adypx-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#a6da37" stroke-width="2">
-      <g>
-        <path d="M 13.000002 16L 13.000002 118"/>
-      </g>
-    </g>
-    <g id="cp_3_column-3_145hw6419adypx-fill" stroke="none" fill="none">
-      <g>
-        <path d="M 10 121C 10 122.656854 11.343146 124 13 124C 14.656854 124 16 122.656854 16 121C 16 119.343146 14.656854 118 13 118C 11.343146 118 10 119.343146 10 121"/>
-      </g>
-    </g>
-    <g id="cp_3_column-3_145hw6419adypx-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#a6da37" stroke-width="2">
-      <g>
-        <path d="M 10 121C 10 122.656854 11.343146 124 13 124C 14.656854 124 16 122.656854 16 121C 16 119.343146 14.656854 118 13 118C 11.343146 118 10 119.343146 10 121"/>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-cp_1_g-1_vahd0c19adwcv-stroke-fill" data-item-order="-168436" transform="translate(53, 266)">
-    <g id="cp_1_g-1_vahd0c19adwcv-fill" stroke="none" fill="none">
-      <g>
-        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
-      </g>
-    </g>
-    <g id="cp_1_g-1_vahd0c19adwcv-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
-      <g>
-        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-cp_2_g-2_qunuvw19adx55-stroke-fill" data-item-order="-168428" transform="translate(143, 266)">
-    <g id="cp_2_g-2_qunuvw19adx55-fill" stroke="none" fill="none">
-      <g>
-        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
-      </g>
-    </g>
-    <g id="cp_2_g-2_qunuvw19adx55-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
-      <g>
-        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-cp_3_g-3_meucrg19adxxf-stroke-fill" data-item-order="-168422" transform="translate(233, 266)">
-    <g id="cp_3_g-3_meucrg19adxxf-fill" stroke="none" fill="none">
-      <g>
-        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
-      </g>
-    </g>
-    <g id="cp_3_g-3_meucrg19adxxf-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#a6da37" stroke-width="2">
-      <g>
-        <path d="M 76 10L 10 10L 28 46L 10 82L 76 82L 94 46L 76 10Z"/>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-cp_2_column-2_dj7cik19adyq5-stroke-fill" data-item-order="-168414" transform="translate(140, 347)">
-    <g id="cp_2_column-2_dj7cik19adyq5-fill" stroke="none" fill="none">
-      <g>
-        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
-      </g>
-    </g>
-    <g id="cp_2_column-2_dj7cik19adyq5-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
-      <g>
-        <path d="M 10 13C 10 14.656854 11.343146 16 13 16C 14.656854 16 16 14.656854 16 13C 16 11.343146 14.656854 10 13 10C 11.343146 10 10 11.343146 10 13"/>
-      </g>
-    </g>
-    <g id="cp_2_column-2_dj7cik19adyq5-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
-      <g>
-        <path d="M 13 16L 13 118"/>
-      </g>
-    </g>
-    <g id="cp_2_column-2_dj7cik19adyq5-fill" stroke="none" fill="none">
-      <g>
-        <path d="M 10 121C 10 122.656854 11.343146 124 13 124C 14.656854 124 16 122.656854 16 121C 16 119.343146 14.656854 118 13 118C 11.343146 118 10 119.343146 10 121"/>
-      </g>
-    </g>
-    <g id="cp_2_column-2_dj7cik19adyq5-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
-      <g>
-        <path d="M 10 121C 10 122.656854 11.343146 124 13 124C 14.656854 124 16 122.656854 16 121C 16 119.343146 14.656854 118 13 118C 11.343146 118 10 119.343146 10 121"/>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_trumanbe_940bh819adwcn-stroke-fill" data-item-order="0" transform="translate(56, 50)">
-    <g id="tx_trumanbe_940bh819adwcn-fill" stroke="none" fill="#f4f4f4">
-      <g>
-        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="13.39" y="34" dominant-baseline="ideographic">Truman Bethurum's Journey in UFO </tspan>
-          <tspan x="100.27" y="58" dominant-baseline="ideographic">Contact History</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_july2719_1utnv3019adxqg-stroke-fill" data-item-order="0" transform="translate(65, 170)">
-    <g id="tx_july2719_1utnv3019adxqg-fill" stroke="none" fill="#4f91fc">
-      <g>
-        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="34" dominant-baseline="ideographic">July 27, 1952</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_firstall_1hittss19adw5l-stroke-fill" data-item-order="0" transform="translate(65, 206)">
-    <g id="tx_firstall_1hittss19adw5l-fill" stroke="none" fill="#f4f4f4">
-      <g>
-        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="28" dominant-baseline="ideographic">First alleged contact </tspan>
-          <tspan x="12" y="46" dominant-baseline="ideographic">with Clarion beings</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_1955_zrjtb019adyiq-stroke-fill" data-item-order="0" transform="translate(245, 146)">
-    <g id="tx_1955_zrjtb019adyiq-fill" stroke="none" fill="#a6da37">
-      <g>
-        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="34" dominant-baseline="ideographic">1955</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_establis_mgps0s19adwxv-stroke-fill" data-item-order="0" transform="translate(245, 182)">
-    <g id="tx_establis_mgps0s19adwxv-fill" stroke="none" fill="#f4f4f4">
-      <g>
-        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="31" dominant-baseline="ideographic">Establishment of the </tspan>
-          <tspan x="12" y="49" dominant-baseline="ideographic">"Sanctuary of </tspan>
-          <tspan x="12" y="67" dominant-baseline="ideographic">Thought</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_1954_953w19afaq4-stroke-fill" data-item-order="0" transform="translate(155, 362)">
-    <g id="tx_1954_953w19afaq4-fill" stroke="none" fill="#43dd93">
-      <g>
-        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="34" dominant-baseline="ideographic">1954</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_publicat_1lpwopo19afc3x-stroke-fill" data-item-order="0" transform="translate(155, 398)">
-    <g id="tx_publicat_1lpwopo19afc3x-fill" stroke="none" fill="#f4f4f4">
-      <g>
-        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="31" dominant-baseline="ideographic">Publication of </tspan>
-          <tspan x="12" y="49" dominant-baseline="ideographic">"Aboard a Flying </tspan>
-          <tspan x="12" y="67" dominant-baseline="ideographic">Saucer</tspan>
-        </text>
+        <path d="M 0 0L 790 0L 790 756L 0 756Z"/>
       </g>
     </g>
     <defs>
-      <pattern id="crawlingPattern-0000001b" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#0000001b">
+      <pattern id="crawlingPattern-ffe50099" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#ffe50099">
         <use href="#crawlingSymbol"/>
       </pattern>
       <symbol id="crawlingSymbol">
@@ -197,15 +17,196 @@
           <path d="M -12.5 12.5 l 13 -13 l 6 0 l -13 13 Z M -0.5 12.5 l 13 -13 l 6 0 l -13 13 Z M 11.5 12.5 l 13 -13 l 6 0 l -13 13 Z"/>
         </g>
       </symbol>
-      <pattern id="crawlingPattern-0060fba2" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#0060fba2">
+      <pattern id="crawlingPattern-00d16d21" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#00d16d21">
         <use href="#crawlingSymbol"/>
       </pattern>
-      <pattern id="crawlingPattern-5c87005e" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#5c87005e">
+      <pattern id="crawlingPattern-f576002d" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#f576002d">
         <use href="#crawlingSymbol"/>
       </pattern>
-      <pattern id="crawlingPattern-00b15c75" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#00b15c75">
+      <pattern id="crawlingPattern-0060fb20" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#0060fb20">
+        <use href="#crawlingSymbol"/>
+      </pattern>
+      <pattern id="crawlingPattern-ffffff38" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#ffffff38">
+        <use href="#crawlingSymbol"/>
+      </pattern>
+      <pattern id="crawlingPattern-0000001b" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#0000001b">
+        <use href="#crawlingSymbol"/>
+      </pattern>
+      <pattern id="crawlingPattern-5f5f5f1a" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#5f5f5f1a">
         <use href="#crawlingSymbol"/>
       </pattern>
     </defs>
+  </g>
+  <g id="g-root-sy_4_cu_1d3msrg19a445m-stroke-fill" data-item-order="-445197" transform="translate(343.9980163574219, 434.0038757324219)">
+    <g id="sy_4_cu_1d3msrg19a445m-fill" stroke="none" fill="#ffe711">
+      <g>
+        <path d="M 346.709031 10L 96.372831 10C 91.032031 10 86.334031 13.5296 84.847231 18.6592L 10.321231 275.773C 8.838031 280.89 12.677231 286 18.005031 286L 268.341031 286C 273.682031 286 278.380031 282.47 279.867031 277.341L 354.393031 20.2272C 355.876031 15.11 352.037031 10 346.709031 10Z"/>
+      </g>
+    </g>
+    <g id="sy_4_cu_1d3msrg19a445m-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#2c2c2c" stroke-width="2">
+      <g>
+        <path d="M 18.005031 286L 268.341231 286C 273.681931 286 278.379931 282.4704 279.866831 277.3408L 354.392631 20.2272C 355.875931 15.11 352.036731 9.999999 346.708931 10L 96.372731 10C 91.032031 10 86.334031 13.5296 84.847131 18.6593L 10.321331 275.7729C 8.838031 280.89 12.677231 286 18.005031 286ZM 309.830109 106L 78.830109 106"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-sy_3_cu_zit63g19a5h57-stroke-fill" data-item-order="-445193" transform="translate(344.6405944824219, 110)">
+    <g id="sy_3_cu_zit63g19a5h57-fill" stroke="none" fill="#43dd93">
+      <g>
+        <path d="M 346.709031 286L 96.372831 286C 91.032031 286 86.334031 282.47 84.847231 277.341L 10.321231 20.2272C 8.838031 15.11 12.677231 10 18.005031 10L 268.341031 10C 273.682031 10 278.380031 13.5296 279.867031 18.6592L 354.393031 275.773C 355.876031 280.89 352.037031 286 346.709031 286Z"/>
+      </g>
+    </g>
+    <g id="sy_3_cu_zit63g19a5h57-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#2c2c2c" stroke-width="2">
+      <g>
+        <path d="M 18.005031 10L 268.341231 10C 273.681931 10 278.379931 13.5296 279.866831 18.6592L 354.392731 275.7728C 355.875931 280.89 352.036731 286 346.709031 286L 96.372831 286C 91.032031 286 86.334031 282.4704 84.847231 277.3408L 10.321331 20.2272C 8.838031 15.11 12.677231 10 18.005031 10ZM 309.832062 190L 78.832062 190"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-sy_2_cu_m7cnq419a5iq4-stroke-fill" data-item-order="-445189" transform="translate(32.640594482421875, 434.0038757324219)">
+    <g id="sy_2_cu_m7cnq419a5iq4-fill" stroke="none" fill="#f79438">
+      <g>
+        <path d="M 346.709024 10L 96.372824 10C 91.032024 10 86.334024 13.5296 84.847224 18.6592L 10.321224 275.773C 8.838024 280.89 12.677224 286 18.005024 286L 268.341024 286C 273.682024 286 278.380024 282.47 279.867024 277.341L 354.393024 20.2272C 355.876024 15.11 352.037024 10 346.709024 10Z"/>
+      </g>
+    </g>
+    <g id="sy_2_cu_m7cnq419a5iq4-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#2c2c2c" stroke-width="2">
+      <g>
+        <path d="M 18.005024 286L 268.341224 286C 273.681924 286 278.379924 282.4704 279.866824 277.3408L 354.392624 20.2272C 355.875924 15.11 352.036724 9.999999 346.708924 10L 96.372724 10C 91.032024 10 86.334024 13.5296 84.847124 18.6593L 10.321324 275.7729C 8.838024 280.89 12.677224 286 18.005024 286ZM 309.830094 106L 78.830094 106"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-sy_1_cu_hs5mos19a5gcl-stroke-fill" data-item-order="-445185" transform="translate(32.640594482421875, 110)">
+    <g id="sy_1_cu_hs5mos19a5gcl-fill" stroke="none" fill="#4f91fc">
+      <g>
+        <path d="M 346.709024 286L 96.372824 286C 91.032024 286 86.334024 282.47 84.847224 277.341L 10.321224 20.2272C 8.838024 15.11 12.677224 10 18.005024 10L 268.341024 10C 273.682024 10 278.380024 13.5296 279.867024 18.6592L 354.393024 275.773C 355.876024 280.89 352.037024 286 346.709024 286Z"/>
+      </g>
+    </g>
+    <g id="sy_1_cu_hs5mos19a5gcl-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#2c2c2c" stroke-width="2">
+      <g>
+        <path d="M 18.005024 10L 268.341224 10C 273.681924 10 278.379924 13.5296 279.866824 18.6592L 354.392724 275.7728C 355.875924 280.89 352.036724 286 346.709024 286L 96.372824 286C 91.032024 286 86.334024 282.4704 84.847224 277.3408L 10.321324 20.2272C 8.838024 15.11 12.677224 10 18.005024 10ZM 309.83207 190L 78.83207 190"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-sy_-1_cu_8wimfw19a5h5a-stroke-fill" data-item-order="-445180" transform="translate(27, 386)">
+    <g id="sy_-1_cu_8wimfw19a5h5a-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="2">
+      <g>
+        <path d="M 24 34L 718 34M 708 12L 718 33.9989L 708 56L 752 33.9989L 708 12ZM 10 10L 24 33.9988L 10 58M 22 10L 36 33.9988L 22 58M 34 10L 48 33.9988L 34 58"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_coldwara_4gp4bg19a5hxj-stroke-fill" data-item-order="0" transform="translate(467, 650)">
+    <g id="tx_coldwara_4gp4bg19a5hxj-fill" stroke="none" fill="#2c2c2c">
+      <g>
+        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
+          <tspan x="14.45" y="31" dominant-baseline="ideographic">Cold War Anxieties</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_religiou_1q6cnx819a5jbc-stroke-fill" data-item-order="0" transform="translate(455, 566)">
+    <g id="tx_religiou_1q6cnx819a5jbc-fill" stroke="none" fill="#2c2c2c">
+      <g>
+        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
+          <tspan x="12.36" y="31" dominant-baseline="ideographic">Religious Cult Formation</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_sociolog_1cvimn019a5hqh-stroke-fill" data-item-order="0" transform="translate(449, 470)">
+    <g id="tx_sociolog_1cvimn019a5hqh-fill" stroke="none" fill="#2c2c2c">
+      <g>
+        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="20.06" y="34" dominant-baseline="ideographic">Sociological Patterns</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_psycholo_zk249o19a5jbe-stroke-fill" data-item-order="0" transform="translate(455, 146)">
+    <g id="tx_psycholo_zk249o19a5jbe-fill" stroke="none" fill="#2c2c2c">
+      <g>
+        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
+          <tspan x="12.66" y="31" dominant-baseline="ideographic">Psychological Needs</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_possible_htekv019a5iir-stroke-fill" data-item-order="0" transform="translate(455, 230)">
+    <g id="tx_possible_htekv019a5iir-fill" stroke="none" fill="#2c2c2c">
+      <g>
+        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
+          <tspan x="19.69" y="31" dominant-baseline="ideographic">Possible Hallucinations</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_psycholo_4ikjks19a5gxw-stroke-fill" data-item-order="0" transform="translate(437, 326)">
+    <g id="tx_psycholo_4ikjks19a5gxw-fill" stroke="none" fill="#2c2c2c">
+      <g>
+        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="20.06" y="34" dominant-baseline="ideographic">Psychological Aspects</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_mediaatt_1q8836k19a5ibp-stroke-fill" data-item-order="0" transform="translate(167, 650)">
+    <g id="tx_mediaatt_1q8836k19a5ibp-fill" stroke="none" fill="#2c2c2c">
+      <g>
+        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
+          <tspan x="21.84" y="31" dominant-baseline="ideographic">Media Attention</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_influenc_141r1ng19a5hji-stroke-fill" data-item-order="0" transform="translate(107, 566)">
+    <g id="tx_influenc_141r1ng19a5hji-fill" stroke="none" fill="#2c2c2c">
+      <g>
+        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
+          <tspan x="13.27" y="31" dominant-baseline="ideographic">Influence of Other Contactees</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_cultural_mb3i8s19a5gqv-stroke-fill" data-item-order="0" transform="translate(185, 470)">
+    <g id="tx_cultural_mb3i8s19a5gqv-fill" stroke="none" fill="#2c2c2c">
+      <g>
+        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="18.38" y="34" dominant-baseline="ideographic">Cultural Context</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_lackofev_8zmzvg19a5ibs-stroke-fill" data-item-order="0" transform="translate(167, 146)">
+    <g id="tx_lackofev_8zmzvg19a5ibs-fill" stroke="none" fill="#2c2c2c">
+      <g>
+        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
+          <tspan x="15.34" y="31" dominant-baseline="ideographic">Lack of Evidence</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_planetcl_1qa3ifw19a5hc1-stroke-fill" data-item-order="0" transform="translate(107, 230)">
+    <g id="tx_planetcl_1qa3ifw19a5hc1-fill" stroke="none" fill="#2c2c2c">
+      <g>
+        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
+          <tspan x="21.27" y="31" dominant-baseline="ideographic">Planet Clarion's Impossibility</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_scientif_1cyn02k19a5iwy-stroke-fill" data-item-order="0" transform="translate(137, 326)">
+    <g id="tx_scientif_1cyn02k19a5iwy-fill" stroke="none" fill="#2c2c2c">
+      <g>
+        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="22.69" y="34" dominant-baseline="ideographic">Scientific Plausibility</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_analyzin_znsysc19a5hc3-stroke-fill" data-item-order="0" transform="translate(185, 50)">
+    <g id="tx_analyzin_znsysc19a5hc3-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="12.77" y="34" dominant-baseline="ideographic">Analyzing the Credibility of Bethurum's Claims</tspan>
+        </text>
+      </g>
+    </g>
   </g>
 </svg>

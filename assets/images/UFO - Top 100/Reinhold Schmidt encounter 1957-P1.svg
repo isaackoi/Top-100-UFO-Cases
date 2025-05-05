@@ -1,15 +1,212 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="816" height="636" viewBox="0 0 816 636" style="fill:none;stroke:none;fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="696" height="684" viewBox="0 0 696 684" style="fill:none;stroke:none;fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" version="1.1">
   <style class="text-font-style fontImports" data-font-family="Roboto">@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=block');</style>
-  <rect x="0" y="0" width="816" height="636" fill="#252a34" stroke="none" id="programmatic_background"/>
-  <g id="g-root-tf_1hfou8b1aobx8u-stroke-fill" data-item-order="-477360" transform="translate(18, 12)">
-    <g id="tf_1hfou8b1aobx8u-fill" stroke="none" fill="#2c2c2c">
+  <rect x="0" y="0" width="696" height="684" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <g id="g-root-tf_1q9gruz1ao3fus-stroke-fill" data-item-order="-446880" transform="translate(12, 12)"/>
+  <g id="g-root-sy_-1_Vector_mgpiiz1ao22oa-stroke-fill" data-item-order="-22843" transform="translate(373.99609375, 149)">
+    <g id="sy_-1_Vector_mgpiiz1ao22oa-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="2">
       <g>
-        <path d="M 0 0L 780 0L 780 612L 0 612Z"/>
+        <path d="M 10 388L 10 298M 10 292L 10 202M 10 196L 10 106M 10 100L 10 10"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-sy_-1_cu_i0w0ej1ao23gj-stroke-fill" data-item-order="-22839" transform="translate(373.99609375, 533)">
+    <g id="sy_-1_cu_i0w0ej1ao23gj-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="2">
+      <g>
+        <path d="M 10.003906 94L 10.003906 10"/>
+        <path d="M 3.503906 88L 10.003906 94.5L 16.503906 88" stroke-dasharray="none"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-sy_5_cu_8vvvuz1ao3fnw-stroke-fill" data-item-order="-22836" transform="translate(350, 527)">
+    <g id="sy_5_cu_8vvvuz1ao3fnw-fill" stroke="none" fill="none">
+      <g>
+        <path d="M 34 10L 34 10C 34 10 37 10 37 13L 37 13C 37 13 37 16 34 16L 34 16C 34 16 31 16 31 13L 31 13C 31 13 31 10 34 10"/>
+      </g>
+    </g>
+    <g id="sy_5_cu_8vvvuz1ao3fnw-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#fb6762" stroke-width="2">
+      <g>
+        <path d="M 34 10L 34 10C 34 10 37 10 37 13L 37 13C 37 13 37 16 34 16L 34 16C 34 16 31 16 31 13L 31 13C 31 13 31 10 34 10"/>
+      </g>
+    </g>
+    <g id="sy_5_cu_8vvvuz1ao3fnw-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#fb6762" stroke-width="2">
+      <g>
+        <path d="M 31 13L 10 13"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-sy_4_cu_4g2dqj1ao3gg5-stroke-fill" data-item-order="-22832" transform="translate(371, 431)">
+    <g id="sy_4_cu_4g2dqj1ao3gg5-fill" stroke="none" fill="none">
+      <g>
+        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
+      </g>
+    </g>
+    <g id="sy_4_cu_4g2dqj1ao3gg5-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#a6da37" stroke-width="2">
+      <g>
+        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
+      </g>
+    </g>
+    <g id="sy_4_cu_4g2dqj1ao3gg5-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#a6da37" stroke-width="2">
+      <g>
+        <path d="M 37 13L 16 13"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-sy_3_cu_1q5pxcb1ao3hty-stroke-fill" data-item-order="-22828" transform="translate(350, 335)">
+    <g id="sy_3_cu_1q5pxcb1ao3hty-fill" stroke="none" fill="none">
+      <g>
+        <path d="M 34 10L 34 10C 34 10 37 10 37 13L 37 13C 37 13 37 16 34 16L 34 16C 34 16 31 16 31 13L 31 13C 31 13 31 10 34 10"/>
+      </g>
+    </g>
+    <g id="sy_3_cu_1q5pxcb1ao3hty-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
+      <g>
+        <path d="M 34 10L 34 10C 34 10 37 10 37 13L 37 13C 37 13 37 16 34 16L 34 16C 34 16 31 16 31 13L 31 13C 31 13 31 10 34 10"/>
+      </g>
+    </g>
+    <g id="sy_3_cu_1q5pxcb1ao3hty-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
+      <g>
+        <path d="M 31 13L 10 13"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-sy_2_cu_1hape6j1ao3fgv-stroke-fill" data-item-order="-22824" transform="translate(371, 239)">
+    <g id="sy_2_cu_1hape6j1ao3fgv-fill" stroke="none" fill="none">
+      <g>
+        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
+      </g>
+    </g>
+    <g id="sy_2_cu_1hape6j1ao3fgv-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#1ac3fb" stroke-width="2">
+      <g>
+        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
+      </g>
+    </g>
+    <g id="sy_2_cu_1hape6j1ao3fgv-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#1ac3fb" stroke-width="2">
+      <g>
+        <path d="M 37 13L 16 13"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-sy_1_cu_1cuvw231ao3g94-stroke-fill" data-item-order="-22820" transform="translate(350, 143)">
+    <g id="sy_1_cu_1cuvw231ao3g94-fill" stroke="none" fill="none">
+      <g>
+        <path d="M 34 10L 34 10C 34 10 37 10 37 13L 37 13C 37 13 37 16 34 16L 34 16C 34 16 31 16 31 13L 31 13C 31 13 31 10 34 10"/>
+      </g>
+    </g>
+    <g id="sy_1_cu_1cuvw231ao3g94-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
+      <g>
+        <path d="M 34 10L 34 10C 34 10 37 10 37 13L 37 13C 37 13 37 16 34 16L 34 16C 34 16 31 16 31 13L 31 13C 31 13 31 10 34 10"/>
+      </g>
+    </g>
+    <g id="sy_1_cu_1cuvw231ao3g94-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
+      <g>
+        <path d="M 31 13L 10 13"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_therisea_18f2dxn1ao3h1d-stroke-fill" data-item-order="0" transform="translate(140, 50)">
+    <g id="tx_therisea_18f2dxn1ao3h1d-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="15.23" y="34" dominant-baseline="ideographic">The Rise and Fall of Reinhold Schmidt's UFO Claims</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_schmidtc_zjfdor1ao3hu2-stroke-fill" data-item-order="0" transform="translate(26, 554)">
+    <g id="tx_schmidtc_zjfdor1ao3hu2-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="17.36" y="34" dominant-baseline="ideographic">Schmidt convicted of grand theft</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_schmidtc_m8lcej1ao3g97-stroke-fill" data-item-order="0" transform="translate(422, 458)">
+    <g id="tx_schmidtc_m8lcej1ao3g97-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="12" y="34" dominant-baseline="ideographic">Schmidt claims second </tspan>
+          <tspan x="12" y="58" dominant-baseline="ideographic">encounter</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_airforce_hsrua31ao3h1g-stroke-fill" data-item-order="0" transform="translate(62, 362)">
+    <g id="tx_airforce_hsrua31ao3h1g-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="20.23" y="34" dominant-baseline="ideographic">Air Force debunks Schmidt's </tspan>
+          <tspan x="213.06" y="58" dominant-baseline="ideographic">claims</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_schmidtc_8x4u171ao3hu5-stroke-fill" data-item-order="0" transform="translate(422, 266)">
+    <g id="tx_schmidtc_8x4u171ao3hu5-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="12" y="34" dominant-baseline="ideographic">Schmidt committed for </tspan>
+          <tspan x="12" y="58" dominant-baseline="ideographic">psychiatric evaluation</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_reinhold_1uneuq31ao3g26-stroke-fill" data-item-order="0" transform="translate(50, 170)">
+    <g id="tx_reinhold_1uneuq31ao3g26-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="16.38" y="34" dominant-baseline="ideographic">Reinhold Schmidt reports UFO </tspan>
+          <tspan x="194.47" y="58" dominant-baseline="ideographic">encounter</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_october2_1hbyccr1ao3hn3-stroke-fill" data-item-order="0" transform="translate(158, 518)">
+    <g id="tx_october2_1hbyccr1ao3hn3-fill" stroke="none" fill="#fb6762">
+      <g>
+        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="20.91" y="34" dominant-baseline="ideographic">October 26, 1961</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_february_18gxt6z1ao3g1s-stroke-fill" data-item-order="0" transform="translate(422, 422)">
+    <g id="tx_february_18gxt6z1ao3g1s-fill" stroke="none" fill="#a6da37">
+      <g>
+        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="12" y="34" dominant-baseline="ideographic">February 5, 1958</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_november_zlasy31ao3guh-stroke-fill" data-item-order="0" transform="translate(146, 326)">
+    <g id="tx_november_zlasy31ao3guh-fill" stroke="none" fill="#43dd93">
+      <g>
+        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="11.53" y="34" dominant-baseline="ideographic">November 15, 1957</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_november_magrnv1ao3f9m-stroke-fill" data-item-order="0" transform="translate(422, 230)">
+    <g id="tx_november_magrnv1ao3f9m-fill" stroke="none" fill="#1ac3fb">
+      <g>
+        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="12" y="34" dominant-baseline="ideographic">November 8, 1957</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_november_hun9jf1ao3g1v-stroke-fill" data-item-order="0" transform="translate(146, 134)">
+    <g id="tx_november_hun9jf1ao3g1v-fill" stroke="none" fill="#4f91fc">
+      <g>
+        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="23" y="34" dominant-baseline="ideographic">November 5, 1957</tspan>
+        </text>
       </g>
     </g>
     <defs>
-      <pattern id="crawlingPattern-7878781a" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#7878781a">
+      <pattern id="crawlingPattern-0000001b" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#0000001b">
         <use href="#crawlingSymbol"/>
       </pattern>
       <symbol id="crawlingSymbol">
@@ -17,213 +214,21 @@
           <path d="M -12.5 12.5 l 13 -13 l 6 0 l -13 13 Z M -0.5 12.5 l 13 -13 l 6 0 l -13 13 Z M 11.5 12.5 l 13 -13 l 6 0 l -13 13 Z"/>
         </g>
       </symbol>
-      <pattern id="crawlingPattern-0060fb20" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#0060fb20">
+      <pattern id="crawlingPattern-f9080081" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#f9080081">
         <use href="#crawlingSymbol"/>
       </pattern>
-      <pattern id="crawlingPattern-f908001a" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#f908001a">
+      <pattern id="crawlingPattern-5c87005e" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#5c87005e">
         <use href="#crawlingSymbol"/>
       </pattern>
-      <pattern id="crawlingPattern-00d16d21" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#00d16d21">
+      <pattern id="crawlingPattern-00b15c75" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#00b15c75">
         <use href="#crawlingSymbol"/>
       </pattern>
-      <pattern id="crawlingPattern-8484841a" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#8484841a">
+      <pattern id="crawlingPattern-00a3d9d9" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#00a3d9d9">
         <use href="#crawlingSymbol"/>
       </pattern>
-      <pattern id="crawlingPattern-ffffff38" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#ffffff38">
-        <use href="#crawlingSymbol"/>
-      </pattern>
-      <pattern id="crawlingPattern-0000001b" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#0000001b">
-        <use href="#crawlingSymbol"/>
-      </pattern>
-      <pattern id="crawlingPattern-5f5f5f1a" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#5f5f5f1a">
+      <pattern id="crawlingPattern-0060fba2" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#0060fba2">
         <use href="#crawlingSymbol"/>
       </pattern>
     </defs>
-  </g>
-  <g id="g-root-sy_-1_cu_1cvi0i31aobuob-stroke-fill" data-item-order="-316218" transform="translate(32, 265.00390625)">
-    <g id="sy_-1_cu_1cvi0i31aobuob-fill" stroke="none" fill="#ababab">
-      <g>
-        <path d="M 10.001 143L 10 47L 67 47L 70 59L 322 59L 319 47L 367 47L 370 59L 622 59L 619 47L 646 47L 646 10L 742 95L 646.002 180L 646 143L 619 143L 622 131L 370 131L 367 143L 319.001 143L 322.001 131L 70.001 131L 67.001 143L 10.001 143Z"/>
-      </g>
-    </g>
-    <g id="sy_-1_cu_1cvi0i31aobuob-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#2c2c2c" stroke-width="2">
-      <g>
-        <path d="M 10.001 143L 10 47L 67 47L 70 59L 322 59L 319 47L 367 47L 370 59L 622 59L 619 47L 646 47L 646 10L 742 95L 646.0017 180L 646 143L 619 143L 622 131L 370 131L 367 143L 319.001 143L 322.001 131L 70.001 131L 67.001 143L 10.001 143Z"/>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-sy_4_cu_18foidn1aobvgk-stroke-fill" data-item-order="-316214" transform="translate(347, 386)">
-    <g id="sy_4_cu_18foidn1aobvgk-fill" stroke="none" fill="#4f91fc">
-      <g>
-        <path d="M 307 10L 295 58L 43 58L 55 10L 307 10ZM 291.992188 70L 279.992188 118L 27.992188 118L 39.992188 70L 291.992188 70ZM 277 130L 25 130L 10 190L 262 190L 277 130Z"/>
-      </g>
-    </g>
-    <g id="sy_4_cu_18foidn1aobvgk-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#2c2c2c" stroke-width="2">
-      <g>
-        <path d="M 307 10L 295 58L 43 58L 55 10L 307 10ZM 291.992188 70L 279.992188 118L 27.992188 118L 39.992188 70L 291.992188 70ZM 277 130L 25 130L 10 190L 262 190L 277 130Z"/>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-sy_3_cu_zk1i4r1aobw99-stroke-fill" data-item-order="-316210" transform="translate(347, 134)">
-    <g id="sy_3_cu_zk1i4r1aobw99-fill" stroke="none" fill="#fb6762">
-      <g>
-        <path d="M 307 190L 295 142L 43 142L 55 190L 307 190ZM 291.992188 130L 279.992188 82L 27.992188 82L 39.992188 130L 291.992188 130ZM 277 70L 25 70L 10 10L 262 10L 277 70Z"/>
-      </g>
-    </g>
-    <g id="sy_3_cu_zk1i4r1aobw99-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#2c2c2c" stroke-width="2">
-      <g>
-        <path d="M 307 190L 295 142L 43 142L 55 190L 307 190ZM 291.992188 130L 279.992188 82L 27.992188 82L 39.992188 130L 291.992188 130ZM 277 70L 25 70L 10 10L 262 10L 277 70Z"/>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-sy_2_cu_m97guj1aobuoe-stroke-fill" data-item-order="-316206" transform="translate(47, 386)">
-    <g id="sy_2_cu_m97guj1aobuoe-fill" stroke="none" fill="#43dd93">
-      <g>
-        <path d="M 307.000977 10L 295.000977 58L 43.000977 58L 55.000977 10L 307.000977 10ZM 291.993164 70L 279.993164 118L 27.993164 118L 39.993164 70L 291.993164 70ZM 277.001 130L 25.001 130L 10 190L 262 190L 277.001 130Z"/>
-      </g>
-    </g>
-    <g id="sy_2_cu_m97guj1aobuoe-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#2c2c2c" stroke-width="2">
-      <g>
-        <path d="M 307.000977 10L 295.000977 58L 43.000977 58L 55.000977 10L 307.000977 10ZM 291.993164 70L 279.993164 118L 27.993164 118L 39.993164 70L 291.993164 70ZM 277.001 130L 25.001 130L 10 190L 262 190L 277.001 130Z"/>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-sy_1_cu_htdyq31aobvgn-stroke-fill" data-item-order="-316202" transform="translate(47, 134)">
-    <g id="sy_1_cu_htdyq31aobvgn-fill" stroke="none" fill="#b7b7b7">
-      <g>
-        <path d="M 307 190L 295 142L 43 142L 55 190L 307 190ZM 291.992188 130L 279.992188 82L 27.992188 82L 39.992188 130L 291.992188 130ZM 277 70L 25 70L 10 10L 262 10L 277 70Z"/>
-      </g>
-    </g>
-    <g id="sy_1_cu_htdyq31aobvgn-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#2c2c2c" stroke-width="2">
-      <g>
-        <path d="M 307 190L 295 142L 43 142L 55 190L 307 190ZM 291.992188 130L 279.992188 82L 27.992188 82L 39.992188 130L 291.992188 130ZM 277 70L 25 70L 10 10L 262 10L 277 70Z"/>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_credibil_4hxgcr1aobx1k-stroke-fill" data-item-order="0" transform="translate(296, 332)">
-    <g id="tx_credibil_4hxgcr1aobx1k-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: bold 25px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="25px" font-family="Roboto, sans-serif">
-          <tspan x="19.73" y="43" dominant-baseline="ideographic">Credibility of Schmidt's UFO Claims</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_attentio_1q87h1n1aobv9l-stroke-fill" data-item-order="0" transform="translate(452, 398)">
-    <g id="tx_attentio_1q87h1n1aobv9l-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="19.39" y="31" dominant-baseline="ideographic">Attention-Seeking Hoax</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_hallucin_18gxgjv1aobxmq-stroke-fill" data-item-order="0" transform="translate(437, 458)">
-    <g id="tx_hallucin_18gxgjv1aobxmq-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="18.47" y="31" dominant-baseline="ideographic">Hallucination Diagnosis</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_psychiat_zlwxe31aobv9n-stroke-fill" data-item-order="0" transform="translate(386, 524)">
-    <g id="tx_psychiat_zlwxe31aobv9n-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="13.06" y="34" dominant-baseline="ideographic">Psychiatric Evaluation</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_investme_magf0r1aobwuk-stroke-fill" data-item-order="0" transform="translate(500, 278)">
-    <g id="tx_investme_magf0r1aobwuk-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="12.06" y="31" dominant-baseline="ideographic">Investment Fraud</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_lecturec_8zmdqj1aobv9p-stroke-fill" data-item-order="0" transform="translate(437, 218)">
-    <g id="tx_lecturec_8zmdqj1aobv9p-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="17.42" y="31" dominant-baseline="ideographic">Lecture Circuit Earnings</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_financia_4jsvm31aobw1y-stroke-fill" data-item-order="0" transform="translate(386, 152)">
-    <g id="tx_financia_4jsvm31aobw1y-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="19.34" y="34" dominant-baseline="ideographic">Financial Exploitation</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_emptycan_1up9xcb1aobwnj-stroke-fill" data-item-order="0" transform="translate(164, 398)">
-    <g id="tx_emptycan_1up9xcb1aobwnj-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="23.27" y="31" dominant-baseline="ideographic">Empty Can Discovery</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_motoroil_1q9gf7v1aobxfs-stroke-fill" data-item-order="0" transform="translate(185, 458)">
-    <g id="tx_motoroil_1q9gf7v1aobxfs-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="20.61" y="31" dominant-baseline="ideographic">Motor Oil Match</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_evidence_1cymdxn1aobvux-stroke-fill" data-item-order="0" transform="translate(122, 524)">
-    <g id="tx_evidence_1cymdxn1aobvux-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="20.97" y="34" dominant-baseline="ideographic">Evidence Staging</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_patterno_18isvt71aobwn6-stroke-fill" data-item-order="0" transform="translate(185, 218)">
-    <g id="tx_patterno_18isvt71aobwn6-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="20.33" y="31" dominant-baseline="ideographic">Pattern of Fraud</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_previous_v7yuiz1aobv2b-stroke-fill" data-item-order="0" transform="translate(176, 278)">
-    <g id="tx_previous_v7yuiz1aobv2b-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="12.03" y="31" dominant-baseline="ideographic">Previous Convictions</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_criminal_hwic5n1aobwn8-stroke-fill" data-item-order="0" transform="translate(134, 152)">
-    <g id="tx_criminal_hwic5n1aobwn8-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="18.44" y="34" dominant-baseline="ideographic">Criminal History</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_analyzin_90vbwr1aobxfx-stroke-fill" data-item-order="0" transform="translate(176, 50)">
-    <g id="tx_analyzin_90vbwr1aobxfx-fill" stroke="none" fill="#f4f4f4">
-      <g>
-        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="13.35" y="34" dominant-baseline="ideographic">Analyzing the Reinhold Schmidt UFO Encounter</tspan>
-        </text>
-      </g>
-    </g>
   </g>
 </svg>

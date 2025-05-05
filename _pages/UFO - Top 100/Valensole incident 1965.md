@@ -1,7 +1,7 @@
 ---
 title: 'The 1965 Valensole UFO Encounter: A Critical Analysis of Evidence and Impact'
 permalink: /valensole-incident-1965/
-date: '2025-05-05 15:17:07 '
+date: '2025-05-05 19:56:22 '
 image: /assets/images/UFO - Top 100/Valensole incident 1965-Full-Text.svg
 description: 'Exploring The 1965 Valensole UFO Encounter: A Critical Analysis of Evidence and Impact within the context of UFO - Top 100.'
 ---

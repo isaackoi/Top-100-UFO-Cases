@@ -1,7 +1,7 @@
 ---
 title: 'The Ummo Photographs: Examining the 1967 UFO Case and Its Legacy'
 permalink: /ummo-photographs-1967/
-date: '2025-05-05 15:17:07 '
+date: '2025-05-05 19:56:22 '
 image: /assets/images/UFO - Top 100/Ummo photographs 1967-Full-Text.svg
 description: 'Exploring The Ummo Photographs: Examining the 1967 UFO Case and Its Legacy within the context of UFO - Top 100.'
 ---

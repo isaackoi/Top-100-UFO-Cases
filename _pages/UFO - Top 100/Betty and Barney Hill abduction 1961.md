@@ -1,7 +1,7 @@
 ---
 title: 'The Betty and Barney Hill Abduction: A Critical Analysis of America''s First Alien Abduction Case'
 permalink: /betty-and-barney-hill-abduction-1961/
-date: '2025-05-05 15:17:00 '
+date: '2025-05-05 19:56:15 '
 image: /assets/images/UFO - Top 100/Betty and Barney Hill abduction 1961-Full-Text.svg
 description: 'Exploring The Betty and Barney Hill Abduction: A Critical Analysis of America''s First Alien Abduction Case within the context of UFO - Top 100.'
 ---

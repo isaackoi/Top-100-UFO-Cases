@@ -1,7 +1,7 @@
 ---
 title: 'The Socorro UFO Incident: A Critical Examination of the Lonnie Zamora Sighting (1964)'
 permalink: /socorro-sighting-by-lonnie-zamora-1964/
-date: '2025-05-05 15:17:06 '
+date: '2025-05-05 19:56:21 '
 image: /assets/images/UFO - Top 100/Socorro sighting by Lonnie Zamora 1964-Full-Text.svg
 description: 'Exploring The Socorro UFO Incident: A Critical Examination of the Lonnie Zamora Sighting (1964) within the context of UFO - Top 100.'
 ---

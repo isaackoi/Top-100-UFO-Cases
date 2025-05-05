@@ -1,7 +1,7 @@
 ---
 title: 'The 1975 Sandra Larson UFO Abduction Case: A Critical Examination'
 permalink: /larson-abduction-near-fargo-1975/
-date: '2025-05-05 15:17:04 '
+date: '2025-05-05 19:56:19 '
 image: /assets/images/UFO - Top 100/Larson abduction near Fargo 1975-Full-Text.svg
 description: 'Exploring The 1975 Sandra Larson UFO Abduction Case: A Critical Examination within the context of UFO - Top 100.'
 ---

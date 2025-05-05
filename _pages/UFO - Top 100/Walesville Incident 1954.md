@@ -1,7 +1,7 @@
 ---
 title: 'The Walesville Incident (1954): When a Jet Crash and UFO Claims Converged'
 permalink: /walesville-incident-1954/
-date: '2025-05-05 15:17:07 '
+date: '2025-05-05 19:56:23 '
 image: /assets/images/UFO - Top 100/Walesville Incident 1954-Full-Text.svg
 description: 'Exploring The Walesville Incident (1954): When a Jet Crash and UFO Claims Converged within the context of UFO - Top 100.'
 ---

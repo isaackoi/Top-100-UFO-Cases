@@ -1,7 +1,7 @@
 ---
 title: 'The Great Falls, Montana UFO Film (1950): A Critical Analysis and Historical Investigation'
 permalink: /great-falls-montana-film-1950/
-date: '2025-05-05 15:17:03 '
+date: '2025-05-05 19:56:17 '
 image: /assets/images/UFO - Top 100/Great Falls Montana film 1950-Full-Text.svg
 description: 'Exploring The Great Falls, Montana UFO Film (1950): A Critical Analysis and Historical Investigation within the context of UFO - Top 100.'
 ---

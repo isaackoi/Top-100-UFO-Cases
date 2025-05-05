@@ -1,7 +1,7 @@
 ---
 title: 'The Aurora, Texas Airship Crash of 1897: Evidence, Impact, and Enduring Mystery'
 permalink: /aurora-texas-airship-crash-1897/
-date: '2025-05-05 15:17:00 '
+date: '2025-05-05 19:56:15 '
 image: /assets/images/UFO - Top 100/Aurora Texas airship crash 1897-Full-Text.svg
 description: 'Exploring The Aurora, Texas Airship Crash of 1897: Evidence, Impact, and Enduring Mystery within the context of UFO - Top 100.'
 ---

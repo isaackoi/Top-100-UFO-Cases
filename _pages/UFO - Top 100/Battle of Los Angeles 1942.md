@@ -1,7 +1,7 @@
 ---
 title: 'The Battle of Los Angeles (1942): Examining the Evidence Behind a Wartime UFO Enigma'
 permalink: /battle-of-los-angeles-1942/
-date: '2025-05-05 15:17:00 '
+date: '2025-05-05 19:56:15 '
 image: /assets/images/UFO - Top 100/Battle of Los Angeles 1942-Full-Text.svg
 description: 'Exploring The Battle of Los Angeles (1942): Examining the Evidence Behind a Wartime UFO Enigma within the context of UFO - Top 100.'
 ---

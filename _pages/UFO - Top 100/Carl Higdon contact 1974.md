@@ -1,7 +1,7 @@
 ---
 title: 'The Carl Higdon Abduction: A Critical Examination of a Wyoming UFO Encounter'
 permalink: /carl-higdon-contact-1974/
-date: '2025-05-05 15:17:00 '
+date: '2025-05-05 19:56:15 '
 image: /assets/images/UFO - Top 100/Carl Higdon contact 1974-Full-Text.svg
 description: 'Exploring The Carl Higdon Abduction: A Critical Examination of a Wyoming UFO Encounter within the context of UFO - Top 100.'
 ---

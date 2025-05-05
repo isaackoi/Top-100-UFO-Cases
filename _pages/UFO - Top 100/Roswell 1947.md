@@ -1,7 +1,7 @@
 ---
 title: 'The Roswell Incident (1947): A Critical Examination of the Evidence'
 permalink: /roswell-1947/
-date: '2025-05-05 15:17:06 '
+date: '2025-05-05 19:56:20 '
 image: /assets/images/UFO - Top 100/Roswell 1947-Full-Text.svg
 description: 'Exploring The Roswell Incident (1947): A Critical Examination of the Evidence within the context of UFO - Top 100.'
 ---

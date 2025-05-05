@@ -1,7 +1,7 @@
 ---
 title: 'Claude Vorilhon''s 1973 Alien Encounter: Origins of the Raëlian Movement'
 permalink: /claude-vorilhon-contact-1973/
-date: '2025-05-05 15:17:01 '
+date: '2025-05-05 19:56:16 '
 image: /assets/images/UFO - Top 100/Claude Vorilhon contact 1973-Full-Text.svg
 description: 'Exploring Claude Vorilhon''s 1973 Alien Encounter: Origins of the Raëlian Movement within the context of UFO - Top 100.'
 ---

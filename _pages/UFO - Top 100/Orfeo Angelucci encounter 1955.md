@@ -1,7 +1,7 @@
 ---
 title: 'Orfeo Angelucci''s Extraterrestrial Encounters: A Critical Analysis of the 1950s Contactee Experience'
 permalink: /orfeo-angelucci-encounter-1955/
-date: '2025-05-05 15:17:05 '
+date: '2025-05-05 19:56:20 '
 image: /assets/images/UFO - Top 100/Orfeo Angelucci encounter 1955-Full-Text.svg
 description: 'Exploring Orfeo Angelucci''s Extraterrestrial Encounters: A Critical Analysis of the 1950s Contactee Experience within the context of UFO - Top 100.'
 ---

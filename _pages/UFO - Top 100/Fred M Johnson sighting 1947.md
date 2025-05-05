@@ -1,7 +1,7 @@
 ---
 title: 'Fred M. Johnson''s 1947 UFO Sighting: A Critical Analysis of Evidence and Impact'
 permalink: /fred-m-johnson-sighting-1947/
-date: '2025-05-05 15:17:02 '
+date: '2025-05-05 19:56:17 '
 image: /assets/images/UFO - Top 100/Fred M Johnson sighting 1947-Full-Text.svg
 description: 'Exploring Fred M. Johnson''s 1947 UFO Sighting: A Critical Analysis of Evidence and Impact within the context of UFO - Top 100.'
 ---

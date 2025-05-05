@@ -1,7 +1,7 @@
 ---
 title: 'The Strange Case of Dr. X: The 1968 UFO Encounter and Miraculous Healing'
 permalink: /doctor-x-ufo-encounter-1968/
-date: '2025-05-05 15:17:01 '
+date: '2025-05-05 19:56:16 '
 image: /assets/images/UFO - Top 100/Doctor X UFO encounter 1968-Full-Text.svg
 description: 'Exploring The Strange Case of Dr. X: The 1968 UFO Encounter and Miraculous Healing within the context of UFO - Top 100.'
 ---

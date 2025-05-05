@@ -1,7 +1,7 @@
 ---
 title: 'The 1953 Kinross Incident: A Critical Analysis of the F-89 Disappearance Over Lake Superior'
 permalink: /kinross-incident-1953/
-date: '2025-05-05 15:17:04 '
+date: '2025-05-05 19:56:18 '
 image: /assets/images/UFO - Top 100/Kinross incident 1953-Full-Text.svg
 description: 'Exploring The 1953 Kinross Incident: A Critical Analysis of the F-89 Disappearance Over Lake Superior within the context of UFO - Top 100.'
 ---

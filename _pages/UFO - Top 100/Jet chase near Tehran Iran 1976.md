@@ -1,7 +1,7 @@
 ---
 title: 'The 1976 Tehran UFO Incident: Fighter Jets, System Failures, and Unexplained Aerial Phenomena'
 permalink: /jet-chase-near-tehran-iran-1976/
-date: '2025-05-05 15:17:03 '
+date: '2025-05-05 19:56:18 '
 image: /assets/images/UFO - Top 100/Jet chase near Tehran Iran 1976-Full-Text.svg
 description: 'Exploring The 1976 Tehran UFO Incident: Fighter Jets, System Failures, and Unexplained Aerial Phenomena within the context of UFO - Top 100.'
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'The Muroc Field UFO Sightings of 1947: A Detailed Critical Analysis'
 permalink: /muroc-field-sightings-1947/
-date: '2025-05-05 15:17:05 '
+date: '2025-05-05 19:56:19 '
 image: /assets/images/UFO - Top 100/Muroc Field sightings 1947-Full-Text.svg
 description: 'Exploring The Muroc Field UFO Sightings of 1947: A Detailed Critical Analysis within the context of UFO - Top 100.'
 ---

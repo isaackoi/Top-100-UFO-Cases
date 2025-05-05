@@ -1,7 +1,7 @@
 ---
 title: 'The Kelly-Hopkinsville Encounter of 1955: A Critical Examination of the Evidence'
 permalink: /kelly-hopkinsville-incident-1955/
-date: '2025-05-05 15:17:03 '
+date: '2025-05-05 19:56:18 '
 image: /assets/images/UFO - Top 100/Kelly-Hopkinsville incident 1955-Full-Text.svg
 description: 'Exploring The Kelly-Hopkinsville Encounter of 1955: A Critical Examination of the Evidence within the context of UFO - Top 100.'
 ---

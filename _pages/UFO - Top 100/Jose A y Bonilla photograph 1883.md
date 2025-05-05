@@ -1,7 +1,7 @@
 ---
 title: 'The Bonilla Observation of 1883: First UFO Photographs or Comet Fragments?'
 permalink: /jose-a-y-bonilla-photograph-1883/
-date: '2025-05-05 15:17:03 '
+date: '2025-05-05 19:56:18 '
 image: /assets/images/UFO - Top 100/Jose A y Bonilla photograph 1883-Full-Text.svg
 description: 'Exploring The Bonilla Observation of 1883: First UFO Photographs or Comet Fragments? within the context of UFO - Top 100.'
 ---

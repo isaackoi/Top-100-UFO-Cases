@@ -1,7 +1,7 @@
 ---
 title: 'The Lady/Snippy Horse Mutilation: A Critical Examination of America''s First Famous Animal Mutilation Case'
 permalink: /lady-animal-mutilation-1966/
-date: '2025-05-05 15:17:04 '
+date: '2025-05-05 19:56:18 '
 image: /assets/images/UFO - Top 100/Lady animal mutilation 1966-Full-Text.svg
 description: 'Exploring The Lady/Snippy Horse Mutilation: A Critical Examination of America''s First Famous Animal Mutilation Case within the context of UFO - Top 100.'
 ---

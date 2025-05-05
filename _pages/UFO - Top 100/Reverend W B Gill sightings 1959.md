@@ -1,7 +1,7 @@
 ---
 title: 'The Reverend William B. Gill UFO Sightings (1959): An Evidence-Based Analysis'
 permalink: /reverend-w-b-gill-sightings-1959/
-date: '2025-05-05 15:17:05 '
+date: '2025-05-05 19:56:20 '
 image: /assets/images/UFO - Top 100/Reverend W B Gill sightings 1959-Full-Text.svg
 description: 'Exploring The Reverend William B. Gill UFO Sightings (1959): An Evidence-Based Analysis within the context of UFO - Top 100.'
 ---

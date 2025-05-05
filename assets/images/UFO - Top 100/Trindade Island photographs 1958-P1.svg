@@ -1,134 +1,112 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="696" height="492" viewBox="0 0 696 492" style="fill:none;stroke:none;fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="648" height="360" viewBox="0 0 648 360" style="fill:none;stroke:none;fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" version="1.1">
   <style class="text-font-style fontImports" data-font-family="Roboto">@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=block');</style>
-  <rect x="0" y="0" width="696" height="492" fill="#252a34" stroke="none" id="programmatic_background"/>
-  <g id="g-root-tf_4j7a4s1ayijuz-stroke-fill" data-item-order="-312180" transform="translate(18, 12)"/>
-  <g id="g-root-sy_-1_Vector_1q6cxe41ayigwf-stroke-fill" data-item-order="-7663" transform="translate(224, 149)">
-    <g id="sy_-1_Vector_1q6cxe41ayigwf-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="2">
+  <rect x="0" y="0" width="648" height="3.6E+2" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <g id="g-root-tf_1q6cxe41ayfq4i-stroke-fill" data-item-order="-209664" transform="translate(12, 12)"/>
+  <g id="g-root-cp_1_g-1_zqxlos1ayeadi-stroke-fill" data-item-order="-138210" transform="translate(62, 248)">
+    <g id="cp_1_g-1_zqxlos1ayeadi-fill" stroke="none" fill="none">
       <g>
-        <path d="M 10 196L 10 106M 10 100L 10 10"/>
+        <path d="M 10 10L 178 10L 178 22L 10 22L 10 10Z"/>
+      </g>
+    </g>
+    <g id="cp_1_g-1_zqxlos1ayeadi-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
+      <g>
+        <path d="M 10 10L 178 10L 178 22L 10 22L 10 10Z"/>
       </g>
     </g>
   </g>
-  <g id="g-root-sy_-1_line_1lqjf9o1ayihoo-stroke-fill" data-item-order="-7659" transform="translate(224, 341)">
-    <g id="sy_-1_line_1lqjf9o1ayihoo-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="2">
+  <g id="g-root-cp_2_g-2_vb43kc1ayeb5s-stroke-fill" data-item-order="-138206" transform="translate(230, 248)">
+    <g id="cp_2_g-2_vb43kc1ayeb5s-fill" stroke="none" fill="none">
       <g>
-        <path d="M 10 94L 10 10"/>
-        <path d="M 3.5 88L 10 94.5L 16.5 88" stroke-dasharray="none"/>
+        <path d="M 10 10L 178 10L 178 22L 10 22Z"/>
+      </g>
+    </g>
+    <g id="cp_2_g-2_vb43kc1ayeb5s-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#1ac3fb" stroke-width="2">
+      <g>
+        <path d="M 10 10L 178 10L 178 22L 10 22Z"/>
       </g>
     </g>
   </g>
-  <g id="g-root-sy_3_cu_1hapx581ayiigx-stroke-fill" data-item-order="-7656" transform="translate(221, 335)">
-    <g id="sy_3_cu_1hapx581ayiigx-fill" stroke="none" fill="none">
+  <g id="g-root-cp_3_g-3_mfh3bg1ayebyh-stroke-fill" data-item-order="-138202" transform="translate(398, 241.5)">
+    <g id="cp_3_g-3_mfh3bg1ayebyh-fill" stroke="none" fill="none">
       <g>
-        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
+        <path d="M 10 16.5L 159.714 16.5L 159.714 10L 178 22.5L 159.714 35L 159.714 28.5L 10 28.5L 10 16.5Z"/>
       </g>
     </g>
-    <g id="sy_3_cu_1hapx581ayiigx-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
+    <g id="cp_3_g-3_mfh3bg1ayebyh-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
       <g>
-        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
-      </g>
-    </g>
-    <g id="sy_3_cu_1hapx581ayiigx-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
-      <g>
-        <path d="M 37 13L 16 13"/>
+        <path d="M 10 16.5L 159.7143 16.5L 159.7143 10L 178 22.5L 159.7143 35L 159.7143 28.5L 10 28.5L 10 16.5Z"/>
       </g>
     </g>
   </g>
-  <g id="g-root-sy_2_cu_18f2wwc1ayij9m-stroke-fill" data-item-order="-7652" transform="translate(221, 239)">
-    <g id="sy_2_cu_18f2wwc1ayij9m-fill" stroke="none" fill="none">
-      <g>
-        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
-      </g>
-    </g>
-    <g id="sy_2_cu_18f2wwc1ayij9m-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#1ac3fb" stroke-width="2">
-      <g>
-        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
-      </g>
-    </g>
-    <g id="sy_2_cu_18f2wwc1ayij9m-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#1ac3fb" stroke-width="2">
-      <g>
-        <path d="M 37 13L 16 13"/>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-sy_1_cu_13zvvv01ayigw3-stroke-fill" data-item-order="-7648" transform="translate(221, 143)">
-    <g id="sy_1_cu_13zvvv01ayigw3-fill" stroke="none" fill="none">
-      <g>
-        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
-      </g>
-    </g>
-    <g id="sy_1_cu_13zvvv01ayigw3-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
-      <g>
-        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
-      </g>
-    </g>
-    <g id="sy_1_cu_13zvvv01ayigw3-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
-      <g>
-        <path d="M 37 13L 16 13"/>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_thetrind_v48vm41ayihos-stroke-fill" data-item-order="0" transform="translate(128, 50)">
-    <g id="tx_thetrind_v48vm41ayihos-fill" stroke="none" fill="#f4f4f4">
-      <g>
-        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="15.21" y="34" dominant-baseline="ideographic">The Trindade Island UFO Incident: A Timeline</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_brazilia_hssd8s1ayij9p-stroke-fill" data-item-order="0" transform="translate(272, 314)">
-    <g id="tx_brazilia_hssd8s1ayij9p-fill" stroke="none" fill="#f4f4f4">
-      <g>
-        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="34" dominant-baseline="ideographic">Brazilian Navy endorses photograph </tspan>
-          <tspan x="12" y="58" dominant-baseline="ideographic">authenticity</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_almiroba_4hybyk1ayihou-stroke-fill" data-item-order="0" transform="translate(272, 230)">
-    <g id="tx_almiroba_4hybyk1ayihou-fill" stroke="none" fill="#f4f4f4">
-      <g>
-        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="34" dominant-baseline="ideographic">Almiro Barauna captures six photographs</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_sighting_1q7lvkc1ayij2n-stroke-fill" data-item-order="0" transform="translate(272, 134)">
-    <g id="tx_sighting_1q7lvkc1ayij2n-fill" stroke="none" fill="#f4f4f4">
-      <g>
-        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="34" dominant-baseline="ideographic">Sighting of the UFO by witnesses</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_february_1hclcek1ayihhc-stroke-fill" data-item-order="0" transform="translate(32, 326)">
-    <g id="tx_february_1hclcek1ayihhc-fill" stroke="none" fill="#43dd93">
+  <g id="g-root-tx_thetrind_i0a2a41aye9kz-stroke-fill" data-item-order="0" transform="translate(104, 50)">
+    <g id="tx_thetrind_i0a2a41aye9kz-fill" stroke="none" fill="#f4f4f4">
       <g>
         <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12.66" y="34" dominant-baseline="ideographic">February 25, 1958</tspan>
+          <tspan x="17.2" y="34" dominant-baseline="ideographic">The Trindade Island UFO Incident: A Timeline</tspan>
         </text>
       </g>
     </g>
   </g>
-  <g id="g-root-tx_january1_1414u181ayij29-stroke-fill" data-item-order="0" transform="translate(32, 230)">
-    <g id="tx_january1_1414u181ayij29-fill" stroke="none" fill="#1ac3fb">
+  <g id="g-root-tx_sighting_4otjws1ayeb5w-stroke-fill" data-item-order="0" transform="translate(74, 134)">
+    <g id="tx_sighting_4otjws1ayeb5w-fill" stroke="none" fill="#f4f4f4">
       <g>
-        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="19.72" y="34" dominant-baseline="ideographic">January 16, 1958</tspan>
+        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
+          <tspan x="15.68" y="28" dominant-baseline="ideographic">Sighting of the UFO </tspan>
+          <tspan x="36.93" y="46" dominant-baseline="ideographic">by witnesses</tspan>
         </text>
       </g>
     </g>
   </g>
-  <g id="g-root-tx_january1_qqasr01ayihhe-stroke-fill" data-item-order="0" transform="translate(32, 134)">
-    <g id="tx_january1_qqasr01ayihhe-fill" stroke="none" fill="#4f91fc">
+  <g id="g-root-tx_january1_1uualn01ayebrh-stroke-fill" data-item-order="0" transform="translate(74, 182)">
+    <g id="tx_january1_1uualn01ayebrh-fill" stroke="none" fill="#4f91fc">
       <g>
         <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="19.72" y="34" dominant-baseline="ideographic">January 16, 1958</tspan>
+          <tspan x="14.8" y="34" dominant-baseline="ideographic">January 16, </tspan>
+          <tspan x="44.55" y="58" dominant-baseline="ideographic">1958</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_almiroba_1hjgkcs1ayea6m-stroke-fill" data-item-order="0" transform="translate(242, 110)">
+    <g id="tx_almiroba_1hjgkcs1ayea6m-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
+          <tspan x="16.82" y="31" dominant-baseline="ideographic">Almiro Barauna </tspan>
+          <tspan x="27.73" y="49" dominant-baseline="ideographic">captures six </tspan>
+          <tspan x="25.95" y="67" dominant-baseline="ideographic">photographs</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_january1_14801zg1ayebrj-stroke-fill" data-item-order="0" transform="translate(242, 182)">
+    <g id="tx_january1_14801zg1ayebrj-fill" stroke="none" fill="#1ac3fb">
+      <g>
+        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="14.8" y="34" dominant-baseline="ideographic">January 16, </tspan>
+          <tspan x="44.55" y="58" dominant-baseline="ideographic">1958</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_brazilia_v2zxfw1ayfoqo-stroke-fill" data-item-order="0" transform="translate(410, 98)">
+    <g id="tx_brazilia_v2zxfw1ayfoqo-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
+          <tspan x="15.15" y="28" dominant-baseline="ideographic">Brazilian Navy </tspan>
+          <tspan x="31.24" y="46" dominant-baseline="ideographic">endorses </tspan>
+          <tspan x="23.82" y="64" dominant-baseline="ideographic">photograph </tspan>
+          <tspan x="23.18" y="82" dominant-baseline="ideographic">authenticity</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_february_m7cx701ayfpjd-stroke-fill" data-item-order="0" transform="translate(410, 182)">
+    <g id="tx_february_m7cx701ayfpjd-fill" stroke="none" fill="#43dd93">
+      <g>
+        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="17.27" y="34" dominant-baseline="ideographic">February 25, </tspan>
+          <tspan x="50.55" y="58" dominant-baseline="ideographic">1958</tspan>
         </text>
       </g>
     </g>
@@ -141,13 +119,13 @@
           <path d="M -12.5 12.5 l 13 -13 l 6 0 l -13 13 Z M -0.5 12.5 l 13 -13 l 6 0 l -13 13 Z M 11.5 12.5 l 13 -13 l 6 0 l -13 13 Z"/>
         </g>
       </symbol>
-      <pattern id="crawlingPattern-00b15c75" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#00b15c75">
+      <pattern id="crawlingPattern-0060fba2" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#0060fba2">
         <use href="#crawlingSymbol"/>
       </pattern>
       <pattern id="crawlingPattern-00a3d9d9" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#00a3d9d9">
         <use href="#crawlingSymbol"/>
       </pattern>
-      <pattern id="crawlingPattern-0060fba2" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#0060fba2">
+      <pattern id="crawlingPattern-00b15c75" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#00b15c75">
         <use href="#crawlingSymbol"/>
       </pattern>
     </defs>

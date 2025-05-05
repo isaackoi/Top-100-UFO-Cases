@@ -1,7 +1,7 @@
 ---
 title: 'The Livingston Incident (1979): A Critical Examination of Scotland''s Most Compelling UFO Case'
 permalink: /livingston-incident-1979/
-date: '2025-05-05 15:17:04 '
+date: '2025-05-05 19:56:19 '
 image: /assets/images/UFO - Top 100/Livingston incident 1979-Full-Text.svg
 description: 'Exploring The Livingston Incident (1979): A Critical Examination of Scotland''s Most Compelling UFO Case within the context of UFO - Top 100.'
 ---

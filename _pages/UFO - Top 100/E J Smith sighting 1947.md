@@ -1,7 +1,7 @@
 ---
 title: 'The E.J. Smith UFO Sighting of 1947: A Critical Analysis of Early Aviation Encounters'
 permalink: /e-j-smith-sighting-1947/
-date: '2025-05-05 15:17:01 '
+date: '2025-05-05 19:56:16 '
 image: /assets/images/UFO - Top 100/E J Smith sighting 1947-Full-Text.svg
 description: 'Exploring The E.J. Smith UFO Sighting of 1947: A Critical Analysis of Early Aviation Encounters within the context of UFO - Top 100.'
 ---

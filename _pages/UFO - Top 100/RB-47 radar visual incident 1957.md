@@ -1,7 +1,7 @@
 ---
 title: 'The 1957 RB-47 UFO Encounter: A Critical Analysis of Multi-Sensor Detection Evidence'
 permalink: /rb-47-radar-visual-incident-1957/
-date: '2025-05-05 15:17:05 '
+date: '2025-05-05 19:56:20 '
 image: /assets/images/UFO - Top 100/RB-47 radar visual incident 1957-Full-Text.svg
 description: 'Exploring The 1957 RB-47 UFO Encounter: A Critical Analysis of Multi-Sensor Detection Evidence within the context of UFO - Top 100.'
 ---

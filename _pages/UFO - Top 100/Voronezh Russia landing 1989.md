@@ -1,7 +1,7 @@
 ---
 title: 'The Voronezh UFO Incident: A Critical Examination of the 1989 Russian Landing Case'
 permalink: /voronezh-russia-landing-1989/
-date: '2025-05-05 15:17:07 '
+date: '2025-05-05 19:56:23 '
 image: /assets/images/UFO - Top 100/Voronezh Russia landing 1989-Full-Text.svg
 description: 'Exploring The Voronezh UFO Incident: A Critical Examination of the 1989 Russian Landing Case within the context of UFO - Top 100.'
 ---

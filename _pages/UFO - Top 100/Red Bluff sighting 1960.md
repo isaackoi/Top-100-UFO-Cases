@@ -1,7 +1,7 @@
 ---
 title: 'The Red Bluff UFO Incident of 1960: A Comprehensive Analysis'
 permalink: /red-bluff-sighting-1960/
-date: '2025-05-05 15:17:05 '
+date: '2025-05-05 19:56:20 '
 image: /assets/images/UFO - Top 100/Red Bluff sighting 1960-Full-Text.svg
 description: 'Exploring The Red Bluff UFO Incident of 1960: A Comprehensive Analysis within the context of UFO - Top 100.'
 ---

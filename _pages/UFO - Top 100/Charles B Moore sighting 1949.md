@@ -1,7 +1,7 @@
 ---
 title: 'The Charles B. Moore UFO Sighting of 1949: A Scientific Anomaly in the Early UFO Era'
 permalink: /charles-b-moore-sighting-1949/
-date: '2025-05-05 15:17:01 '
+date: '2025-05-05 19:56:15 '
 image: /assets/images/UFO - Top 100/Charles B Moore sighting 1949-Full-Text.svg
 description: 'Exploring The Charles B. Moore UFO Sighting of 1949: A Scientific Anomaly in the Early UFO Era within the context of UFO - Top 100.'
 ---

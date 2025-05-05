@@ -1,7 +1,7 @@
 ---
 title: 'Jimmy Carter''s 1969 UFO Sighting: A Comprehensive Analysis'
 permalink: /jimmy-carter-sighting-1969/
-date: '2025-05-05 15:17:03 '
+date: '2025-05-05 19:56:18 '
 image: /assets/images/UFO - Top 100/Jimmy Carter sighting 1969-Full-Text.svg
 description: 'Exploring Jimmy Carter''s 1969 UFO Sighting: A Comprehensive Analysis within the context of UFO - Top 100.'
 ---

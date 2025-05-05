@@ -1,7 +1,7 @@
 ---
 title: 'The JAL 1628 UFO Incident: A Critical Analysis of the 1986 Alaska Case'
 permalink: /jal-1628-sighting-over-alaska-1986/
-date: '2025-05-05 15:17:03 '
+date: '2025-05-05 19:56:18 '
 image: /assets/images/UFO - Top 100/JAL 1628 sighting over Alaska 1986-Full-Text.svg
 description: 'Exploring The JAL 1628 UFO Incident: A Critical Analysis of the 1986 Alaska Case within the context of UFO - Top 100.'
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'The Spaur/Neff Ravenna UFO Chase of 1966: A Critical Examination'
 permalink: /spaur-neff-ravenna-sighting-1966/
-date: '2025-05-05 15:17:06 '
+date: '2025-05-05 19:56:21 '
 image: /assets/images/UFO - Top 100/Spaur Neff Ravenna sighting 1966-Full-Text.svg
 description: 'Exploring The Spaur/Neff Ravenna UFO Chase of 1966: A Critical Examination within the context of UFO - Top 100.'
 ---

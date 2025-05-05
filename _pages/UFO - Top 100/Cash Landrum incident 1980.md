@@ -1,7 +1,7 @@
 ---
 title: 'The Cash-Landrum UFO Incident (1980): A Critical Examination of Evidence'
 permalink: /cash-landrum-incident-1980/
-date: '2025-05-05 15:17:00 '
+date: '2025-05-05 19:56:15 '
 image: /assets/images/UFO - Top 100/Cash Landrum incident 1980-Full-Text.svg
 description: 'Exploring The Cash-Landrum UFO Incident (1980): A Critical Examination of Evidence within the context of UFO - Top 100.'
 ---

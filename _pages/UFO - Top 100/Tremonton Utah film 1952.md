@@ -1,7 +1,7 @@
 ---
 title: 'The Tremonton, Utah UFO Film (1952): A Critical Analysis of the Evidence'
 permalink: /tremonton-utah-film-1952/
-date: '2025-05-05 15:17:06 '
+date: '2025-05-05 19:56:21 '
 image: /assets/images/UFO - Top 100/Tremonton Utah film 1952-Full-Text.svg
 description: 'Exploring The Tremonton, Utah UFO Film (1952): A Critical Analysis of the Evidence within the context of UFO - Top 100.'
 ---

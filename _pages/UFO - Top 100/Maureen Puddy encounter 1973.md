@@ -1,7 +1,7 @@
 ---
 title: 'The Maureen Puddy UFO Encounters (1972-1973): A Critical Analysis'
 permalink: /maureen-puddy-encounter-1973/
-date: '2025-05-05 15:17:04 '
+date: '2025-05-05 19:56:19 '
 image: /assets/images/UFO - Top 100/Maureen Puddy encounter 1973-Full-Text.svg
 description: 'Exploring The Maureen Puddy UFO Encounters (1972-1973): A Critical Analysis within the context of UFO - Top 100.'
 ---

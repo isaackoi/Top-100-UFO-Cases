@@ -1,7 +1,7 @@
 ---
 title: 'The Charles L. Moody Abduction Case (1975): A Critical Analysis'
 permalink: /charles-l-moody-abduction-1975/
-date: '2025-05-05 15:17:01 '
+date: '2025-05-05 19:56:15 '
 image: /assets/images/UFO - Top 100/Charles L Moody abduction 1975-Full-Text.svg
 description: 'Exploring The Charles L. Moody Abduction Case (1975): A Critical Analysis within the context of UFO - Top 100.'
 ---

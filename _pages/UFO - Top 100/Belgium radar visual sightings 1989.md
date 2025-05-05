@@ -1,7 +1,7 @@
 ---
 title: 'The Belgian UFO Wave (1989-1990): A Critical Analysis of Radar and Visual Evidence'
 permalink: /belgium-radar-visual-sightings-1989/
-date: '2025-05-05 15:17:00 '
+date: '2025-05-05 19:56:15 '
 image: /assets/images/UFO - Top 100/Belgium radar visual sightings 1989-Full-Text.svg
 description: 'Exploring The Belgian UFO Wave (1989-1990): A Critical Analysis of Radar and Visual Evidence within the context of UFO - Top 100.'
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'The Alexander Hamilton Airship Incident of 1897: A Critical Analysis of an Early UFO Case'
 permalink: /alexander-hamilton-airship-1897/
-date: '2025-05-05 15:17:00 '
+date: '2025-05-05 19:56:14 '
 image: /assets/images/UFO - Top 100/Alexander Hamilton airship 1897-Full-Text.svg
 description: 'Exploring The Alexander Hamilton Airship Incident of 1897: A Critical Analysis of an Early UFO Case within the context of UFO - Top 100.'
 ---

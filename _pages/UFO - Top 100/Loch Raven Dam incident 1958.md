@@ -1,7 +1,7 @@
 ---
 title: 'The Loch Raven Dam UFO Incident (1958): A Critical Examination of a Forgotten Case'
 permalink: /loch-raven-dam-incident-1958/
-date: '2025-05-05 15:17:04 '
+date: '2025-05-05 19:56:19 '
 image: /assets/images/UFO - Top 100/Loch Raven Dam incident 1958-Full-Text.svg
 description: 'Exploring The Loch Raven Dam UFO Incident (1958): A Critical Examination of a Forgotten Case within the context of UFO - Top 100.'
 ---

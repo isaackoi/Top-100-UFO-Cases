@@ -1,7 +1,7 @@
 ---
 title: 'The Cynthia Appleton UFO Encounters (1957-1959): Critical Analysis of a British Contact Case'
 permalink: /cynthia-appleton-encounter-1957/
-date: '2025-05-05 15:17:01 '
+date: '2025-05-05 19:56:16 '
 image: /assets/images/UFO - Top 100/Cynthia Appleton encounter 1957-Full-Text.svg
 description: 'Exploring The Cynthia Appleton UFO Encounters (1957-1959): Critical Analysis of a British Contact Case within the context of UFO - Top 100.'
 ---
