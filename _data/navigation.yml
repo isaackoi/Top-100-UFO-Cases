@@ -1,8 +1,6 @@
 main:
   - title: "Home"
     url: /ufo-top-100/
-  - title: "Blog"
-    url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
