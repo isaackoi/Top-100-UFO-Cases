@@ -1,0 +1,178 @@
+---
+---
+// assets/css/main.scss
+
+@charset "utf-8";
+
+// Override the theme’s default max-width for the main content area
+$max-width: 1360px; // Keep this if you need it
+
+// --- Core Theme Setup ---
+// 1) Pull in your *DEFAULT* skin (e.g., default light skin)
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+
+// 2) Import the core theme styles
+@import "minimal-mistakes";
+
+
+// --- Dark Theme Overrides ---
+// Redefine variables to match OFFICIAL MM DARK THEME (#252a34 background)
+html[data-theme="dark"] {
+  // --- Core Colors (From MM _dark.scss) ---
+  --initial-background-color: #252a34; // Official MM Dark Background
+  --background-color: #252a34;         // Official MM Dark Background
+  --text-color: #eaeaea;             // Official MM Dark Text
+  --muted-text-color: #ced8de;       // Official MM Dark Muted Text
+  --primary-color: #66aabb;          // Official MM Dark Primary Accent
+  --link-color: var(--primary-color); // Official MM Dark Link
+  --link-color-hover: #94c9d9;        // Lighter hover for links
+  --border-color: #4d525b;           // Darker border color
+  --footer-background-color: #1f232a; // Darker footer background
+  --nav-background-darker: #1f232a; // Darker background (used for TOC)
+  --sidebar-background: var(--nav-background-darker); // TOC uses the darker background
+
+  // --- Headings ---
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--text-color); // Use light text for headings
+  }
+  h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+   color: inherit; // Links within headings match heading color
+  }
+
+  // --- Masthead, Nav, Sidebar, TOC ---
+  --masthead-link-color: var(--text-color); // Masthead links use light text
+  --masthead-link-color-hover: #d0d0d0; // Slightly dimmer hover for masthead links
+
+  // Override the hardcoded background and link colors on .greedy-nav (Navigation Bar)
+  .greedy-nav {
+    // Use the main page background color for the nav bar itself
+    background: var(--background-color) !important; // Match main background
+    a { // Target links within the nav bar
+      color: var(--masthead-link-color); // Use light text
+    }
+    a:hover {
+       color: var(--masthead-link-color-hover); // Use specific hover color
+    }
+  }
+
+  // Override styles for .toc (Table of Contents - Right Sidebar)
+  .toc {
+     // Use the darker sidebar background for TOC
+     background-color: var(--sidebar-background) !important;
+     border-color: var(--border-color); // Use dark border
+
+     // Style TOC title bar
+     .nav__title {
+       color: var(--text-color);
+       background-color: #3a404a;
+       border-top-left-radius: 4px;
+       border-top-right-radius: 4px;
+       border-bottom-color: var(--border-color);
+     }
+
+     // Style TOC links
+     .toc__menu a {
+       color: var(--muted-text-color);
+       border-bottom-color: var(--border-color);
+     }
+     .toc__menu a:hover {
+       color: var(--link-color-hover);
+       background-color: #3a404a;
+     }
+
+     // Style Active TOC link (assuming .active is on <li>)
+     .toc__menu li.active > a {
+        background-color: var(--border-color);
+        color: var(--text-color);
+        font-weight: bold;
+     }
+  }
+
+  // Override styles for .sidebar (Left Author Profile - if needed)
+  .sidebar {
+     // background-color: var(--background-color); // Usually inherits from body
+     // border-color: var(--border-color);
+  }
+
+  // --- Footer ---
+  .page__footer {
+      background-color: var(--footer-background-color) !important;
+      border-top-color: var(--border-color);
+      color: var(--muted-text-color);
+
+      a { color: var(--link-color); }
+      a:hover { color: var(--link-color-hover); }
+      .social-icons .fas,
+      .social-icons .fab,
+      .social-icons .far,
+      .social-icons .fal {
+         color: var(--muted-text-color);
+      }
+  }
+
+  // --- Code Blocks ---
+  --code-background-color: #202020;
+  --code-text-color: #e0e0e0;
+  --code-border-color: #303030;
+
+  // --- Button Colors ---
+   --button-background-color: var(--primary-color);
+   --button-text-color: #fff;
+   --button-hover-background-color: #4a8fa9;
+   --button-inverse-background-color: #4d525b;
+   --button-inverse-text-color: var(--text-color);
+   --button-inverse-hover-background-color: #636973;
+
+} // --- END of html[data-theme="dark"] ---
+
+
+// --- Body Base Styles ---
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+
+// --- Sticky Masthead / Sidebar Styling ---
+:root {
+  --mm-masthead-height: #{ $nav-height + 2em };
+}
+.masthead {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: var(--background-color); // Uses variable
+  border-bottom: 1px solid var(--border-color); // Uses variable
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+.sidebar.sticky {
+  position: sticky;
+  top: var(--mm-masthead-height);
+}
+.sidebar__right.sticky {
+  position: sticky;
+  top: var(--mm-masthead-height);
+}
+
+
+// --- REMOVED Theme Toggle Button Custom Styling ---
+// Let the default Minimal Mistakes theme styles handle the toggle button appearance
+
+
+// --- Footnote Marker Spacing ---
+// Add spacing between consecutive footnote markers in the text body.
+// Reset any potential default browser margins/paddings on the link itself
+sup > a.footnote {
+  margin: 0;
+  padding: 0;
+  // Optional: If links have underlines you don't want on the numbers
+  // text-decoration: none;
+}
+
+// Target a <sup> containing a direct child <a class="footnote">
+// ONLY when it immediately follows another such <sup> using the adjacent sibling selector (+)
+sup:has(> a.footnote) + sup:has(> a.footnote) {
+  margin-left: 0.2em; /* Adjust spacing as needed (e.g., 1px, 0.1em, 0.25em) */
+}

@@ -1,0 +1,58 @@
+{% capture logo_path %}{{ site.logo }}{% endcapture %}
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        {% unless logo_path == empty %}
+          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
+        {% endunless %}
+        <a class="site-title" href="{{ '/' | relative_url }}">
+          {{ site.masthead_title | default: site.title }}
+          {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
+        </a>
+        <ul class="visible-links">
+          {%- for link in site.data.navigation.main -%}
+            <li class="masthead__menu-item">
+              <a
+                href="{{ link.url | relative_url }}"
+                {% if link.description %} title="{{ link.description }}"{% endif %}
+                {% if link.target %} target="{{ link.target }}"{% endif %}
+                rel="{{ link.rel }}" {# Added rel attribute if present in _data/navigation.yml #}
+              >{{ link.title }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
+
+        <!-- ********** Theme Toggle Button START ********** -->
+        <!-- Insert the theme toggle button here -->
+        <button class="theme-toggle" id="theme-toggle" title="Activate light mode" aria-label="Activate light mode" aria-live="polite">
+          <svg class="icon icon-toggle" width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true">
+            <!-- Group for Sun Icon -->
+            <g class="icon-wrapper icon-sun-wrapper">
+              <path class="icon-sun" fill="currentColor" d="M12,9c-1.65,0-3,1.35-3,3s1.35,3,3,3s3-1.35,3-3S13.65,9,12,9z M12,16c-2.21,0-4-1.79-4-4s1.79-4,4-4s4,1.79,4,4 S14.21,16,12,16z M12,5V3h0V1h-1v2h0v2H12z M12,19v2h0v2h1v-2h0V19H12z M5.64,6.36 L4.22,4.95 L3.51,5.66l1.41,1.41L5.64,6.36z M18.36,17.64l1.41,1.41l0.71-0.71l-1.41-1.41L18.36,17.64z M19,11h2v0h2v1h-2 v0H19V11z M3,12H1v-1h2v0h2V12H3z M6.36,18.36 L5.66,19.07l1.41,1.41l0.71-0.71L6.36,18.36z M17.64,5.64L19.05,4.22 l-0.71-0.71l-1.41,1.41L17.64,5.64z"></path>
+            </g>
+            <!-- Group for Moon Icon -->
+            <g class="icon-wrapper icon-moon-wrapper">
+               <path class="icon-moon" fill="currentColor" d="M12.01,2.01c-5.52,0-9.99,4.47-9.99,9.99c0,5.52,4.47,9.99,9.99,9.99c0.01,0,0.01,0,0.02,0 c4.05-0.11,7.5-2.64,9.07-6.13c-0.74-0.26-1.45-0.59-2.08-0.98c-1.79-1.1-2.88-3.08-2.88-5.2c0-3.4,2.75-6.15,6.15-6.15 c0.38,0,0.75,0.04,1.12,0.11C17.99,2.79,15.12,2.01,12.01,2.01z"></path>
+            </g>
+          </svg>
+        </button>
+        <!-- ********** Theme Toggle Button END ********** -->
+
+        {% if site.search == true %}
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
+          <i class="fas fa-search"></i>
+        </button>
+        {% endif %}
+
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>

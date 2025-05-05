@@ -1,0 +1,25 @@
+<!-- _includes/head/custom.html -->
+<script>
+  // FOUC Prevention Script (IIFE to avoid polluting global scope)
+  (function() {
+    try {
+      var T = localStorage.getItem('theme'); // User preference
+      var D = window.matchMedia('(prefers-color-scheme: dark)').matches; // System preference dark
+      var L = window.matchMedia('(prefers-color-scheme: light)').matches; // System preference light
+      var defaultTheme = 'dark'; // <<< SET DEFAULT TO DARK HERE
+      var A = document.documentElement;
+
+      // Apply theme immediately
+      if (T === 'light' || T === 'dark') {
+        A.setAttribute('data-theme', T); // Use saved theme if valid
+      } else if (D) {
+        A.setAttribute('data-theme', 'dark'); // Use system dark preference
+      } else if (L) {
+         // Only default to system light if no dark preference and no saved theme
+        A.setAttribute('data-theme', 'light');
+      } else {
+        A.setAttribute('data-theme', defaultTheme); // Fallback to site default (dark)
+      }
+    } catch (e) { console.error("Error applying initial theme:", e); }
+  })();
+</script>
