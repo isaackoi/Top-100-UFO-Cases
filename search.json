@@ -5,20 +5,20 @@ sitemap: false # Exclude from sitemap.xml
 [
   {%- assign index_pages = site.pages | where_exp: "item", "item.search != false" -%}
   {%- assign index_posts = site.posts | where_exp: "item", "item.search != false" -%}
-  
-  {%# Initialize index_docs as an empty array BEFORE the loop #}
-  {%- assign index_docs = [] -%} 
-  
+
+  {%- comment -%} Initialize index_docs as an empty array BEFORE the loop {%- endcomment -%}
+  {%- assign index_docs = [] -%}
+
   {%- assign index_collections_string = "" -%} {# Renamed for clarity if you need the string list #}
 
   {%- for collection in site.collections -%}
     {%- if collection.output and collection.label != "posts" -%}
       {%# This part builds a comma-separated string of collection labels. Keep if needed, remove if not. #}
       {%- assign index_collections_string = index_collections_string | append: "," | append: collection.label -%}
-      
+
       {%# Filter docs from the current collection #}
       {%- assign collection_docs = collection.docs | where_exp: "item", "item.search != false" -%}
-      
+
       {%# Concatenate the current collection's docs to the main index_docs array #}
       {%- assign index_docs = index_docs | concat: collection_docs -%}
     {%- endif -%}
