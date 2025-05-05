@@ -6,8 +6,6 @@ date: '2025-04-18'
 ---
 Back in around 2002, I thought that it might be interesting to find out which UFO cases are most frequently discussed in books about UFOs and SETI.
 
-If ufologists wrote books solely with the objective of presenting the best available evidence, then the most frequently discussed cases would be the ones that the most authors regarded as the best cases.
-
 I therefore set out to prepare a list of the UFO incidents most frequently discussed in a reasonably large sample of UFO and SETI books.
 
 Over four  years and 963 books later, I prepared a “Top 100” list of UFO cases based on the frequency of discussion within these books.
@@ -114,6 +112,8 @@ In decreasing order of the numbers of references, the Top 100 UFO cases were:
 - Case 98 - [Oloron “Angel Hair” incident (1952)]({{ '/oloron-angel-hair-incident-1952/' | relative_url }})
 - Case 99 - [Tully “saucer nest” incident (1966)]({{ '/tully-saucer-nest-incident-1966/' | relative_url }})
 - Case 100 - [Loch Raven Dam incident (1958)]({{ '/loch-raven-dam-incident-1958/' | relative_url }})
+
+If ufologists wrote books solely with the objective of presenting the best available evidence, then the most frequently discussed cases would be the ones that the most authors regarded as the best cases.
 
 Clearly this method of compiling a list of the “top” cases is biased in favour of older cases.  The older the case, the more books have been published since that case.  Thus, an incident in 1947 discussed in 20% of UFO books published since that date will rank higher than an incident in, say, 1999 which has been discussed in 100% of the relevant sample of UFO books published since that date. Also, since my sample of UFO/SETI books is limited to those in English, there is a strong bias in favour of books by authors from the USA and the United Kingdom (who, in turn, appear to have a strong bias in favour of writing about cases from the USA and the United Kingdom).
 
