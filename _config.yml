@@ -103,7 +103,7 @@ defaults:
       type: posts
     values:
       layout: single  # single post layout
-      author_profile: false # show author profile
+      author_profile: true # show author profile
       read_time: true   # show read time
       comments: true # show comments
       share: true # show share buttons
@@ -115,7 +115,7 @@ defaults:
       type: pages # type of your pages   
     values:
       layout: single # single page layout
-      author_profile: false # show author profile
+      author_profile: true # show author profile
       #classes: wide # wide page
       toc: true # table of contents
       toc_sticky: true # sticky table of contents
