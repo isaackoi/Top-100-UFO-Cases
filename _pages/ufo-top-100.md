@@ -1,5 +1,5 @@
 ---
-title: UFO Top 100 - Introduction
+title: Introduction
 permalink: /
 description: Index of pages related to the UFO - Top 100 topic.
 date: '2025-04-18'
