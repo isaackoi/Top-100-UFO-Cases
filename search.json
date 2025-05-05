@@ -32,7 +32,8 @@ sitemap: false # Exclude from sitemap.xml
       {# Simplified: The content processing is the same regardless of layout in the original code #}
       {{ item.content | strip_html | strip_newlines | replace: '\', '\\' | replace: '"', '\"' }}
     {%- endcapture -%}
-    {%# Create excerpt: strip, limit words, add ellipsis #}
+    
+    {%- comment -%} Create excerpt: strip, limit words, add ellipsis {%- endcomment -%}
     {%- assign item_content_excerpt = item_content | strip_html | strip_newlines | split: ' ' | slice: 0, 300 | join: ' ' | append: "..." -%}
 
     {
