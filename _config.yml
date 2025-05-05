@@ -56,6 +56,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  
 
 author:
   name   : "Isaac Koi"
@@ -128,3 +129,13 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Search Settings
+search: true
+search_provider: lunr # Or use "google", "algolia", "tipue_search" if configured
+
+# Optional Lunr settings (defaults are usually fine)
+lunr:
+  search_within_pages: true # Allows searching within page/post content
+  # search_full_content: true # Optional: Index full content. Can make search.json large.
+  # entries_layout: 'list'   # Optional: How results are displayed ('grid', 'list', 'table')

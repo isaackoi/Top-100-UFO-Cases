@@ -1,0 +1,39 @@
+---
+layout: null # Prevents Jekyll from wrapping this in a layout
+sitemap: false # Exclude from sitemap.xml
+---
+[
+  {%- assign index_pages = site.pages | where_exp: "item", "item.search != false" -%}
+  {%- assign index_posts = site.posts | where_exp: "item", "item.search != false" -%}
+  {%- assign index_collections = "" -%}
+  {%- for collection in site.collections -%}
+    {%- if collection.output and collection.label != "posts" -%}
+      {%- assign index_collections = index_collections | append: "," | append: collection.label -%}
+      {%- assign collection_docs = collection.docs | where_exp: "item", "item.search != false" -%}
+      {%- assign index_docs = index_docs | concat: collection_docs -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- assign index_items = index_pages | concat: index_posts | concat: index_docs -%}
+
+  {%- for item in index_items limit: 1500 -%}
+    {%- capture item_content -%}
+      {%- if item.layout == 'nil' or item.layout == 'null' -%}
+        {{ item.content | strip_html | strip_newlines | replace: '\', '\\' | replace: '"', '\"' }}
+      {%- else -%}
+        {{ item.content | strip_html | strip_newlines | replace: '\', '\\' | replace: '"', '\"' }}
+      {%- endif -%}
+    {%- endcapture -%}
+    {%- assign item_content = item_content | split: ' ' | slice: 0, 300 | join: ' ' | append: "..." -%}
+
+    {
+      "title": {{ item.title | default: item.name | jsonify }},
+      "excerpt": {{ item.excerpt | default: item_content | jsonify }},
+      "categories": {{ item.categories | jsonify }},
+      "tags": {{ item.tags | jsonify }},
+      "url": {{ item.url | relative_url | jsonify }},
+      "date": "{{ item.date | date_to_xmlschema }}",
+      "hidden": {% if item.hidden %}true{% else %}false{% endif %}
+    }
+    {%- unless forloop.last -%},{%- endunless -%}
+  {%- endfor -%}
+]
