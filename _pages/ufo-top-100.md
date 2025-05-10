@@ -155,4 +155,4 @@ The next time you hear someone refer a skeptic or scientist to the UFO literatur
 Is that what you want? If not, you will need to be more helpful than merely suggesting they read “the literature”.
 
 
-![Title image]({{ "/assets/images/UFO - Top 100/0-title.png" | relative_url }})
+![Title image]({{ "/assets/images/0-title.png" | relative_url }})
