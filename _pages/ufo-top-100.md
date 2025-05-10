@@ -6,17 +6,6 @@ description: Index of pages related to the UFO - Top 100 topic.
 date: '2025-05-10'
 ---
 
-DEBUG START
-Page Image Value: {{ page.image }}
-Is Page Image Blank?: {% if page.image == blank %}YES_BLANK{% else %}NO_NOT_BLANK{% endif %}
-
-{% assign absolute_url_test_var = page.image | absolute_url %}
-Absolute URL for Page Image (assigned): {{ absolute_url_test_var }}
-Is Absolute URL for Page Image (assigned) Blank?: {% if absolute_url_test_var == blank %}YES_ABSOLUTE_BLANK{% else %}NO_ABSOLUTE_NOT_BLANK{% endif %}
-
-Site URL: {{ site.url }}
-DEBUG END
-
 Back in around 2002, I thought that it might be interesting to find out which UFO cases are most frequently discussed in books about UFOs and SETI.
 
 I therefore set out to prepare a list of the UFO incidents most frequently discussed in a reasonably large sample of UFO and SETI books.
