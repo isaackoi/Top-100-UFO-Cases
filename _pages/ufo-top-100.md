@@ -2,13 +2,15 @@
 title: Introduction
 permalink: /
 description: Index of pages related to the UFO - Top 100 topic.
-date: '2025-04-18'
+date: '2025-05-10'
 ---
 Back in around 2002, I thought that it might be interesting to find out which UFO cases are most frequently discussed in books about UFOs and SETI.
 
 I therefore set out to prepare a list of the UFO incidents most frequently discussed in a reasonably large sample of UFO and SETI books.
 
-Over four  years and 963 books later, I prepared a “Top 100” list of UFO cases based on the frequency of discussion within these books.
+Over four years later, after reading 963 UFO books, I prepared a “Top 100” list of UFO cases based on the frequency of discussion within these books. 
+
+Now (in 2025) I have used Artificial Intelligence software to produce summaries of the information available about each of these 100 cases and to illustrate relevant pages.  (I have, so far, resisted the temptation to edit these pages as this website is just a first experiment with using a self-improving AI system).
 
 In decreasing order of the numbers of references, the Top 100 UFO cases were:
 
@@ -116,8 +118,6 @@ In decreasing order of the numbers of references, the Top 100 UFO cases were:
 If ufologists wrote books solely with the objective of presenting the best available evidence, then the most frequently discussed cases would be the ones that the most authors regarded as the best cases.
 
 Clearly this method of compiling a list of the “top” cases is biased in favour of older cases.  The older the case, the more books have been published since that case.  Thus, an incident in 1947 discussed in 20% of UFO books published since that date will rank higher than an incident in, say, 1999 which has been discussed in 100% of the relevant sample of UFO books published since that date. Also, since my sample of UFO/SETI books is limited to those in English, there is a strong bias in favour of books by authors from the USA and the United Kingdom (who, in turn, appear to have a strong bias in favour of writing about cases from the USA and the United Kingdom).
-
-Now (in 2025) I have used Artificial Intelligence software to produce summaries of the information available about each of these 100 cases and to illustrate relevant pages.  (I have, so far, resisted the temptation to edit these pages as this website is just a first experiment with using a self-improving AI system).
 
 It should be noted that I am not suggesting that UFO books are in fact written solely with the objective of presenting the best available evidence.
 
