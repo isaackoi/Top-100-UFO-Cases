@@ -1,8 +1,9 @@
 ---
 title: 'The Carl Higdon Abduction: A Critical Examination of a Wyoming UFO Encounter'
 permalink: /carl-higdon-contact-1974/
-date: '2025-05-05 19:56:15 '
-image: /assets/images/UFO - Top 100/Carl Higdon contact 1974-Full-Text.svg
+date: '2025-05-10 20:35:23 '
+header:
+  og_image: /assets/images/UFO - Top 100/Carl Higdon contact 1974-Full-Text.png
 description: 'Exploring The Carl Higdon Abduction: A Critical Examination of a Wyoming UFO Encounter within the context of UFO - Top 100.'
 ---
 
@@ -43,7 +44,7 @@ Higdon's next clear memory was of being back in Wyoming, finding himself disorie
 The Carl Higdon case attracted significant attention from UFO researchers and media outlets. Several formal investigations were conducted, producing documentation that forms the basis of our understanding of the case today.
 
 
-![The Carl Higdon Abduction: A Critical Examination of a Wyoming UFO Encounter - Full-Text]({{ "/assets/images/UFO - Top 100/Carl Higdon contact 1974-Full-Text.svg" | relative_url }})
+![The Carl Higdon Abduction: A Critical Examination of a Wyoming UFO Encounter - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Carl Higdon contact 1974-Full-Text.svg" | relative_url }})
 ### The Medical Claims
 
 Perhaps the most intriguing element of Higdon's case involves the alleged physical changes to his body. Doctors examining him reportedly made unexpected discoveries: x-rays showed that tuberculosis scars previously visible on his lungs had disappeared, and kidney stones he had suffered from for years were gone[^8]. If independently verified, these medical changes would constitute compelling physical evidence supporting the idea that something extraordinary occurred.
@@ -109,7 +110,7 @@ This perspective suggests Higdon may have been unconsciously influenced by scien
 Search result \#5 further challenges "the myth of cultural imagination," noting that many people attempt to explain alien encounter narratives as products of cultural imagination following the Betty and Barney Hill abduction of 1961[^5]. However, the author argues that Higdon's case contains elements that don't fit this explanation.
 
 
-![The Carl Higdon Abduction: A Critical Examination of a Wyoming UFO Encounter - P1]({{ "/assets/images/UFO - Top 100/Carl Higdon contact 1974-P1.svg" | relative_url }})
+![The Carl Higdon Abduction: A Critical Examination of a Wyoming UFO Encounter - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Carl Higdon contact 1974-P1.svg" | relative_url }})
 ### Missing Medical Verification
 
 While the claimed disappearance of Higdon's tuberculosis scars and kidney stones would be remarkable if independently verified, the search results don't provide such verification. These medical improvements could potentially have other explanations or might represent a misremembering or misinterpretation of his medical condition before and after the alleged encounter.
@@ -179,7 +180,7 @@ Several significant gaps in the evidence warrant further investigation:
 5. Psychological profile: A more thorough analysis of Higdon's psychological state before and after the incident could help evaluate the psychological explanations.
 
 
-![The Carl Higdon Abduction: A Critical Examination of a Wyoming UFO Encounter - P2]({{ "/assets/images/UFO - Top 100/Carl Higdon contact 1974-P2.svg" | relative_url }})
+![The Carl Higdon Abduction: A Critical Examination of a Wyoming UFO Encounter - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Carl Higdon contact 1974-P2.svg" | relative_url }})
 ## Conclusion
 
 The Carl Higdon case of 1974 remains one of the most distinctive and detailed alien encounter reports from the 1970s. As we approach its 50th anniversary in October 2025, it continues to fascinate researchers and the public due to its unique elements and the seemingly sincere testimony of the primary witness.

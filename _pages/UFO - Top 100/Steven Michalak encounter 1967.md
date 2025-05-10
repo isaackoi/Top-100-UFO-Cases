@@ -1,8 +1,9 @@
 ---
 title: 'The Stefan Michalak Encounter: A Critical Analysis of Canada''s Most Documented UFO Case'
 permalink: /steven-michalak-encounter-1967/
-date: '2025-05-05 19:56:21 '
-image: /assets/images/UFO - Top 100/Steven Michalak encounter 1967-Full-Text.svg
+date: '2025-05-10 20:35:33 '
+header:
+  og_image: /assets/images/UFO - Top 100/Steven Michalak encounter 1967-Full-Text.png
 description: 'Exploring The Stefan Michalak Encounter: A Critical Analysis of Canada''s Most Documented UFO Case within the context of UFO - Top 100.'
 ---
 
@@ -39,7 +40,7 @@ Michalak suffered first-degree burns on his chest and stomach that formed a dist
 On September 21, 1967, four months after the encounter, Michalak experienced a severe episode at work. He felt a burning sensation on his chest and neck, his throat constricted, he became flushed ("turned violet"), his hands swelled "like a balloon," and he eventually fainted[^2]. Doctors concluded he had experienced an allergic reaction, though the trigger remained undetermined. Some researchers have noted that the symptoms resembled radiation sickness[^7][^8].
 
 
-![The Stefan Michalak Encounter: A Critical Analysis of Canada's Most Documented UFO Case - Full-Text]({{ "/assets/images/UFO - Top 100/Steven Michalak encounter 1967-Full-Text.svg" | relative_url }})
+![The Stefan Michalak Encounter: A Critical Analysis of Canada's Most Documented UFO Case - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Steven Michalak encounter 1967-Full-Text.svg" | relative_url }})
 ### Site Evidence
 
 When investigators examined the location Michalak identified as the landing site, they discovered several anomalies:
@@ -112,7 +113,7 @@ The physical evidence—burns, radioactive soil samples, radioactive metal fragm
 Perhaps most significantly, after extensive investigation, neither the RCMP, the RCAF, nor the United States Air Force could explain the incident[^8][^10]. The Canadian Department of National Defence still identifies the Falcon Lake incident as unsolved[^10]. No conclusive conventional explanation was ever officially adopted.
 
 
-![The Stefan Michalak Encounter: A Critical Analysis of Canada's Most Documented UFO Case - P1]({{ "/assets/images/UFO - Top 100/Steven Michalak encounter 1967-P1.svg" | relative_url }})
+![The Stefan Michalak Encounter: A Critical Analysis of Canada's Most Documented UFO Case - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Steven Michalak encounter 1967-P1.svg" | relative_url }})
 ## Counterarguments and Skepticism
 
 Despite the compelling nature of the case, several skeptical perspectives have been raised:
@@ -204,7 +205,7 @@ Modern radiation medicine might provide new insights into whether Michalak's sym
 Advanced testing of the remaining metal fragments using modern techniques could potentially identify their composition and origin more precisely. If these fragments still exist in the University of Manitoba collection or with Rutkowski and Stan Michalak, new analysis might yield additional information.
 
 
-![The Stefan Michalak Encounter: A Critical Analysis of Canada's Most Documented UFO Case - P2]({{ "/assets/images/UFO - Top 100/Steven Michalak encounter 1967-P2.svg" | relative_url }})
+![The Stefan Michalak Encounter: A Critical Analysis of Canada's Most Documented UFO Case - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Steven Michalak encounter 1967-P2.svg" | relative_url }})
 ### Historical Context
 
 Further research into military aircraft development programs of the 1960s, particularly those involving vertical take-off and landing capabilities, might uncover connections to what Michalak observed. Declassified documents from this era could potentially reveal relevant information.

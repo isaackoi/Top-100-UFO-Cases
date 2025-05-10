@@ -1,8 +1,9 @@
 ---
 title: 'The Ubatuba Incident (1957): A Comprehensive Analysis of Alleged UFO Debris'
 permalink: /ubatuba-incident-1957/
-date: '2025-05-05 19:56:22 '
-image: /assets/images/UFO - Top 100/Ubatuba incident 1957-Full-Text.svg
+date: '2025-05-10 20:35:34 '
+header:
+  og_image: /assets/images/UFO - Top 100/Ubatuba incident 1957-Full-Text.png
 description: 'Exploring The Ubatuba Incident (1957): A Comprehensive Analysis of Alleged UFO Debris within the context of UFO - Top 100.'
 ---
 
@@ -31,7 +32,7 @@ The initial testing confirmed the fragments were indeed metallic. Sample No. 1 w
 Additional tests conducted on the fragments included Debye-Scherrer-Hull powder pattern X-ray diffraction analysis, density measurement, and radiation tests[^1]. The density was found to be unusually high at 1.866, which some researchers later interpreted as potential evidence of a non-terrestrial origin[^6].
 
 
-![The Ubatuba Incident (1957): A Comprehensive Analysis of Alleged UFO Debris - Full-Text]({{ "/assets/images/UFO - Top 100/Ubatuba incident 1957-Full-Text.svg" | relative_url }})
+![The Ubatuba Incident (1957): A Comprehensive Analysis of Alleged UFO Debris - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Ubatuba incident 1957-Full-Text.svg" | relative_url }})
 ### Subsequent American Analyses
 
 Samples No. 2 and No. 3 were sent to APRO in Arizona and have been the subject of ongoing analyses by various scientists[^6]. In the mid-1960s, Sample No. 3 was loaned to the University of Colorado UFO Project (also known as the Condon Committee) for analysis[^6].
@@ -86,7 +87,7 @@ Some researchers have proposed that the fragments might have come from a meteori
 Given the anonymous nature of the letter and the inability to identify any witnesses, the possibility of a deliberate hoax cannot be excluded. The Wikipedia entry on UFO sightings in Brazil specifically notes that "other investigators think that this story is a hoax"[^14], though it doesn't elaborate on their reasoning.
 
 
-![The Ubatuba Incident (1957): A Comprehensive Analysis of Alleged UFO Debris - P1]({{ "/assets/images/UFO - Top 100/Ubatuba incident 1957-P1.svg" | relative_url }})
+![The Ubatuba Incident (1957): A Comprehensive Analysis of Alleged UFO Debris - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Ubatuba incident 1957-P1.svg" | relative_url }})
 ## The Military Dimension
 
 An intriguing aspect of the Ubatuba case emerged in accounts of military involvement following the incident. According to some reports, during the days after the explosion, local fishermen observed an elongated object underwater during low tide and clear water conditions[^4].
@@ -167,7 +168,7 @@ The information in this report draws on the search results provided, which inclu
 <div>⁂</div>
 
 
-![The Ubatuba Incident (1957): A Comprehensive Analysis of Alleged UFO Debris - P2]({{ "/assets/images/UFO - Top 100/Ubatuba incident 1957-P2.svg" | relative_url }})
+![The Ubatuba Incident (1957): A Comprehensive Analysis of Alleged UFO Debris - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Ubatuba incident 1957-P2.svg" | relative_url }})
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/6M5O4RugyJ0" title="YouTube video player (Fallback, Fn: 21)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

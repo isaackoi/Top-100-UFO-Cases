@@ -1,8 +1,9 @@
 ---
 title: 'The Pascagoula Abduction: A Critical Examination of Evidence and Legacy'
 permalink: /pascagoula-abduction-1973/
-date: '2025-05-05 19:56:20 '
-image: /assets/images/UFO - Top 100/Pascagoula abduction 1973-Full-Text.svg
+date: '2025-05-10 20:35:31 '
+header:
+  og_image: /assets/images/UFO - Top 100/Pascagoula abduction 1973-Full-Text.png
 description: 'Exploring The Pascagoula Abduction: A Critical Examination of Evidence and Legacy within the context of UFO - Top 100.'
 ---
 
@@ -34,7 +35,7 @@ The recording instead captured the men continuing to discuss their experience in
 Both men underwent polygraph examinations in the days following the incident. According to multiple reports, they both passed these tests, though there has been some controversy regarding Hickson's examination[^10][^13]. The men were also taken to Keesler Air Force Base in Biloxi to be checked for radiation exposure, and each reportedly had a puncture wound in one arm[^9][^13].
 
 
-![The Pascagoula Abduction: A Critical Examination of Evidence and Legacy - Full-Text]({{ "/assets/images/UFO - Top 100/Pascagoula abduction 1973-Full-Text.svg" | relative_url }})
+![The Pascagoula Abduction: A Critical Examination of Evidence and Legacy - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Pascagoula abduction 1973-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/9zTUspQlS8E" title="YouTube video player (Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -89,7 +90,7 @@ The immediate media response in 1973 was extraordinary, with reporters descendin
 Former WALA TV reporter Renny Brabender, who covered the story at the time, noted its unusual staying power: "Most of the stories you do they're gone tomorrow the next day or whenever and it's always intriguing me a little bit that had some legs some interest particularly years and years and years later"[^9]. A video of Brabender's reflections on covering the story can be viewed in this 2018 FOX10 report: [https://www.youtube.com/watch?v=nDFMB4r6W9E](https://www.youtube.com/watch?v=nDFMB4r6W9E)[^3].
 
 
-![The Pascagoula Abduction: A Critical Examination of Evidence and Legacy - P1]({{ "/assets/images/UFO - Top 100/Pascagoula abduction 1973-P1.svg" | relative_url }})
+![The Pascagoula Abduction: A Critical Examination of Evidence and Legacy - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Pascagoula abduction 1973-P1.svg" | relative_url }})
 ### Academic and Historical Recognition
 
 The case has achieved significant recognition over time:
@@ -170,7 +171,7 @@ As we enter an era of increased government transparency regarding UAP, historica
 <div>⁂</div>
 
 
-![The Pascagoula Abduction: A Critical Examination of Evidence and Legacy - P2]({{ "/assets/images/UFO - Top 100/Pascagoula abduction 1973-P2.svg" | relative_url }})
+![The Pascagoula Abduction: A Critical Examination of Evidence and Legacy - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Pascagoula abduction 1973-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33]</small>
 

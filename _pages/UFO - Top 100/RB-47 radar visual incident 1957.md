@@ -1,8 +1,9 @@
 ---
 title: 'The 1957 RB-47 UFO Encounter: A Critical Analysis of Multi-Sensor Detection Evidence'
 permalink: /rb-47-radar-visual-incident-1957/
-date: '2025-05-05 19:56:20 '
-image: /assets/images/UFO - Top 100/RB-47 radar visual incident 1957-Full-Text.svg
+date: '2025-05-10 20:35:31 '
+header:
+  og_image: /assets/images/UFO - Top 100/RB-47 radar visual incident 1957-Full-Text.png
 description: 'Exploring The 1957 RB-47 UFO Encounter: A Critical Analysis of Multi-Sensor Detection Evidence within the context of UFO - Top 100.'
 ---
 
@@ -36,7 +37,7 @@ At approximately 4:10 AM CST (1010Z), as the aircraft flew over Winnsboro in eas
 Chase alerted the crew to prepare for evasive maneuvers. However, before any action could be taken, the object executed an extraordinarily rapid change of direction, flashing across their flight path from port to starboard (left to right) with an angular velocity that Chase would later state he had never witnessed in his 20 years of flying experience[^11]. The object moved from their 11 o'clock to approximately the 2 o'clock position before suddenly disappearing[^11].
 
 
-![The 1957 RB-47 UFO Encounter: A Critical Analysis of Multi-Sensor Detection Evidence - Full-Text]({{ "/assets/images/UFO - Top 100/RB-47 radar visual incident 1957-Full-Text.svg" | relative_url }})
+![The 1957 RB-47 UFO Encounter: A Critical Analysis of Multi-Sensor Detection Evidence - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/RB-47 radar visual incident 1957-Full-Text.svg" | relative_url }})
 ### Triple Confirmation
 
 After Chase informed the crew of the visual sighting, McClure revealed his earlier radar signal detection. At approximately 4:30 AM, McClure retuned his equipment to detect signals near 3 GHz and once again detected a strong signal at the same relative position where Chase had last seen the light[^13]. To verify the equipment's accuracy, McClure and Provenzano checked the alignment of their monitoring systems by tuning to known ground radar installations, confirming that the equipment was functioning properly[^13].
@@ -98,7 +99,7 @@ The possibility that the crew encountered an unconventional but human-made aircr
 Atmospheric conditions can sometimes create unusual radar returns, and electronic systems may experience interference from various sources. However, the RB-47 crew methodically ruled out equipment malfunction by cross-checking their systems against known radar installations[^13]. Additionally, the correlation between visual sightings and electronic detections, often occurring simultaneously, argues against simple electromagnetic anomalies.
 
 
-![The 1957 RB-47 UFO Encounter: A Critical Analysis of Multi-Sensor Detection Evidence - P1]({{ "/assets/images/UFO - Top 100/RB-47 radar visual incident 1957-P1.svg" | relative_url }})
+![The 1957 RB-47 UFO Encounter: A Critical Analysis of Multi-Sensor Detection Evidence - P1 (SVG)]({{ "/assets/images/UFO - Top 100/RB-47 radar visual incident 1957-P1.svg" | relative_url }})
 ### Weather Phenomena
 
 Natural phenomena such as ball lightning or unusual atmospheric conditions might explain individual aspects of the encounter, but these explanations falter when attempting to account for the totality of the evidence – particularly the object's sustained presence over 700 miles and 1.5 hours, while maintaining detection across multiple independent systems[^7].
@@ -172,7 +173,7 @@ The RB-47's 700-mile journey crossed multiple air defense sectors during a perio
 A thorough analysis of atmospheric conditions, astronomical objects, and other natural phenomena present along the flight path could help evaluate alternative explanations. While this wouldn't likely explain all aspects of the encounter, it would strengthen the case by systematically eliminating conventional possibilities.
 
 
-![The 1957 RB-47 UFO Encounter: A Critical Analysis of Multi-Sensor Detection Evidence - P2]({{ "/assets/images/UFO - Top 100/RB-47 radar visual incident 1957-P2.svg" | relative_url }})
+![The 1957 RB-47 UFO Encounter: A Critical Analysis of Multi-Sensor Detection Evidence - P2 (SVG)]({{ "/assets/images/UFO - Top 100/RB-47 radar visual incident 1957-P2.svg" | relative_url }})
 ## Conclusion
 
 The 1957 RB-47 UFO encounter stands as one of the most compelling and well-documented cases in UFO history. Its significance derives from the convergence of multiple detection methods, the technical qualifications of the witnesses, and the extended duration and distance over which the phenomenon was observed.

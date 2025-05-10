@@ -1,8 +1,9 @@
 ---
 title: 'Kenneth Arnold''s 1947 UFO Sighting: The Birth of Modern UFO Phenomenon'
 permalink: /kenneth-arnolds-first-sighting-1947/
-date: '2025-05-05 19:56:18 '
-image: /assets/images/UFO - Top 100/Kenneth Arnold s first sighting 1947-Full-Text.svg
+date: '2025-05-10 20:35:28 '
+header:
+  og_image: /assets/images/UFO - Top 100/Kenneth Arnold s first sighting 1947-Full-Text.png
 description: 'Exploring Kenneth Arnold''s 1947 UFO Sighting: The Birth of Modern UFO Phenomenon within the context of UFO - Top 100.'
 ---
 
@@ -40,7 +41,7 @@ Perhaps the most extraordinary aspect of Arnold's report was the calculated spee
 Arnold also noted distinctive movement patterns, describing how the objects "flew erratically" and moved "like a saucer if you skip it across the water"[^2]. He further characterized their motion as periodically flipping, banking, and weaving side-to-side, "like the tail of a Chinese kite"[^12].
 
 
-![Kenneth Arnold's 1947 UFO Sighting: The Birth of Modern UFO Phenomenon - Full-Text]({{ "/assets/images/UFO - Top 100/Kenneth Arnold s first sighting 1947-Full-Text.svg" | relative_url }})
+![Kenneth Arnold's 1947 UFO Sighting: The Birth of Modern UFO Phenomenon - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Kenneth Arnold s first sighting 1947-Full-Text.svg" | relative_url }})
 ### Immediate Aftermath and Reporting
 
 After landing in Yakima, Arnold immediately reported what he had witnessed to the general manager of the airfield[^14]. The next day, he attempted to report his sighting to the FBI, but found their office closed[^11]. He then went to the office of the East Oregonian newspaper, where he spoke with reporters Bill Bequette and Nolan Skiff[^11][^12].
@@ -101,7 +102,7 @@ Flying at high altitude presents significant challenges for accurately judging s
 Additionally, the human tendency to interpret unfamiliar sights through familiar frameworks might have influenced how Arnold processed what he saw. In the aviation culture of 1947, with new aircraft designs constantly emerging following World War II, interpreting unusual aerial phenomena as advanced technology would have been a natural conclusion.
 
 
-![Kenneth Arnold's 1947 UFO Sighting: The Birth of Modern UFO Phenomenon - P1]({{ "/assets/images/UFO - Top 100/Kenneth Arnold s first sighting 1947-P1.svg" | relative_url }})
+![Kenneth Arnold's 1947 UFO Sighting: The Birth of Modern UFO Phenomenon - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Kenneth Arnold s first sighting 1947-P1.svg" | relative_url }})
 ## The Influence and Legacy of the Arnold Sighting
 
 ### Birth of Modern UFO Culture
@@ -194,7 +195,7 @@ As the National Air and Space Museum aptly noted on the 75th anniversary of the 
 <div>⁂</div>
 
 
-![Kenneth Arnold's 1947 UFO Sighting: The Birth of Modern UFO Phenomenon - P2]({{ "/assets/images/UFO - Top 100/Kenneth Arnold s first sighting 1947-P2.svg" | relative_url }})
+![Kenneth Arnold's 1947 UFO Sighting: The Birth of Modern UFO Phenomenon - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Kenneth Arnold s first sighting 1947-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33]</small>
 

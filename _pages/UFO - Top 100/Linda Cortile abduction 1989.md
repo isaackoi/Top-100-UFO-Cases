@@ -1,8 +1,9 @@
 ---
 title: 'The Linda Cortile UFO Abduction Case: A Critical Examination of the "Most Important" Alien Abduction of the Century'
 permalink: /linda-cortile-abduction-1989/
-date: '2025-05-05 19:56:19 '
-image: /assets/images/UFO - Top 100/Linda Cortile abduction 1989-Full-Text.svg
+date: '2025-05-10 20:35:29 '
+header:
+  og_image: /assets/images/UFO - Top 100/Linda Cortile abduction 1989-Full-Text.png
 description: 'Exploring The Linda Cortile UFO Abduction Case: A Critical Examination of the "Most Important" Alien Abduction of the Century within the context of UFO - Top 10'
 ---
 
@@ -31,7 +32,7 @@ The most significant purported witnesses were two security agents, identified on
 In Hopkins' telling of the case, one witness described "absolute terror" when witnessing the scene from the Brooklyn Bridge, initially trying to rationalize it as a movie being filmed because "this is impossible. And yet I'm looking at it"[^2]. Other witnesses reportedly included additional people on the bridge who were similarly terrified by the sight of "people floating in the air"[^2].
 
 
-![The Linda Cortile UFO Abduction Case: A Critical Examination of the "Most Important" Alien Abduction of the Century - Full-Text]({{ "/assets/images/UFO - Top 100/Linda Cortile abduction 1989-Full-Text.svg" | relative_url }})
+![The Linda Cortile UFO Abduction Case: A Critical Examination of the "Most Important" Alien Abduction of the Century - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Linda Cortile abduction 1989-Full-Text.svg" | relative_url }})
 ### Post-Abduction Developments
 
 The case took bizarre turns beyond the initial abduction claim. According to Hopkins' account, "Richard" and "Dan" became obsessed with Napolitano after witnessing her abduction. They allegedly spied on her, appeared at her apartment unannounced, and even kidnapped her on two separate occasions[^6]. During one alleged kidnapping, "Dan" reportedly brought Napolitano to a beach house, showed her a nightgown similar to the one she wore during the abduction, and requested sex, which she refused. "Dan" then allegedly forced her into water and pushed her head under twice before being mysteriously stopped by a "force" that knocked him back onto the beach[^12]. "Richard" then allegedly appeared "out of nowhere" to rescue her[^12].
@@ -84,7 +85,7 @@ The credibility of these alleged security agents is difficult to assess since th
 The bizarre behaviors attributed to these men—including kidnapping, attempted drowning, and claims of shared abductions—strain credibility. Their detailed knowledge of Napolitano's experiences, which aligned with her hypnotically retrieved memories, could be seen either as corroboration or as evidence of collusion.
 
 
-![The Linda Cortile UFO Abduction Case: A Critical Examination of the "Most Important" Alien Abduction of the Century - P1]({{ "/assets/images/UFO - Top 100/Linda Cortile abduction 1989-P1.svg" | relative_url }})
+![The Linda Cortile UFO Abduction Case: A Critical Examination of the "Most Important" Alien Abduction of the Century - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Linda Cortile abduction 1989-P1.svg" | relative_url }})
 ## Counterarguments and Skeptical Perspectives
 
 ### Carol Rainey's Critique
@@ -170,7 +171,7 @@ The Linda Cortile case remains a fascinating chapter in UFO history—not necess
 <div>⁂</div>
 
 
-![The Linda Cortile UFO Abduction Case: A Critical Examination of the "Most Important" Alien Abduction of the Century - P2]({{ "/assets/images/UFO - Top 100/Linda Cortile abduction 1989-P2.svg" | relative_url }})
+![The Linda Cortile UFO Abduction Case: A Critical Examination of the "Most Important" Alien Abduction of the Century - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Linda Cortile abduction 1989-P2.svg" | relative_url }})
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/0w5T2skzNI4" title="YouTube video player (Fallback, Fn: 16)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

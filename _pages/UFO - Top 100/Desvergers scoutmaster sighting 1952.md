@@ -1,8 +1,9 @@
 ---
 title: 'The Sonny DesVergers Scoutmaster UFO Encounter: A Critical Examination of the 1952 Case'
 permalink: /desvergers-scoutmaster-sighting-1952/
-date: '2025-05-05 19:56:16 '
-image: /assets/images/UFO - Top 100/Desvergers scoutmaster sighting 1952-Full-Text.svg
+date: '2025-05-10 20:35:25 '
+header:
+  og_image: /assets/images/UFO - Top 100/Desvergers scoutmaster sighting 1952-Full-Text.png
 description: 'Exploring The Sonny DesVergers Scoutmaster UFO Encounter: A Critical Examination of the 1952 Case within the context of UFO - Top 100.'
 ---
 
@@ -29,7 +30,7 @@ When DesVergers reemerged from the woods, he appeared visibly shaken and physica
 DesVergers claimed that he had encountered a large disc-shaped object hovering above the clearing. According to later elaborations of his story, he was attacked by a "ball of red flame" or some form of heat weapon that caused his injuries. Physical evidence at the scene reportedly included broken branches, wilted vegetation that appeared to have been subjected to intense heat, and soil that was "significantly warmer than the surrounding earth."[^1]
 
 
-![The Sonny DesVergers Scoutmaster UFO Encounter: A Critical Examination of the 1952 Case - Full-Text]({{ "/assets/images/UFO - Top 100/Desvergers scoutmaster sighting 1952-Full-Text.svg" | relative_url }})
+![The Sonny DesVergers Scoutmaster UFO Encounter: A Critical Examination of the 1952 Case - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Desvergers scoutmaster sighting 1952-Full-Text.svg" | relative_url }})
 ## The Air Force Investigation
 
 ### Project Blue Book Response
@@ -76,7 +77,7 @@ However, Ruppelt noted that during the interviews, the oldest scout "seemed unco
 ## Counterarguments and Skeptical Explanations
 
 
-![The Sonny DesVergers Scoutmaster UFO Encounter: A Critical Examination of the 1952 Case - P1]({{ "/assets/images/UFO - Top 100/Desvergers scoutmaster sighting 1952-P1.svg" | relative_url }})
+![The Sonny DesVergers Scoutmaster UFO Encounter: A Critical Examination of the 1952 Case - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Desvergers scoutmaster sighting 1952-P1.svg" | relative_url }})
 ### The Hoax Theory
 
 Captain Ruppelt ultimately concluded that the DesVergers case was "the best hoax in UFO history."[^4] This assessment was based primarily on DesVergers' credibility issues and the inconsistencies in his story. However, Ruppelt acknowledged a significant problem with this conclusion: despite thinking up "dozens of ways" the hoax could have been executed, he and his team hadn't made "step one in proving the incident to be a hoax," and they couldn't adequately explain the burns on the scoutmaster's cap.[^11]
@@ -142,7 +143,7 @@ Several approaches could potentially shed new light on this historical case:
 4. **Comparative analysis:** Comparing the DesVergers case with other reported "UFO attack" cases might reveal patterns that could help evaluate the credibility of his account.
 
 
-![The Sonny DesVergers Scoutmaster UFO Encounter: A Critical Examination of the 1952 Case - P2]({{ "/assets/images/UFO - Top 100/Desvergers scoutmaster sighting 1952-P2.svg" | relative_url }})
+![The Sonny DesVergers Scoutmaster UFO Encounter: A Critical Examination of the 1952 Case - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Desvergers scoutmaster sighting 1952-P2.svg" | relative_url }})
 ## Conclusion
 
 The Sonny DesVergers scoutmaster UFO case of 1952 remains an enigmatic entry in UFO history. On one hand, there are compelling reasons to doubt DesVergers' account, given his history of fabrication and the progressive embellishment of his story. On the other hand, the physical evidence—burns on his person and cap, charred vegetation at the site, and the testimony of multiple witnesses seeing unusual lights—suggests that something out of the ordinary did occur that August night in the Florida palmetto swamps.

@@ -1,8 +1,9 @@
 ---
 title: 'The 1954 BOAC Stratocruiser UFO Encounter: A Critical Analysis'
 permalink: /boac-stratocruiser-sighting-1954/
-date: '2025-05-05 19:56:15 '
-image: /assets/images/UFO - Top 100/BOAC stratocruiser sighting 1954-Full-Text.svg
+date: '2025-05-10 20:35:23 '
+header:
+  og_image: /assets/images/UFO - Top 100/BOAC stratocruiser sighting 1954-Full-Text.png
 description: 'Exploring The 1954 BOAC Stratocruiser UFO Encounter: A Critical Analysis within the context of UFO - Top 100.'
 ---
 
@@ -31,7 +32,7 @@ At approximately 0120 GMT, Goose Bay dispatched a fighter jet to investigate[^1]
 Upon landing at Goose Bay at 0145 GMT, Captain Howard and his crew were immediately interviewed by a U.S. Air Force Intelligence Officer[^1]. Later, after their arrival in London, they were also questioned by RAF intelligence officers[^1].
 
 
-![The 1954 BOAC Stratocruiser UFO Encounter: A Critical Analysis - Full-Text]({{ "/assets/images/UFO - Top 100/BOAC stratocruiser sighting 1954-Full-Text.svg" | relative_url }})
+![The 1954 BOAC Stratocruiser UFO Encounter: A Critical Analysis - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/BOAC stratocruiser sighting 1954-Full-Text.svg" | relative_url }})
 ## Witness Credibility and Documentation
 
 The BOAC Stratocruiser case stands out primarily because of the credibility and number of witnesses involved. Captain James Howard was a highly experienced pilot with over 7,500 flying hours recorded in his log and 265 transatlantic crossings[^1]. First Officer Lee Boyd was also a former wartime squadron leader[^1]. Both men had extensive experience identifying aerial phenomena during their military service.
@@ -76,7 +77,7 @@ Martin Shough also conducted an analysis of the event, as referenced in search r
 The case was later included in the University of Colorado UFO study (known as the "Condon Report"), where it was categorized as "unexplained"[^5]. According to McDonald, the BOAC sighting was "so utterly inadequately 'explained' in the Condon Report that I suspect it is actually the other one of the two cited Unknowns."[^5]
 
 
-![The 1954 BOAC Stratocruiser UFO Encounter: A Critical Analysis - P1]({{ "/assets/images/UFO - Top 100/BOAC stratocruiser sighting 1954-P1.svg" | relative_url }})
+![The 1954 BOAC Stratocruiser UFO Encounter: A Critical Analysis - P1 (SVG)]({{ "/assets/images/UFO - Top 100/BOAC stratocruiser sighting 1954-P1.svg" | relative_url }})
 ## Counterarguments and Skeptical Explanations
 
 Despite the case's strength, several alternative explanations have been proposed. The most prominent skeptical explanation came from Chapman Pincher, a science reporter for the Daily Express who published a three-column article under the headline "FLYING SAUCER? - NO SAYS CHAPMAN PINCHER"[^1].
@@ -141,7 +142,7 @@ For those interested in further research on this case, several avenues could yie
 6. Comparative analysis with similar commercial aviation UFO encounters might reveal patterns relevant to understanding the BOAC case.
 
 
-![The 1954 BOAC Stratocruiser UFO Encounter: A Critical Analysis - P2]({{ "/assets/images/UFO - Top 100/BOAC stratocruiser sighting 1954-P2.svg" | relative_url }})
+![The 1954 BOAC Stratocruiser UFO Encounter: A Critical Analysis - P2 (SVG)]({{ "/assets/images/UFO - Top 100/BOAC stratocruiser sighting 1954-P2.svg" | relative_url }})
 ## Conclusion
 
 The 1954 BOAC Stratocruiser UFO sighting remains one of the most compelling and well-documented aviation UFO encounters on record. The case's strength lies in the credibility of multiple witnesses, detailed contemporaneous documentation, and the extended duration of observation. While various explanations have been proposed—from atmospheric phenomena to misidentification—none have satisfactorily accounted for all aspects of the sighting as reported by Captain Howard and his crew.

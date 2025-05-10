@@ -1,8 +1,9 @@
 ---
 title: 'The Travis Walton UFO Incident: A Critical Examination of Evidence and Claims'
 permalink: /travis-walton-abduction-1975/
-date: '2025-05-05 19:56:21 '
-image: /assets/images/UFO - Top 100/Travis Walton abduction 1975-Full-Text.svg
+date: '2025-05-10 20:35:33 '
+header:
+  og_image: /assets/images/UFO - Top 100/Travis Walton abduction 1975-Full-Text.png
 description: 'Exploring The Travis Walton UFO Incident: A Critical Examination of Evidence and Claims within the context of UFO - Top 100.'
 ---
 
@@ -41,7 +42,7 @@ In his own words during a 2025 interview, Walton stated: "It took me a while to 
 Interestingly, Walton has maintained that he doesn't consider his experience an abduction so much as a rescue mission. He believes he was accidentally injured by the craft, and the beings he encountered were attempting to heal him[^10].
 
 
-![The Travis Walton UFO Incident: A Critical Examination of Evidence and Claims - Full-Text]({{ "/assets/images/UFO - Top 100/Travis Walton abduction 1975-Full-Text.svg" | relative_url }})
+![The Travis Walton UFO Incident: A Critical Examination of Evidence and Claims - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Travis Walton abduction 1975-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/vjzWeGr9p2w" title="YouTube video player (Fn: 7)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -116,7 +117,7 @@ Proponents of the extraterrestrial hypothesis point to several factors supportin
 In Walton's own perspective, the extensive scrutiny his case has undergone has only strengthened its credibility: "There's been a tremendous amount of scrutiny of my experience... I used to be outraged at being so questioned, but I had to realize that this is pretty strong stuff and a certain amount of people taking a hard look at it is warranted. I agree with Carl Sagan when he says extraordinary claims deserve extraordinary evidence"[^7].
 
 
-![The Travis Walton UFO Incident: A Critical Examination of Evidence and Claims - P1]({{ "/assets/images/UFO - Top 100/Travis Walton abduction 1975-P1.svg" | relative_url }})
+![The Travis Walton UFO Incident: A Critical Examination of Evidence and Claims - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Travis Walton abduction 1975-P1.svg" | relative_url }})
 ### The Hoax Hypothesis
 
 Skeptics, including science writers Philip J. Klass and Michael Shermer, have proposed that the incident was a deliberate hoax, potentially motivated by several factors:
@@ -208,7 +209,7 @@ Watch Travis Walton discuss his experience in his own words in this 2025 FOX 10 
 <div>⁂</div>
 
 
-![The Travis Walton UFO Incident: A Critical Examination of Evidence and Claims - P2]({{ "/assets/images/UFO - Top 100/Travis Walton abduction 1975-P2.svg" | relative_url }})
+![The Travis Walton UFO Incident: A Critical Examination of Evidence and Claims - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Travis Walton abduction 1975-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^40][^41][^42]</small>
 

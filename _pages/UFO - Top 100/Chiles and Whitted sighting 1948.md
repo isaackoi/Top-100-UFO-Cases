@@ -1,8 +1,9 @@
 ---
 title: 'The Chiles-Whitted UFO Encounter (1948): A Critical Analysis of Evidence'
 permalink: /chiles-and-whitted-sighting-1948/
-date: '2025-05-05 19:56:15 '
-image: /assets/images/UFO - Top 100/Chiles and Whitted sighting 1948-Full-Text.svg
+date: '2025-05-10 20:35:24 '
+header:
+  og_image: /assets/images/UFO - Top 100/Chiles and Whitted sighting 1948-Full-Text.png
 description: 'Exploring The Chiles-Whitted UFO Encounter (1948): A Critical Analysis of Evidence within the context of UFO - Top 100.'
 ---
 
@@ -33,7 +34,7 @@ Following the encounter, Chiles contacted a company radio operator in Columbus, 
 Interestingly, just three days earlier on July 21, 1948, a similar sighting had been reported over The Hague in the Netherlands. According to Captain Edward J. Ruppelt, who later headed Project Blue Book, that report described "a rocket shaped object with two rows of windows along the side"[^11].
 
 
-![The Chiles-Whitted UFO Encounter (1948): A Critical Analysis of Evidence - Full-Text]({{ "/assets/images/UFO - Top 100/Chiles and Whitted sighting 1948-Full-Text.svg" | relative_url }})
+![The Chiles-Whitted UFO Encounter (1948): A Critical Analysis of Evidence - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Chiles and Whitted sighting 1948-Full-Text.svg" | relative_url }})
 ## Credibility Assessment and Investigation
 
 ### Witness Reliability
@@ -94,7 +95,7 @@ Several perceptual issues may have influenced the sighting:
 4. **Nighttime conditions**: Despite good visibility, darkness would have limited detailed observation of the object's true structure.
 
 
-![The Chiles-Whitted UFO Encounter (1948): A Critical Analysis of Evidence - P1]({{ "/assets/images/UFO - Top 100/Chiles and Whitted sighting 1948-P1.svg" | relative_url }})
+![The Chiles-Whitted UFO Encounter (1948): A Critical Analysis of Evidence - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Chiles and Whitted sighting 1948-P1.svg" | relative_url }})
 ## Historical Significance and Impact
 
 ### Influence on Government Response
@@ -152,7 +153,7 @@ More than 75 years later, the Chiles-Whitted case exemplifies the central challe
 <div>⁂</div>
 
 
-![The Chiles-Whitted UFO Encounter (1948): A Critical Analysis of Evidence - P2]({{ "/assets/images/UFO - Top 100/Chiles and Whitted sighting 1948-P2.svg" | relative_url }})
+![The Chiles-Whitted UFO Encounter (1948): A Critical Analysis of Evidence - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Chiles and Whitted sighting 1948-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36][^37][^38]</small>
 

@@ -1,8 +1,9 @@
 ---
 title: 'The Tunguska Event of 1908: Cosmic Impact or Extraterrestrial Craft?'
 permalink: /tunguska-event-1908/
-date: '2025-05-05 19:56:22 '
-image: /assets/images/UFO - Top 100/Tunguska event 1908-Full-Text.svg
+date: '2025-05-10 20:35:34 '
+header:
+  og_image: /assets/images/UFO - Top 100/Tunguska event 1908-Full-Text.png
 description: 'Exploring The Tunguska Event of 1908: Cosmic Impact or Extraterrestrial Craft? within the context of UFO - Top 100.'
 ---
 
@@ -31,7 +32,7 @@ The first substantial scientific expedition to the Tunguska site was led by Leon
 ## The Emergence of UFO Theories
 
 
-![The Tunguska Event of 1908: Cosmic Impact or Extraterrestrial Craft? - Full-Text]({{ "/assets/images/UFO - Top 100/Tunguska event 1908-Full-Text.svg" | relative_url }})
+![The Tunguska Event of 1908: Cosmic Impact or Extraterrestrial Craft? - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Tunguska event 1908-Full-Text.svg" | relative_url }})
 ### From Science Fiction to UFO Claims
 
 The connection between the Tunguska event and theories of extraterrestrial spacecraft appears to have originated in the mid-1940s. According to numerous sources, the UFO hypothesis began with a science fiction story penned by Soviet engineer Alexander Kazantsev in 1946[^4][^5][^12]. After visiting Hiroshima in late 1945 and witnessing the aftermath of the atomic bomb, Kazantsev was struck by certain similarities in the devastation patterns. His story proposed that the Tunguska explosion was caused by a nuclear-powered Martian spaceship seeking fresh water from Lake Baikal when it experienced a catastrophic malfunction[^4].
@@ -92,7 +93,7 @@ The 2004 claims by Lavbin's expedition were met with significant skepticism from
 Time magazine characterized the claims as "blatant rubbish" and noted: "If any people are more gullible about Unidentified Flying Objects than Americans, it's the Russians. And if any group of professionals is more gullible than Russians about UFOs, it's the journalists"[^5]. This harsh assessment reflects the frustration of those who saw a credulous media repeatedly amplifying extraordinary claims without appropriate scientific verification.
 
 
-![The Tunguska Event of 1908: Cosmic Impact or Extraterrestrial Craft? - P1]({{ "/assets/images/UFO - Top 100/Tunguska event 1908-P1.svg" | relative_url }})
+![The Tunguska Event of 1908: Cosmic Impact or Extraterrestrial Craft? - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Tunguska event 1908-P1.svg" | relative_url }})
 ### Alternative Explanations for Physical Findings
 
 When material fragments have been found in the Tunguska region, there are more plausible explanations than extraterrestrial technology:
@@ -180,7 +181,7 @@ The most productive direction for future research lies not in pursuing the extra
 <div>⁂</div>
 
 
-![The Tunguska Event of 1908: Cosmic Impact or Extraterrestrial Craft? - P2]({{ "/assets/images/UFO - Top 100/Tunguska event 1908-P2.svg" | relative_url }})
+![The Tunguska Event of 1908: Cosmic Impact or Extraterrestrial Craft? - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Tunguska event 1908-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36]</small>
 

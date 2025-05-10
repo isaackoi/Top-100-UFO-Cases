@@ -1,8 +1,9 @@
 ---
 title: 'The Levelland UFO Incident of 1957: A Critical Examination of Evidence and Explanations'
 permalink: /levelland-texas-incident-1957/
-date: '2025-05-10 14:52:12 '
-image: /assets/images/UFO - Top 100/Levelland Texas incident 1957-Full-Text.svg
+date: '2025-05-10 20:35:29 '
+header:
+  og_image: /assets/images/UFO - Top 100/Levelland Texas incident 1957-Full-Text.png
 description: 'Exploring The Levelland UFO Incident of 1957: A Critical Examination of Evidence and Explanations within the context of UFO - Top 100.'
 ---
 
@@ -49,7 +50,7 @@ At 10:55 PM, a married couple driving northeast of Levelland reported seeing a b
 Five minutes after the couple's report, Jose Alvarez claimed he encountered a strange object sitting on the road 11 miles north of Levelland, and his vehicle's engine died until the object departed[^2].
 
 
-![The Levelland UFO Incident of 1957: A Critical Examination of Evidence and Explanations - Full-Text]({{ "/assets/images/UFO - Top 100/Levelland Texas incident 1957-Full-Text.svg" | relative_url }})
+![The Levelland UFO Incident of 1957: A Critical Examination of Evidence and Explanations - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Levelland Texas incident 1957-Full-Text.svg" | relative_url }})
 ### Newell Wright (12:05 AM, November 3)
 
 At 12:05 AM, Texas Technological College (now Texas Tech University) student Newell Wright reported that while driving 10 miles east of Levelland, his "car engine began to sputter, the ammeter on the dash jumped to discharge and then back to normal, and the motor started cutting out like it was out of gas...the car rolled to a stop; then the headlights dimmed and several seconds later went out"[^2]. When he got out to check on the problem, Wright claimed he saw a "100-foot-long" egg-shaped object sitting in the road. When the object took off, his engine reportedly started running again[^2].
@@ -142,7 +143,7 @@ The Levelland case is notable for several strengths in its evidential basis:
 5. **Immediacy of Reports**: Most witnesses reported their experiences immediately after they occurred, reducing the possibility of memory distortion.
 
 
-![The Levelland UFO Incident of 1957: A Critical Examination of Evidence and Explanations - P1]({{ "/assets/images/UFO - Top 100/Levelland Texas incident 1957-P1.svg" | relative_url }})
+![The Levelland UFO Incident of 1957: A Critical Examination of Evidence and Explanations - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Levelland Texas incident 1957-P1.svg" | relative_url }})
 ### Limitations and Credibility Challenges
 
 Several factors complicate the assessment of the Levelland evidence:
@@ -184,7 +185,7 @@ The Levelland case demonstrates the importance of thorough, objective investigat
 <div style="text-align: center">⁂</div>
 
 
-![The Levelland UFO Incident of 1957: A Critical Examination of Evidence and Explanations - P2]({{ "/assets/images/UFO - Top 100/Levelland Texas incident 1957-P2.svg" | relative_url }})
+![The Levelland UFO Incident of 1957: A Critical Examination of Evidence and Explanations - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Levelland Texas incident 1957-P2.svg" | relative_url }})
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/ULZHJlbgHi8" title="YouTube video player (Fallback, Fn: 80)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

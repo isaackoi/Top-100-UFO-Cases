@@ -1,8 +1,9 @@
 ---
 title: 'Jimmy Carter''s 1969 UFO Sighting: A Comprehensive Analysis'
 permalink: /jimmy-carter-sighting-1969/
-date: '2025-05-05 19:56:18 '
-image: /assets/images/UFO - Top 100/Jimmy Carter sighting 1969-Full-Text.svg
+date: '2025-05-10 20:35:28 '
+header:
+  og_image: /assets/images/UFO - Top 100/Jimmy Carter sighting 1969-Full-Text.png
 description: 'Exploring Jimmy Carter''s 1969 UFO Sighting: A Comprehensive Analysis within the context of UFO - Top 100.'
 ---
 
@@ -29,7 +30,7 @@ Carter's approach to documenting this experience reveals his methodical nature. 
 Four years after the incident, on September 18, 1973, while serving as Governor of Georgia, Carter formally documented his experience by filing a report with the International UFO Bureau in Oklahoma City[^4][^11][^12]. The timing of this official report coincided with increasing public and governmental interest in UFO phenomena during the early 1970s.
 
 
-![Jimmy Carter's 1969 UFO Sighting: A Comprehensive Analysis - Full-Text]({{ "/assets/images/UFO - Top 100/Jimmy Carter sighting 1969-Full-Text.svg" | relative_url }})
+![Jimmy Carter's 1969 UFO Sighting: A Comprehensive Analysis - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Jimmy Carter sighting 1969-Full-Text.svg" | relative_url }})
 ### Carter's Interpretation and Statements
 
 Throughout his public life, Carter has maintained a consistent position regarding his sighting. While affirming that he witnessed "an unidentified flying object," he has repeatedly expressed skepticism about extraterrestrial explanations[^1][^3][^9]. In a 2005 interview with GQ magazine, Carter stated: "I've never believed that it came from Mars. I know enough physics to know that you can't have vehicles that are tangible in nature flying from Mars, looking around, and then flying back"[^1][^3].
@@ -77,7 +78,7 @@ Another explanation emerged from within Carter's own family. According to some r
 This explanation aligns with known military and scientific practices during that era. Barium and sodium vapor releases were commonly used in the late 1960s for upper atmospheric research, creating colorful, illuminated clouds that could change appearance based on viewing angle and atmospheric conditions. A copy of this family investigation is preserved at the Jimmy Carter Library, though its detailed findings do not appear to be widely cited in UFO literature[^6].
 
 
-![Jimmy Carter's 1969 UFO Sighting: A Comprehensive Analysis - P1]({{ "/assets/images/UFO - Top 100/Jimmy Carter sighting 1969-P1.svg" | relative_url }})
+![Jimmy Carter's 1969 UFO Sighting: A Comprehensive Analysis - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Jimmy Carter sighting 1969-P1.svg" | relative_url }})
 ### Military Aircraft Possibility
 
 Carter himself initially suspected that the object might have been a military aircraft from a nearby base[^12]. The late 1960s saw intensive testing of various experimental aircraft, some with unusual lighting configurations or flight characteristics that could appear extraordinary to observers unfamiliar with these specific designs.
@@ -144,7 +145,7 @@ Carter's later reflection to NPR's Scott Simon perhaps best captures his balance
 <div>⁂</div>
 
 
-![Jimmy Carter's 1969 UFO Sighting: A Comprehensive Analysis - P2]({{ "/assets/images/UFO - Top 100/Jimmy Carter sighting 1969-P2.svg" | relative_url }})
+![Jimmy Carter's 1969 UFO Sighting: A Comprehensive Analysis - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Jimmy Carter sighting 1969-P2.svg" | relative_url }})
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/gDT8OsQwpLI" title="YouTube video player (Fallback, Fn: 28)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

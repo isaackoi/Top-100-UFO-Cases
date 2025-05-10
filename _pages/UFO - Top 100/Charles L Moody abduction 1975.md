@@ -1,8 +1,9 @@
 ---
 title: 'The Charles L. Moody Abduction Case (1975): A Critical Analysis'
 permalink: /charles-l-moody-abduction-1975/
-date: '2025-05-05 19:56:15 '
-image: /assets/images/UFO - Top 100/Charles L Moody abduction 1975-Full-Text.svg
+date: '2025-05-10 20:35:24 '
+header:
+  og_image: /assets/images/UFO - Top 100/Charles L Moody abduction 1975-Full-Text.png
 description: 'Exploring The Charles L. Moody Abduction Case (1975): A Critical Analysis within the context of UFO - Top 100.'
 ---
 
@@ -47,7 +48,7 @@ According to Moody's recalled memories, he was given a tour of the spacecraft, i
 In one of the more specific conversational details, Moody claimed the beings warned against Earth's use of nuclear weapons and stated that closer contact with humans would not be attempted for another 20 years, though they would eventually reveal their existence publicly[^1][^7]. Following this interaction, Moody was allegedly returned to his car, with the suggestion that he would not immediately remember the experience[^1].
 
 
-![The Charles L. Moody Abduction Case (1975): A Critical Analysis - Full-Text]({{ "/assets/images/UFO - Top 100/Charles L Moody abduction 1975-Full-Text.svg" | relative_url }})
+![The Charles L. Moody Abduction Case (1975): A Critical Analysis - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Charles L Moody abduction 1975-Full-Text.svg" | relative_url }})
 ## Evidence Assessment and Investigation
 
 The primary investigator of Moody's case was UFO researcher Jim Lorenzen, who identified some contradictions in Moody's accounts[^6]. The exact nature of these inconsistencies is not fully detailed in the available sources, though they apparently emerged when comparing earlier and later versions of Moody's story[^6].
@@ -79,7 +80,7 @@ While Lorenzen noted some contradictions in Moody's accounts, the overall narrat
 Several alternative explanations have been proposed for Moody's experience:
 
 
-![The Charles L. Moody Abduction Case (1975): A Critical Analysis - P1]({{ "/assets/images/UFO - Top 100/Charles L Moody abduction 1975-P1.svg" | relative_url }})
+![The Charles L. Moody Abduction Case (1975): A Critical Analysis - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Charles L Moody abduction 1975-P1.svg" | relative_url }})
 ### Psychological Phenomena
 
 Skeptics suggest that Moody's experience might be explained by various psychological phenomena, including:
@@ -143,7 +144,7 @@ In the absence of conclusive evidence either validating or refuting Moody's clai
 <div>⁂</div>
 
 
-![The Charles L. Moody Abduction Case (1975): A Critical Analysis - P2]({{ "/assets/images/UFO - Top 100/Charles L Moody abduction 1975-P2.svg" | relative_url }})
+![The Charles L. Moody Abduction Case (1975): A Critical Analysis - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Charles L Moody abduction 1975-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31]</small>
 

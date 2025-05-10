@@ -1,8 +1,9 @@
 ---
 title: 'The Aurora, Texas Airship Crash of 1897: Evidence, Impact, and Enduring Mystery'
 permalink: /aurora-texas-airship-crash-1897/
-date: '2025-05-05 19:56:15 '
-image: /assets/images/UFO - Top 100/Aurora Texas airship crash 1897-Full-Text.svg
+date: '2025-05-10 20:35:22 '
+header:
+  og_image: /assets/images/UFO - Top 100/Aurora Texas airship crash 1897-Full-Text.png
 description: 'Exploring The Aurora, Texas Airship Crash of 1897: Evidence, Impact, and Enduring Mystery within the context of UFO - Top 100.'
 ---
 
@@ -25,7 +26,7 @@ The article went on to describe the discovery of a pilot who was "badly disfigur
 This incident occurred during what historians now recognize as the height of "yellow journalism," an era when newspapers often published sensationalized or even fabricated stories to increase readership[^16]. It's also worth noting that the article appeared during a time of widespread public fascination with Mars, following astronomer Percival Lowell's popular theories about Martian canals and possible civilizations on the red planet[^3].
 
 
-![The Aurora, Texas Airship Crash of 1897: Evidence, Impact, and Enduring Mystery - Full-Text]({{ "/assets/images/UFO - Top 100/Aurora Texas airship crash 1897-Full-Text.svg" | relative_url }})
+![The Aurora, Texas Airship Crash of 1897: Evidence, Impact, and Enduring Mystery - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Aurora Texas airship crash 1897-Full-Text.svg" | relative_url }})
 ## Evidence Assessment and Investigation Attempts
 
 ### Physical Evidence Claims
@@ -83,7 +84,7 @@ While many skeptics dismiss the case entirely as a fabrication, others have prop
 Michael Busby, author of "Solving the 1897 Airship Mystery," proposes a more complex alternative explanation. He suggests some airship sightings from this period might be connected to German engineers and inventors who immigrated to America following the German Civil War in the 1840s. According to this theory, these individuals may have worked with inventor Dr. Solomon Andrews, who demonstrated a functional airship during the American Civil War, and continued developing advanced airship technology in secret[^13].
 
 
-![The Aurora, Texas Airship Crash of 1897: Evidence, Impact, and Enduring Mystery - P1]({{ "/assets/images/UFO - Top 100/Aurora Texas airship crash 1897-P1.svg" | relative_url }})
+![The Aurora, Texas Airship Crash of 1897: Evidence, Impact, and Enduring Mystery - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Aurora Texas airship crash 1897-P1.svg" | relative_url }})
 ## Cultural Impact and Legacy
 
 Despite—or perhaps because of—its controversial nature, the Aurora incident has had a significant and lasting cultural impact:
@@ -137,7 +138,7 @@ The Aurora, Texas airship incident of 1897 remains an enduring mystery. While sk
 <div>⁂</div>
 
 
-![The Aurora, Texas Airship Crash of 1897: Evidence, Impact, and Enduring Mystery - P2]({{ "/assets/images/UFO - Top 100/Aurora Texas airship crash 1897-P2.svg" | relative_url }})
+![The Aurora, Texas Airship Crash of 1897: Evidence, Impact, and Enduring Mystery - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Aurora Texas airship crash 1897-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31]</small>
 

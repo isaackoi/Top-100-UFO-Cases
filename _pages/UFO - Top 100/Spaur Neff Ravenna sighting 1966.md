@@ -1,8 +1,9 @@
 ---
 title: 'The Spaur/Neff Ravenna UFO Chase of 1966: A Critical Examination'
 permalink: /spaur-neff-ravenna-sighting-1966/
-date: '2025-05-05 19:56:21 '
-image: /assets/images/UFO - Top 100/Spaur Neff Ravenna sighting 1966-Full-Text.svg
+date: '2025-05-10 20:35:32 '
+header:
+  og_image: /assets/images/UFO - Top 100/Spaur Neff Ravenna sighting 1966-Full-Text.png
 description: 'Exploring The Spaur/Neff Ravenna UFO Chase of 1966: A Critical Examination within the context of UFO - Top 100.'
 ---
 
@@ -31,7 +32,7 @@ Near East Palestine, Ohio, Police Officer Wayne Houston joined the pursuit. Hous
 At approximately 5:58 AM, the officers contacted the Federal Aviation Agency at Pittsburgh airport. While on the line, they observed a Boeing 707 passenger jet (United Airlines flight 454) passing about 1,000 feet below the object. Shortly after this, around 6:15 AM, the mysterious craft reportedly ascended straight up at high speed and disappeared as daylight broke[^2]. By this time, Spaur and Neff's patrol car was running on fumes, forcing them to stop at a service station in Conway, Pennsylvania, where Officer Panzanella was waiting[^5].
 
 
-![The Spaur/Neff Ravenna UFO Chase of 1966: A Critical Examination - Full-Text]({{ "/assets/images/UFO - Top 100/Spaur Neff Ravenna sighting 1966-Full-Text.svg" | relative_url }})
+![The Spaur/Neff Ravenna UFO Chase of 1966: A Critical Examination - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Spaur Neff Ravenna sighting 1966-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/c_7XQDu5yM0" title="YouTube video player (Fn: 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -64,7 +65,7 @@ Most significantly, Dr. J. Allen Hynek, Project Blue Book's own scientific consu
 The Air Force maintained that no fighter jets were dispatched to intercept the object, despite the officers' claims to the contrary. They also stated that nothing unusual appeared on radar during the incident[^5]. However, these denials must be considered in the broader context of Project Blue Book's approach to UFO reports during this period.
 
 
-![The Spaur/Neff Ravenna UFO Chase of 1966: A Critical Examination - P1]({{ "/assets/images/UFO - Top 100/Spaur Neff Ravenna sighting 1966-P1.svg" | relative_url }})
+![The Spaur/Neff Ravenna UFO Chase of 1966: A Critical Examination - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Spaur Neff Ravenna sighting 1966-P1.svg" | relative_url }})
 ## Influence and Impact
 
 The personal toll on the primary witnesses was severe and well-documented. Within six months of the incident, Dale Spaur experienced a complete breakdown of his personal and professional life. He lost his job with the Sheriff's Department, and his wife left with their children. In October 1966, a Plain Dealer reporter found him living in a motel, surviving on peanut butter and jelly sandwiches. Spaur lamented his situation: "Thirty-four years old and what do I have? Nothing. Who knows me? To everyone, I'm Dale Spaur, the nut who chased a flying saucer"[^5][^9].
@@ -106,7 +107,7 @@ Whether the deputies encountered an extraterrestrial craft, an experimental airc
 <div>⁂</div>
 
 
-![The Spaur/Neff Ravenna UFO Chase of 1966: A Critical Examination - P2]({{ "/assets/images/UFO - Top 100/Spaur Neff Ravenna sighting 1966-P2.svg" | relative_url }})
+![The Spaur/Neff Ravenna UFO Chase of 1966: A Critical Examination - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Spaur Neff Ravenna sighting 1966-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25]</small>
 

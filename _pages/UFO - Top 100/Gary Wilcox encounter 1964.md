@@ -1,8 +1,9 @@
 ---
 title: 'The Gary Wilcox UFO Encounter of 1964: A Critical Examination'
 permalink: /gary-wilcox-encounter-1964/
-date: '2025-05-05 19:56:17 '
-image: /assets/images/UFO - Top 100/Gary Wilcox encounter 1964-Full-Text.svg
+date: '2025-05-10 20:35:26 '
+header:
+  og_image: /assets/images/UFO - Top 100/Gary Wilcox encounter 1964-Full-Text.png
 description: 'Exploring The Gary Wilcox UFO Encounter of 1964: A Critical Examination within the context of UFO - Top 100.'
 ---
 
@@ -36,7 +37,7 @@ During this extended interaction, the beings allegedly identified themselves as 
 The beings also reportedly shared several predictions, stating that within a year, American astronauts John Glenn and Virgil Grissom, along with two Russian cosmonauts, would die, and there would be "some changes in the understanding of space"[^3]. While John Glenn did not die as predicted, Virgil Grissom did perish in the Apollo 1 fire on January 17, 1967. Additionally, on April 24, 1967—exactly three years after Wilcox's encounter—Soviet cosmonaut Vladimir Komarov died when his Soyuz 1 spacecraft's parachute failed during reentry[^3].
 
 
-![The Gary Wilcox UFO Encounter of 1964: A Critical Examination - Full-Text]({{ "/assets/images/UFO - Top 100/Gary Wilcox encounter 1964-Full-Text.svg" | relative_url }})
+![The Gary Wilcox UFO Encounter of 1964: A Critical Examination - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Gary Wilcox encounter 1964-Full-Text.svg" | relative_url }})
 ### The Departure and Aftermath
 
 After their conversation, the beings reportedly returned to their craft. The UFO then emitted a sound "similar to the sound of a motor idling" before slowly gliding about 50 meters, then sharply accelerating northward until it disappeared[^3]. Intriguingly, later that same day, Wilcox claimed to have left a 75-pound bag of fertilizer near a tree at the landing site. When he checked the following morning, the bag was gone[^3][^7].
@@ -77,7 +78,7 @@ Despite the case's compelling elements, several aspects warrant skeptical consid
 The documentary "Gary Wilcox UFO Explained" by producer Lynne Whelden suggests the case requires examination beyond the literal interpretation of "little green men from Mars"[^9]. In the documentary, Whelden discusses how he learned hypnosis and discovered "how easily the brain can be manipulated" and "how vulnerable it is to outside influences"[^9]. While not directly applied to the Wilcox case, this perspective suggests potential psychological explanations for UFO encounters.
 
 
-![The Gary Wilcox UFO Encounter of 1964: A Critical Examination - P1]({{ "/assets/images/UFO - Top 100/Gary Wilcox encounter 1964-P1.svg" | relative_url }})
+![The Gary Wilcox UFO Encounter of 1964: A Critical Examination - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Gary Wilcox encounter 1964-P1.svg" | relative_url }})
 ### Scientific Inconsistencies
 
 The beings' claim to be from Mars conflicts with scientific understanding both then and now. By 1964, space probes had already revealed Mars to be an inhospitable planet without advanced civilization. Today's extensive exploration of Mars has definitively ruled out the existence of an advanced Martian civilization, making this aspect of Wilcox's account highly problematic from a scientific standpoint.
@@ -142,7 +143,7 @@ Further research into other UFO sightings and unusual phenomena reported around 
 A detailed comparative analysis of the Wilcox case with the Socorro incident and other contemporaneous sightings could reveal patterns or inconsistencies that might shed light on the nature of these events.
 
 
-![The Gary Wilcox UFO Encounter of 1964: A Critical Examination - P2]({{ "/assets/images/UFO - Top 100/Gary Wilcox encounter 1964-P2.svg" | relative_url }})
+![The Gary Wilcox UFO Encounter of 1964: A Critical Examination - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Gary Wilcox encounter 1964-P2.svg" | relative_url }})
 ### Document Recovery
 
 Efforts to locate and analyze the original police report, any Project Blue Book documentation specific to this case, and Dr. Schwartz's complete findings would provide valuable primary source material for researchers.

@@ -1,8 +1,9 @@
 ---
 title: 'The Cisco Grove UFO Incident (1964): A Detailed Examination of Evidence and Impact'
 permalink: /cisco-grove-incident-1964/
-date: '2025-05-05 19:56:15 '
-image: /assets/images/UFO - Top 100/Cisco Grove incident 1964-Full-Text.svg
+date: '2025-05-10 20:35:24 '
+header:
+  og_image: /assets/images/UFO - Top 100/Cisco Grove incident 1964-Full-Text.png
 description: 'Exploring The Cisco Grove UFO Incident (1964): A Detailed Examination of Evidence and Impact within the context of UFO - Top 100.'
 ---
 
@@ -33,7 +34,7 @@ In his desperate fight to remain free, Shrum reported employing his archery skil
 The ordeal reportedly continued until dawn, when the entities and their craft departed. Exhausted, Shrum eventually reunited with his hunting companions and related his extraordinary experience[^1].
 
 
-![The Cisco Grove UFO Incident (1964): A Detailed Examination of Evidence and Impact - Full-Text]({{ "/assets/images/UFO - Top 100/Cisco Grove incident 1964-Full-Text.svg" | relative_url }})
+![The Cisco Grove UFO Incident (1964): A Detailed Examination of Evidence and Impact - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Cisco Grove incident 1964-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/4yEkCSyTTxg" title="YouTube video player (Fn: 5)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -96,7 +97,7 @@ Under such conditions of stress, isolation, and sensory deprivation (limited vis
 Sleep deprivation would have become an increasingly significant factor as the night progressed, potentially affecting Shrum's perception and judgment. Periods of microsleep or hypnagogic states (the transitional state between wakefulness and sleep) can produce vivid, dream-like experiences that can be misinterpreted as reality.
 
 
-![The Cisco Grove UFO Incident (1964): A Detailed Examination of Evidence and Impact - P1]({{ "/assets/images/UFO - Top 100/Cisco Grove incident 1964-P1.svg" | relative_url }})
+![The Cisco Grove UFO Incident (1964): A Detailed Examination of Evidence and Impact - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Cisco Grove incident 1964-P1.svg" | relative_url }})
 ### Conventional Explanations
 
 The initial light that Shrum observed and interpreted as a potential UFO might have been a conventional aircraft, meteorological phenomenon, or other explainable aerial event. The Sierra Nevada mountain region, with its variable atmospheric conditions, can produce unusual light effects, particularly at night.
@@ -158,7 +159,7 @@ Several significant gaps in the available evidence limit a comprehensive assessm
 5. There is no mention of whether any environmental analysis was conducted at the site to search for physical traces or anomalies.
 
 
-![The Cisco Grove UFO Incident (1964): A Detailed Examination of Evidence and Impact - P2]({{ "/assets/images/UFO - Top 100/Cisco Grove incident 1964-P2.svg" | relative_url }})
+![The Cisco Grove UFO Incident (1964): A Detailed Examination of Evidence and Impact - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Cisco Grove incident 1964-P2.svg" | relative_url }})
 ### Avenues for Follow-up Research
 
 To address these gaps and develop a more complete understanding of the Cisco Grove incident, several avenues for follow-up research present themselves:

@@ -1,8 +1,9 @@
 ---
 title: 'The Cynthia Appleton UFO Encounters (1957-1959): Critical Analysis of a British Contact Case'
 permalink: /cynthia-appleton-encounter-1957/
-date: '2025-05-05 19:56:16 '
-image: /assets/images/UFO - Top 100/Cynthia Appleton encounter 1957-Full-Text.svg
+date: '2025-05-10 20:35:24 '
+header:
+  og_image: /assets/images/UFO - Top 100/Cynthia Appleton encounter 1957-Full-Text.png
 description: 'Exploring The Cynthia Appleton UFO Encounters (1957-1959): Critical Analysis of a British Contact Case within the context of UFO - Top 100.'
 ---
 
@@ -34,7 +35,7 @@ Appleton reported at least seven encounters with these beings between 1957 and 1
 4. September 1958: In what became the final reported visit, a being approached Appleton's back door while she was doing laundry. He allegedly informed her she was pregnant with a boy who would weigh 7 pounds, 3 ounces, have fair hair, be born in late May 1959, and grow to become a "leader of men" by age 14. The being instructed that the child must be named Matthew[^2][^5][^6].
 
 
-![The Cynthia Appleton UFO Encounters (1957-1959): Critical Analysis of a British Contact Case - Full-Text]({{ "/assets/images/UFO - Top 100/Cynthia Appleton encounter 1957-Full-Text.svg" | relative_url }})
+![The Cynthia Appleton UFO Encounters (1957-1959): Critical Analysis of a British Contact Case - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Cynthia Appleton encounter 1957-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/G5rjEE8vvvQ" title="YouTube video player (Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -82,7 +83,7 @@ A medical professional interviewed at the time (identified as "a house surgeon a
 The timing of these encounters—occurring when Appleton had very young children at home and was reportedly pregnant with another—aligns with a period when a young mother might be under significant stress, sleep-deprived, or experiencing hormone fluctuations. These factors could potentially contribute to hallucinatory experiences or unusual interpretations of ordinary events.
 
 
-![The Cynthia Appleton UFO Encounters (1957-1959): Critical Analysis of a British Contact Case - P1]({{ "/assets/images/UFO - Top 100/Cynthia Appleton encounter 1957-P1.svg" | relative_url }})
+![The Cynthia Appleton UFO Encounters (1957-1959): Critical Analysis of a British Contact Case - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Cynthia Appleton encounter 1957-P1.svg" | relative_url }})
 ### Cultural Context and Media Influence
 
 Appleton's encounters occurred during a period of heightened public interest in UFOs and alien visitors. The late 1950s saw numerous flying saucer reports and the popularization of contactee narratives through films, books, and media coverage. This cultural zeitgeist likely influenced both Appleton's interpretation of her experiences and the public's reception of her claims.
@@ -152,7 +153,7 @@ The alleged "alien skin" sample that was reportedly analyzed by university scien
 The "scorched" newspaper from the first encounter, supposedly taken by a journalist, has likewise never resurfaced for analysis[^6].
 
 
-![The Cynthia Appleton UFO Encounters (1957-1959): Critical Analysis of a British Contact Case - P2]({{ "/assets/images/UFO - Top 100/Cynthia Appleton encounter 1957-P2.svg" | relative_url }})
+![The Cynthia Appleton UFO Encounters (1957-1959): Critical Analysis of a British Contact Case - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Cynthia Appleton encounter 1957-P2.svg" | relative_url }})
 ### Avenues for Further Research
 
 To resolve lingering uncertainties about the Appleton case, several research avenues could be pursued:

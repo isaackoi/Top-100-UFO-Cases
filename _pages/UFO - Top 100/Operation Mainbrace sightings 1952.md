@@ -1,8 +1,9 @@
 ---
 title: 'Operation Mainbrace UFO Sightings (1952): A Critical Analysis of the Evidence'
 permalink: /operation-mainbrace-sightings-1952/
-date: '2025-05-05 19:56:20 '
-image: /assets/images/UFO - Top 100/Operation Mainbrace sightings 1952-Full-Text.svg
+date: '2025-05-10 20:35:31 '
+header:
+  og_image: /assets/images/UFO - Top 100/Operation Mainbrace sightings 1952-Full-Text.png
 description: 'Exploring Operation Mainbrace UFO Sightings (1952): A Critical Analysis of the Evidence within the context of UFO - Top 100.'
 ---
 
@@ -29,7 +30,7 @@ The Operation Mainbrace UFO encounters weren't isolated incidents but rather a s
 On the very first day of the exercise, the Danish destroyer Willemoes was positioned north of Bornholm Island when Lieutenant Commander Schmidt Jensen and several crew members observed a triangular-shaped object moving at high speed toward the southeast. The object reportedly emitted a bluish glow, and Commander Jensen estimated its speed at over 900 mph[^5][^8]. This was significantly faster than any known aircraft of that era could achieve, particularly for a triangular craft.
 
 
-![Operation Mainbrace UFO Sightings (1952): A Critical Analysis of the Evidence - Full-Text]({{ "/assets/images/UFO - Top 100/Operation Mainbrace sightings 1952-Full-Text.svg" | relative_url }})
+![Operation Mainbrace UFO Sightings (1952): A Critical Analysis of the Evidence - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Operation Mainbrace sightings 1952-Full-Text.svg" | relative_url }})
 ### September 19, 1952 - The Topcliffe Airfield Encounter
 
 What is perhaps the most well-documented incident occurred on September 19 at RAF Topcliffe in Yorkshire, England. Just before 11:00 AM, as a British Meteor jet aircraft was approaching for landing, Lieutenant John W. Kilburn and other observers on the ground witnessed a silvery object following it, swaying back and forth "like a pendulum"[^5][^8].
@@ -84,7 +85,7 @@ The most straightforward explanation is that observers misidentified conventiona
 It's also worth considering that Operation Mainbrace took place during a period of high military activity, with numerous aircraft and vessels operating in close proximity. The possibility of misidentifications cannot be discounted, especially given the tense atmosphere of the Cold War and the specific focus of the exercise on demonstrating NATO's strength to the Soviet Union[^11].
 
 
-![Operation Mainbrace UFO Sightings (1952): A Critical Analysis of the Evidence - P1]({{ "/assets/images/UFO - Top 100/Operation Mainbrace sightings 1952-P1.svg" | relative_url }})
+![Operation Mainbrace UFO Sightings (1952): A Critical Analysis of the Evidence - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Operation Mainbrace sightings 1952-P1.svg" | relative_url }})
 ### Official Skepticism Prior to the Incidents
 
 Just one year before these incidents, in 1951, the UK's "Flying Saucer Working Party" had concluded that UFOs were optical illusions, hoaxes, and misidentifications[^10]. After the Washington D.C. sightings in July 1952, Winston Churchill was reportedly assured by his Air Minister that "nothing has happened since 1951 to make the Air Staff change their opinion" on this matter[^10]. The Operation Mainbrace sightings in September 1952 would have occurred after this assurance was given, potentially challenging the prevailing official view.
@@ -151,7 +152,7 @@ The recent evolution of terminology from UFOs to UAPs (Unidentified Aerial Pheno
 <div>⁂</div>
 
 
-![Operation Mainbrace UFO Sightings (1952): A Critical Analysis of the Evidence - P2]({{ "/assets/images/UFO - Top 100/Operation Mainbrace sightings 1952-P2.svg" | relative_url }})
+![Operation Mainbrace UFO Sightings (1952): A Critical Analysis of the Evidence - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Operation Mainbrace sightings 1952-P2.svg" | relative_url }})
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/tBXOBAiglIc" title="YouTube video player (Fallback, Fn: 25)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

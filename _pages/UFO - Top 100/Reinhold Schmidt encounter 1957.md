@@ -1,8 +1,9 @@
 ---
 title: 'The Reinhold Schmidt UFO Encounter (1957): A Critical Analysis'
 permalink: /reinhold-schmidt-encounter-1957/
-date: '2025-05-05 19:56:20 '
-image: /assets/images/UFO - Top 100/Reinhold Schmidt encounter 1957-Full-Text.svg
+date: '2025-05-10 20:35:31 '
+header:
+  og_image: /assets/images/UFO - Top 100/Reinhold Schmidt encounter 1957-Full-Text.png
 description: 'Exploring The Reinhold Schmidt UFO Encounter (1957): A Critical Analysis within the context of UFO - Top 100.'
 ---
 
@@ -40,7 +41,7 @@ However, the supportive stance of local authorities quickly changed. Schmidt was
 On November 8, 1957, Schmidt was committed to Hastings State Hospital for psychiatric evaluation, where doctors reportedly found him to be "very ill" and "in immediate need of psychiatric treatment"[^6]. The psychiatric diagnosis labeled his UFO encounter a "hallucination," though they simultaneously considered it an attention-seeking hoax[^6].
 
 
-![The Reinhold Schmidt UFO Encounter (1957): A Critical Analysis - Full-Text]({{ "/assets/images/UFO - Top 100/Reinhold Schmidt encounter 1957-Full-Text.svg" | relative_url }})
+![The Reinhold Schmidt UFO Encounter (1957): A Critical Analysis - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Reinhold Schmidt encounter 1957-Full-Text.svg" | relative_url }})
 ### Air Force Response
 
 The United States Air Force, then responsible for investigating UFO reports through Project Blue Book, took the unusual step of specifically addressing Schmidt's case in a Department of Defense press release dated November 15, 1957. Without naming Schmidt directly, they identified the Kearney, Nebraska location and stated: "Investigation revealed that local officials consider originator wholly unreliable"[^6]. This special mention was notable, as the Air Force rarely singled out individual cases for public debunking.
@@ -120,7 +121,7 @@ Schmidt's evolving narrative followed a pattern common to other contactee claims
 This formulaic progression suggests influence from other contactee literature rather than genuine experience.
 
 
-![The Reinhold Schmidt UFO Encounter (1957): A Critical Analysis - P1]({{ "/assets/images/UFO - Top 100/Reinhold Schmidt encounter 1957-P1.svg" | relative_url }})
+![The Reinhold Schmidt UFO Encounter (1957): A Critical Analysis - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Reinhold Schmidt encounter 1957-P1.svg" | relative_url }})
 ### Financial Motivation
 
 Schmidt's quick transition to the lecture circuit with established UFO personalities like Wayne Aho and John Otto demonstrates a clear financial incentive[^6]. His eventual conviction for defrauding elderly women through claims about "free energy crystals" identified by his space contacts confirms that monetary gain was a significant motivator[^1][^6].
@@ -199,7 +200,7 @@ While skeptical explanations appear most consistent with the available evidence‚
 <div>‚ÅÇ</div>
 
 
-![The Reinhold Schmidt UFO Encounter (1957): A Critical Analysis - P2]({{ "/assets/images/UFO - Top 100/Reinhold Schmidt encounter 1957-P2.svg" | relative_url }})
+![The Reinhold Schmidt UFO Encounter (1957): A Critical Analysis - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Reinhold Schmidt encounter 1957-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^40][^41][^42][^43][^44][^45][^46]</small>
 

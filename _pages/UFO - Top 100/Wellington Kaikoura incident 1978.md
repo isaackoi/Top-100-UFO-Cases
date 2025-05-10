@@ -1,8 +1,9 @@
 ---
 title: 'The Wellington/Kaikoura UFO Incident (1978): A Comprehensive Analysis'
 permalink: /wellington-kaikoura-incident-1978/
-date: '2025-05-05 19:56:23 '
-image: /assets/images/UFO - Top 100/Wellington Kaikoura incident 1978-Full-Text.svg
+date: '2025-05-10 20:35:35 '
+header:
+  og_image: /assets/images/UFO - Top 100/Wellington Kaikoura incident 1978-Full-Text.png
 description: 'Exploring The Wellington/Kaikoura UFO Incident (1978): A Comprehensive Analysis within the context of UFO - Top 100.'
 ---
 
@@ -33,7 +34,7 @@ After landing in Christchurch at 1:01 AM on December 31, the cargo plane took of
 The captain, Bill Startup, obtained a strong return on his radar, which was operating in "mapping mode." The flight crew estimated the radar "blip" to be three to five times larger than the return from a large fishing boat[^11]. The object was described as a bright yellow/white/orange light that would appear and disappear through cloud tops, positioned between 10 and 30 degrees to the right of the aircraft[^11].
 
 
-![The Wellington/Kaikoura UFO Incident (1978): A Comprehensive Analysis - Full-Text]({{ "/assets/images/UFO - Top 100/Wellington Kaikoura incident 1978-Full-Text.svg" | relative_url }})
+![The Wellington/Kaikoura UFO Incident (1978): A Comprehensive Analysis - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Wellington Kaikoura incident 1978-Full-Text.svg" | relative_url }})
 ## Credibility Assessment of Evidence and Witnesses
 
 ### Multiple Credible Witnesses
@@ -97,7 +98,7 @@ The Royal New Zealand Air Force (RNZAF) ultimately attributed the sightings to s
 Wing Commander J.B. Clements stated, "Almost all the sightings can be explained by natural but unusual phenomena," and recommended that "Defence should issue a PR statement fairly soon in order to tone down much of the wild speculation that has existed over recent weeks"[^10].
 
 
-![The Wellington/Kaikoura UFO Incident (1978): A Comprehensive Analysis - P1]({{ "/assets/images/UFO - Top 100/Wellington Kaikoura incident 1978-P1.svg" | relative_url }})
+![The Wellington/Kaikoura UFO Incident (1978): A Comprehensive Analysis - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Wellington Kaikoura incident 1978-P1.svg" | relative_url }})
 ### Problems with Official Explanations
 
 The RNZAF explanations encountered significant criticism from witnesses and analysts:
@@ -169,7 +170,7 @@ The professional witnesses involved in the sightings faced significant challenge
 These materials form the core documentary evidence for the case and have been partially preserved through the declassification process.
 
 
-![The Wellington/Kaikoura UFO Incident (1978): A Comprehensive Analysis - P2]({{ "/assets/images/UFO - Top 100/Wellington Kaikoura incident 1978-P2.svg" | relative_url }})
+![The Wellington/Kaikoura UFO Incident (1978): A Comprehensive Analysis - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Wellington Kaikoura incident 1978-P2.svg" | relative_url }})
 ### Expert Analysis
 
 Dr. Bruce Maccabee's work stands as the most thorough independent analysis of the case. As recently as January 2025, Dr. Maccabee has discussed the Kaikoura Lights in relation to other significant UFO cases, maintaining his assessment of its importance[^13]. His technical expertise in optics and image analysis provides a valuable scientific perspective on the photographic evidence.

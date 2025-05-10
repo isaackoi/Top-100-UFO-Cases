@@ -1,8 +1,9 @@
 ---
 title: 'Alan Godfrey''s 1980 UFO Encounter: A Critical Analysis of the Todmorden Incident'
 permalink: /alan-godfrey-encounter-1980/
-date: '2025-05-05 19:56:14 '
-image: /assets/images/UFO - Top 100/Alan Godfrey encounter 1980-Full-Text.svg
+date: '2025-05-10 20:35:22 '
+header:
+  og_image: /assets/images/UFO - Top 100/Alan Godfrey encounter 1980-Full-Text.png
 description: 'Exploring Alan Godfrey''s 1980 UFO Encounter: A Critical Analysis of the Todmorden Incident within the context of UFO - Top 100.'
 ---
 
@@ -48,7 +49,7 @@ The coroner, James Turnbull, confirmed the presence of this unidentifiable subst
 Various theories emerged about Adamski's death, including possible involvement of the KGB or that he had been struck by ball lightning, causing him to wander confused before dying atop the coal heap[^6]. However, the peculiar circumstances remained unexplained, creating a backdrop of mystery that would color interpretations of Godfrey's later experience.
 
 
-![Alan Godfrey's 1980 UFO Encounter: A Critical Analysis of the Todmorden Incident - Full-Text]({{ "/assets/images/UFO - Top 100/Alan Godfrey encounter 1980-Full-Text.svg" | relative_url }})
+![Alan Godfrey's 1980 UFO Encounter: A Critical Analysis of the Todmorden Incident - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Alan Godfrey encounter 1980-Full-Text.svg" | relative_url }})
 ## The UFO Encounter: November 28, 1980
 
 ### Initial Sighting and Missing Time
@@ -88,7 +89,7 @@ The physical evidence in the Godfrey case includes:
 The transient nature of this evidence presents challenges for retrospective investigation. Without contemporaneous documentation or physical samples, these elements remain primarily testimonial rather than objectively verifiable.
 
 
-![Alan Godfrey's 1980 UFO Encounter: A Critical Analysis of the Todmorden Incident - P1]({{ "/assets/images/UFO - Top 100/Alan Godfrey encounter 1980-P1.svg" | relative_url }})
+![Alan Godfrey's 1980 UFO Encounter: A Critical Analysis of the Todmorden Incident - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Alan Godfrey encounter 1980-P1.svg" | relative_url }})
 ### Witness Credibility
 
 As a police officer, Godfrey brought professional observational training to his account. Police testimony is generally given substantial weight in legal contexts, making Godfrey's account more compelling than many civilian reports. However, several factors complicate the assessment:
@@ -144,7 +145,7 @@ The Godfrey case has become one of the more prominent UFO encounters in British 
 These elements have made it a frequently cited case in discussions of potential extraterrestrial visitation, especially within the UK context. The case also highlights important tensions in UFO research—between hypnotically-recovered memories and consciously recalled experiences, between institutional skepticism and witness testimony, and between purely psychological explanations and those that posit external phenomena.
 
 
-![Alan Godfrey's 1980 UFO Encounter: A Critical Analysis of the Todmorden Incident - P2]({{ "/assets/images/UFO - Top 100/Alan Godfrey encounter 1980-P2.svg" | relative_url }})
+![Alan Godfrey's 1980 UFO Encounter: A Critical Analysis of the Todmorden Incident - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Alan Godfrey encounter 1980-P2.svg" | relative_url }})
 ## Epistemological Challenges
 
 The Godfrey case illustrates several fundamental challenges in evaluating UFO reports:

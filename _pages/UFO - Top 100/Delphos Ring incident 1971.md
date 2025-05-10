@@ -1,8 +1,9 @@
 ---
 title: 'The Delphos Ring Incident (1971): A Comprehensive Analysis of Physical Trace Evidence in UFO Research'
 permalink: /delphos-ring-incident-1971/
-date: '2025-05-05 19:56:16 '
-image: /assets/images/UFO - Top 100/Delphos Ring incident 1971-Full-Text.svg
+date: '2025-05-10 20:35:25 '
+header:
+  og_image: /assets/images/UFO - Top 100/Delphos Ring incident 1971-Full-Text.png
 description: 'Exploring The Delphos Ring Incident (1971): A Comprehensive Analysis of Physical Trace Evidence in UFO Research within the context of UFO - Top 100.'
 ---
 
@@ -34,7 +35,7 @@ Sheriff Harlan Enlow responded to the scene and conducted a preliminary investig
 The physical evidence discovered at the Delphos site exhibited several unusual properties that attracted scientific interest:
 
 
-![The Delphos Ring Incident (1971): A Comprehensive Analysis of Physical Trace Evidence in UFO Research - Full-Text]({{ "/assets/images/UFO - Top 100/Delphos Ring incident 1971-Full-Text.svg" | relative_url }})
+![The Delphos Ring Incident (1971): A Comprehensive Analysis of Physical Trace Evidence in UFO Research - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Delphos Ring incident 1971-Full-Text.svg" | relative_url }})
 ### The Anomalous Ring
 
 Investigators documented multiple anomalies within the ring area:
@@ -86,7 +87,7 @@ This multi-disciplinary approach to investigation provided a robust foundation f
 Despite the compelling physical evidence and credible testimony, several alternative explanations have been proposed:
 
 
-![The Delphos Ring Incident (1971): A Comprehensive Analysis of Physical Trace Evidence in UFO Research - P1]({{ "/assets/images/UFO - Top 100/Delphos Ring incident 1971-P1.svg" | relative_url }})
+![The Delphos Ring Incident (1971): A Comprehensive Analysis of Physical Trace Evidence in UFO Research - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Delphos Ring incident 1971-P1.svg" | relative_url }})
 ### Natural Phenomena
 
 NASA geologist Dr. Bob Anderson suggested the incident could be explained by natural phenomena, though specific details of his explanation weren't elaborated in available sources[^1]. Several natural explanations might account for ring formations:
@@ -150,7 +151,7 @@ Modern analytical techniques could provide more detailed characterization of the
 The aging of original evidence, photographs, and investigator notes presents a risk of information loss. Digitizing and properly archiving these materials would preserve this important case study for future research.
 
 
-![The Delphos Ring Incident (1971): A Comprehensive Analysis of Physical Trace Evidence in UFO Research - P2]({{ "/assets/images/UFO - Top 100/Delphos Ring incident 1971-P2.svg" | relative_url }})
+![The Delphos Ring Incident (1971): A Comprehensive Analysis of Physical Trace Evidence in UFO Research - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Delphos Ring incident 1971-P2.svg" | relative_url }})
 ## Conclusion: Evaluating the Evidence
 
 The Delphos Ring incident represents one of the most scientifically compelling UFO cases due to its combination of multiple credible witnesses, unusual physical evidence, and scientific analysis of that evidence. After more than five decades, it continues to resist definitive explanation.

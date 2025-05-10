@@ -1,8 +1,9 @@
 ---
 title: 'The Antonio Villas-Boas Abduction Case (1957): A Critical Examination'
 permalink: /antonio-villas-boas-abduction-1957/
-date: '2025-05-05 19:56:14 '
-image: /assets/images/UFO - Top 100/Antonio Villas-Boas abduction 1957-Full-Text.svg
+date: '2025-05-10 20:35:22 '
+header:
+  og_image: /assets/images/UFO - Top 100/Antonio Villas-Boas abduction 1957-Full-Text.png
 description: 'Exploring The Antonio Villas-Boas Abduction Case (1957): A Critical Examination within the context of UFO - Top 100.'
 ---
 
@@ -33,7 +34,7 @@ The most sensational aspect of his story involved an encounter with a female hum
 Following this alleged encounter, Villas-Boas claimed he was returned to his farm. In the subsequent weeks, he reported experiencing physical symptoms including nausea, weakness, and lesions on his skin, which he attributed to his experience aboard the alien craft[^3][^5][^8].
 
 
-![The Antonio Villas-Boas Abduction Case (1957): A Critical Examination - Full-Text]({{ "/assets/images/UFO - Top 100/Antonio Villas-Boas abduction 1957-Full-Text.svg" | relative_url }})
+![The Antonio Villas-Boas Abduction Case (1957): A Critical Examination - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Antonio Villas-Boas abduction 1957-Full-Text.svg" | relative_url }})
 ### Path to Publication
 
 The story's journey from private experience to public knowledge followed a winding path. The case first came to light when Villas-Boas responded to a newspaper advertisement placed by journalist Jose Martins, who was seeking individuals who had experienced UFO encounters[^4].
@@ -85,7 +86,7 @@ Several aspects of the case have led researchers to suspect a deliberate hoax:
 4. **Detailed Rope Ladders**: Mori pointed out another inconsistency: "If you read Villas Boas' account you may notice the advanced aliens nonetheless used rope ladders — a very adorable detail"[^4]. This seemingly anachronistic technology appears inconsistent with an advanced spacefaring civilization.
 
 
-![The Antonio Villas-Boas Abduction Case (1957): A Critical Examination - P1]({{ "/assets/images/UFO - Top 100/Antonio Villas-Boas abduction 1957-P1.svg" | relative_url }})
+![The Antonio Villas-Boas Abduction Case (1957): A Critical Examination - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Antonio Villas-Boas abduction 1957-P1.svg" | relative_url }})
 ### Psychological Explanations
 
 Several researchers have suggested psychological explanations:
@@ -156,7 +157,7 @@ Several factors limit a thorough investigation of this historical case:
 3. **Lack of Physical Evidence**: No physical evidence from the alleged craft was preserved, and any medical samples or documentation from Villas-Boas' examination are not publicly available.
 
 
-![The Antonio Villas-Boas Abduction Case (1957): A Critical Examination - P2]({{ "/assets/images/UFO - Top 100/Antonio Villas-Boas abduction 1957-P2.svg" | relative_url }})
+![The Antonio Villas-Boas Abduction Case (1957): A Critical Examination - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Antonio Villas-Boas abduction 1957-P2.svg" | relative_url }})
 ### Avenues for Further Research
 
 Several directions for additional research could shed light on this case:

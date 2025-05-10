@@ -1,8 +1,9 @@
 ---
 title: 'The Gemini 7 UFO Sighting (1965): Evidence and Analysis'
 permalink: /gemini-7-sighting-1965/
-date: '2025-05-05 19:56:17 '
-image: /assets/images/UFO - Top 100/Gemini 7 sighting 1965-Full-Text.svg
+date: '2025-05-10 20:35:26 '
+header:
+  og_image: /assets/images/UFO - Top 100/Gemini 7 sighting 1965-Full-Text.png
 description: 'Exploring The Gemini 7 UFO Sighting (1965): Evidence and Analysis within the context of UFO - Top 100.'
 ---
 
@@ -43,7 +44,7 @@ This exchange clearly indicates that the astronauts were observing something dis
 Unfortunately, based on available records, there appears to be no photographic or video evidence of what the astronauts observed, and the public transcript doesn't include further details about the objects' appearance, movement, or ultimate explanation.
 
 
-![The Gemini 7 UFO Sighting (1965): Evidence and Analysis - Full-Text]({{ "/assets/images/UFO - Top 100/Gemini 7 sighting 1965-Full-Text.svg" | relative_url }})
+![The Gemini 7 UFO Sighting (1965): Evidence and Analysis - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Gemini 7 sighting 1965-Full-Text.svg" | relative_url }})
 ## Credibility Assessment of the Sighting
 
 ### Astronaut Reliability as Witnesses
@@ -88,7 +89,7 @@ NASA has consistently maintained that astronauts have not provided evidence of e
 A CIA memorandum from January 1965 (predating the Gemini 7 mission) stated: "Evaluation of these and other reported phenomena reveals no evidence that UFO's are of foreign origin or are a threat to the security of the United States"[^13]. While this doesn't address the specific Gemini 7 sighting, it reflects the official position around that time.
 
 
-![The Gemini 7 UFO Sighting (1965): Evidence and Analysis - P1]({{ "/assets/images/UFO - Top 100/Gemini 7 sighting 1965-P1.svg" | relative_url }})
+![The Gemini 7 UFO Sighting (1965): Evidence and Analysis - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Gemini 7 sighting 1965-P1.svg" | relative_url }})
 ### Recent Scientific Research on Space Phenomena
 
 Recent scientific research has identified additional natural phenomena that could explain some astronaut UFO sightings. A 2024 study published in the Scientific Research Publishing journal suggests that some UFO and UAP sightings might be observations of "plasmas" - a fourth state of matter that can exhibit life-like behaviors in the thermosphere[^6].
@@ -159,7 +160,7 @@ As government transparency around UAP increases and scientific interest in the s
 <div>⁂</div>
 
 
-![The Gemini 7 UFO Sighting (1965): Evidence and Analysis - P2]({{ "/assets/images/UFO - Top 100/Gemini 7 sighting 1965-P2.svg" | relative_url }})
+![The Gemini 7 UFO Sighting (1965): Evidence and Analysis - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Gemini 7 sighting 1965-P2.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/8o4Tbuc_z-Q" title="YouTube video player (Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

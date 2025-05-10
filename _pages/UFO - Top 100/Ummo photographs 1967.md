@@ -1,8 +1,9 @@
 ---
 title: 'The Ummo Photographs: Examining the 1967 UFO Case and Its Legacy'
 permalink: /ummo-photographs-1967/
-date: '2025-05-05 19:56:22 '
-image: /assets/images/UFO - Top 100/Ummo photographs 1967-Full-Text.svg
+date: '2025-05-10 20:35:34 '
+header:
+  og_image: /assets/images/UFO - Top 100/Ummo photographs 1967-Full-Text.png
 description: 'Exploring The Ummo Photographs: Examining the 1967 UFO Case and Its Legacy within the context of UFO - Top 100.'
 ---
 
@@ -35,7 +36,7 @@ Adding to the intrigue, strange tubes were reportedly discovered at the landing 
 One of these tubes, along with its plastic strips, was submitted for laboratory analysis. The results indicated that the tube was made of high-purity nickel, while the plastic was identified as polyvinyl fluoride[^2]. Significantly, this material had been developed by DuPont, but at that time, its use was allegedly restricted to military applications only[^8].
 
 
-![The Ummo Photographs: Examining the 1967 UFO Case and Its Legacy - Full-Text]({{ "/assets/images/UFO - Top 100/Ummo photographs 1967-Full-Text.svg" | relative_url }})
+![The Ummo Photographs: Examining the 1967 UFO Case and Its Legacy - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Ummo photographs 1967-Full-Text.svg" | relative_url }})
 ### The Broader Ummo Communications
 
 The San Jose de Valderas photographs represent just one element of the much larger Ummo phenomenon. Over the years, numerous individuals beyond Sesma claimed to have received communications from the Ummites. By 1983, the collected Ummo documents had reportedly grown to approximately 6,700 pages[^1].
@@ -108,7 +109,7 @@ The Ummo letters, despite their technical sophistication, contain elements that 
 4. The content aligns suspiciously well with human interests and understanding, despite supposedly originating from an alien culture.
 
 
-![The Ummo Photographs: Examining the 1967 UFO Case and Its Legacy - P1]({{ "/assets/images/UFO - Top 100/Ummo photographs 1967-P1.svg" | relative_url }})
+![The Ummo Photographs: Examining the 1967 UFO Case and Its Legacy - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Ummo photographs 1967-P1.svg" | relative_url }})
 ### The Broader Pattern of UFO Hoaxes
 
 The Ummo affair fits into a recognizable pattern of UFO hoaxes identified by researchers. Common characteristics include:
@@ -184,7 +185,7 @@ The Ummo affair stands as a cautionary tale about the need for rigorous evidence
 <div>⁂</div>
 
 
-![The Ummo Photographs: Examining the 1967 UFO Case and Its Legacy - P2]({{ "/assets/images/UFO - Top 100/Ummo photographs 1967-P2.svg" | relative_url }})
+![The Ummo Photographs: Examining the 1967 UFO Case and Its Legacy - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Ummo photographs 1967-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^40][^41][^42][^43][^44][^45][^46][^47][^48][^49][^50]</small>
 

@@ -1,8 +1,9 @@
 ---
 title: 'The Socorro UFO Incident: A Critical Examination of the Lonnie Zamora Sighting (1964)'
 permalink: /socorro-sighting-by-lonnie-zamora-1964/
-date: '2025-05-05 19:56:21 '
-image: /assets/images/UFO - Top 100/Socorro sighting by Lonnie Zamora 1964-Full-Text.svg
+date: '2025-05-10 20:35:32 '
+header:
+  og_image: /assets/images/UFO - Top 100/Socorro sighting by Lonnie Zamora 1964-Full-Text.png
 description: 'Exploring The Socorro UFO Incident: A Critical Examination of the Lonnie Zamora Sighting (1964) within the context of UFO - Top 100.'
 ---
 
@@ -29,7 +30,7 @@ Significantly, Zamora reported seeing two figures near the object, whom he descr
 Zamora also noted a distinctive red insignia on the side of the craft, "shaped like a point that was about 2 inches high and 2 inches wide"[^2] or as "a vertical arrow with a horizontal line beneath it and a crescent-shaped line above it"[^6].
 
 
-![The Socorro UFO Incident: A Critical Examination of the Lonnie Zamora Sighting (1964) - Full-Text]({{ "/assets/images/UFO - Top 100/Socorro sighting by Lonnie Zamora 1964-Full-Text.svg" | relative_url }})
+![The Socorro UFO Incident: A Critical Examination of the Lonnie Zamora Sighting (1964) - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Socorro sighting by Lonnie Zamora 1964-Full-Text.svg" | relative_url }})
 ### The Departure and Immediate Aftermath
 
 As Zamora continued to approach, he reported that the object began emitting an ominous roar. Frightened by this development, he retreated to his vehicle[^5]. When he glanced back, he witnessed the object rising into the air[^2]. According to Zamora's testimony:
@@ -94,7 +95,7 @@ While Zamora is the primary witness to the object on the ground, there is some e
 The potential corroboration from other witnesses adds an important dimension to the case, though these additional testimonies have not been as thoroughly documented as Zamora's account.
 
 
-![The Socorro UFO Incident: A Critical Examination of the Lonnie Zamora Sighting (1964) - P1]({{ "/assets/images/UFO - Top 100/Socorro sighting by Lonnie Zamora 1964-P1.svg" | relative_url }})
+![The Socorro UFO Incident: A Critical Examination of the Lonnie Zamora Sighting (1964) - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Socorro sighting by Lonnie Zamora 1964-P1.svg" | relative_url }})
 ## Explanations and Counterarguments
 
 ### Extraterrestrial Hypothesis
@@ -173,7 +174,7 @@ Despite extensive investigation, several aspects of the Socorro incident remain 
 5. **Historical context of White Sands operations**: More detailed historical research into classified projects at White Sands Missile Range during this period could potentially identify previously unknown experimental craft that might explain Zamora's sighting.
 
 
-![The Socorro UFO Incident: A Critical Examination of the Lonnie Zamora Sighting (1964) - P2]({{ "/assets/images/UFO - Top 100/Socorro sighting by Lonnie Zamora 1964-P2.svg" | relative_url }})
+![The Socorro UFO Incident: A Critical Examination of the Lonnie Zamora Sighting (1964) - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Socorro sighting by Lonnie Zamora 1964-P2.svg" | relative_url }})
 ## Conclusion
 
 The Socorro UFO incident of 1964 stands as one of the most compelling and well-documented UFO cases in history. The credibility of Lonnie Zamora as a witness, combined with the physical evidence found at the site and the thorough investigation by multiple authorities, elevates this case above many other reported UFO encounters.

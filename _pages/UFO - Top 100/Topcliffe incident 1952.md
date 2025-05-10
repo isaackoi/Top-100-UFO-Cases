@@ -1,8 +1,9 @@
 ---
 title: 'The Topcliffe Incident (1952): A Critical Examination of a Pivotal UFO Case'
 permalink: /topcliffe-incident-1952/
-date: '2025-05-05 19:56:21 '
-image: /assets/images/UFO - Top 100/Topcliffe incident 1952-Full-Text.svg
+date: '2025-05-10 20:35:33 '
+header:
+  og_image: /assets/images/UFO - Top 100/Topcliffe incident 1952-Full-Text.png
 description: 'Exploring The Topcliffe Incident (1952): A Critical Examination of a Pivotal UFO Case within the context of UFO - Top 100.'
 ---
 
@@ -35,7 +36,7 @@ The most remarkable aspect of the observation came next. According to Kilburn's 
 Flight Lieutenant Kilburn's report to his commanding officer was preserved and can be found in the British National Archives file AIR 16/1199[^2][^6]. This contemporaneous documentation constitutes a crucial primary source for evaluating the incident. The report was taken seriously enough that on the following day, September 20, 1952, the story made headlines in both local and national media, including the Yorkshire Evening Press newspaper[^1].
 
 
-![The Topcliffe Incident (1952): A Critical Examination of a Pivotal UFO Case - Full-Text]({{ "/assets/images/UFO - Top 100/Topcliffe incident 1952-Full-Text.svg" | relative_url }})
+![The Topcliffe Incident (1952): A Critical Examination of a Pivotal UFO Case - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Topcliffe incident 1952-Full-Text.svg" | relative_url }})
 ## Credibility Assessment
 
 ### Witness Reliability
@@ -96,7 +97,7 @@ The Little Rissington case also provides additional corroboration of radar track
 ## Skeptical Perspectives and Alternative Explanations
 
 
-![The Topcliffe Incident (1952): A Critical Examination of a Pivotal UFO Case - P1]({{ "/assets/images/UFO - Top 100/Topcliffe incident 1952-P1.svg" | relative_url }})
+![The Topcliffe Incident (1952): A Critical Examination of a Pivotal UFO Case - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Topcliffe incident 1952-P1.svg" | relative_url }})
 ### Conventional Aircraft Misidentification
 
 One potential explanation is that the witnesses observed a conventional aircraft but misperceived its appearance and movements. The Flying Saucer Working Party had previously concluded that even trained observers, including military pilots, could misidentify ordinary aircraft under certain conditions. In their investigation of other cases, they noted: "we find it impossible to believe that an unconventional aircraft, manoeuvring for some time over a populous area, could have failed to attract the attention of other observers. We conclude that the officers in fact saw some quite normal aircraft, manoeuvring at extreme visual range"[^10].
@@ -195,7 +196,7 @@ Perhaps most telling is the response the incident generated within official circ
 The Topcliffe incident thus stands as a well-documented case that directly influenced how the British government approached the UFO phenomenon during a critical period of the Cold War. Its place in UFO history is secured not through sensationalism but through its documented impact on official policy and procedures. As such, it deserves continued attention from serious researchers interested in the historical dimension of unidentified aerial phenomena.
 
 
-![The Topcliffe Incident (1952): A Critical Examination of a Pivotal UFO Case - P2]({{ "/assets/images/UFO - Top 100/Topcliffe incident 1952-P2.svg" | relative_url }})
+![The Topcliffe Incident (1952): A Critical Examination of a Pivotal UFO Case - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Topcliffe incident 1952-P2.svg" | relative_url }})
 ## Conclusion
 
 The Topcliffe incident of September 19, 1952, represents a pivotal moment in the history of official UFO investigations in the United Kingdom. Unlike many UFO reports that fade into obscurity, this case had demonstrable impact on government policy, shifting the Air Ministry from dismissal to active investigation. The multiple military witnesses, preserved documentation, and specific details of the observation continue to resist conventional explanation even after seven decades.

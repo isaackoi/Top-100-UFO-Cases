@@ -1,8 +1,9 @@
 ---
 title: 'The Tully "Saucer Nest" Incident (1966): A Critical Examination of Australia''s Famous UFO Case'
 permalink: /tully-saucer-nest-incident-1966/
-date: '2025-05-05 19:56:22 '
-image: /assets/images/UFO - Top 100/Tully saucer nest incident 1966-Full-Text.svg
+date: '2025-05-10 20:35:34 '
+header:
+  og_image: /assets/images/UFO - Top 100/Tully saucer nest incident 1966-Full-Text.png
 description: 'Exploring The Tully "Saucer Nest" Incident (1966): A Critical Examination of Australia''s Famous UFO Case within the context of UFO - Top 100.'
 ---
 
@@ -44,7 +45,7 @@ The Tully Police forwarded the report to the Royal Australian Air Force (RAAF), 
 In the days following the initial discovery, at least five more similar "nests" were reportedly found in the area, though none received the same level of attention as the original[^11].
 
 
-![The Tully "Saucer Nest" Incident (1966): A Critical Examination of Australia's Famous UFO Case - Full-Text]({{ "/assets/images/UFO - Top 100/Tully saucer nest incident 1966-Full-Text.svg" | relative_url }})
+![The Tully "Saucer Nest" Incident (1966): A Critical Examination of Australia's Famous UFO Case - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Tully saucer nest incident 1966-Full-Text.svg" | relative_url }})
 ## Credibility Assessment of Key Sources
 
 ### George Pedley as a Witness
@@ -112,7 +113,7 @@ Some skeptics might argue that Pedley experienced a brief hallucination or mispe
 The discovery of additional "nests" after the publicity surrounding Pedley's experience could potentially be attributed to increased awareness and scrutiny of the area rather than a genuine increase in such formations. This pattern of increased reporting following publicity is well-documented in other paranormal contexts.
 
 
-![The Tully "Saucer Nest" Incident (1966): A Critical Examination of Australia's Famous UFO Case - P1]({{ "/assets/images/UFO - Top 100/Tully saucer nest incident 1966-P1.svg" | relative_url }})
+![The Tully "Saucer Nest" Incident (1966): A Critical Examination of Australia's Famous UFO Case - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Tully saucer nest incident 1966-P1.svg" | relative_url }})
 ## The Influence and Legacy of the Tully Incident
 
 ### Impact on Crop Circle Phenomena
@@ -191,7 +192,7 @@ Future research into this case could benefit from several approaches:
 5. **Comparative Analysis**: Systematic comparison with other documented "nests" or early crop circles might reveal patterns that support either natural or artificial origins.
 
 
-![The Tully "Saucer Nest" Incident (1966): A Critical Examination of Australia's Famous UFO Case - P2]({{ "/assets/images/UFO - Top 100/Tully saucer nest incident 1966-P2.svg" | relative_url }})
+![The Tully "Saucer Nest" Incident (1966): A Critical Examination of Australia's Famous UFO Case - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Tully saucer nest incident 1966-P2.svg" | relative_url }})
 ## Conclusion: The Enduring Mystery
 
 The 1966 Tully "saucer nest" incident remains one of Australia's most significant and perplexing UFO cases. While definitive conclusions remain elusive, several aspects of the case merit continued attention.

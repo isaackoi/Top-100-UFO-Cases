@@ -1,8 +1,9 @@
 ---
 title: 'The Tremonton, Utah UFO Film (1952): A Critical Analysis of the Evidence'
 permalink: /tremonton-utah-film-1952/
-date: '2025-05-05 19:56:21 '
-image: /assets/images/UFO - Top 100/Tremonton Utah film 1952-Full-Text.svg
+date: '2025-05-10 20:35:33 '
+header:
+  og_image: /assets/images/UFO - Top 100/Tremonton Utah film 1952-Full-Text.png
 description: 'Exploring The Tremonton, Utah UFO Film (1952): A Critical Analysis of the Evidence within the context of UFO - Top 100.'
 ---
 
@@ -27,7 +28,7 @@ Unfortunately, by the time Newhouse had retrieved the camera, loaded it with Kod
 The resulting footage, approximately 1,200 frames of 16mm color film, captured bright objects moving in seemingly random patterns across the sky. During the filming, one object reportedly separated from the group, reversed course, and traveled in the opposite direction. Newhouse specifically filmed this separated object by holding the camera still and allowing it to pass through the field of view several times[^4][^11].
 
 
-![The Tremonton, Utah UFO Film (1952): A Critical Analysis of the Evidence - Full-Text]({{ "/assets/images/UFO - Top 100/Tremonton Utah film 1952-Full-Text.svg" | relative_url }})
+![The Tremonton, Utah UFO Film (1952): A Critical Analysis of the Evidence - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Tremonton Utah film 1952-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/vbLvzgJMsIQ" title="YouTube video player (Fn: 11)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -79,7 +80,7 @@ The existence of a second witness, Norma Newhouse, who first spotted the objects
 The scientific analyses conducted by government agencies represent another important source of information. The Navy Photo Interpretation Laboratory's extensive analysis involved objective measurement techniques and experienced photo analysts. However, their methodology was later criticized by the Robertson Panel, particularly regarding densitometric measurements made from duplicate rather than original film and questions about their assumptions in calculating object movements[^8].
 
 
-![The Tremonton, Utah UFO Film (1952): A Critical Analysis of the Evidence - P1]({{ "/assets/images/UFO - Top 100/Tremonton Utah film 1952-P1.svg" | relative_url }})
+![The Tremonton, Utah UFO Film (1952): A Critical Analysis of the Evidence - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Tremonton Utah film 1952-P1.svg" | relative_url }})
 ## Alternative Explanations and Skeptical Perspectives
 
 The primary conventional explanation for the Tremonton film is that it shows a flock of seagulls. This explanation, favored by the Robertson Panel and eventually adopted by Project Blue Book, is based on several observations:
@@ -131,7 +132,7 @@ What makes the Tremonton case particularly valuable is not necessarily what it p
 Whether one accepts the seagull explanation or believes something more extraordinary was captured that day in 1952, the Tremonton film continues to serve as an important historical document in the ongoing study of unidentified aerial phenomena.
 
 
-![The Tremonton, Utah UFO Film (1952): A Critical Analysis of the Evidence - P2]({{ "/assets/images/UFO - Top 100/Tremonton Utah film 1952-P2.svg" | relative_url }})
+![The Tremonton, Utah UFO Film (1952): A Critical Analysis of the Evidence - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Tremonton Utah film 1952-P2.svg" | relative_url }})
 ## Available Video Resources
 
 The original Tremonton UFO footage shot by Delbert Newhouse can be viewed at: https://www.youtube.com/watch?v=WNNHzB3quAg[^7]

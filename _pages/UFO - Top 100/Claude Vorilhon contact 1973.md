@@ -1,8 +1,9 @@
 ---
 title: 'Claude Vorilhon''s 1973 Alien Encounter: Origins of the Raëlian Movement'
 permalink: /claude-vorilhon-contact-1973/
-date: '2025-05-05 19:56:16 '
-image: /assets/images/UFO - Top 100/Claude Vorilhon contact 1973-Full-Text.svg
+date: '2025-05-10 20:35:24 '
+header:
+  og_image: /assets/images/UFO - Top 100/Claude Vorilhon contact 1973-Full-Text.png
 description: 'Exploring Claude Vorilhon''s 1973 Alien Encounter: Origins of the Raëlian Movement within the context of UFO - Top 100.'
 ---
 
@@ -27,7 +28,7 @@ Upon arriving at the volcanic site, Vorilhon claims to have witnessed a UFO land
 This being identified itself as an "Eloha" (singular of the Hebrew "Elohim")[^3]. According to Vorilhon, the Eloha informed him that they had been monitoring him and had telepathically drawn him to the site with the intention of appointing him as their messenger on Earth[^2]. This first meeting was reportedly brief, after which the craft disappeared[^2].
 
 
-![Claude Vorilhon's 1973 Alien Encounter: Origins of the Raëlian Movement - Full-Text]({{ "/assets/images/UFO - Top 100/Claude Vorilhon contact 1973-Full-Text.svg" | relative_url }})
+![Claude Vorilhon's 1973 Alien Encounter: Origins of the Raëlian Movement - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Claude Vorilhon contact 1973-Full-Text.svg" | relative_url }})
 ### Subsequent Encounters and Messages
 
 Vorilhon claims he was instructed to return to the same location the following day. He reportedly did so for six consecutive days, during which he received information from the alien being[^1][^6]. The Eloha allegedly instructed Vorilhon to bring a Bible and notebook, wear no metal, and tell no one of their meetings[^1].
@@ -72,7 +73,7 @@ Several alternative explanations exist for Vorilhon's claims:
 3. **Cultural influence**: Vorilhon's account emerged during a period of heightened UFO interest in the 1970s. His narrative bears similarities to other contactee stories and science fiction themes popular during that era[^4].
 
 
-![Claude Vorilhon's 1973 Alien Encounter: Origins of the Raëlian Movement - P1]({{ "/assets/images/UFO - Top 100/Claude Vorilhon contact 1973-P1.svg" | relative_url }})
+![Claude Vorilhon's 1973 Alien Encounter: Origins of the Raëlian Movement - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Claude Vorilhon contact 1973-P1.svg" | relative_url }})
 ### Religious and Cultural Context
 
 Religious scholars have noted that Raëlism, despite claiming to be scientific rather than religious, essentially reinterprets traditional religious narratives with an extraterrestrial explanation. Historian Eugene Gallagher and scholar Paul Brian Thomas have described Raëlism as "fundamentally a biblical religion"[^1]. The Raëlian interpretation of biblical events—such as claiming Noah's Ark was a spacecraft, the Tower of Babel was a rocket, and the parting of the Red Sea was accomplished with a "repulsion beam"—suggests a retrofitting of religious narratives rather than a genuine scientific approach[^4].
@@ -138,7 +139,7 @@ The story of Claude Vorilhon's alleged 1973 encounter with the Elohim ultimately
 <div>⁂</div>
 
 
-![Claude Vorilhon's 1973 Alien Encounter: Origins of the Raëlian Movement - P2]({{ "/assets/images/UFO - Top 100/Claude Vorilhon contact 1973-P2.svg" | relative_url }})
+![Claude Vorilhon's 1973 Alien Encounter: Origins of the Raëlian Movement - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Claude Vorilhon contact 1973-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26]</small>
 

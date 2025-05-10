@@ -1,8 +1,9 @@
 ---
 title: 'The Gemini 4 UFO Sighting (1965): A Critical Analysis of Evidence and Impact'
 permalink: /gemini-4-sighting-1965/
-date: '2025-05-05 19:56:17 '
-image: /assets/images/UFO - Top 100/Gemini 4 sighting 1965-Full-Text.svg
+date: '2025-05-10 20:35:26 '
+header:
+  og_image: /assets/images/UFO - Top 100/Gemini 4 sighting 1965-Full-Text.png
 description: 'Exploring The Gemini 4 UFO Sighting (1965): A Critical Analysis of Evidence and Impact within the context of UFO - Top 100.'
 ---
 
@@ -29,7 +30,7 @@ In subsequent descriptions, McDivitt has consistently characterized what he obse
 The sighting lasted only briefly before McDivitt lost visual contact with the object. He attempted to capture images with both a movie camera and a Hasselblad still camera but later indicated that the photographs "did not come out properly"[^2].
 
 
-![The Gemini 4 UFO Sighting (1965): A Critical Analysis of Evidence and Impact - Full-Text]({{ "/assets/images/UFO - Top 100/Gemini 4 sighting 1965-Full-Text.svg" | relative_url }})
+![The Gemini 4 UFO Sighting (1965): A Critical Analysis of Evidence and Impact - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Gemini 4 sighting 1965-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/AJGlGGPj4Hg" title="YouTube video player (Fn: 3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -75,7 +76,7 @@ Space historian and former NASA employee James Oberg has conducted detailed anal
 Oberg writes: "McDivitt maintains that he saw some unidentified but still man-made piece of orbital debris. There is no evidence anybody took the slightest official notice, nor is there any record that the astronaut ever filed a UFO report with Project Blue Book."[^5] This interpretation is consistent with both the physical description provided by McDivitt and his own assessment of the object's likely origin.
 
 
-![The Gemini 4 UFO Sighting (1965): A Critical Analysis of Evidence and Impact - P1]({{ "/assets/images/UFO - Top 100/Gemini 4 sighting 1965-P1.svg" | relative_url }})
+![The Gemini 4 UFO Sighting (1965): A Critical Analysis of Evidence and Impact - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Gemini 4 sighting 1965-P1.svg" | relative_url }})
 ### Alternative Explanations
 
 If not specifically the Titan II booster, several alternative explanations remain consistent with both the observational data and the space environment of 1965:
@@ -125,7 +126,7 @@ Several research approaches could help resolve remaining questions about this ca
 5. **Tracking Data Analysis**: The contemporaneous tracking data that McDivitt referenced ("all of our ground radar tracking data indicated that there shouldn't have been another object anywhere near us at the time") could be reexamined to determine if any anomalies might have been overlooked.
 
 
-![The Gemini 4 UFO Sighting (1965): A Critical Analysis of Evidence and Impact - P2]({{ "/assets/images/UFO - Top 100/Gemini 4 sighting 1965-P2.svg" | relative_url }})
+![The Gemini 4 UFO Sighting (1965): A Critical Analysis of Evidence and Impact - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Gemini 4 sighting 1965-P2.svg" | relative_url }})
 ## Conclusion
 
 The Gemini 4 UFO sighting represents a case where a credible witness—an astronaut—reported an observation that he himself believed had a conventional explanation, yet which became transformed in public discourse into potential evidence for extraordinary phenomena.

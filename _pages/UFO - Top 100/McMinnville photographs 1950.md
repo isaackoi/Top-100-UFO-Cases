@@ -1,8 +1,9 @@
 ---
 title: 'The McMinnville UFO Photographs: A Critical Analysis of the 1950 Trent UFO Case'
 permalink: /mcminnville-photographs-1950/
-date: '2025-05-05 19:56:19 '
-image: /assets/images/UFO - Top 100/McMinnville photographs 1950-Full-Text.svg
+date: '2025-05-10 20:35:30 '
+header:
+  og_image: /assets/images/UFO - Top 100/McMinnville photographs 1950-Full-Text.png
 description: 'Exploring The McMinnville UFO Photographs: A Critical Analysis of the 1950 Trent UFO Case within the context of UFO - Top 100.'
 ---
 
@@ -38,7 +39,7 @@ The chain of custody for the original negatives presents a complicated and probl
 
 
 
-![The McMinnville UFO Photographs: A Critical Analysis of the 1950 Trent UFO Case - Full-Text]({{ "/assets/images/UFO - Top 100/McMinnville photographs 1950-Full-Text.svg" | relative_url }})
+![The McMinnville UFO Photographs: A Critical Analysis of the 1950 Trent UFO Case - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/McMinnville photographs 1950-Full-Text.svg" | relative_url }})
 ## Scientific Analysis and Credibility Assessment
 
 ### The Condon Committee Investigation
@@ -74,7 +75,7 @@ IPACO claimed they detected the presence of a thread above the object and conclu
 They proposed a specific physical explanation for the object's appearance: "the object was hollow underneath, like a dustbin lid or a lampshade. It could be light, hence bouncing about in a light breeze, like a light metal lampshade or glass fiber or plastic lid or cover"[^11].
 
 
-![The McMinnville UFO Photographs: A Critical Analysis of the 1950 Trent UFO Case - P1]({{ "/assets/images/UFO - Top 100/McMinnville photographs 1950-P1.svg" | relative_url }})
+![The McMinnville UFO Photographs: A Critical Analysis of the 1950 Trent UFO Case - P1 (SVG)]({{ "/assets/images/UFO - Top 100/McMinnville photographs 1950-P1.svg" | relative_url }})
 ### Weather Conditions Dispute
 
 Weather conditions on the evening of May 11, 1950, became another point of contention. According to Maccabee, the sky at 7:30 PM was reported as "overcast at 5000 feet," which Hartmann indicated was confirmed by the photos. However, Klass obtained the McMinnville airport weather report and found a symbol which he interpreted as meaning "perfectly clear"[^12]. This discrepancy has been used to question the consistency of the Trents' account regarding the time and conditions of the sighting.
@@ -151,7 +152,7 @@ Whether one accepts the photographs as genuine evidence of an extraordinary aeri
 <div>⁂</div>
 
 
-![The McMinnville UFO Photographs: A Critical Analysis of the 1950 Trent UFO Case - P2]({{ "/assets/images/UFO - Top 100/McMinnville photographs 1950-P2.svg" | relative_url }})
+![The McMinnville UFO Photographs: A Critical Analysis of the 1950 Trent UFO Case - P2 (SVG)]({{ "/assets/images/UFO - Top 100/McMinnville photographs 1950-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33]</small>
 

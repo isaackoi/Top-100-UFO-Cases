@@ -1,110 +1,92 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="792" height="684" viewBox="0 0 792 684" style="fill:none;stroke:none;fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="456" viewBox="0 0 768 456" style="fill:none;stroke:none;fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" version="1.1">
   <style class="text-font-style fontImports" data-font-family="Roboto">@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=block');</style>
-  <rect x="0" y="0" width="792" height="684" fill="#252a34" stroke="none" id="programmatic_background"/>
-  <g id="g-root-tf_1hjflqi1bsfv9i-stroke-fill" data-item-order="-502740" transform="translate(18, 12)"/>
-  <g id="g-root-sy_-1_Vector_142zaoa1bsfwng-stroke-fill" data-item-order="-22843" transform="translate(379.99609375, 149)">
-    <g id="sy_-1_Vector_142zaoa1bsfwng-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="2">
+  <rect x="0" y="0" width="768" height="456" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <g id="g-root-tf_v97sui1bsinm1-stroke-fill" data-item-order="-321408" transform="translate(12, 12)"/>
+  <g id="g-root-cp_-1_lines_8zmdvu1bs4nbg-stroke-fill" data-item-order="-233847" transform="translate(374, 158)">
+    <g id="cp_-1_lines_8zmdvu1bs4nbg-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="2">
       <g>
-        <path d="M 10 388L 10 298M 10 292L 10 202M 10 196L 10 106M 10 100L 10 10"/>
+        <path d="M 10 10L 10 34M 10 58L 10 82M 10 106L 10 130M 10 154L 10 178"/>
       </g>
     </g>
   </g>
-  <g id="g-root-sy_-1_cu_zn5sju1bsfxfp-stroke-fill" data-item-order="-22839" transform="translate(379.99609375, 533)">
-    <g id="sy_-1_cu_zn5sju1bsfxfp-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="2">
+  <g id="g-root-cp_1_g-1_4jsvre1bs4o3q-stroke-fill" data-item-order="-233844" transform="translate(362, 134)">
+    <g id="cp_1_g-1_4jsvre1bs4o3q-fill" stroke="none" fill="none">
       <g>
-        <path d="M 10.003906 94L 10.003906 10"/>
-        <path d="M 3.503906 88L 10.003906 94.5L 16.503906 88" stroke-dasharray="none"/>
+        <path d="M 16 22C 16 25.313709 18.686292 28 22 28C 25.313709 28 28 25.313709 28 22C 28 18.686292 25.313709 16 22 16C 18.686292 16 16 18.686292 16 22"/>
+      </g>
+    </g>
+    <g id="cp_1_g-1_4jsvre1bs4o3q-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
+      <g>
+        <path d="M 16 22C 16 25.313709 18.686292 28 22 28C 25.313709 28 28 25.313709 28 22C 28 18.686292 25.313709 16 22 16C 18.686292 16 16 18.686292 16 22"/>
+      </g>
+    </g>
+    <g id="cp_1_g-1_4jsvre1bs4o3q-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
+      <g>
+        <path d="M 10 22C 10 28.627417 15.372583 34 22 34C 28.627417 34 34 28.627417 34 22C 34 15.372583 28.627417 10 22 10C 15.372583 10 10 15.372583 10 22M 34 22L 70 22"/>
       </g>
     </g>
   </g>
-  <g id="g-root-sy_5_cu_qs59e21bsfv2m-stroke-fill" data-item-order="-22836" transform="translate(356, 527)">
-    <g id="sy_5_cu_qs59e21bsfv2m-fill" stroke="none" fill="none">
+  <g id="g-root-cp_2_g-2_3zdmy1bs4ow0-stroke-fill" data-item-order="-233836" transform="translate(326, 182)">
+    <g id="cp_2_g-2_3zdmy1bs4ow0-fill" stroke="none" fill="none">
       <g>
-        <path d="M 34 10L 34 10C 34 10 37 10 37 13L 37 13C 37 13 37 16 34 16L 34 16C 34 16 31 16 31 13L 31 13C 31 13 31 10 34 10"/>
+        <path d="M 52 22C 52 25.3137 54.6863 28 58 28C 61.3137 28 64 25.3137 64 22C 64 18.6863 61.3137 16 58 16C 54.6863 16 52 18.6863 52 22Z"/>
       </g>
     </g>
-    <g id="sy_5_cu_qs59e21bsfv2m-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
+    <g id="cp_2_g-2_3zdmy1bs4ow0-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#fb6762" stroke-width="2">
       <g>
-        <path d="M 34 10L 34 10C 34 10 37 10 37 13L 37 13C 37 13 37 16 34 16L 34 16C 34 16 31 16 31 13L 31 13C 31 13 31 10 34 10"/>
-      </g>
-    </g>
-    <g id="sy_5_cu_qs59e21bsfv2m-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
-      <g>
-        <path d="M 31 13L 10 13"/>
+        <path d="M 52 22C 52 25.3137 54.6863 28 58 28C 61.3137 28 64 25.3137 64 22C 64 18.6863 61.3137 16 58 16C 54.6863 16 52 18.6863 52 22ZM 46 22C 46 28.6274 51.3726 34 58 34C 64.6274 34 70 28.6274 70 22C 70 15.3726 64.6274 10 58 10C 51.3726 10 46 15.3726 46 22ZM 46 22L 10 22"/>
       </g>
     </g>
   </g>
-  <g id="g-root-sy_4_cu_mcbr9m1bsfvuv-stroke-fill" data-item-order="-22832" transform="translate(377, 431)">
-    <g id="sy_4_cu_mcbr9m1bsfvuv-fill" stroke="none" fill="none">
+  <g id="g-root-cp_3_g-3_1lu9ebu1bs4n42-stroke-fill" data-item-order="-233828" transform="translate(362, 230)">
+    <g id="cp_3_g-3_1lu9ebu1bs4n42-fill" stroke="none" fill="none">
       <g>
-        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
+        <path d="M 16 22C 16 25.313709 18.686292 28 22 28C 25.313709 28 28 25.313709 28 22C 28 18.686292 25.313709 16 22 16C 18.686292 16 16 18.686292 16 22"/>
       </g>
     </g>
-    <g id="sy_4_cu_mcbr9m1bsfvuv-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#8769fd" stroke-width="2">
+    <g id="cp_3_g-3_1lu9ebu1bs4n42-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f366bb" stroke-width="2">
       <g>
-        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
+        <path d="M 16 22C 16 25.313709 18.686292 28 22 28C 25.313709 28 28 25.313709 28 22C 28 18.686292 25.313709 16 22 16C 18.686292 16 16 18.686292 16 22"/>
       </g>
     </g>
-    <g id="sy_4_cu_mcbr9m1bsfvuv-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#8769fd" stroke-width="2">
+    <g id="cp_3_g-3_1lu9ebu1bs4n42-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f366bb" stroke-width="2">
       <g>
-        <path d="M 37 13L 16 13"/>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-sy_3_cu_hwi9561bsfwn4-stroke-fill" data-item-order="-22828" transform="translate(356, 335)">
-    <g id="sy_3_cu_hwi9561bsfwn4-fill" stroke="none" fill="none">
-      <g>
-        <path d="M 34 10L 34 10C 34 10 37 10 37 13L 37 13C 37 13 37 16 34 16L 34 16C 34 16 31 16 31 13L 31 13C 31 13 31 10 34 10"/>
-      </g>
-    </g>
-    <g id="sy_3_cu_hwi9561bsfwn4-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f366bb" stroke-width="2">
-      <g>
-        <path d="M 34 10L 34 10C 34 10 37 10 37 13L 37 13C 37 13 37 16 34 16L 34 16C 34 16 31 16 31 13L 31 13C 31 13 31 10 34 10"/>
-      </g>
-    </g>
-    <g id="sy_3_cu_hwi9561bsfwn4-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f366bb" stroke-width="2">
-      <g>
-        <path d="M 31 13L 10 13"/>
+        <path d="M 10 22C 10 28.627417 15.372583 34 22 34C 28.627417 34 34 28.627417 34 22C 34 15.372583 28.627417 10 22 10C 15.372583 10 10 15.372583 10 22M 34 22L 70 22"/>
       </g>
     </g>
   </g>
-  <g id="g-root-sy_2_cu_4lo7uy1bsfv29-stroke-fill" data-item-order="-22824" transform="translate(377, 239)">
-    <g id="sy_2_cu_4lo7uy1bsfv29-fill" stroke="none" fill="none">
+  <g id="g-root-cp_4_g-4_18isvyi1bs4op0-stroke-fill" data-item-order="-233820" transform="translate(326, 278)">
+    <g id="cp_4_g-4_18isvyi1bs4op0-fill" stroke="none" fill="none">
       <g>
-        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
+        <path d="M 52 22C 52 25.3137 54.6863 28 58 28C 61.3137 28 64 25.3137 64 22C 64 18.6863 61.3137 16 58 16C 54.6863 16 52 18.6863 52 22Z"/>
       </g>
     </g>
-    <g id="sy_2_cu_4lo7uy1bsfv29-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#fb6762" stroke-width="2">
+    <g id="cp_4_g-4_18isvyi1bs4op0-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#8769fd" stroke-width="2">
       <g>
-        <path d="M 13 10L 13 10C 13 10 16 10 16 13L 16 13C 16 13 16 16 13 16L 13 16C 13 16 10 16 10 13L 10 13C 10 13 10 10 13 10"/>
-      </g>
-    </g>
-    <g id="sy_2_cu_4lo7uy1bsfv29-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#fb6762" stroke-width="2">
-      <g>
-        <path d="M 37 13L 16 13"/>
+        <path d="M 52 22C 52 25.3137 54.6863 28 58 28C 61.3137 28 64 25.3137 64 22C 64 18.6863 61.3137 16 58 16C 54.6863 16 52 18.6863 52 22ZM 46 22C 46 28.6274 51.3726 34 58 34C 64.6274 34 70 28.6274 70 22C 70 15.3726 64.6274 10 58 10C 51.3726 10 46 15.3726 46 22ZM 46 22L 10 22"/>
       </g>
     </g>
   </g>
-  <g id="g-root-sy_1_cu_1qbbrgq1bsfwg2-stroke-fill" data-item-order="-22820" transform="translate(356, 143)">
-    <g id="sy_1_cu_1qbbrgq1bsfwg2-fill" stroke="none" fill="none">
+  <g id="g-root-cp_5_g-5_v7yuoa1bs4n46-stroke-fill" data-item-order="-233812" transform="translate(362, 326)">
+    <g id="cp_5_g-5_v7yuoa1bs4n46-fill" stroke="none" fill="none">
       <g>
-        <path d="M 34 10L 34 10C 34 10 37 10 37 13L 37 13C 37 13 37 16 34 16L 34 16C 34 16 31 16 31 13L 31 13C 31 13 31 10 34 10"/>
+        <path d="M 16 22C 16 25.313709 18.686292 28 22 28C 25.313709 28 28 25.313709 28 22C 28 18.686292 25.313709 16 22 16C 18.686292 16 16 18.686292 16 22"/>
       </g>
     </g>
-    <g id="sy_1_cu_1qbbrgq1bsfwg2-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
+    <g id="cp_5_g-5_v7yuoa1bs4n46-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
       <g>
-        <path d="M 34 10L 34 10C 34 10 37 10 37 13L 37 13C 37 13 37 16 34 16L 34 16C 34 16 31 16 31 13L 31 13C 31 13 31 10 34 10"/>
+        <path d="M 16 22C 16 25.313709 18.686292 28 22 28C 25.313709 28 28 25.313709 28 22C 28 18.686292 25.313709 16 22 16C 18.686292 16 16 18.686292 16 22"/>
       </g>
     </g>
-    <g id="sy_1_cu_1qbbrgq1bsfwg2-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
+    <g id="cp_5_g-5_v7yuoa1bs4n46-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
       <g>
-        <path d="M 31 13L 10 13"/>
+        <path d="M 10 22C 10 28.627417 15.372583 34 22 34C 28.627417 34 34 28.627417 34 22C 34 15.372583 28.627417 10 22 10C 15.372583 10 10 15.372583 10 22M 34 22L 70 22"/>
       </g>
     </g>
   </g>
-  <g id="g-root-tx_orfeoang_1hfor7u1bsfx8r-stroke-fill" data-item-order="0" transform="translate(98, 50)">
-    <g id="tx_orfeoang_1hfor7u1bsfx8r-fill" stroke="none" fill="#f4f4f4">
+  <g id="g-root-tx_orfeoang_hwicay1bs4op4-stroke-fill" data-item-order="0" transform="translate(92, 50)">
+    <g id="tx_orfeoang_hwicay1bs4op4-fill" stroke="none" fill="#f4f4f4">
       <g>
         <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
           <tspan x="16.5" y="34" dominant-baseline="ideographic">Orfeo Angelucci's Journey Through Extraterrestrial Encounters</tspan>
@@ -112,97 +94,125 @@
       </g>
     </g>
   </g>
-  <g id="g-root-tx_publicat_144upxm1bsfvnw-stroke-fill" data-item-order="0" transform="translate(32, 554)">
-    <g id="tx_publicat_144upxm1bsfvnw-fill" stroke="none" fill="#f4f4f4">
-      <g>
-        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="21.84" y="34" dominant-baseline="ideographic">Publication of "The Secret of the </tspan>
-          <tspan x="236.05" y="58" dominant-baseline="ideographic">Saucers</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_facetofa_qte7ka1bsfx8t-stroke-fill" data-item-order="0" transform="translate(428, 458)">
-    <g id="tx_facetofa_qte7ka1bsfx8t-fill" stroke="none" fill="#f4f4f4">
-      <g>
-        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="34" dominant-baseline="ideographic">Face-to-Face Meeting with Space </tspan>
-          <tspan x="12" y="58" dominant-baseline="ideographic">People</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_seconden_dik6a21bsfvny-stroke-fill" data-item-order="0" transform="translate(128, 362)">
-    <g id="tx_seconden_dik6a21bsfvny-fill" stroke="none" fill="#f4f4f4">
-      <g>
-        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="11.91" y="34" dominant-baseline="ideographic">Second Encounter and </tspan>
-          <tspan x="13.25" y="58" dominant-baseline="ideographic">Spacecraft Experience</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_firstenc_92qo5m1bsfwg7-stroke-fill" data-item-order="0" transform="translate(428, 266)">
-    <g id="tx_firstenc_92qo5m1bsfwg7-fill" stroke="none" fill="#f4f4f4">
-      <g>
-        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="34" dominant-baseline="ideographic">First Encounter with </tspan>
-          <tspan x="12" y="58" dominant-baseline="ideographic">Extraterrestrials</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_angelucc_4mx6161bsfx8g-stroke-fill" data-item-order="0" transform="translate(68, 170)">
-    <g id="tx_angelucc_4mx6161bsfx8g-fill" stroke="none" fill="#f4f4f4">
-      <g>
-        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="20.63" y="34" dominant-baseline="ideographic">Angelucci's Weather Balloon </tspan>
-          <tspan x="171.5" y="58" dominant-baseline="ideographic">Experiment</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_1955_1qd76q21bsfvgh-stroke-fill" data-item-order="0" transform="translate(272, 518)">
-    <g id="tx_1955_1qd76q21bsfvgh-fill" stroke="none" fill="#43dd93">
+  <g id="g-root-tx_1946_5uswa1bs4nwh-stroke-fill" data-item-order="0" transform="translate(494, 122)">
+    <g id="tx_1946_5uswa1bs4nwh-fill" stroke="none" fill="#4f91fc">
       <g>
         <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="22.09" y="34" dominant-baseline="ideographic">1955</tspan>
+          <tspan x="12" y="34" dominant-baseline="ideographic">1946</tspan>
         </text>
       </g>
     </g>
   </g>
-  <g id="g-root-tx_august31_1d1qocq1bsfx1e-stroke-fill" data-item-order="0" transform="translate(428, 422)">
-    <g id="tx_august31_1d1qocq1bsfx1e-fill" stroke="none" fill="#8769fd">
+  <g id="g-root-tx_angelucc_1lw4tl61bs4m4i-stroke-fill" data-item-order="0" transform="translate(494, 158)">
+    <g id="tx_angelucc_1lw4tl61bs4m4i-fill" stroke="none" fill="#f4f4f4">
       <g>
-        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="34" dominant-baseline="ideographic">August 3, 1952</tspan>
+        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
+          <tspan x="12" y="28" dominant-baseline="ideographic">Angelucci's Weather Balloon </tspan>
+          <tspan x="12" y="46" dominant-baseline="ideographic">Experiment</tspan>
         </text>
       </g>
     </g>
   </g>
-  <g id="g-root-tx_july2319_zqwn2i1bsfvgj-stroke-fill" data-item-order="0" transform="translate(200, 326)">
-    <g id="tx_july2319_zqwn2i1bsfvgj-fill" stroke="none" fill="#f366bb">
+  <g id="g-root-ic_tree_1d0htca1bs4mx7-stroke-fill" data-item-order="0" transform="translate(434, 122)">
+    <g id="ic_tree_1d0htca1bs4mx7-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#4f91fc" stroke-width="2">
+      <g>
+        <path d="M 41.720001 49C 42.02779 49.000084 42.318394 49.141903 42.507843 49.38448C 42.697296 49.627056 42.764484 49.943359 42.689999 50.242001L 42.514 50.939999C 41.623878 54.501038 38.424599 56.999443 34.753998 57L 28.246 57C 24.575401 56.999443 21.376122 54.501038 20.486 50.939999L 20.310001 50.242001C 20.235516 49.943359 20.302704 49.627056 20.492157 49.38448C 20.681606 49.141903 20.97221 49.000084 21.279999 49ZM 57 26C 56.96265 22.649437 54.216572 19.963346 50.865997 20C 49.666992 19.999687 48.493614 20.347046 47.487999 21C 46.54134 17.729162 43.53904 15.483764 40.134003 15.5C 38.806366 15.5063 37.502892 15.855594 36.349998 16.514C 34.82843 13.066254 31.366613 10.886992 27.599911 11.005691C 23.833208 11.124389 20.515476 13.517292 19.214001 17.054001C 19.029999 17.042 18.854 17 18.666 17C 14.478147 16.954464 11.04614 20.312153 11 24.5C 11.027463 27.01296 13.087044 29.027767 15.6 29L 53.933998 29C 55.608894 29.017771 56.981323 27.674887 57 26ZM 31 49L 32.538002 43.616001L 42.813999 39.762001C 44.096863 39.28009 44.917461 38.020134 44.839542 36.651962C 44.761623 35.283783 43.80328 34.125141 42.473999 33.792L 38.599998 32.823997C 36.846024 32.384567 35.615913 30.808182 35.615997 28.999998M 32.538002 43.616001L 25.24 40M 17.812 40L 25.24 40C 26.192822 38.571991 26.249292 36.726036 25.385544 35.242455C 24.521793 33.758873 22.888603 32.896648 21.176355 33.02026C 19.464108 33.143867 17.971699 34.231735 17.33 35.823997C 16.86426 35.302513 16.199181 35.003044 15.5 35C 14.119288 35 13 36.119289 13 37.5C 13 38.880714 14.119288 40 15.5 40Z"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_may23241_detex61bs7h8t-stroke-fill" data-item-order="0" transform="translate(98, 170)">
+    <g id="tx_may23241_detex61bs7h8t-fill" stroke="none" fill="#fb6762">
       <g>
         <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="18.55" y="34" dominant-baseline="ideographic">July 23, 1952</tspan>
+          <tspan x="11.78" y="34" dominant-baseline="ideographic">May 23/24, 1952</tspan>
         </text>
       </g>
     </g>
   </g>
-  <g id="g-root-tx_may23241_qv9mtm1bsfw98-stroke-fill" data-item-order="0" transform="translate(428, 230)">
-    <g id="tx_may23241_qv9mtm1bsfw98-fill" stroke="none" fill="#fb6762">
+  <g id="g-root-tx_firstenc_3zdmy1bs7fny-stroke-fill" data-item-order="0" transform="translate(110, 206)">
+    <g id="tx_firstenc_3zdmy1bs7fny-fill" stroke="none" fill="#f4f4f4">
       <g>
-        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12" y="34" dominant-baseline="ideographic">May 23/24, 1952</tspan>
+        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
+          <tspan x="19.08" y="28" dominant-baseline="ideographic">First Encounter with </tspan>
+          <tspan x="46.41" y="46" dominant-baseline="ideographic">Extraterrestrials</tspan>
         </text>
       </g>
     </g>
   </g>
-  <g id="g-root-tx_1946_dkflje1bsfuod-stroke-fill" data-item-order="0" transform="translate(272, 134)">
-    <g id="tx_1946_dkflje1bsfuod-fill" stroke="none" fill="#4f91fc">
+  <g id="g-root-ic_ufo_1ltmx8q1bs7h1r-stroke-fill" data-item-order="0" transform="translate(266, 170)">
+    <g id="ic_ufo_1ltmx8q1bs7h1r-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#fb6762" stroke-width="2">
+      <g>
+        <path d="M 49 22.5C 52.977859 22.499041 56.352161 25.420879 56.919998 29.358C 56.961449 29.646814 56.874687 29.939325 56.682472 30.158836C 56.490257 30.378345 56.211758 30.502958 55.919998 30.5L 12.07 30.5C 11.778242 30.502958 11.499743 30.378345 11.307528 30.158836C 11.115312 29.939325 11.028553 29.646814 11.07 29.358C 11.638377 25.417118 15.018346 22.494064 19 22.5ZM 19 22.5C 19 17.5 25.716 11.5 34 11.5C 42.284 11.5 49 17.5 49 22.5M 47.77 39.5L 52.995998 56.5M 14.996 56.5L 20.232 39.5M 34.996002 49.5L 31.996 53.652M 37.996002 53.5L 34.996002 49.5M 31.996 46.5L 37.996002 46.5M 35 41.5C 35.552284 41.5 36 41.947716 36 42.5M 34 42.5C 34 41.947716 34.447716 41.5 35 41.5M 35 43.5C 34.447716 43.5 34 43.052284 34 42.5M 36 42.5C 36 43.052284 35.552284 43.5 35 43.5M 34.996002 49.5L 34.996002 46.5M 25 30.5C 25 33.261421 22.761425 35.5 20 35.5C 17.238577 35.5 15 33.261421 15 30.5M 39 30.5C 39 33.261421 36.761425 35.5 34 35.5C 31.238577 35.5 29 33.261421 29 30.5M 53 30.5C 53 33.261421 50.761425 35.5 48 35.5C 45.238575 35.5 43 33.261421 43 30.5"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_july2319_1d14afe1bs8weg-stroke-fill" data-item-order="0" transform="translate(494, 218)">
+    <g id="tx_july2319_1d14afe1bs8weg-fill" stroke="none" fill="#f366bb">
       <g>
         <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="22.09" y="34" dominant-baseline="ideographic">1946</tspan>
+          <tspan x="12" y="34" dominant-baseline="ideographic">July 23, 1952</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_seconden_vagr0q1bs8vlt-stroke-fill" data-item-order="0" transform="translate(494, 254)">
+    <g id="tx_seconden_vagr0q1bs8vlt-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
+          <tspan x="12" y="28" dominant-baseline="ideographic">Second Encounter and </tspan>
+          <tspan x="12" y="46" dominant-baseline="ideographic">Spacecraft Experience</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-ic_laun_metqru1bs8wei-stroke-fill" data-item-order="0" transform="translate(434, 218)">
+    <g id="ic_laun_metqru1bs8wei-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f366bb" stroke-width="2">
+      <g>
+        <path d="M 20 18.220001L 12 11.02L 12 57L 20 57L 20 18.220001ZM 20 27.02L 28 27.02M 42 46.98C 42 46.98 40 22.98 40 20.98C 40 18 45 10.98 45 10.98C 45 10.98 50 18 50 20.98C 50 24.98 48 46.98 48 46.98ZM 48.98 35.720001L 50 37C 51.814148 39.224384 53.484222 41.562485 54.999996 43.999996C 55.645126 45.588852 55.984402 47.285244 56 49L 56 52.639999C 56.002373 53.043709 55.761761 53.409245 55.390011 53.566692C 55.018261 53.724136 54.588303 53.642609 54.299999 53.360001L 48 46.98M 41.080002 35.68L 40 37C 38.153229 39.218033 36.456142 41.556538 34.919998 44C 34.299915 45.593498 33.987732 47.290154 34 49.000004L 34 52.619999C 34.002014 53.023701 34.246574 53.386597 34.620003 53.540001C 34.991035 53.695236 35.419254 53.608006 35.700001 53.32L 42 46.98M 47 52C 46.532837 53.739704 45.861504 55.418034 45 57C 44.138496 55.418034 43.467167 53.739704 43 52C 43 50.895432 43.895432 50 45 50C 46.104568 50 47 50.895432 47 52ZM 20 21.220001L 12 29.219999L 20 36.720001L 12 44.220001L 20 52.220001M 33 32.220001C 30.238577 32.220001 28 29.981424 28 27.219999C 28 24.458576 30.238577 22.220001 33 22.220001"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_august31_8ydfpm1bsbpcb-stroke-fill" data-item-order="0" transform="translate(110, 266)">
+    <g id="tx_august31_8ydfpm1bsbpcb-fill" stroke="none" fill="#8769fd">
+      <g>
+        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="15.56" y="34" dominant-baseline="ideographic">August 3, 1952</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_facetofa_4j6eoa1bsbmys-stroke-fill" data-item-order="0" transform="translate(26, 302)">
+    <g id="tx_facetofa_4j6eoa1bsbmys-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
+          <tspan x="15.56" y="28" dominant-baseline="ideographic">Face-to-Face Meeting with Space </tspan>
+          <tspan x="190.09" y="46" dominant-baseline="ideographic">People</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-ic_spac_1q8tya21bsbocl-stroke-fill" data-item-order="0" transform="translate(266, 266)">
+    <g id="ic_spac_1q8tya21bsbocl-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#8769fd" stroke-width="2">
+      <g>
+        <path d="M 55 38.778C 55.277088 35.387177 53.624859 32.128418 50.725849 30.347918C 47.826839 28.567417 44.173161 28.567417 41.274147 30.347918C 38.375137 32.128418 36.722908 35.387177 37 38.778L 37 57L 55 57ZM 39.006001 18C 39.006004 21.865993 42.140007 25 46.006001 25C 49.871994 25 53.006001 21.865993 53.006001 18C 53.006001 14.134007 49.871994 11 46.006001 11C 42.140007 11 39.006004 14.134007 39.006004 18ZM 25.006001 18C 25.006001 20.761425 27.244577 23 30.006001 23C 32.767426 23 35.006001 20.761425 35.006001 18C 35.006001 15.238577 32.767426 13 30.006001 13C 27.244577 13 25.006001 15.238577 25.006001 18ZM 15.006001 18C 15.006001 19.656855 16.349146 21 18.006001 21C 19.662853 21 21.006001 19.656855 21.006001 18C 21.006001 16.343145 19.662853 15 18.006001 15C 16.349146 15 15.006001 16.343145 15.006001 18ZM 23 34C 23 30.134008 26.134008 27.000002 30 27.000002C 33.865993 27.000002 37 30.134008 37 34L 37 49L 23 49ZM 13 30C 13 27.238577 15.238577 25 18 25C 20.761425 25 23 27.238577 23 30L 23 39L 13 39Z"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_1955_1cvi0ne1bsehou-stroke-fill" data-item-order="0" transform="translate(494, 314)">
+    <g id="tx_1955_1cvi0ne1bsehou-fill" stroke="none" fill="#43dd93">
+      <g>
+        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="12" y="34" dominant-baseline="ideographic">1955</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_publicat_zknzd61bseg3z-stroke-fill" data-item-order="0" transform="translate(494, 350)">
+    <g id="tx_publicat_zknzd61bseg3z-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
+          <tspan x="12" y="28" dominant-baseline="ideographic">Publication of "The Secret of the </tspan>
+          <tspan x="12" y="46" dominant-baseline="ideographic">Saucers</tspan>
         </text>
       </g>
     </g>
@@ -215,21 +225,28 @@
           <path d="M -12.5 12.5 l 13 -13 l 6 0 l -13 13 Z M -0.5 12.5 l 13 -13 l 6 0 l -13 13 Z M 11.5 12.5 l 13 -13 l 6 0 l -13 13 Z"/>
         </g>
       </symbol>
-      <pattern id="crawlingPattern-00b15c75" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#00b15c75">
-        <use href="#crawlingSymbol"/>
-      </pattern>
-      <pattern id="crawlingPattern-3300fc7a" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#3300fc7a">
-        <use href="#crawlingSymbol"/>
-      </pattern>
-      <pattern id="crawlingPattern-eb008e76" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#eb008e76">
+      <pattern id="crawlingPattern-0060fba2" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#0060fba2">
         <use href="#crawlingSymbol"/>
       </pattern>
       <pattern id="crawlingPattern-f9080081" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#f9080081">
         <use href="#crawlingSymbol"/>
       </pattern>
-      <pattern id="crawlingPattern-0060fba2" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#0060fba2">
+      <pattern id="crawlingPattern-eb008e76" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#eb008e76">
+        <use href="#crawlingSymbol"/>
+      </pattern>
+      <pattern id="crawlingPattern-3300fc7a" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#3300fc7a">
+        <use href="#crawlingSymbol"/>
+      </pattern>
+      <pattern id="crawlingPattern-00b15c75" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#00b15c75">
         <use href="#crawlingSymbol"/>
       </pattern>
     </defs>
+  </g>
+  <g id="g-root-ic_circ_qp0z4a1bsehog-stroke-fill" data-item-order="0" transform="translate(434, 314)">
+    <g id="ic_circ_qp0z4a1bsehog-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#43dd93" stroke-width="2">
+      <g>
+        <path d="M 11 34C 11 46.702549 21.297451 57 34 57C 46.702549 57 57 46.702549 57 34C 57 21.297451 46.702549 11 34 11C 21.297451 11 11 21.297451 11 34M 30.139999 30C 32.860001 32.779999 38.139999 32 41.5 30C 44.860001 28 47.740002 24.360001 46.139999 21.58C 44.98 19.58 40.700001 15.58 31.52 20.639999C 22.34 25.700001 19.200001 30.9 21.860001 33.879997C 24.52 36.860001 33.080002 40.52 30 45.400002C 26.92 50.279999 24.439999 50.119999 23.360001 49.400002C 22.279999 48.68 21.220001 45.619999 25.82 42.779999C 30.42 39.940002 34.82 39.419998 37.18 40.779999C 39.540001 42.139999 40.279999 45.34 37.879997 46.779999"/>
+      </g>
+    </g>
   </g>
 </svg>

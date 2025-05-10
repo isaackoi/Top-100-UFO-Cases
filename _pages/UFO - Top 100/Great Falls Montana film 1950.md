@@ -1,8 +1,9 @@
 ---
 title: 'The Great Falls, Montana UFO Film (1950): A Critical Analysis and Historical Investigation'
 permalink: /great-falls-montana-film-1950/
-date: '2025-05-05 19:56:17 '
-image: /assets/images/UFO - Top 100/Great Falls Montana film 1950-Full-Text.svg
+date: '2025-05-10 20:35:27 '
+header:
+  og_image: /assets/images/UFO - Top 100/Great Falls Montana film 1950-Full-Text.png
 description: 'Exploring The Great Falls, Montana UFO Film (1950): A Critical Analysis and Historical Investigation within the context of UFO - Top 100.'
 ---
 
@@ -31,7 +32,7 @@ The Air Force's involvement marked the beginning of a contentious chapter in the
 While the Air Force acknowledged that a single frame was damaged during transportation, they insisted they returned the film as they had received it[^6]. This dispute over potential evidence tampering would become a significant point of controversy in the case and fodder for conspiracy theories in later years[^14].
 
 
-![The Great Falls, Montana UFO Film (1950): A Critical Analysis and Historical Investigation - Full-Text]({{ "/assets/images/UFO - Top 100/Great Falls Montana film 1950-Full-Text.svg" | relative_url }})
+![The Great Falls, Montana UFO Film (1950): A Critical Analysis and Historical Investigation - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Great Falls Montana film 1950-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/DJ2vKHj8rVM" title="YouTube video player (Fn: 14)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -95,7 +96,7 @@ The primary conventional explanation offered by the Air Force was that Mariana h
 3. The objects appear to be rotating, which would be inconsistent with aircraft[^1][^3].
 
 
-![The Great Falls, Montana UFO Film (1950): A Critical Analysis and Historical Investigation - P1]({{ "/assets/images/UFO - Top 100/Great Falls Montana film 1950-P1.svg" | relative_url }})
+![The Great Falls, Montana UFO Film (1950): A Critical Analysis and Historical Investigation - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Great Falls Montana film 1950-P1.svg" | relative_url }})
 ### Contextual Factors
 
 The sighting occurred during the early years of the "flying saucer" craze in America. The late 1940s and early 1950s witnessed numerous UFO reports following Kenneth Arnold's famous 1947 sighting[^7]. This cultural context has led some to suggest that witnesses might have been primed to interpret unusual aerial phenomena as spacecraft.
@@ -165,7 +166,7 @@ Further historical research could better establish the context of the sighting:
 
 
 
-![The Great Falls, Montana UFO Film (1950): A Critical Analysis and Historical Investigation - P2]({{ "/assets/images/UFO - Top 100/Great Falls Montana film 1950-P2.svg" | relative_url }})
+![The Great Falls, Montana UFO Film (1950): A Critical Analysis and Historical Investigation - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Great Falls Montana film 1950-P2.svg" | relative_url }})
 ## Conclusion
 
 The Great Falls, Montana UFO film of 1950 represents a fascinating case study in UFO evidence. After more than 70 years of scrutiny, it continues to resist definitive explanation. While skeptical interpretations offer plausible conventional explanations, multiple technical analyses have concluded that the objects in the film exhibit characteristics inconsistent with aircraft, balloons, or other known phenomena of the era.

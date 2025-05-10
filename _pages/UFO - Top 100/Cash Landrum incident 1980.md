@@ -1,8 +1,9 @@
 ---
 title: 'The Cash-Landrum UFO Incident (1980): A Critical Examination of Evidence'
 permalink: /cash-landrum-incident-1980/
-date: '2025-05-05 19:56:15 '
-image: /assets/images/UFO - Top 100/Cash Landrum incident 1980-Full-Text.svg
+date: '2025-05-10 20:35:23 '
+header:
+  og_image: /assets/images/UFO - Top 100/Cash Landrum incident 1980-Full-Text.png
 description: 'Exploring The Cash-Landrum UFO Incident (1980): A Critical Examination of Evidence within the context of UFO - Top 100.'
 ---
 
@@ -40,7 +41,7 @@ Perhaps the most unusual aspect of the incident was what happened next. The witn
 According to Betty Cash, "They seemed to rush in from all directions... It seemed like they were trying to encircle the thing"[^4]. The object and helicopters then allegedly moved away from the area together.
 
 
-![The Cash-Landrum UFO Incident (1980): A Critical Examination of Evidence - Full-Text]({{ "/assets/images/UFO - Top 100/Cash Landrum incident 1980-Full-Text.svg" | relative_url }})
+![The Cash-Landrum UFO Incident (1980): A Critical Examination of Evidence - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Cash Landrum incident 1980-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/Shr6edXHCbw" title="YouTube video player (Fn: 10)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -102,7 +103,7 @@ Collins found a report by Texas Department of Health investigator Charles Russ M
 This contradicts later statements by Schuessler: "It is interesting to note, that although neither Vickie or Betty had been back to the site since the incident, they both were able to take us to nearly the exact same location"[^9].
 
 
-![The Cash-Landrum UFO Incident (1980): A Critical Examination of Evidence - P1]({{ "/assets/images/UFO - Top 100/Cash Landrum incident 1980-P1.svg" | relative_url }})
+![The Cash-Landrum UFO Incident (1980): A Critical Examination of Evidence - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Cash Landrum incident 1980-P1.svg" | relative_url }})
 ### Medical Evidence Questions
 
 While the witnesses undoubtedly suffered physical symptoms, the attribution of these symptoms to radiation from a UFO has been questioned. Gary Posner, MD, noted that photos of Betty's arms showed "discrete, round, sunburn-type rashes" that caused him concern about possible alternative explanations[^9].
@@ -177,7 +178,7 @@ Several important questions remain unresolved and could benefit from further inv
 5. **Documentary evidence review**: A comprehensive review of all photographic evidence, including pictures of Betty Cash's injuries and any documentation of the car or site damage.
 
 
-![The Cash-Landrum UFO Incident (1980): A Critical Examination of Evidence - P2]({{ "/assets/images/UFO - Top 100/Cash Landrum incident 1980-P2.svg" | relative_url }})
+![The Cash-Landrum UFO Incident (1980): A Critical Examination of Evidence - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Cash Landrum incident 1980-P2.svg" | relative_url }})
 ## Conclusion
 
 The Cash-Landrum incident remains one of the most compelling yet problematic UFO cases in history. While the witnesses appear to have been sincere in their beliefs and genuinely suffered physical symptoms, critical examination reveals significant inconsistencies and unanswered questions. The inability to locate the exact site initially, the implausibility of 23 Chinook helicopters operating without record, and the conflicting reports about physical evidence undermine the case for an extraordinary explanation.

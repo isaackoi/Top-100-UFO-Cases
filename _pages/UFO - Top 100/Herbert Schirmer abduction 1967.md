@@ -1,8 +1,9 @@
 ---
 title: 'The Herbert Schirmer UFO Abduction Case (1967): A Critical Examination'
 permalink: /herbert-schirmer-abduction-1967/
-date: '2025-05-05 19:56:18 '
-image: /assets/images/UFO - Top 100/Herbert Schirmer abduction 1967-Full-Text.svg
+date: '2025-05-10 20:35:27 '
+header:
+  og_image: /assets/images/UFO - Top 100/Herbert Schirmer abduction 1967-Full-Text.png
 description: 'Exploring The Herbert Schirmer UFO Abduction Case (1967): A Critical Examination within the context of UFO - Top 100.'
 ---
 
@@ -29,7 +30,7 @@ Following the encounter, Schirmer experienced several troubling physical symptom
 The physical evidence wasn't limited to Schirmer's person. Ashland Police Chief Bill Wlaskin visited the alleged encounter site later that day and reportedly discovered a small metallic object[^2]. This artifact was subsequently analyzed and found to be composed of iron and silicon. However, investigators from the Condon Committee (a University of Colorado UFO study commissioned by the Air Force) would later dismiss it as "ordinary corroded earthly waste"[^2].
 
 
-![The Herbert Schirmer UFO Abduction Case (1967): A Critical Examination - Full-Text]({{ "/assets/images/UFO - Top 100/Herbert Schirmer abduction 1967-Full-Text.svg" | relative_url }})
+![The Herbert Schirmer UFO Abduction Case (1967): A Critical Examination - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Herbert Schirmer abduction 1967-Full-Text.svg" | relative_url }})
 ## The Condon Committee Investigation
 
 The timing of Schirmer's encounter coincided with the University of Colorado's UFO study, providing an opportunity for prompt official investigation. Representatives from this project interviewed Schirmer on December 11-12, 1967, just days after the incident[^7][^11].
@@ -76,7 +77,7 @@ UFO researchers have pointed to similarities between Schirmer's description of t
 These pattern similarities across independent reports are considered significant by many UFO researchers, suggesting that multiple witnesses were describing the same type of entity without prior knowledge of each other's experiences.
 
 
-![The Herbert Schirmer UFO Abduction Case (1967): A Critical Examination - P1]({{ "/assets/images/UFO - Top 100/Herbert Schirmer abduction 1967-P1.svg" | relative_url }})
+![The Herbert Schirmer UFO Abduction Case (1967): A Critical Examination - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Herbert Schirmer abduction 1967-P1.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/XYf-whvwWPU" title="YouTube video player (Fn: 3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -145,7 +146,7 @@ Some visual documentation exists, including sketches made by Schirmer of the cra
 Archival footage of Schirmer discussing his experience can be viewed in limited online sources, such as [this YouTube video](https://www.youtube.com/watch?v=l927-8UCnqU) which preserves some of his testimony[^8].
 
 
-![The Herbert Schirmer UFO Abduction Case (1967): A Critical Examination - P2]({{ "/assets/images/UFO - Top 100/Herbert Schirmer abduction 1967-P2.svg" | relative_url }})
+![The Herbert Schirmer UFO Abduction Case (1967): A Critical Examination - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Herbert Schirmer abduction 1967-P2.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/l927-8UCnqU" title="YouTube video player (Fn: 8)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -1,8 +1,9 @@
 ---
 title: 'The 1976 Stanford, Kentucky Abduction Case: A Critical Examination of the Evidence'
 permalink: /stanford-kentucky-abduction-1976/
-date: '2025-05-05 19:56:21 '
-image: /assets/images/UFO - Top 100/Stanford Kentucky abduction 1976-Full-Text.svg
+date: '2025-05-10 20:35:32 '
+header:
+  og_image: /assets/images/UFO - Top 100/Stanford Kentucky abduction 1976-Full-Text.png
 description: 'Exploring The 1976 Stanford, Kentucky Abduction Case: A Critical Examination of the Evidence within the context of UFO - Top 100.'
 ---
 
@@ -36,7 +37,7 @@ According to all three women, the car accelerated to 85 miles per hour despite S
 They observed the ignition lights illuminated on the instrument panel, indicating the car's engine had stalled, yet the vehicle continued moving at high speed[^9]. The women then reported seeing a brightly lit road ahead, and suddenly found themselves on the outskirts of Hustonville, approximately eight miles from their previous location[^9]. Upon checking the time, they discovered that an hour and twenty minutes had elapsed unaccounted for[^1][^9].
 
 
-![The 1976 Stanford, Kentucky Abduction Case: A Critical Examination of the Evidence - Full-Text]({{ "/assets/images/UFO - Top 100/Stanford Kentucky abduction 1976-Full-Text.svg" | relative_url }})
+![The 1976 Stanford, Kentucky Abduction Case: A Critical Examination of the Evidence - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Stanford Kentucky abduction 1976-Full-Text.svg" | relative_url }})
 ### Immediate Aftermath and Physical Effects
 
 Upon arriving home, the three women experienced various physical and psychological symptoms. They reported red marks resembling burns on their necks, unusual thirst, disorientation, and emotional distress[^14]. The following day, they contacted local authorities and UFO investigators regarding their experience[^14].
@@ -94,7 +95,7 @@ Susan Clancy, who has investigated over 200 alien abduction claims, notes that e
 The search results mention that "the 'missing time' was not noticed until weeks after the incident, following questioning by ufologists"[^5], suggesting that this key element of the abduction narrative might not have been immediately apparent to the witnesses themselves.
 
 
-![The 1976 Stanford, Kentucky Abduction Case: A Critical Examination of the Evidence - P1]({{ "/assets/images/UFO - Top 100/Stanford Kentucky abduction 1976-P1.svg" | relative_url }})
+![The 1976 Stanford, Kentucky Abduction Case: A Critical Examination of the Evidence - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Stanford Kentucky abduction 1976-P1.svg" | relative_url }})
 ### Alternative Explanations
 
 Several alternative explanations have been proposed for the women's experience:
@@ -173,7 +174,7 @@ The investigation of the Stanford case contributed to the development of methodo
     - "Unsolved Mysteries: The 1976 Alien Abduction in Stanford, KY" (https://www.youtube.com/watch?v=FAAFOzax29g)[^13]
 
 
-![The 1976 Stanford, Kentucky Abduction Case: A Critical Examination of the Evidence - P2]({{ "/assets/images/UFO - Top 100/Stanford Kentucky abduction 1976-P2.svg" | relative_url }})
+![The 1976 Stanford, Kentucky Abduction Case: A Critical Examination of the Evidence - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Stanford Kentucky abduction 1976-P2.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/FAAFOzax29g" title="YouTube video player (Fn: 13)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

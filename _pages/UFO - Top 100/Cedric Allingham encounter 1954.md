@@ -1,8 +1,9 @@
 ---
 title: 'The Cedric Allingham Encounter (1954): Britain''s First UFO Contactee Case Unveiled'
 permalink: /cedric-allingham-encounter-1954/
-date: '2025-05-05 19:56:15 '
-image: /assets/images/UFO - Top 100/Cedric Allingham encounter 1954-Full-Text.svg
+date: '2025-05-10 20:35:23 '
+header:
+  og_image: /assets/images/UFO - Top 100/Cedric Allingham encounter 1954-Full-Text.png
 description: 'Exploring The Cedric Allingham Encounter (1954): Britain''s First UFO Contactee Case Unveiled within the context of UFO - Top 100.'
 ---
 
@@ -43,7 +44,7 @@ Allingham reportedly gave a lecture about his encounter to the Tunbridge Wells U
 From the outset, several aspects of Allingham's account raised suspicions among critical observers:
 
 
-![The Cedric Allingham Encounter (1954): Britain's First UFO Contactee Case Unveiled - Full-Text]({{ "/assets/images/UFO - Top 100/Cedric Allingham encounter 1954-Full-Text.svg" | relative_url }})
+![The Cedric Allingham Encounter (1954): Britain's First UFO Contactee Case Unveiled - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Cedric Allingham encounter 1954-Full-Text.svg" | relative_url }})
 ### Questionable Evidence
 
 The photographic "evidence" presented was notably poor in quality, with blurry images that revealed little definitive detail[^1][^3]. The only picture of the supposed Martian was taken from behind, conveniently hiding any facial features that might have revealed it to be human[^1].
@@ -95,7 +96,7 @@ The evidence strongly pointed to Patrick Moore, a famous British astronomer and 
 In a 2012 letter to The Scotsman newspaper, Steuart Campbell summarized their findings: "The book was Flying Saucer From Mars, published by Muller in 1954, and attributed to one 'Cedric Allingham', an author no one could trace. Twenty-six years ago Christopher Allan and I laid out the evidence that Moore was responsible ('Flying Saucer From Moore's', in Magonia, July 1986)"[^12].
 
 
-![The Cedric Allingham Encounter (1954): Britain's First UFO Contactee Case Unveiled - P1]({{ "/assets/images/UFO - Top 100/Cedric Allingham encounter 1954-P1.svg" | relative_url }})
+![The Cedric Allingham Encounter (1954): Britain's First UFO Contactee Case Unveiled - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Cedric Allingham encounter 1954-P1.svg" | relative_url }})
 ## Moore's History of Hoaxes
 
 Patrick Moore had a well-documented history of perpetrating elaborate pranks:
@@ -177,7 +178,7 @@ While the hoax has been thoroughly exposed, some aspects of the case could benef
 5. **Cultural Impact**: How did the eventual exposure of this hoax affect subsequent UFO research and the evaluation of contactee claims in the UK?
 
 
-![The Cedric Allingham Encounter (1954): Britain's First UFO Contactee Case Unveiled - P2]({{ "/assets/images/UFO - Top 100/Cedric Allingham encounter 1954-P2.svg" | relative_url }})
+![The Cedric Allingham Encounter (1954): Britain's First UFO Contactee Case Unveiled - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Cedric Allingham encounter 1954-P2.svg" | relative_url }})
 ## Conclusion
 
 The Cedric Allingham UFO encounter of 1954 stands as one of the most thoroughly debunked yet fascinating cases in UFO history. What began as a seemingly credible account of contact with a Martian being was ultimately revealed as an elaborate hoax created by Patrick Moore and Peter Davies.

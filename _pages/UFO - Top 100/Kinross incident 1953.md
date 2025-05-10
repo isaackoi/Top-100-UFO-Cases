@@ -1,8 +1,9 @@
 ---
 title: 'The 1953 Kinross Incident: A Critical Analysis of the F-89 Disappearance Over Lake Superior'
 permalink: /kinross-incident-1953/
-date: '2025-05-05 19:56:18 '
-image: /assets/images/UFO - Top 100/Kinross incident 1953-Full-Text.svg
+date: '2025-05-10 20:35:29 '
+header:
+  og_image: /assets/images/UFO - Top 100/Kinross incident 1953-Full-Text.png
 description: 'Exploring The 1953 Kinross Incident: A Critical Analysis of the F-89 Disappearance Over Lake Superior within the context of UFO - Top 100.'
 ---
 
@@ -40,7 +41,7 @@ What happened next has become the central mystery of the case. According to rada
 The radar blip representing what was presumed to be the unidentified object then continued on its original course and eventually disappeared from radar range[^5]. The F-89C and its crew were never seen or heard from again.
 
 
-![The 1953 Kinross Incident: A Critical Analysis of the F-89 Disappearance Over Lake Superior - Full-Text]({{ "/assets/images/UFO - Top 100/Kinross incident 1953-Full-Text.svg" | relative_url }})
+![The 1953 Kinross Incident: A Critical Analysis of the F-89 Disappearance Over Lake Superior - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Kinross incident 1953-Full-Text.svg" | relative_url }})
 ### Search and Recovery Efforts
 
 Immediately following the disappearance, an extensive joint search and rescue operation was launched by the United States and Canadian Air Forces[^7][^12]. The search covered approximately 29,000 square miles over a five-day period[^7][^14], but was hampered by winter weather conditions, including snowfall and freezing temperatures[^5].
@@ -93,7 +94,7 @@ Keyhoe also alleged that in 1959, M. Sgt. O.D. Hill of Project Blue Book (the Ai
 The radar operators who tracked the F-89C and the unidentified object represent key witnesses to the Kinross Incident. Their observations of the two radar returns merging is consistently reported across multiple sources[^1][^7][^14]. However, the interpretation of this radar data remains contentious—was it a collision, a technical anomaly, or something more unusual?
 
 
-![The 1953 Kinross Incident: A Critical Analysis of the F-89 Disappearance Over Lake Superior - P1]({{ "/assets/images/UFO - Top 100/Kinross incident 1953-P1.svg" | relative_url }})
+![The 1953 Kinross Incident: A Critical Analysis of the F-89 Disappearance Over Lake Superior - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Kinross incident 1953-P1.svg" | relative_url }})
 ### The Fosberg Testimony
 
 In a fascinating development, researcher Gord Heath reportedly identified and contacted Gerald Fosberg, who was allegedly the pilot of the Canadian aircraft that the F-89C was sent to intercept. According to Heath's investigation, Fosberg denied that his plane could have been 30 miles off course, citing the reliability of his radio navigation system[^15].
@@ -172,7 +173,7 @@ Several promising avenues for further research could help resolve lingering unce
 6. **Broader examination of Gerald Fosberg's testimony**: If still living, further interviews with Fosberg could clarify his role and observations on the night in question.
 
 
-![The 1953 Kinross Incident: A Critical Analysis of the F-89 Disappearance Over Lake Superior - P2]({{ "/assets/images/UFO - Top 100/Kinross incident 1953-P2.svg" | relative_url }})
+![The 1953 Kinross Incident: A Critical Analysis of the F-89 Disappearance Over Lake Superior - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Kinross incident 1953-P2.svg" | relative_url }})
 ## Conclusion: Unanswered Questions and Enduring Mystery
 
 Nearly seven decades after the Kinross Incident, definitive answers remain elusive. The disappearance of First Lieutenant Felix Moncla and Second Lieutenant Robert Wilson, along with their F-89C Scorpion jet, continues to resist straightforward explanation.

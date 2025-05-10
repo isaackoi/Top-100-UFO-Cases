@@ -1,8 +1,9 @@
 ---
 title: 'The Kelly-Hopkinsville Encounter of 1955: A Critical Examination of the Evidence'
 permalink: /kelly-hopkinsville-incident-1955/
-date: '2025-05-05 19:56:18 '
-image: /assets/images/UFO - Top 100/Kelly-Hopkinsville incident 1955-Full-Text.svg
+date: '2025-05-10 20:35:28 '
+header:
+  og_image: /assets/images/UFO - Top 100/Kelly-Hopkinsville incident 1955-Full-Text.png
 description: 'Exploring The Kelly-Hopkinsville Encounter of 1955: A Critical Examination of the Evidence within the context of UFO - Top 100.'
 ---
 
@@ -38,7 +39,7 @@ Approximately an hour later, the family dog began barking frantically outside. W
 The men rushed back inside to arm themselves with a .22 caliber rifle and a shotgun before returning to confront what they believed were intruders[^9]. What followed was described as a nearly four-hour ordeal during which the men claimed to have repeatedly shot at small humanoid figures that appeared around the property – at windows, on the roof, and in nearby trees[^5].
 
 
-![The Kelly-Hopkinsville Encounter of 1955: A Critical Examination of the Evidence - Full-Text]({{ "/assets/images/UFO - Top 100/Kelly-Hopkinsville incident 1955-Full-Text.svg" | relative_url }})
+![The Kelly-Hopkinsville Encounter of 1955: A Critical Examination of the Evidence - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Kelly-Hopkinsville incident 1955-Full-Text.svg" | relative_url }})
 ### Description of the Beings
 
 The entities were consistently described as small humanoid creatures with several distinctive features:
@@ -108,7 +109,7 @@ The most compelling natural explanation, supported by multiple skeptical investi
 French UFOlogist Renaud Leclet, after studying the case, also concluded that great horned owls provided the best explanation for the reported beings[^1].
 
 
-![The Kelly-Hopkinsville Encounter of 1955: A Critical Examination of the Evidence - P1]({{ "/assets/images/UFO - Top 100/Kelly-Hopkinsville incident 1955-P1.svg" | relative_url }})
+![The Kelly-Hopkinsville Encounter of 1955: A Critical Examination of the Evidence - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Kelly-Hopkinsville incident 1955-P1.svg" | relative_url }})
 ### Psychological Factors
 
 Psychologists Rodney Schmaltz and Scott Lilienfeld suggest the incident illustrates how psychological factors can influence perception and interpretation[^1]:
@@ -200,7 +201,7 @@ Several aspects of the case remain unclear:
 4. **Media influence**: The extent to which subsequent media reporting may have influenced or altered the original testimonies remains difficult to assess[^1].
 
 
-![The Kelly-Hopkinsville Encounter of 1955: A Critical Examination of the Evidence - P2]({{ "/assets/images/UFO - Top 100/Kelly-Hopkinsville incident 1955-P2.svg" | relative_url }})
+![The Kelly-Hopkinsville Encounter of 1955: A Critical Examination of the Evidence - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Kelly-Hopkinsville incident 1955-P2.svg" | relative_url }})
 ## Conclusion and Follow-up Research Avenues
 
 The Kelly-Hopkinsville encounter represents a fascinating case study in the challenges of evaluating extraordinary claims. While the witnesses appear to have genuinely believed they encountered non-human entities, the available evidence supports more prosaic explanations, particularly the great horned owl theory.

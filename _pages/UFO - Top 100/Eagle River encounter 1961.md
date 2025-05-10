@@ -1,8 +1,9 @@
 ---
 title: 'The Eagle River UFO Encounter (1961): A Critical Analysis of the Simonton Pancake Case'
 permalink: /eagle-river-encounter-1961/
-date: '2025-05-05 19:56:16 '
-image: /assets/images/UFO - Top 100/Eagle River encounter 1961-Full-Text.svg
+date: '2025-05-10 20:35:25 '
+header:
+  og_image: /assets/images/UFO - Top 100/Eagle River encounter 1961-Full-Text.png
 description: 'Exploring The Eagle River UFO Encounter (1961): A Critical Analysis of the Simonton Pancake Case within the context of UFO - Top 100.'
 ---
 
@@ -29,7 +30,7 @@ The entire encounter reportedly lasted about five minutes before the beings clos
 Interestingly, Simonton's encounter may have had a corroborating witness. An insurance agent named Savino Borgo was reportedly driving near Simonton's farm at the time and also claimed to have seen a flying saucer in the area[^3].
 
 
-![The Eagle River UFO Encounter (1961): A Critical Analysis of the Simonton Pancake Case - Full-Text]({{ "/assets/images/UFO - Top 100/Eagle River encounter 1961-Full-Text.svg" | relative_url }})
+![The Eagle River UFO Encounter (1961): A Critical Analysis of the Simonton Pancake Case - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Eagle River encounter 1961-Full-Text.svg" | relative_url }})
 ## Physical Evidence and Official Investigation
 
 What distinguishes the Eagle River incident from many other UFO reports is the presence of physical evidence – the pancakes that Simonton received. According to multiple sources, Simonton tasted one of the cakes but was unimpressed, describing it as tasting "like cardboard"[^3][^4].
@@ -80,7 +81,7 @@ The lack of additional direct witnesses to the encounter itself, despite the pre
 The composition of the pancakes – made from earthly ingredients – suggests a terrestrial origin, though believers might counter that aliens could have been using local materials or replicating Earth food.
 
 
-![The Eagle River UFO Encounter (1961): A Critical Analysis of the Simonton Pancake Case - P1]({{ "/assets/images/UFO - Top 100/Eagle River encounter 1961-P1.svg" | relative_url }})
+![The Eagle River UFO Encounter (1961): A Critical Analysis of the Simonton Pancake Case - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Eagle River encounter 1961-P1.svg" | relative_url }})
 ## Broader Context and Regional Patterns
 
 Interestingly, the Eagle River encounter wasn't an isolated incident in the region. According to some sources, the area experienced numerous UFO sightings between 1959 and 1963[^3]. Additionally, several unusual events occurred in temporal proximity to Simonton's encounter:
@@ -141,7 +142,7 @@ For those interested in further investigating this case, several avenues of rese
 5. **Comparative analysis**: A detailed comparison with similar "food exchange" cases in UFO literature could reveal patterns that might illuminate the Eagle River incident.
 
 
-![The Eagle River UFO Encounter (1961): A Critical Analysis of the Simonton Pancake Case - P2]({{ "/assets/images/UFO - Top 100/Eagle River encounter 1961-P2.svg" | relative_url }})
+![The Eagle River UFO Encounter (1961): A Critical Analysis of the Simonton Pancake Case - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Eagle River encounter 1961-P2.svg" | relative_url }})
 ## Conclusion
 
 The 1961 Eagle River UFO encounter represents a fascinating case study in the UFO phenomenon. It contains elements that both support and challenge its authenticity. Joe Simonton appears to have been a credible witness with no obvious motivation to fabricate such a story, especially given the ridicule he faced. The physical evidence of the pancakes, while determined to be of earthly origin, adds an unusual dimension to the case that few UFO reports can match.

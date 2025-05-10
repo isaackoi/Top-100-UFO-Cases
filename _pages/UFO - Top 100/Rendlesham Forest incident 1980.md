@@ -1,8 +1,9 @@
 ---
 title: 'The Rendlesham Forest Incident: A Critical Analysis of Britain''s Most Famous UFO Case'
 permalink: /rendlesham-forest-incident-1980/
-date: '2025-05-05 19:56:20 '
-image: /assets/images/UFO - Top 100/Rendlesham Forest incident 1980-Full-Text.svg
+date: '2025-05-10 20:35:31 '
+header:
+  og_image: /assets/images/UFO - Top 100/Rendlesham Forest incident 1980-Full-Text.png
 description: 'Exploring The Rendlesham Forest Incident: A Critical Analysis of Britain''s Most Famous UFO Case within the context of UFO - Top 100.'
 ---
 
@@ -33,7 +34,7 @@ Halt made a real-time audio recording of this expedition, providing a contempora
 During their investigation, Halt's team split up, with one group reporting a strange red light within what they described as an eerily "pulsating fog"[^1]. They alerted Halt's group, who then observed the light appearing to approach them while "spewing forth a rainbow waterfall of colors"[^1]. Meanwhile, the second group claimed to observe a glowing domed object through which they could see shadowy figures moving[^1]. Over the course of approximately an hour, both groups witnessed various darting lights behaving in ways that defied conventional explanation[^1].
 
 
-![The Rendlesham Forest Incident: A Critical Analysis of Britain's Most Famous UFO Case - Full-Text]({{ "/assets/images/UFO - Top 100/Rendlesham Forest incident 1980-Full-Text.svg" | relative_url }})
+![The Rendlesham Forest Incident: A Critical Analysis of Britain's Most Famous UFO Case - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Rendlesham Forest incident 1980-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/Vg4XHN4JI6U" title="YouTube video player (Fn: 10)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -93,7 +94,7 @@ Several natural explanations have been proposed for the Rendlesham sightings:
 3. Celestial bodies: Bright stars and planets, particularly when viewed through atmospheric distortion or forest cover, can appear to move or change color in ways that might seem extraordinary to observers[^8]. The December sky would have featured several bright celestial objects that could potentially be misidentified under the right conditions.
 
 
-![The Rendlesham Forest Incident: A Critical Analysis of Britain's Most Famous UFO Case - P1]({{ "/assets/images/UFO - Top 100/Rendlesham Forest incident 1980-P1.svg" | relative_url }})
+![The Rendlesham Forest Incident: A Critical Analysis of Britain's Most Famous UFO Case - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Rendlesham Forest incident 1980-P1.svg" | relative_url }})
 ### Human Activity Explanations
 
 Human-related explanations for the incident include:
@@ -180,7 +181,7 @@ Whether the Rendlesham Forest incident ultimately proves to be evidence of extra
 <div>⁂</div>
 
 
-![The Rendlesham Forest Incident: A Critical Analysis of Britain's Most Famous UFO Case - P2]({{ "/assets/images/UFO - Top 100/Rendlesham Forest incident 1980-P2.svg" | relative_url }})
+![The Rendlesham Forest Incident: A Critical Analysis of Britain's Most Famous UFO Case - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Rendlesham Forest incident 1980-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34]</small>
 

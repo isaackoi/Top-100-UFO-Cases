@@ -1,8 +1,9 @@
 ---
 title: 'The 1976 Tehran UFO Incident: Fighter Jets, System Failures, and Unexplained Aerial Phenomena'
 permalink: /jet-chase-near-tehran-iran-1976/
-date: '2025-05-05 19:56:18 '
-image: /assets/images/UFO - Top 100/Jet chase near Tehran Iran 1976-Full-Text.svg
+date: '2025-05-10 20:35:28 '
+header:
+  og_image: /assets/images/UFO - Top 100/Jet chase near Tehran Iran 1976-Full-Text.png
 description: 'Exploring The 1976 Tehran UFO Incident: Fighter Jets, System Failures, and Unexplained Aerial Phenomena within the context of UFO - Top 100.'
 ---
 
@@ -29,7 +30,7 @@ Lieutenant Yaddi Nazeri piloted the first F-4 Phantom with a backseat weapons of
 As Nazeri approached to within 46 kilometers (29 miles) of the object, he reported that it began to move away, maintaining distance despite the F-4's high speed[^6]. More troublingly, as he closed in on the object, Nazeri experienced complete instrument and communications failure[^1][^4]. When he turned away from the object and headed back to base, his systems mysteriously restored to normal functioning[^1][^4][^9].
 
 
-![The 1976 Tehran UFO Incident: Fighter Jets, System Failures, and Unexplained Aerial Phenomena - Full-Text]({{ "/assets/images/UFO - Top 100/Jet chase near Tehran Iran 1976-Full-Text.svg" | relative_url }})
+![The 1976 Tehran UFO Incident: Fighter Jets, System Failures, and Unexplained Aerial Phenomena - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Jet chase near Tehran Iran 1976-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/tdoDpCIpcbM" title="YouTube video player (Fn: 4)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -86,7 +87,7 @@ The documentary evidence is equally compelling. The U.S. government reports were
 The fact that Colonel Evans of the DIA specifically endorsed the reliability of the information further strengthens its credibility[^6][^9]. Such an endorsement from a senior intelligence official was uncommon in UFO cases, particularly after the closure of Project Blue Book.
 
 
-![The 1976 Tehran UFO Incident: Fighter Jets, System Failures, and Unexplained Aerial Phenomena - P1]({{ "/assets/images/UFO - Top 100/Jet chase near Tehran Iran 1976-P1.svg" | relative_url }})
+![The 1976 Tehran UFO Incident: Fighter Jets, System Failures, and Unexplained Aerial Phenomena - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Jet chase near Tehran Iran 1976-P1.svg" | relative_url }})
 ## Analysis of the Phenomenal Characteristics
 
 The Tehran UFO exhibited several characteristics that defy conventional explanation:
@@ -149,7 +150,7 @@ What remains clear is that something extraordinary occurred in the skies over Te
 <div>⁂</div>
 
 
-![The 1976 Tehran UFO Incident: Fighter Jets, System Failures, and Unexplained Aerial Phenomena - P2]({{ "/assets/images/UFO - Top 100/Jet chase near Tehran Iran 1976-P2.svg" | relative_url }})
+![The 1976 Tehran UFO Incident: Fighter Jets, System Failures, and Unexplained Aerial Phenomena - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Jet chase near Tehran Iran 1976-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32]</small>
 

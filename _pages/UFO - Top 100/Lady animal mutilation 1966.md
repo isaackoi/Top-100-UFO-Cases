@@ -1,8 +1,9 @@
 ---
 title: 'The Lady/Snippy Horse Mutilation: A Critical Examination of America''s First Famous Animal Mutilation Case'
 permalink: /lady-animal-mutilation-1966/
-date: '2025-05-05 19:56:18 '
-image: /assets/images/UFO - Top 100/Lady animal mutilation 1966-Full-Text.svg
+date: '2025-05-10 20:35:29 '
+header:
+  og_image: /assets/images/UFO - Top 100/Lady animal mutilation 1966-Full-Text.png
 description: 'Exploring The Lady/Snippy Horse Mutilation: A Critical Examination of America''s First Famous Animal Mutilation Case within the context of UFO - Top 100.'
 ---
 
@@ -31,7 +32,7 @@ By 1975, the Colorado Associated Press reportedly voted cattle mutilations the n
 The timing of the incident—during the height of the Cold War and amid growing public interest in UFO phenomena—created fertile ground for speculation. The case became a touchstone for those who believed extraterrestrial visitors were conducting biological sampling on Earth's fauna.
 
 
-![The Lady/Snippy Horse Mutilation: A Critical Examination of America's First Famous Animal Mutilation Case - Full-Text]({{ "/assets/images/UFO - Top 100/Lady animal mutilation 1966-Full-Text.svg" | relative_url }})
+![The Lady/Snippy Horse Mutilation: A Critical Examination of America's First Famous Animal Mutilation Case - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Lady animal mutilation 1966-Full-Text.svg" | relative_url }})
 ## The Investigation and Evidence
 
 The official investigation into Lady's death was remarkably cursory. Sheriff Phillips never visited the site, and his suggestion of a lightning strike was made without examining the evidence[^14]. This investigative vacuum allowed alternative theories to flourish unchecked.
@@ -85,7 +86,7 @@ A third explanation emerged years later when two students from Alamosa State Col
 Some researchers have suggested that government agencies might have been conducting covert operations to monitor the spread of diseases like mad cow disease, explaining the presence of unmarked helicopters often reported in conjunction with mutilation cases[^5][^6].
 
 
-![The Lady/Snippy Horse Mutilation: A Critical Examination of America's First Famous Animal Mutilation Case - P1]({{ "/assets/images/UFO - Top 100/Lady animal mutilation 1966-P1.svg" | relative_url }})
+![The Lady/Snippy Horse Mutilation: A Critical Examination of America's First Famous Animal Mutilation Case - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Lady animal mutilation 1966-P1.svg" | relative_url }})
 ## Legacy and Cultural Impact
 
 The Lady/Snippy case marks the beginning of what would become a documented pattern of similar incidents across the United States and eventually worldwide. The case transformed cattle mutilations from isolated oddities into a recognized phenomenon worthy of serious investigation.
@@ -160,7 +161,7 @@ For researchers seeking to advance our understanding of this phenomenon, the pat
 <div>⁂</div>
 
 
-![The Lady/Snippy Horse Mutilation: A Critical Examination of America's First Famous Animal Mutilation Case - P2]({{ "/assets/images/UFO - Top 100/Lady animal mutilation 1966-P2.svg" | relative_url }})
+![The Lady/Snippy Horse Mutilation: A Critical Examination of America's First Famous Animal Mutilation Case - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Lady animal mutilation 1966-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33]</small>
 

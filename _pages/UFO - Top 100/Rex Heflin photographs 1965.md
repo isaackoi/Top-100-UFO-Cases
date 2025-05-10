@@ -1,8 +1,9 @@
 ---
 title: 'The Rex Heflin UFO Photographs (1965): A Comprehensive Analysis of Evidence'
 permalink: /rex-heflin-photographs-1965/
-date: '2025-05-05 19:56:20 '
-image: /assets/images/UFO - Top 100/Rex Heflin photographs 1965-Full-Text.svg
+date: '2025-05-10 20:35:32 '
+header:
+  og_image: /assets/images/UFO - Top 100/Rex Heflin photographs 1965-Full-Text.png
 description: 'Exploring The Rex Heflin UFO Photographs (1965): A Comprehensive Analysis of Evidence within the context of UFO - Top 100.'
 ---
 
@@ -34,7 +35,7 @@ Initially, Heflin showed the photos to colleagues at his Santa Ana office later 
 The publication of the photos triggered multiple investigations from both official and civilian organizations:
 
 
-![The Rex Heflin UFO Photographs (1965): A Comprehensive Analysis of Evidence - Full-Text]({{ "/assets/images/UFO - Top 100/Rex Heflin photographs 1965-Full-Text.svg" | relative_url }})
+![The Rex Heflin UFO Photographs (1965): A Comprehensive Analysis of Evidence - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Rex Heflin photographs 1965-Full-Text.svg" | relative_url }})
 ### Official Military and Government Investigations
 
 Shortly after the photos became public, Marine Corps Intelligence officers interviewed Heflin and borrowed his first three original Polaroids to make copies, returning them unmarked[^1]. Similarly, the U.S. Air Force conducted an official inquiry through Captain Charles F. Reichmuth, who interviewed Heflin for over three hours and also borrowed and returned the photos[^1].
@@ -100,7 +101,7 @@ By all accounts, Rex Heflin was considered a reliable witness:
 Perhaps most tellingly, Heflin was not particularly interested in UFOs at the time of the sighting and initially believed he had photographed an experimental aircraft. It wasn't until scientific and military interest in his photos intensified that he began to consider he might have photographed something truly anomalous[^1][^8].
 
 
-![The Rex Heflin UFO Photographs (1965): A Comprehensive Analysis of Evidence - P1]({{ "/assets/images/UFO - Top 100/Rex Heflin photographs 1965-P1.svg" | relative_url }})
+![The Rex Heflin UFO Photographs (1965): A Comprehensive Analysis of Evidence - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Rex Heflin photographs 1965-P1.svg" | relative_url }})
 ### Scientific and Expert Assessments
 
 The photos were examined by numerous technical experts over the years:
@@ -179,7 +180,7 @@ For those interested in examining this case further, accessing these primary sou
 <div>⁂</div>
 
 
-![The Rex Heflin UFO Photographs (1965): A Comprehensive Analysis of Evidence - P2]({{ "/assets/images/UFO - Top 100/Rex Heflin photographs 1965-P2.svg" | relative_url }})
+![The Rex Heflin UFO Photographs (1965): A Comprehensive Analysis of Evidence - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Rex Heflin photographs 1965-P2.svg" | relative_url }})
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/HR9esLdArkQ" title="YouTube video player (Fallback, Fn: 31)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

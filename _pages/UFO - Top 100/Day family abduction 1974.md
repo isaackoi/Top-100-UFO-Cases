@@ -1,8 +1,9 @@
 ---
 title: 'The Day Family Abduction (1974): A Critical Examination of the Aveley UFO Case'
 permalink: /day-family-abduction-1974/
-date: '2025-05-05 19:56:16 '
-image: /assets/images/UFO - Top 100/Day family abduction 1974-Full-Text.svg
+date: '2025-05-10 20:35:25 '
+header:
+  og_image: /assets/images/UFO - Top 100/Day family abduction 1974-Full-Text.png
 description: 'Exploring The Day Family Abduction (1974): A Critical Examination of the Aveley UFO Case within the context of UFO - Top 100.'
 ---
 
@@ -33,7 +34,7 @@ One source provides a brief but explicit description of what allegedly happened,
 The documentary "The Aveley Extraterrestrial Abduction" adds that the family encountered "a strange UFO in the sky" and a "mysterious green mist" before experiencing "three hours of missing time." It further states that John's "hypnosis sessions were terrifying, and indicated the unthinkable: the Avis family had been abducted by aliens that night in 1974"[^6]. You can view a trailer for this documentary here: https://www.youtube.com/watch?v=XKzRI7DffWE
 
 
-![The Day Family Abduction (1974): A Critical Examination of the Aveley UFO Case - Full-Text]({{ "/assets/images/UFO - Top 100/Day family abduction 1974-Full-Text.svg" | relative_url }})
+![The Day Family Abduction (1974): A Critical Examination of the Aveley UFO Case - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Day family abduction 1974-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/XKzRI7DffWE" title="YouTube video player (Fn: 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -97,7 +98,7 @@ The 1970s saw a significant surge in public interest in UFOs and alien encounter
 It's worth noting that October 1974 was a particularly active period for UFO reports in the UK. According to search results, another alleged UFO abduction case (the John and Susan Day case, which appears to be the same incident under different pseudonyms) is recorded as occurring on October 27, 1974[^5]. This clustering of reports might reflect a period of heightened media attention to UFO phenomena, potentially influencing how people interpreted unusual experiences.
 
 
-![The Day Family Abduction (1974): A Critical Examination of the Aveley UFO Case - P1]({{ "/assets/images/UFO - Top 100/Day family abduction 1974-P1.svg" | relative_url }})
+![The Day Family Abduction (1974): A Critical Examination of the Aveley UFO Case - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Day family abduction 1974-P1.svg" | relative_url }})
 ## Influence and Impact
 
 ### Significance in UFO Discourse
@@ -173,7 +174,7 @@ Future research focusing on previously unexplored documentation, witness testimo
 <div>⁂</div>
 
 
-![The Day Family Abduction (1974): A Critical Examination of the Aveley UFO Case - P2]({{ "/assets/images/UFO - Top 100/Day family abduction 1974-P2.svg" | relative_url }})
+![The Day Family Abduction (1974): A Critical Examination of the Aveley UFO Case - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Day family abduction 1974-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36][^37][^38]</small>
 

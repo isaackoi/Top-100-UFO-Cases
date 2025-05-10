@@ -1,8 +1,9 @@
 ---
 title: 'The Loch Raven Dam UFO Incident (1958): A Critical Examination of a Forgotten Case'
 permalink: /loch-raven-dam-incident-1958/
-date: '2025-05-05 19:56:19 '
-image: /assets/images/UFO - Top 100/Loch Raven Dam incident 1958-Full-Text.svg
+date: '2025-05-10 20:35:30 '
+header:
+  og_image: /assets/images/UFO - Top 100/Loch Raven Dam incident 1958-Full-Text.png
 description: 'Exploring The Loch Raven Dam UFO Incident (1958): A Critical Examination of a Forgotten Case within the context of UFO - Top 100.'
 ---
 
@@ -35,7 +36,7 @@ Follow-up investigation revealed additional details about the setting. The bridg
 The Loch Raven Dam case was subsequently investigated by Project Blue Book, the U.S. Air Force's official UFO investigation program that operated from 1952 to 1969[^1][^2]. Despite their investigation, Project Blue Book was unable to determine a conclusive explanation for the appearance of the object. The case remains classified as "unidentified" in their records, making it part of the approximately 5% of cases that could not be identified by the Air Force project[^11].
 
 
-![The Loch Raven Dam UFO Incident (1958): A Critical Examination of a Forgotten Case - Full-Text]({{ "/assets/images/UFO - Top 100/Loch Raven Dam incident 1958-Full-Text.svg" | relative_url }})
+![The Loch Raven Dam UFO Incident (1958): A Critical Examination of a Forgotten Case - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Loch Raven Dam incident 1958-Full-Text.svg" | relative_url }})
 ## Evaluating Witness Credibility
 
 Assessing the credibility of any UFO report requires examining several factors: the reliability of the witnesses, the consistency of their testimony, the physical evidence, and the official investigation findings.
@@ -88,7 +89,7 @@ The failure of the car's electrical system is one of the most intriguing aspects
 Electromagnetic interference (EMI) can cause disruptions to electrical systems, and certain natural phenomena or human-made devices can generate EMI. The incident occurred near a reservoir and dam, which contains large electrical equipment that could potentially create electromagnetic fields under certain conditions. However, the complete failure of the car's electrical system would require a substantial electromagnetic field.
 
 
-![The Loch Raven Dam UFO Incident (1958): A Critical Examination of a Forgotten Case - P1]({{ "/assets/images/UFO - Top 100/Loch Raven Dam incident 1958-P1.svg" | relative_url }})
+![The Loch Raven Dam UFO Incident (1958): A Critical Examination of a Forgotten Case - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Loch Raven Dam incident 1958-P1.svg" | relative_url }})
 ### Psychological Factors
 
 Under conditions of excitement or fear, witnesses may misperceive ordinary phenomena or misremember details of an event. The power of suggestion can also play a role, especially if one witness's interpretation influences the other.
@@ -178,7 +179,7 @@ The continued fascination with the case—evidenced by recent podcast coverage a
 <div>⁂</div>
 
 
-![The Loch Raven Dam UFO Incident (1958): A Critical Examination of a Forgotten Case - P2]({{ "/assets/images/UFO - Top 100/Loch Raven Dam incident 1958-P2.svg" | relative_url }})
+![The Loch Raven Dam UFO Incident (1958): A Critical Examination of a Forgotten Case - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Loch Raven Dam incident 1958-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33]</small>
 

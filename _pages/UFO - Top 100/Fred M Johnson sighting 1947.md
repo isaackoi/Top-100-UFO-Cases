@@ -1,8 +1,9 @@
 ---
 title: 'Fred M. Johnson''s 1947 UFO Sighting: A Critical Analysis of Evidence and Impact'
 permalink: /fred-m-johnson-sighting-1947/
-date: '2025-05-05 19:56:17 '
-image: /assets/images/UFO - Top 100/Fred M Johnson sighting 1947-Full-Text.svg
+date: '2025-05-10 20:35:26 '
+header:
+  og_image: /assets/images/UFO - Top 100/Fred M Johnson sighting 1947-Full-Text.png
 description: 'Exploring Fred M. Johnson''s 1947 UFO Sighting: A Critical Analysis of Evidence and Impact within the context of UFO - Top 100.'
 ---
 
@@ -28,7 +29,7 @@ Johnson's observation contained several remarkable elements:
 Johnson's report was forwarded to the FBI by Lt. Colonel Donald L. Springer, with a cover note drawing attention to "the similarity between Arnold's [sighting]," though stating "This headquarters does not intend to investigate this incident"[^1]. The Air Force later classified Johnson's report as the "first unexplained UFO report in Air Force files"[^5].
 
 
-![Fred M. Johnson's 1947 UFO Sighting: A Critical Analysis of Evidence and Impact - Full-Text]({{ "/assets/images/UFO - Top 100/Fred M Johnson sighting 1947-Full-Text.svg" | relative_url }})
+![Fred M. Johnson's 1947 UFO Sighting: A Critical Analysis of Evidence and Impact - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Fred M Johnson sighting 1947-Full-Text.svg" | relative_url }})
 ### Contextual Significance
 
 Johnson's sighting occurred during a pivotal moment in UFO history. Within two weeks after Kenneth Arnold's widely-publicized sighting on the same day, historians documented approximately 800-1000 similar reports across the United States[^5][^10]. This sudden proliferation of sightings represented an unprecedented phenomenon that would eventually lead to formal government investigations.
@@ -81,7 +82,7 @@ Several conventional explanations could potentially account for Johnson's sighti
 5. **Misperception of Natural Objects**: Birds, particularly when seen at a distance, or unusual atmospheric light effects could potentially be misinterpreted.
 
 
-![Fred M. Johnson's 1947 UFO Sighting: A Critical Analysis of Evidence and Impact - P1]({{ "/assets/images/UFO - Top 100/Fred M Johnson sighting 1947-P1.svg" | relative_url }})
+![Fred M. Johnson's 1947 UFO Sighting: A Critical Analysis of Evidence and Impact - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Fred M Johnson sighting 1947-P1.svg" | relative_url }})
 ### Psychological Factors
 
 Various psychological explanations have been proposed for UFO reports in general:
@@ -159,7 +160,7 @@ Despite the passage of time, several research directions could potentially yield
 7. **Local Newspaper Archives**: Local newspapers from the Mount Adams region might contain additional details about Johnson's sighting or background that were not included in official reports[^8].
 
 
-![Fred M. Johnson's 1947 UFO Sighting: A Critical Analysis of Evidence and Impact - P2]({{ "/assets/images/UFO - Top 100/Fred M Johnson sighting 1947-P2.svg" | relative_url }})
+![Fred M. Johnson's 1947 UFO Sighting: A Critical Analysis of Evidence and Impact - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Fred M Johnson sighting 1947-P2.svg" | relative_url }})
 ## Conclusion
 
 The Fred M. Johnson UFO sighting represents one of the most intriguing cases from the foundational period of modern UFO history. While not as celebrated as Kenneth Arnold's sighting on the same day, Johnson's report contains elements that continue to challenge conventional explanation, particularly the reported compass effect.

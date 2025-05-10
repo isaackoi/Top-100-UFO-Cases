@@ -1,8 +1,9 @@
 ---
 title: 'The Thomas F. Mantell UFO Incident (1948): A Critical Analysis of Evidence'
 permalink: /thomas-f-mantell-incident-1948/
-date: '2025-05-05 19:56:21 '
-image: /assets/images/UFO - Top 100/Thomas F Mantell incident 1948-Full-Text.svg
+date: '2025-05-10 20:35:33 '
+header:
+  og_image: /assets/images/UFO - Top 100/Thomas F Mantell incident 1948-Full-Text.png
 description: 'Exploring The Thomas F. Mantell UFO Incident (1948): A Critical Analysis of Evidence within the context of UFO - Top 100.'
 ---
 
@@ -39,7 +40,7 @@ The last time anyone saw Mantell's aircraft, he was still climbing toward the UF
 A search and rescue operation located the wreckage of Mantell's F-51D (serial number 44-63869) shortly after 5:00 p.m., approximately 5 miles southwest of Franklin, Kentucky—coincidentally, Mantell's birthplace—about 90 miles south-southwest of Godman Field[^8]. Mantell was found dead at the scene, with his wristwatch stopped at 3:18 p.m., presumably marking the time of impact[^8].
 
 
-![The Thomas F. Mantell UFO Incident (1948): A Critical Analysis of Evidence - Full-Text]({{ "/assets/images/UFO - Top 100/Thomas F Mantell incident 1948-Full-Text.svg" | relative_url }})
+![The Thomas F. Mantell UFO Incident (1948): A Critical Analysis of Evidence - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Thomas F Mantell incident 1948-Full-Text.svg" | relative_url }})
 ## Credibility Assessment of Evidence and Witnesses
 
 ### Military Personnel Testimonies
@@ -100,7 +101,7 @@ While the Skyhook explanation addresses many aspects of the case, several incons
 3. **Multiple witnesses**: The object was reportedly seen by hundreds of witnesses across a wide geographic area before Mantell's involvement[^1]. This widespread visibility raises questions about whether a single Skyhook balloon could account for all reported sightings.
 
 
-![The Thomas F. Mantell UFO Incident (1948): A Critical Analysis of Evidence - P1]({{ "/assets/images/UFO - Top 100/Thomas F Mantell incident 1948-P1.svg" | relative_url }})
+![The Thomas F. Mantell UFO Incident (1948): A Critical Analysis of Evidence - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Thomas F Mantell incident 1948-P1.svg" | relative_url }})
 ### Cover-Up Allegations
 
 Some UFO researchers, including Francis Ridge of NICAP (National Investigations Committee on Aerial Phenomenon), have alleged evidence suppression and manipulation. Ridge claims that a tape recording of Mantell's exchange with the control tower existed but was denied by the Air Force[^5].
@@ -187,7 +188,7 @@ What makes the Mantell case significant is not just the tragic outcome but its t
 <div>⁂</div>
 
 
-![The Thomas F. Mantell UFO Incident (1948): A Critical Analysis of Evidence - P2]({{ "/assets/images/UFO - Top 100/Thomas F Mantell incident 1948-P2.svg" | relative_url }})
+![The Thomas F. Mantell UFO Incident (1948): A Critical Analysis of Evidence - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Thomas F Mantell incident 1948-P2.svg" | relative_url }})
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/mtBbu-hp9zs" title="YouTube video player (Fallback, Fn: 18)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -1,8 +1,9 @@
 ---
 title: 'George Adamski''s UFO Encounters (1953): A Critical Examination'
 permalink: /george-adamski-encounters-1953/
-date: '2025-05-05 19:56:17 '
-image: /assets/images/UFO - Top 100/George Adamski encounters 1953-Full-Text.svg
+date: '2025-05-10 20:35:27 '
+header:
+  og_image: /assets/images/UFO - Top 100/George Adamski encounters 1953-Full-Text.png
 description: 'Exploring George Adamski''s UFO Encounters (1953): A Critical Examination within the context of UFO - Top 100.'
 ---
 
@@ -33,7 +34,7 @@ Adamski claimed that Orthon communicated with him through telepathy and hand ges
 After the purported encounter, George Hunt Williamson, another contactee and associate of Adamski, claimed to have made plaster casts of Orthon's footprints, which supposedly contained mysterious symbols representing a message from the visitor[^1].
 
 
-![George Adamski's UFO Encounters (1953): A Critical Examination - Full-Text]({{ "/assets/images/UFO - Top 100/George Adamski encounters 1953-Full-Text.svg" | relative_url }})
+![George Adamski's UFO Encounters (1953): A Critical Examination - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/George Adamski encounters 1953-Full-Text.svg" | relative_url }})
 ## "Flying Saucers Have Landed" and Subsequent Claims
 
 Adamski's encounter story formed the basis of his 1953 book "Flying Saucers Have Landed," co-authored with British writer Desmond Leslie[^1][^5][^13]. Leslie contributed historical research on ancient UFO sightings, while Adamski provided his personal contact narrative[^13]. The book became an immediate bestseller and transformed Adamski into a celebrity in ufology circles[^13].
@@ -86,7 +87,7 @@ Adamski's claims about habitable conditions on other planets in our solar system
 UFO historian Jerome Clark noted that "even in the early 1950s [Adamski's] assertions about surface conditions on, and the habitability of, Venus, Mars, and the other planets of the solar system flew in the face of massive scientific evidence"[^1].
 
 
-![George Adamski's UFO Encounters (1953): A Critical Examination - P1]({{ "/assets/images/UFO - Top 100/George Adamski encounters 1953-P1.svg" | relative_url }})
+![George Adamski's UFO Encounters (1953): A Critical Examination - P1 (SVG)]({{ "/assets/images/UFO - Top 100/George Adamski encounters 1953-P1.svg" | relative_url }})
 ### Investigations and Exposés
 
 Several investigations into Adamski's claims revealed significant problems with his narrative:
@@ -163,7 +164,7 @@ Whether viewed as a cynical hoaxer, a self-deluded mystic, or something in betwe
 <div>⁂</div>
 
 
-![George Adamski's UFO Encounters (1953): A Critical Examination - P2]({{ "/assets/images/UFO - Top 100/George Adamski encounters 1953-P2.svg" | relative_url }})
+![George Adamski's UFO Encounters (1953): A Critical Examination - P2 (SVG)]({{ "/assets/images/UFO - Top 100/George Adamski encounters 1953-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33]</small>
 

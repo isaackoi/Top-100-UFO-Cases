@@ -1,8 +1,9 @@
 ---
 title: 'The E.J. Smith UFO Sighting of 1947: A Critical Analysis of Early Aviation Encounters'
 permalink: /e-j-smith-sighting-1947/
-date: '2025-05-05 19:56:16 '
-image: /assets/images/UFO - Top 100/E J Smith sighting 1947-Full-Text.svg
+date: '2025-05-10 20:35:25 '
+header:
+  og_image: /assets/images/UFO - Top 100/E J Smith sighting 1947-Full-Text.png
 description: 'Exploring The E.J. Smith UFO Sighting of 1947: A Critical Analysis of Early Aviation Encounters within the context of UFO - Top 100.'
 ---
 
@@ -49,7 +50,7 @@ The sighting was independently verified by the flight's stewardess, Marty Morrow
 In his statements to the press, Smith gave somewhat varied descriptions of the objects. To the Associated Press, he indicated that the objects were "bigger than aircraft," while to United Press he noted that due to the objects' positions relative to the airliner, "we can't say anything about their shape except that they were thin and were smooth on the bottom and rough appearing on the top"[^1].
 
 
-![The E.J. Smith UFO Sighting of 1947: A Critical Analysis of Early Aviation Encounters - Full-Text]({{ "/assets/images/UFO - Top 100/E J Smith sighting 1947-Full-Text.svg" | relative_url }})
+![The E.J. Smith UFO Sighting of 1947: A Critical Analysis of Early Aviation Encounters - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/E J Smith sighting 1947-Full-Text.svg" | relative_url }})
 ### Immediate Aftermath and Investigation
 
 The Smith sighting quickly became front-page news across the country, with his experience reported in "nearly every major newspaper"[^3]. The timing could not have been more impactful—occurring during the July 4th holiday weekend when flying saucer reports were reaching their peak nationwide.
@@ -103,7 +104,7 @@ However, this explanation struggles to account for several reported aspects of t
 3. Captain Smith's assessment (as an experienced commercial pilot familiar with all conventional aircraft of the era) that these objects were unlike any known aircraft
 
 
-![The E.J. Smith UFO Sighting of 1947: A Critical Analysis of Early Aviation Encounters - P1]({{ "/assets/images/UFO - Top 100/E J Smith sighting 1947-P1.svg" | relative_url }})
+![The E.J. Smith UFO Sighting of 1947: A Critical Analysis of Early Aviation Encounters - P1 (SVG)]({{ "/assets/images/UFO - Top 100/E J Smith sighting 1947-P1.svg" | relative_url }})
 ### Weather Phenomena and Atmospheric Effects
 
 Various atmospheric phenomena could potentially create the impression of solid objects in the sky, particularly in twilight conditions:
@@ -185,7 +186,7 @@ The Smith sighting has been documented in several historical compilations focuse
 These secondary sources help place the Smith sighting in its proper historical context and demonstrate its enduring significance in UFO research.
 
 
-![The E.J. Smith UFO Sighting of 1947: A Critical Analysis of Early Aviation Encounters - P2]({{ "/assets/images/UFO - Top 100/E J Smith sighting 1947-P2.svg" | relative_url }})
+![The E.J. Smith UFO Sighting of 1947: A Critical Analysis of Early Aviation Encounters - P2 (SVG)]({{ "/assets/images/UFO - Top 100/E J Smith sighting 1947-P2.svg" | relative_url }})
 ## Gaps in the Record and Future Research Directions
 
 Despite the considerable documentation of the Smith sighting, several significant gaps remain in our understanding:

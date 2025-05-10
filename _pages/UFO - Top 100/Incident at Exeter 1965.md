@@ -1,8 +1,9 @@
 ---
 title: 'The Incident at Exeter (1965): A Critical Analysis of the Evidence'
 permalink: /incident-at-exeter-1965/
-date: '2025-05-05 19:56:18 '
-image: /assets/images/UFO - Top 100/Incident at Exeter 1965-Full-Text.svg
+date: '2025-05-10 20:35:28 '
+header:
+  og_image: /assets/images/UFO - Top 100/Incident at Exeter 1965-Full-Text.png
 description: 'Exploring The Incident at Exeter (1965): A Critical Analysis of the Evidence within the context of UFO - Top 100.'
 ---
 
@@ -33,7 +34,7 @@ Frightened by what he was seeing, Muscarello attempted to get help at the Dining
 After hearing Muscarello's account, Officer Bertrand took him back to the location of the sighting. Upon arriving at the field, both men observed the phenomenon return[^6]. Another officer, David Hunt, also arrived at the scene and witnessed the unusual lights[^1]. All three watched as the object eventually moved away eastward, toward the ocean[^6]. This multiple-witness sighting, including two police officers, would form the core of what became known as the Incident at Exeter.
 
 
-![The Incident at Exeter (1965): A Critical Analysis of the Evidence - Full-Text]({{ "/assets/images/UFO - Top 100/Incident at Exeter 1965-Full-Text.svg" | relative_url }})
+![The Incident at Exeter (1965): A Critical Analysis of the Evidence - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Incident at Exeter 1965-Full-Text.svg" | relative_url }})
 ### The Aftermath and Subsequent Sightings
 
 In the weeks that followed the September 3 incident, approximately 60 additional UFO reports were made in the area around Exeter[^2]. This wave of sightings further established the region as a hotspot for UFO activity in 1965 and contributed to the case's significance in UFO literature. While many of these reports may have been influenced by the publicity surrounding the initial incident, their volume and consistency suggested something unusual was occurring in the area.
@@ -83,7 +84,7 @@ The article discusses the "weapon-focus effect," a psychological phenomenon wher
 The authors suggested that the Pentagon might have missed this explanation at the time simply because the crucial clue "went unseen by anyone who could fully grasp its import and who had time to devote to the case"[^6]. They argued that "everything is much clearer in hindsight"[^6]. This explanation, coming 45 years after the event, represents one of the most thorough skeptical analyses of the case.
 
 
-![The Incident at Exeter (1965): A Critical Analysis of the Evidence - P1]({{ "/assets/images/UFO - Top 100/Incident at Exeter 1965-P1.svg" | relative_url }})
+![The Incident at Exeter (1965): A Critical Analysis of the Evidence - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Incident at Exeter 1965-P1.svg" | relative_url }})
 ### Earlier Skeptical Assessments
 
 Prior to the 2011 explanation, various conventional explanations were proposed over the years. UFO skeptic Philip J. Klass acknowledged that the eyewitnesses had seen something unusual but speculated about other possible candidates—helicopter, balloon, civilian plane—though none seemed to adequately account for all aspects of the witnesses' descriptions[^7].
@@ -172,7 +173,7 @@ This analysis has presented a balanced view of the evidence, acknowledging both 
 <div>⁂</div>
 
 
-![The Incident at Exeter (1965): A Critical Analysis of the Evidence - P2]({{ "/assets/images/UFO - Top 100/Incident at Exeter 1965-P2.svg" | relative_url }})
+![The Incident at Exeter (1965): A Critical Analysis of the Evidence - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Incident at Exeter 1965-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34]</small>
 

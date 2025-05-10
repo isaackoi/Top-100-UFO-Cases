@@ -1,8 +1,9 @@
 ---
 title: 'The Trindade Island UFO Photographs (1958): A Critical Analysis'
 permalink: /trindade-island-photographs-1958/
-date: '2025-05-05 19:56:22 '
-image: /assets/images/UFO - Top 100/Trindade Island photographs 1958-Full-Text.svg
+date: '2025-05-10 20:35:34 '
+header:
+  og_image: /assets/images/UFO - Top 100/Trindade Island photographs 1958-Full-Text.png
 description: 'Exploring The Trindade Island UFO Photographs (1958): A Critical Analysis within the context of UFO - Top 100.'
 ---
 
@@ -29,7 +30,7 @@ According to multiple accounts, at approximately 12:15 PM on January 16, 1958, a
 Barauna described seeing the object after these initial alerts. He characterized it as a gray, metallic, and shiny object that approached the island, flew behind a mountain peak, reappeared, and then departed at high speed over the horizon[^1][^7]. Captain Viegas later described it as "a disc shining with a phosphorescent glow, which—even in daylight—appeared to be brighter than the moon"[^4]. He added that "as it followed its path across the sky, changing to a tilted position, its real shape was clearly outlined against the sky: that of a flattened sphere encircled, at the equator, by a large ring or platform"[^4].
 
 
-![The Trindade Island UFO Photographs (1958): A Critical Analysis - Full-Text]({{ "/assets/images/UFO - Top 100/Trindade Island photographs 1958-Full-Text.svg" | relative_url }})
+![The Trindade Island UFO Photographs (1958): A Critical Analysis - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Trindade Island photographs 1958-Full-Text.svg" | relative_url }})
 ### The Photographs
 
 Barauna had his Rolleiflex camera ready (having intended to photograph the departure preparations) and managed to take six photographs as the object moved[^7][^10]. Of these, four reportedly showed the mysterious object clearly[^10]. The exposures captured the object approaching the island, disappearing behind a mountain peak, reappearing at a lower altitude, and then departing[^10].
@@ -79,7 +80,7 @@ Critics have pointed to discrepancies in the reported number of witnesses and th
 Tim Printy, a UFO researcher who has critically examined the case, observed that "there are no official documents that mention any witness number and they do not name any witnesses other than Barauna"[^6]. However, researcher Martin Shough countered this argument, noting that the lack of named military witnesses in official documents doesn't necessarily undermine the case, as the available official documentation is limited primarily to summary reports rather than detailed witness statements[^6].
 
 
-![The Trindade Island UFO Photographs (1958): A Critical Analysis - P1]({{ "/assets/images/UFO - Top 100/Trindade Island photographs 1958-P1.svg" | relative_url }})
+![The Trindade Island UFO Photographs (1958): A Critical Analysis - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Trindade Island photographs 1958-P1.svg" | relative_url }})
 ### Alternative Explanations
 
 Several conventional explanations have been proposed for what the witnesses might have observed:
@@ -154,7 +155,7 @@ The information in this report draws upon multiple sources, including primary ac
 <div>⁂</div>
 
 
-![The Trindade Island UFO Photographs (1958): A Critical Analysis - P2]({{ "/assets/images/UFO - Top 100/Trindade Island photographs 1958-P2.svg" | relative_url }})
+![The Trindade Island UFO Photographs (1958): A Critical Analysis - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Trindade Island photographs 1958-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35]</small>
 

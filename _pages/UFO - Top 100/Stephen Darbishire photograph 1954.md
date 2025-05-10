@@ -1,8 +1,9 @@
 ---
 title: 'The Stephen Darbishire UFO Photograph (1954): A Critical Examination of the Evidence'
 permalink: /stephen-darbishire-photograph-1954/
-date: '2025-05-05 19:56:21 '
-image: /assets/images/UFO - Top 100/Stephen Darbishire photograph 1954-Full-Text.svg
+date: '2025-05-10 20:35:33 '
+header:
+  og_image: /assets/images/UFO - Top 100/Stephen Darbishire photograph 1954-Full-Text.png
 description: 'Exploring The Stephen Darbishire UFO Photograph (1954): A Critical Examination of the Evidence within the context of UFO - Top 100.'
 ---
 
@@ -32,7 +33,7 @@ Upon returning home, the excited boys reported their experience to Stephen's fat
 The timing was particularly significant, as the UFO phenomenon was gaining tremendous momentum in the United States following George Adamski's sensational claims of contact with Venusians. The publication of his book just months earlier had created fertile ground for public interest in such sightings[^2]. As media outlets picked up the story, the Darbishire photographs quickly became a national sensation, with the boys finding themselves "at the centre of a media storm"[^2][^7].
 
 
-![The Stephen Darbishire UFO Photograph (1954): A Critical Examination of the Evidence - Full-Text]({{ "/assets/images/UFO - Top 100/Stephen Darbishire photograph 1954-Full-Text.svg" | relative_url }})
+![The Stephen Darbishire UFO Photograph (1954): A Critical Examination of the Evidence - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Stephen Darbishire photograph 1954-Full-Text.svg" | relative_url }})
 ### Official Interest
 
 The case generated interest beyond just the media and general public. According to some accounts, Stephen was interviewed by the private secretary of Prince Philip, Duke of Edinburgh, suggesting interest at high governmental levels[^7]. This royal connection would be notable, as Prince Philip maintained a personal interest in UFO phenomena throughout his life. The level of establishment attention further elevated the case's profile within early British UFO history.
@@ -73,7 +74,7 @@ The most compelling argument against the authenticity of the Darbishire photogra
 Critics argue this similarity suggests Darbishire, perhaps influenced by the Adamski book which had created "UFO fervour" at the time, created a hoax based on these widely publicized images[^1]. The timing of the incident—coming shortly after Adamski's publication achieved international attention—lends considerable credence to this theory.
 
 
-![The Stephen Darbishire UFO Photograph (1954): A Critical Examination of the Evidence - P1]({{ "/assets/images/UFO - Top 100/Stephen Darbishire photograph 1954-P1.svg" | relative_url }})
+![The Stephen Darbishire UFO Photograph (1954): A Critical Examination of the Evidence - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Stephen Darbishire photograph 1954-P1.svg" | relative_url }})
 ### Documented Confessions
 
 Several sources explicitly refer to the photographs as fakes. Media Storehouse describes it as "Darbishire Ufo Fake" and states: "Schoolboy Stephen Darbishire photographs this Adamski-type UFO at Coniston, Lancashire: it will be many years before he will admit it is a fake"[^6][^13]. This suggests that, at some point, there was a clear admission of fabrication.
@@ -140,7 +141,7 @@ Whether authentic or fabricated, the photograph's lasting legacy in UFO literatu
 <div>⁂</div>
 
 
-![The Stephen Darbishire UFO Photograph (1954): A Critical Examination of the Evidence - P2]({{ "/assets/images/UFO - Top 100/Stephen Darbishire photograph 1954-P2.svg" | relative_url }})
+![The Stephen Darbishire UFO Photograph (1954): A Critical Examination of the Evidence - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Stephen Darbishire photograph 1954-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26]</small>
 

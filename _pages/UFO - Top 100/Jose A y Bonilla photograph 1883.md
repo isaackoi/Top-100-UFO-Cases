@@ -1,8 +1,9 @@
 ---
 title: 'The Bonilla Observation of 1883: First UFO Photographs or Comet Fragments?'
 permalink: /jose-a-y-bonilla-photograph-1883/
-date: '2025-05-05 19:56:18 '
-image: /assets/images/UFO - Top 100/Jose A y Bonilla photograph 1883-Full-Text.svg
+date: '2025-05-10 20:35:28 '
+header:
+  og_image: /assets/images/UFO - Top 100/Jose A y Bonilla photograph 1883-Full-Text.png
 description: 'Exploring The Bonilla Observation of 1883: First UFO Photographs or Comet Fragments? within the context of UFO - Top 100.'
 ---
 
@@ -37,7 +38,7 @@ The journal published Bonilla's observations and photographs in its January 1, 1
 Despite these reservations, the publication in a respected scientific journal represented a significant acknowledgment of Bonilla's meticulous documentation, if not his interpretation of the events.
 
 
-![The Bonilla Observation of 1883: First UFO Photographs or Comet Fragments? - Full-Text]({{ "/assets/images/UFO - Top 100/Jose A y Bonilla photograph 1883-Full-Text.svg" | relative_url }})
+![The Bonilla Observation of 1883: First UFO Photographs or Comet Fragments? - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Jose A y Bonilla photograph 1883-Full-Text.svg" | relative_url }})
 ## Scientific Analysis and Theories
 
 ### The Comet Hypothesis
@@ -91,7 +92,7 @@ Several factors lend credibility to Bonilla's observations themselves, regardles
 4. The consistency of the observations over a 48-hour period, suggesting a genuine phenomenon rather than a momentary illusion or equipment failure[^1][^10].
 
 
-![The Bonilla Observation of 1883: First UFO Photographs or Comet Fragments? - P1]({{ "/assets/images/UFO - Top 100/Jose A y Bonilla photograph 1883-P1.svg" | relative_url }})
+![The Bonilla Observation of 1883: First UFO Photographs or Comet Fragments? - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Jose A y Bonilla photograph 1883-P1.svg" | relative_url }})
 ### Limitations and Uncertainties
 
 Despite these strengths, several significant limitations affect our ability to reach definitive conclusions:
@@ -141,7 +142,7 @@ Whether interpreted as early evidence of extraterrestrial visitation or as a nea
 <div>⁂</div>
 
 
-![The Bonilla Observation of 1883: First UFO Photographs or Comet Fragments? - P2]({{ "/assets/images/UFO - Top 100/Jose A y Bonilla photograph 1883-P2.svg" | relative_url }})
+![The Bonilla Observation of 1883: First UFO Photographs or Comet Fragments? - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Jose A y Bonilla photograph 1883-P2.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/ios2qhaf0B0" title="YouTube video player (Fn: 14)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

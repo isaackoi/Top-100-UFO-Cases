@@ -1,8 +1,9 @@
 ---
 title: 'The Maureen Puddy UFO Encounters (1972-1973): A Critical Analysis'
 permalink: /maureen-puddy-encounter-1973/
-date: '2025-05-05 19:56:19 '
-image: /assets/images/UFO - Top 100/Maureen Puddy encounter 1973-Full-Text.svg
+date: '2025-05-10 20:35:30 '
+header:
+  og_image: /assets/images/UFO - Top 100/Maureen Puddy encounter 1973-Full-Text.png
 description: 'Exploring The Maureen Puddy UFO Encounters (1972-1973): A Critical Analysis within the context of UFO - Top 100.'
 ---
 
@@ -29,7 +30,7 @@ Frightened by the sight, Puddy returned to her car and drove away, but reported 
 Immediately following this encounter, Puddy went to the Rosebud police station to file an official report. The following day, she contacted the Royal Australian Air Force, which sent her a questionnaire that she found difficult to complete, commenting that "you need to be a pilot to understand some of the questions"[^5].
 
 
-![The Maureen Puddy UFO Encounters (1972-1973): A Critical Analysis - Full-Text]({{ "/assets/images/UFO - Top 100/Maureen Puddy encounter 1973-Full-Text.svg" | relative_url }})
+![The Maureen Puddy UFO Encounters (1972-1973): A Critical Analysis - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Maureen Puddy encounter 1973-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/LzOQ5S_wPAk" title="YouTube video player (Fn: 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -91,7 +92,7 @@ The Puddy case lacks substantial physical evidence that might corroborate her ac
 3. Corroborating witness: The report by Maris Izajulus of seeing a blue streak of light on the same night as Puddy's second encounter provides limited corroboration, though the significant time difference (approximately 45 minutes) complicates this connection[^6].
 
 
-![The Maureen Puddy UFO Encounters (1972-1973): A Critical Analysis - P1]({{ "/assets/images/UFO - Top 100/Maureen Puddy encounter 1973-P1.svg" | relative_url }})
+![The Maureen Puddy UFO Encounters (1972-1973): A Critical Analysis - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Maureen Puddy encounter 1973-P1.svg" | relative_url }})
 ## Counterarguments and Skeptical Perspectives
 
 ### Psychological and Psychodynamic Explanations
@@ -164,7 +165,7 @@ The Puddy case shares certain elements with other UFO encounters while diverging
 ## Follow-Up Research Opportunities
 
 
-![The Maureen Puddy UFO Encounters (1972-1973): A Critical Analysis - P2]({{ "/assets/images/UFO - Top 100/Maureen Puddy encounter 1973-P2.svg" | relative_url }})
+![The Maureen Puddy UFO Encounters (1972-1973): A Critical Analysis - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Maureen Puddy encounter 1973-P2.svg" | relative_url }})
 ### Medical and Psychological Investigation
 
 Given the references to Puddy's medical conditions and life circumstances, several avenues for further research emerge:

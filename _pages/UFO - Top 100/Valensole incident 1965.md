@@ -1,8 +1,9 @@
 ---
 title: 'The 1965 Valensole UFO Encounter: A Critical Analysis of Evidence and Impact'
 permalink: /valensole-incident-1965/
-date: '2025-05-05 19:56:22 '
-image: /assets/images/UFO - Top 100/Valensole incident 1965-Full-Text.svg
+date: '2025-05-10 20:35:34 '
+header:
+  og_image: /assets/images/UFO - Top 100/Valensole incident 1965-Full-Text.png
 description: 'Exploring The 1965 Valensole UFO Encounter: A Critical Analysis of Evidence and Impact within the context of UFO - Top 100.'
 ---
 
@@ -37,7 +38,7 @@ What exactly transpired during this period remains somewhat mysterious. Masse co
 According to Masse, the object floated away and then, remarkably, simply vanished from view at a distance of about 20 meters from the landing site – "One moment the thing was there and the next moment it was not there anymore," as Masse described it[^13]. The paralysis reportedly wore off after approximately 15-20 minutes, allowing Masse to return to Valensole, visibly shaken[^13].
 
 
-![The 1965 Valensole UFO Encounter: A Critical Analysis of Evidence and Impact - Full-Text]({{ "/assets/images/UFO - Top 100/Valensole incident 1965-Full-Text.svg" | relative_url }})
+![The 1965 Valensole UFO Encounter: A Critical Analysis of Evidence and Impact - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Valensole incident 1965-Full-Text.svg" | relative_url }})
 ## Physical Evidence and Immediate Investigation
 
 ### Site Anomalies
@@ -95,7 +96,7 @@ The persistent inability of plants to grow at the site for years afterward repre
 The immediate hardening of the soil at the landing site to a "concrete-like" consistency, as observed by Masse and his daughter the evening after the incident, represents another curious physical anomaly[^13]. This rapid change in soil texture differs from typical soil compaction and suggests some unusual process affected the ground where the craft allegedly rested.
 
 
-![The 1965 Valensole UFO Encounter: A Critical Analysis of Evidence and Impact - P1]({{ "/assets/images/UFO - Top 100/Valensole incident 1965-P1.svg" | relative_url }})
+![The 1965 Valensole UFO Encounter: A Critical Analysis of Evidence and Impact - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Valensole incident 1965-P1.svg" | relative_url }})
 ### Official Documentation
 
 The Valensole case became part of France's official UFO files, which were opened to the public in 2007 when the national space agency (CNES) unveiled a website documenting more than 1,600 UFO sightings spanning five decades[^3]. According to Jacques Patenet, who headed the office for the study of "non-identified aerospatial phenomena," nearly 25% of these cases were classified as "type D," meaning that "despite good or very good data and credible witnesses, we are confronted with something we can't explain"[^3].
@@ -178,7 +179,7 @@ While Masse was the primary witness, it's unclear whether a thorough canvassing 
 Investigating whether any military aircraft or experimental technology was operating in the region during that period could help evaluate the possibility of misidentification. While such records might remain classified, Freedom of Information requests might yield relevant information after nearly 60 years.
 
 
-![The 1965 Valensole UFO Encounter: A Critical Analysis of Evidence and Impact - P2]({{ "/assets/images/UFO - Top 100/Valensole incident 1965-P2.svg" | relative_url }})
+![The 1965 Valensole UFO Encounter: A Critical Analysis of Evidence and Impact - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Valensole incident 1965-P2.svg" | relative_url }})
 ## Conclusion: Evaluating the Valensole Legacy
 
 The 1965 Valensole UFO incident remains one of the most compelling and well-documented close encounter cases in UFO history. The combination of a credible witness, detailed testimony, physical trace evidence, and official investigation elevates it above many similar reports and explains its enduring impact on UFO research.

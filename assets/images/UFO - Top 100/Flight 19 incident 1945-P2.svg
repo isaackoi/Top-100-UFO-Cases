@@ -1,15 +1,176 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="816" height="780" viewBox="0 0 816 780" style="fill:none;stroke:none;fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="708" viewBox="0 0 1080 708" style="fill:none;stroke:none;fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" version="1.1">
   <style class="text-font-style fontImports" data-font-family="Roboto">@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=block');</style>
-  <rect x="0" y="0" width="816" height="7.8E+2" fill="#252a34" stroke="none" id="programmatic_background"/>
-  <g id="g-root-tf_1um5wp41bs1tzb-stroke-fill" data-item-order="-597243" transform="translate(13, 12)">
-    <g id="tf_1um5wp41bs1tzb-fill" stroke="none" fill="#2c2c2c">
+  <rect x="0" y="0" width="1.08E+3" height="708" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <g id="g-root-tf_4mb1l41bseiob-stroke-fill" data-item-order="-707832" transform="translate(18, 12)"/>
+  <g id="g-root-sy_4_cu_qv9waw1bsegi3-stroke-fill" data-item-order="-317369" transform="translate(608, 386)">
+    <g id="sy_4_cu_qv9waw1bsegi3-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f79438" stroke-width="2">
       <g>
-        <path d="M 0 0L 790 0L 790 756L 0 756Z"/>
+        <path d="M 33.850586 154.000488L 45.850586 154.000488M 58.200195 70L 70.200195 70M 87.9997 10L 21.9997 238L 10 238"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-sy_3_cu_mfge6g1bsehac-stroke-fill" data-item-order="-317365" transform="translate(608, 158.00048828125)">
+    <g id="sy_3_cu_mfge6g1bsehac-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#8769fd" stroke-width="2">
+      <g>
+        <path d="M 33.84668 93.999512L 45.84668 93.999512M 58.195313 177.999512L 70.195313 177.999512M 87.9997 238L 21.9997 10L 10 10"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-sy_2_cu_djtdxk1bsei31-stroke-fill" data-item-order="-317361" transform="translate(296, 385.99951171875)">
+    <g id="sy_2_cu_djtdxk1bsei31-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#b7b7b7" stroke-width="2">
+      <g>
+        <path d="M 33.851563 154.000488L 45.851563 154.000488M 58.200195 70.000488L 70.200195 70.000488M 87.9997 10L 21.9997 238L 10 238"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-sy_1_cu_93zvt41bseiva-stroke-fill" data-item-order="-317357" transform="translate(296, 158.00048828125)">
+    <g id="sy_1_cu_93zvt41bseiva-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#fb6762" stroke-width="2">
+      <g>
+        <path d="M 33.851563 93.999512L 45.851563 93.999512M 58.200195 177.999512L 70.200195 177.999512M 87.9997 238L 21.9997 10L 10 10"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-sy_-1_line_93zvt41bseivb-stroke-fill" data-item-order="-317351" transform="translate(32, 386)">
+    <g id="sy_-1_line_93zvt41bseivb-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="2">
+      <g>
+        <path d="M 704 10L 10 10"/>
+        <path d="M 698 16.5L 704.5 10L 698 3.5" stroke-dasharray="none"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_disappea_4osurs1bseghs-stroke-fill" data-item-order="0" transform="translate(800, 362)">
+    <g id="tx_disappea_4osurs1bseghs-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="12" y="34" dominant-baseline="ideographic">Disappearance of Flight </tspan>
+          <tspan x="12" y="58" dominant-baseline="ideographic">19</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_ignoring_1d3md3c1bsegap-stroke-fill" data-item-order="0" transform="translate(512, 422)">
+    <g id="tx_ignoring_1d3md3c1bsegap-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="14.23" y="34" dominant-baseline="ideographic">Ignoring basic </tspan>
+          <tspan x="53.72" y="58" dominant-baseline="ideographic">principles</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_stressun_147zcug1bseh3e-stroke-fill" data-item-order="0" transform="translate(416, 518)">
+    <g id="tx_stressun_147zcug1bseh3e-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="17.78" y="34" dominant-baseline="ideographic">Stress under pressure</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_decision_qwiuh41bseiob-stroke-fill" data-item-order="0" transform="translate(344, 602)">
+    <g id="tx_decision_qwiuh41bseiob-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="13.16" y="34" dominant-baseline="ideographic">Decision-Making Issues</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_poorvisi_dbp7t41bsfvnw-stroke-fill" data-item-order="0" transform="translate(512, 314)">
+    <g id="tx_poorvisi_dbp7t41bsfvnw-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="21.39" y="34" dominant-baseline="ideographic">Poor visibility</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_deterior_8pfs1bsfx8t-stroke-fill" data-item-order="0" transform="translate(416, 230)">
+    <g id="tx_deterior_8pfs1bsfx8t-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="20.7" y="34" dominant-baseline="ideographic">Deteriorating weather</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_weatherc_1hap8081bsfw92-stroke-fill" data-item-order="0" transform="translate(380, 146)">
+    <g id="tx_weatherc_1hap8081bsfw92-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="13.38" y="34" dominant-baseline="ideographic">Weather Conditions</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_communic_13zv6q01bsfuo7-stroke-fill" data-item-order="0" transform="translate(176, 422)">
+    <g id="tx_communic_13zv6q01bsfuo7-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="22.36" y="34" dominant-baseline="ideographic">Communication </tspan>
+          <tspan x="55.66" y="58" dominant-baseline="ideographic">breakdowns</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_faultyna_qoeoco1bsfw94-stroke-fill" data-item-order="0" transform="translate(152, 506)">
+    <g id="tx_faultyna_qoeoco1bsfw94-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="13.23" y="34" dominant-baseline="ideographic">Faulty navigation </tspan>
+          <tspan x="57.36" y="58" dominant-baseline="ideographic">instruments</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_equipmen_ddkn2g1bsfuo9-stroke-fill" data-item-order="0" transform="translate(68, 602)">
+    <g id="tx_equipmen_ddkn2g1bsfuo9-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="17.77" y="34" dominant-baseline="ideographic">Equipment Failures</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_lackofex_244p41bsfw96-stroke-fill" data-item-order="0" transform="translate(152, 314)">
+    <g id="tx_lackofex_244p41bsfw96-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="20.73" y="34" dominant-baseline="ideographic">Lack of experience</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_incorrec_1uneojs1bsfwub-stroke-fill" data-item-order="0" transform="translate(128, 218)">
+    <g id="tx_incorrec_1uneojs1bsfwub-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="21.52" y="34" dominant-baseline="ideographic">Incorrect compass </tspan>
+          <tspan x="111.17" y="58" dominant-baseline="ideographic">readings</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_navigati_1hckn9k1bsfv9g-stroke-fill" data-item-order="0" transform="translate(68, 146)">
+    <g id="tx_navigati_1hckn9k1bsfv9g-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="18.55" y="34" dominant-baseline="ideographic">Navigational Errors</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_analyzin_18gxn0o1bsfw25-stroke-fill" data-item-order="0" transform="translate(338, 50)">
+    <g id="tx_analyzin_18gxn0o1bsfw25-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: 20px Roboto, sans-serif; white-space: pre;" font-size="20px" font-family="Roboto, sans-serif">
+          <tspan x="14.87" y="34" dominant-baseline="ideographic">Analyzing the Disappearance of Flight 19</tspan>
+        </text>
       </g>
     </g>
     <defs>
-      <pattern id="crawlingPattern-f576002d" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#f576002d">
+      <pattern id="crawlingPattern-0000001b" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#0000001b">
         <use href="#crawlingSymbol"/>
       </pattern>
       <symbol id="crawlingSymbol">
@@ -17,196 +178,40 @@
           <path d="M -12.5 12.5 l 13 -13 l 6 0 l -13 13 Z M -0.5 12.5 l 13 -13 l 6 0 l -13 13 Z M 11.5 12.5 l 13 -13 l 6 0 l -13 13 Z"/>
         </g>
       </symbol>
-      <pattern id="crawlingPattern-3604fc1a" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#3604fc1a">
-        <use href="#crawlingSymbol"/>
-      </pattern>
-      <pattern id="crawlingPattern-8484841a" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#8484841a">
-        <use href="#crawlingSymbol"/>
-      </pattern>
-      <pattern id="crawlingPattern-f908001a" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#f908001a">
-        <use href="#crawlingSymbol"/>
-      </pattern>
-      <pattern id="crawlingPattern-ffffff38" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#ffffff38">
-        <use href="#crawlingSymbol"/>
-      </pattern>
-      <pattern id="crawlingPattern-0000001b" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#0000001b">
-        <use href="#crawlingSymbol"/>
-      </pattern>
-      <pattern id="crawlingPattern-5f5f5f1a" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#5f5f5f1a">
-        <use href="#crawlingSymbol"/>
-      </pattern>
     </defs>
   </g>
-  <g id="g-root-sy_4_cu_zp1nm01bs0g05-stroke-fill" data-item-order="-445197" transform="translate(343.9980163574219, 434.0038757324219)">
-    <g id="sy_4_cu_zp1nm01bs0g05-fill" stroke="none" fill="#f79438">
+  <g id="g-root-ic_plan_v63lqg1bsfuha-stroke-fill" data-item-order="0" transform="translate(260, 140)">
+    <g id="ic_plan_v63lqg1bsfuha-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="2">
       <g>
-        <path d="M 346.709031 10L 96.372831 10C 91.032031 10 86.334031 13.5296 84.847231 18.6592L 10.321231 275.773C 8.838031 280.89 12.677231 286 18.005031 286L 268.341031 286C 273.682031 286 278.380031 282.47 279.867031 277.341L 354.393031 20.2272C 355.876031 15.11 352.037031 10 346.709031 10Z"/>
-      </g>
-    </g>
-    <g id="sy_4_cu_zp1nm01bs0g05-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#2c2c2c" stroke-width="2">
-      <g>
-        <path d="M 18.005031 286L 268.341231 286C 273.681931 286 278.379931 282.4704 279.866831 277.3408L 354.392631 20.2272C 355.875931 15.11 352.036731 9.999999 346.708931 10L 96.372731 10C 91.032031 10 86.334031 13.5296 84.847131 18.6593L 10.321331 275.7729C 8.838031 280.89 12.677231 286 18.005031 286ZM 309.830109 106L 78.830109 106"/>
+        <path d="M 34.3675 23.349998L 36.017498 20.049999L 43.067501 17.424999C 44.600426 16.79188 45.329712 15.035828 44.696293 13.503026C 44.06287 11.970224 42.306679 11.241281 40.773998 11.875L 20.269001 20.799999L 16.0795 18.700001C 15.882141 18.600828 15.651102 18.593695 15.448 18.6805L 11.536 20.3605C 11.307465 20.45874 11.142509 20.663902 11.095632 20.908201C 11.048756 21.152502 11.126058 21.404148 11.302 21.58L 16.917999 27.1975C 17.130251 27.41028 17.449028 27.475807 17.728001 27.364L 28.518999 23.049999L 24.425499 33.960999M 34.025501 14.8105L 24.3265 10.807C 24.143028 10.731162 23.936974 10.731162 23.7535 10.807L 20.171501 12.2935C 19.891129 12.409531 19.708294 12.683067 19.708294 12.9865C 19.708294 13.289932 19.891129 13.56347 20.171501 13.679501L 28.599998 17.17M 35.081501 38.5L 35.081501 34.75M 42.400002 43.031502L 36.400002 31.0315C 36.137199 30.54945 35.632034 30.249491 35.083 30.249491C 34.533966 30.249491 34.028801 30.54945 33.765999 31.0315L 27.765999 43.031502C 27.512371 43.4963 27.522585 44.060394 27.792881 44.515709C 28.063175 44.971024 28.553501 45.250099 29.083 45.25L 41.083 45.25C 41.612503 45.250099 42.102825 44.971024 42.373119 44.515709C 42.643414 44.060394 42.653629 43.4963 42.400002 43.031502ZM 35.081501 41.125C 35.288609 41.125 35.456501 41.292892 35.456501 41.5C 35.456501 41.707108 35.288609 41.875 35.081501 41.875C 34.874393 41.875 34.706501 41.707108 34.706501 41.5C 34.706501 41.292892 34.874393 41.125 35.081501 41.125"/>
       </g>
     </g>
   </g>
-  <g id="g-root-sy_3_cu_qtend41bs0gsu-stroke-fill" data-item-order="-445193" transform="translate(344.6405944824219, 110)">
-    <g id="sy_3_cu_qtend41bs0gsu-fill" stroke="none" fill="#8769fd">
+  <g id="g-root-ic_warn_4j6kzs1bsioen-stroke-fill" data-item-order="0" transform="translate(260, 596)">
+    <g id="ic_warn_4j6kzs1bsioen-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="2">
       <g>
-        <path d="M 346.709031 286L 96.372831 286C 91.032031 286 86.334031 282.47 84.847231 277.341L 10.321231 20.2272C 8.838031 15.11 12.677231 10 18.005031 10L 268.341031 10C 273.682031 10 278.380031 13.5296 279.867031 18.6592L 354.393031 275.773C 355.876031 280.89 352.037031 286 346.709031 286Z"/>
-      </g>
-    </g>
-    <g id="sy_3_cu_qtend41bs0gsu-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#2c2c2c" stroke-width="2">
-      <g>
-        <path d="M 18.005031 10L 268.341231 10C 273.681931 10 278.379931 13.5296 279.866831 18.6592L 354.392731 275.7728C 355.875931 280.89 352.036731 286 346.709031 286L 96.372831 286C 91.032031 286 86.334031 282.4704 84.847231 277.3408L 10.321331 20.2272C 8.838031 15.11 12.677231 10 18.005031 10ZM 309.832062 190L 78.832062 190"/>
+        <path d="M 35.860001 41.5C 35.549339 41.5 35.297501 41.248161 35.297501 40.9375C 35.297501 40.626842 35.549339 40.375 35.860001 40.375M 35.860001 41.5C 36.170662 41.5 36.422501 41.248161 36.422501 40.9375C 36.422501 40.626842 36.170662 40.375 35.860001 40.375M 35.860001 37L 35.860001 32.5M 44.579498 41.024502C 44.99263 41.849335 44.948799 42.829342 44.463696 43.614006C 43.978592 44.39867 43.12151 44.8759 42.198997 44.875L 29.521 44.875C 28.598492 44.8759 27.741407 44.39867 27.256304 43.614006C 26.7712 42.829342 26.727375 41.849335 27.140499 41.024502L 33.4795 28.3465C 33.930084 27.444525 34.851746 26.874676 35.860001 26.874676C 36.868259 26.874676 37.789921 27.444525 38.240501 28.3465L 44.579498 41.024502ZM 31.703499 24.700001L 32.485001 21.932499L 37.285 20.318501C 39.146717 19.657137 40.134136 17.625042 39.503593 15.752662C 38.873055 13.880281 36.857536 12.859453 34.975002 13.459001L 17.827 19.225L 15.535 16.9405L 12.1255 18.084999C 11.664127 18.240015 11.311547 18.616522 11.187116 19.087065C 11.062685 19.557608 11.183064 20.059185 11.5075 20.422001L 16.117001 25.581999C 16.88871 26.445198 18.100527 26.765556 19.198 26.3965L 24.247 24.7015L 23.1175 31.088501C 23.031584 31.576401 23.192112 32.07526 23.546444 32.421494C 23.90078 32.767727 24.403215 32.916676 24.889 32.8195L 26.485001 32.5M 30.174999 15.073L 24.807999 11.38C 24.433317 11.121247 23.958483 11.054526 23.527 11.2L 20.947001 12.067C 20.470545 12.226264 20.110735 12.621179 19.996389 13.110361C 19.882042 13.599545 20.02951 14.113035 20.386 14.467L 23.314001 17.380001"/>
       </g>
     </g>
   </g>
-  <g id="g-root-sy_2_cu_dikm2w1bs0f7z-stroke-fill" data-item-order="-445189" transform="translate(32.640594482421875, 434.0038757324219)">
-    <g id="sy_2_cu_dikm2w1bs0f7z-fill" stroke="none" fill="#b7b7b7">
+  <g id="g-root-ic_3_4kfmbs1brz094-stroke-fill" data-item-order="0" transform="translate(572, 140)">
+    <g id="ic_3_4kfmbs1brz094-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="2">
       <g>
-        <path d="M 346.709024 10L 96.372824 10C 91.032024 10 86.334024 13.5296 84.847224 18.6592L 10.321224 275.773C 8.838024 280.89 12.677224 286 18.005024 286L 268.341024 286C 273.682024 286 278.380024 282.47 279.867024 277.341L 354.393024 20.2272C 355.876024 15.11 352.037024 10 346.709024 10Z"/>
-      </g>
-    </g>
-    <g id="sy_2_cu_dikm2w1bs0f7z-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#2c2c2c" stroke-width="2">
-      <g>
-        <path d="M 18.005024 286L 268.341224 286C 273.681924 286 278.379924 282.4704 279.866824 277.3408L 354.392624 20.2272C 355.875924 15.11 352.036724 9.999999 346.708924 10L 96.372724 10C 91.032024 10 86.334024 13.5296 84.847124 18.6593L 10.321324 275.7729C 8.838024 280.89 12.677224 286 18.005024 286ZM 309.830094 106L 78.830094 106"/>
+        <path d="M 12.15625 34.28125L 15.53125 34.28125M 19.28125 34.28125L 31.375 34.28125M 10 10M 39.90625 38.96875L 43.84375 38.96875M 10 10M 23.453125 38.96875L 36.15625 38.96875M 15.53125 43.375L 31.375 43.375M 14.51227 29.550249C 13.593235 28.68265 13.046335 27.49255 12.986545 26.23015C 12.926755 24.967661 13.35871 23.731195 14.19163 22.780615C 15.024549 21.83005 16.193546 21.239395 17.4529 21.13282C 17.56366 19.923176 18.079571 18.786341 18.91708 17.906515C 19.754589 17.02669 20.864635 16.4554 22.067366 16.285194C 23.270096 16.115005 24.495056 16.35586 25.543751 16.968775C 26.59255 17.581675 27.403599 18.530725 27.84565 19.662146C 28.360149 19.59841 28.882299 19.671761 29.35915 19.874756C 29.836151 20.077736 30.251049 20.403175 30.561699 20.81809C 30.872349 21.233006 31.067949 21.722651 31.12855 22.237465C 31.18915 22.752264 31.112499 23.273951 30.9067 23.749645L 30.9067 23.753559C 31.59955 24.222279 32.123199 24.90139 32.400551 25.690599C 32.677898 26.47975 32.694099 27.337299 32.446602 28.136351C 32.199249 28.935551 31.701401 29.633801 31.026701 30.128349M 27.307449 14.203285C 27.537251 13.767895 27.827049 13.36312 28.171001 13.001696C 29.00845 12.121855 30.118601 11.550565 31.321301 11.380375C 32.523998 11.210177 33.74905 11.451043 34.797699 12.063955C 35.8465 12.676855 36.657551 13.625905 37.099602 14.757325C 37.613949 14.69359 38.136101 14.76694 38.613098 14.96992C 39.090099 15.172915 39.504852 15.498355 39.815651 15.91327C 40.126301 16.328186 40.321899 16.817829 40.3825 17.332645C 40.4431 17.847445 40.366451 18.369116 40.1605 18.844826L 40.1605 18.84874C 40.8535 19.317459 41.377151 19.996571 41.654503 20.78578C 41.93185 21.574989 41.947899 22.432465 41.70055 23.23156C 41.453201 24.030655 40.955349 24.72901 40.280647 25.223499C 39.605949 25.717899 38.7901 25.982349 37.953552 25.977551L 36.152649 25.977551"/>
       </g>
     </g>
   </g>
-  <g id="g-root-sy_1_cu_92r3yg1bs0g08-stroke-fill" data-item-order="-445185" transform="translate(32.640594482421875, 110)">
-    <g id="sy_1_cu_92r3yg1bs0g08-fill" stroke="none" fill="#fb6762">
+  <g id="g-root-ic_chec_qtek7c1bs38qx-stroke-fill" data-item-order="0" transform="translate(572, 596)">
+    <g id="ic_chec_qtek7c1bs38qx-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="2">
       <g>
-        <path d="M 346.709024 286L 96.372824 286C 91.032024 286 86.334024 282.47 84.847224 277.341L 10.321224 20.2272C 8.838024 15.11 12.677224 10 18.005024 10L 268.341024 10C 273.682024 10 278.380024 13.5296 279.867024 18.6592L 354.393024 275.773C 355.876024 280.89 352.037024 286 346.709024 286Z"/>
-      </g>
-    </g>
-    <g id="sy_1_cu_92r3yg1bs0g08-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#2c2c2c" stroke-width="2">
-      <g>
-        <path d="M 18.005024 10L 268.341224 10C 273.681924 10 278.379924 13.5296 279.866824 18.6592L 354.392724 275.7728C 355.875924 280.89 352.036724 286 346.709024 286L 96.372824 286C 91.032024 286 86.334024 282.4704 84.847224 277.3408L 10.321324 20.2272C 8.838024 15.11 12.677224 10 18.005024 10ZM 309.83207 190L 78.83207 190"/>
+        <path d="M 35.5285 24.625L 17.5 17.622999L 16.105 13.45C 16.036512 13.247408 15.8848 13.083689 15.688 13L 11.8 11.3215C 11.567951 11.220225 11.300469 11.242863 11.088741 11.381696C 10.877014 11.520529 10.749624 11.756814 10.75 12.01L 10.75 20.622999L 22 25.122999L 12.367 29.622999C 12.096395 29.751791 11.928436 30.029314 11.939854 30.328787C 11.951272 30.62826 12.139874 30.892189 12.4195 31L 16.513 32.5345C 16.665474 32.591312 16.832169 32.597626 16.988501 32.552498L 26.473 29.762501M 32.1325 23.2675L 28.114 13.408C 28.039959 13.224737 27.896566 13.078111 27.715 13L 24.3715 11.569C 24.094971 11.450845 23.774605 11.509282 23.557602 11.717462C 23.340599 11.925641 23.268919 12.243307 23.3755 12.5245L 26.632 21.1M 27.25 36.25C 27.250002 41.220566 31.279438 45.25 36.25 45.25C 41.220566 45.25 45.25 41.220566 45.25 36.25C 45.25 31.279438 41.220566 27.250002 36.25 27.250002C 31.279438 27.250002 27.250002 31.279438 27.250002 36.25ZM 40.261002 33.633999L 35.9035 39.443501C 35.707386 39.70401 35.408134 39.866913 35.082893 39.890205C 34.757648 39.913498 34.438232 39.794907 34.207001 39.564999L 31.956999 37.314999"/>
       </g>
     </g>
   </g>
-  <g id="g-root-sy_-1_cu_1ut14nc1bs0e89-stroke-fill" data-item-order="-445180" transform="translate(27, 386)">
-    <g id="sy_-1_cu_1ut14nc1bs0e89-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="2">
+  <g id="g-root-ic_allo_8x4r0o1bs7fuq-stroke-fill" data-item-order="0" transform="translate(740, 362)">
+    <g id="ic_allo_8x4r0o1bs7fuq-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="2">
       <g>
-        <path d="M 24 34L 718 34M 708 12L 718 33.9989L 708 56L 752 33.9989L 708 12ZM 10 10L 24 33.9988L 10 58M 22 10L 36 33.9988L 22 58M 34 10L 48 33.9988L 34 58"/>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_ignoring_1qd7miw1bs0f0i-stroke-fill" data-item-order="0" transform="translate(431, 650)">
-    <g id="tx_ignoring_1qd7miw1bs0f0i-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="13.25" y="31" dominant-baseline="ideographic">Ignoring basic principles</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_stressun_1hhkma01bs0ft7-stroke-fill" data-item-order="0" transform="translate(467, 566)">
-    <g id="tx_stressun_1hhkma01bs0ft7-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="18.33" y="31" dominant-baseline="ideographic">Stress under pressure</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_decision_1d1r45k1bs0glg-stroke-fill" data-item-order="0" transform="translate(497, 458)">
-    <g id="tx_decision_1d1r45k1bs0glg-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="11.7" y="34" dominant-baseline="ideographic">Decision-Making </tspan>
-          <tspan x="105.33" y="58" dominant-baseline="ideographic">Issues</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_poorvisi_zqx2vc1bs0f0l-stroke-fill" data-item-order="0" transform="translate(503, 146)">
-    <g id="tx_poorvisi_zqx2vc1bs0f0l-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="15.05" y="31" dominant-baseline="ideographic">Poor visibility</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_deterior_qva2mg1bs0fta-stroke-fill" data-item-order="0" transform="translate(467, 230)">
-    <g id="tx_deterior_qva2mg1bs0fta-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="20.53" y="31" dominant-baseline="ideographic">Deteriorating weather</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_weatherc_mfgki01bs0glj-stroke-fill" data-item-order="0" transform="translate(461, 326)">
-    <g id="tx_weatherc_mfgki01bs0glj-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="23.25" y="34" dominant-baseline="ideographic">Weather Conditions</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_communic_94mj7s1bs0f0o-stroke-fill" data-item-order="0" transform="translate(83, 650)">
-    <g id="tx_communic_94mj7s1bs0f0o-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="20.8" y="31" dominant-baseline="ideographic">Communication breakdowns</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_faultyna_1uua2tk1bs0geh-stroke-fill" data-item-order="0" transform="translate(107, 566)">
-    <g id="tx_faultyna_1uua2tk1bs0geh-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="15.23" y="31" dominant-baseline="ideographic">Faulty navigation instruments</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_equipmen_1qegkp41bs0h6q-stroke-fill" data-item-order="0" transform="translate(161, 470)">
-    <g id="tx_equipmen_1qegkp41bs0h6q-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="15.48" y="34" dominant-baseline="ideographic">Equipment Failures</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_lackofex_1hjg1jc1bs0etn-stroke-fill" data-item-order="0" transform="translate(155, 146)">
-    <g id="tx_lackofex_1hjg1jc1bs0etn-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="14.55" y="31" dominant-baseline="ideographic">Lack of experience</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_incorrec_147zj601bs0gek-stroke-fill" data-item-order="0" transform="translate(119, 230)">
-    <g id="tx_incorrec_147zj601bs0gek-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: 15px Roboto, sans-serif; white-space: pre;" font-size="15px" font-family="Roboto, sans-serif">
-          <tspan x="13.8" y="31" dominant-baseline="ideographic">Incorrect compass readings</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_navigati_zs611k1bs0h6t-stroke-fill" data-item-order="0" transform="translate(161, 326)">
-    <g id="tx_navigati_zs611k1bs0h6t-fill" stroke="none" fill="#2c2c2c">
-      <g>
-        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="15.77" y="34" dominant-baseline="ideographic">Navigational Errors</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g id="g-root-tx_analyzin_qn5wi01bs1te6-stroke-fill" data-item-order="0" transform="translate(209, 50)">
-    <g id="tx_analyzin_qn5wi01bs1te6-fill" stroke="none" fill="#f4f4f4">
-      <g>
-        <text style="font: bold 20px Roboto, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Roboto, sans-serif">
-          <tspan x="12.05" y="34" dominant-baseline="ideographic">Analyzing the Disappearance of Flight 19</tspan>
-        </text>
+        <path d="M 10 10M 49.119999 49.112L 50.200001 48.032001C 50.872009 47.361416 51.137054 46.384247 50.896 45.466L 46.568001 29.02L 52.290001 23.296C 54.228039 21.443787 54.558464 18.468277 53.074001 16.236C 52.16468 14.953552 50.736275 14.137156 49.169765 14.004557C 47.603252 13.871959 46.057945 14.436644 44.945999 15.548L 39.02 21.473999L 22.58 17.147999C 21.661848 16.905163 20.683823 17.168711 20.012001 17.84L 18.972 18.880001M 26.969999 34L 21.99 39.641998L 19.324001 39.681999C 18.498131 39.540592 17.653803 39.795372 17.044001 40.370003L 14.378 42.810001C 14.063892 43.122883 13.926047 43.571545 14.010293 44.006817C 14.09454 44.442089 14.389833 44.806915 14.798 44.980003L 19.945999 47.883999L 23.326 53.212002C 23.500593 53.618687 23.865261 53.912518 24.299782 53.99662C 24.734303 54.080719 25.18227 53.944176 25.495998 53.631996L 27.823999 51.411999C 28.482195 50.79229 28.781799 49.881428 28.620001 48.992001L 28.662001 46.312L 34.222 41.115997M 55.91 55.91L 12.09 12.09"/>
       </g>
     </g>
   </g>

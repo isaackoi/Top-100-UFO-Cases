@@ -1,8 +1,9 @@
 ---
 title: 'The Strange Case of Dr. X: The 1968 UFO Encounter and Miraculous Healing'
 permalink: /doctor-x-ufo-encounter-1968/
-date: '2025-05-05 19:56:16 '
-image: /assets/images/UFO - Top 100/Doctor X UFO encounter 1968-Full-Text.svg
+date: '2025-05-10 20:35:25 '
+header:
+  og_image: /assets/images/UFO - Top 100/Doctor X UFO encounter 1968-Full-Text.png
 description: 'Exploring The Strange Case of Dr. X: The 1968 UFO Encounter and Miraculous Healing within the context of UFO - Top 100.'
 ---
 
@@ -31,7 +32,7 @@ After observing this phenomenon for several minutes, the object tilted in the sk
 In a state of shock, Dr. X checked the time (approximately 4:05 AM) and immediately began documenting what he had witnessed through notes and sketches. He then woke his wife to share his experience. Remarkably, his wife noticed that he was no longer limping. Upon examination, they discovered that the wound on his ankle had completely healed, and both the swelling and pain were gone[^1][^11].
 
 
-![The Strange Case of Dr. X: The 1968 UFO Encounter and Miraculous Healing - Full-Text]({{ "/assets/images/UFO - Top 100/Doctor X UFO encounter 1968-Full-Text.svg" | relative_url }})
+![The Strange Case of Dr. X: The 1968 UFO Encounter and Miraculous Healing - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Doctor X UFO encounter 1968-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/V7hOXs4vBqQ" title="YouTube video player (Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -97,7 +98,7 @@ The more extreme claims of levitation and voice predictions are extraordinarily 
 It's worth noting that throughout history, miraculous healings have been attributed to various sources—religious interventions, psychic healers, natural remissions, etc. The attribution of healing to a UFO encounter fits within this broader pattern of associating unexplained medical improvements with extraordinary experiences.
 
 
-![The Strange Case of Dr. X: The 1968 UFO Encounter and Miraculous Healing - P1]({{ "/assets/images/UFO - Top 100/Doctor X UFO encounter 1968-P1.svg" | relative_url }})
+![The Strange Case of Dr. X: The 1968 UFO Encounter and Miraculous Healing - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Doctor X UFO encounter 1968-P1.svg" | relative_url }})
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/nJe0CXNhH9A" title="YouTube video player (Fallback, Fn: 19)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -154,7 +155,7 @@ The case exemplifies the fundamental challenge of UFO research: how to evaluate 
 <div>⁂</div>
 
 
-![The Strange Case of Dr. X: The 1968 UFO Encounter and Miraculous Healing - P2]({{ "/assets/images/UFO - Top 100/Doctor X UFO encounter 1968-P2.svg" | relative_url }})
+![The Strange Case of Dr. X: The 1968 UFO Encounter and Miraculous Healing - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Doctor X UFO encounter 1968-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^40][^41][^42][^43][^44][^45][^46][^47][^48][^49][^50][^51][^52]</small>
 

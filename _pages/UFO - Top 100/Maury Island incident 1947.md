@@ -1,8 +1,9 @@
 ---
 title: 'The Maury Island Incident: A Critical Examination of an Early UFO Encounter'
 permalink: /maury-island-incident-1947/
-date: '2025-05-05 19:56:19 '
-image: /assets/images/UFO - Top 100/Maury Island incident 1947-Full-Text.svg
+date: '2025-05-10 20:35:30 '
+header:
+  og_image: /assets/images/UFO - Top 100/Maury Island incident 1947-Full-Text.png
 description: 'Exploring The Maury Island Incident: A Critical Examination of an Early UFO Encounter within the context of UFO - Top 100.'
 ---
 
@@ -31,7 +32,7 @@ Upon returning to Tacoma, Dahl allegedly reported the incident to his supervisor
 The incident might have remained obscure had it not been for subsequent events. On June 24, 1947 – just three days after the Maury Island incident – private pilot Kenneth Arnold reported seeing nine crescent-shaped objects flying near Mount Rainier at an estimated speed of 1,200 miles per hour[^2]. Unlike Dahl's sighting, Arnold's report received immediate nationwide news coverage, leading to the coining of the term "flying saucer"[^2]. This publicity created a context in which the Maury Island incident would soon gain attention.
 
 
-![The Maury Island Incident: A Critical Examination of an Early UFO Encounter - Full-Text]({{ "/assets/images/UFO - Top 100/Maury Island incident 1947-Full-Text.svg" | relative_url }})
+![The Maury Island Incident: A Critical Examination of an Early UFO Encounter - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Maury Island incident 1947-Full-Text.svg" | relative_url }})
 ### The "Man in Black" Visit
 
 In what would become one of the most influential aspects of the case, Dahl claimed that on the morning after his sighting, he was visited at his home by a mysterious man dressed entirely in black – black suit, hat, tie, and shoes – who allegedly arrived in a black 1947 Buick[^4][^8][^12]. According to Dahl, this man demonstrated detailed knowledge of the previous day's events, despite Dahl not having publicly shared his experience, and warned him not to discuss what he had witnessed[^7][^8]. This encounter is widely considered one of the earliest reported appearances of what would later become known as the "Men in Black" in UFO folklore[^9][^12].
@@ -93,7 +94,7 @@ The most straightforward explanation, and the one officially endorsed by the FBI
 The hoax theory provides a parsimonious explanation for the available evidence without requiring exotic interpretations. However, it leaves unanswered questions about the motivations behind such an elaborate deception and the subsequent tragic deaths of the investigating officers.
 
 
-![The Maury Island Incident: A Critical Examination of an Early UFO Encounter - P1]({{ "/assets/images/UFO - Top 100/Maury Island incident 1947-P1.svg" | relative_url }})
+![The Maury Island Incident: A Critical Examination of an Early UFO Encounter - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Maury Island incident 1947-P1.svg" | relative_url }})
 ### The Meteoric Explanation
 
 An alternative explanation focuses on the possibility that Dahl and his crew witnessed an actual aerial phenomenon, but one with a natural explanation. The research engineer who examined the recovered material suggested it resembled meteoric fragments, noting: "It is full of small gas pockets, and the inner walls are coated with crystal"[^5].
@@ -162,7 +163,7 @@ Several research avenues could yield valuable new insights into this historic ca
 5. **Comparative analysis with similar cases**: A systematic comparison of the Maury Island incident with other early UFO cases from the same period might reveal patterns that could help evaluate its authenticity.
 
 
-![The Maury Island Incident: A Critical Examination of an Early UFO Encounter - P2]({{ "/assets/images/UFO - Top 100/Maury Island incident 1947-P2.svg" | relative_url }})
+![The Maury Island Incident: A Critical Examination of an Early UFO Encounter - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Maury Island incident 1947-P2.svg" | relative_url }})
 ## Conclusion
 
 The Maury Island incident remains one of the most intriguing early UFO cases, combining elements that would become enduring motifs in UFO reports – strange craft, material evidence, mysterious government agents, and official investigations. Despite official conclusions classifying it as a hoax, its influence on UFO discourse and popular culture has been substantial and enduring.

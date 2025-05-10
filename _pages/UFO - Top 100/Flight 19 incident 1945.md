@@ -1,8 +1,9 @@
 ---
 title: 'The Flight 19 Incident (1945): Examining the Evidence Behind a Bermuda Triangle Mystery'
 permalink: /flight-19-incident-1945/
-date: '2025-05-05 19:56:17 '
-image: /assets/images/UFO - Top 100/Flight 19 incident 1945-Full-Text.svg
+date: '2025-05-10 20:35:26 '
+header:
+  og_image: /assets/images/UFO - Top 100/Flight 19 incident 1945-Full-Text.png
 description: 'Exploring The Flight 19 Incident (1945): Examining the Evidence Behind a Bermuda Triangle Mystery within the context of UFO - Top 100.'
 ---
 
@@ -41,7 +42,7 @@ The 1977 film "Close Encounters of the Third Kind" significantly strengthened th
 Some conspiracy theorists have gone further, claiming that the original radio transmissions were tampered with to remove references to UFOs, suggesting a government cover-up[^19]. However, no credible evidence supports such claims.
 
 
-![The Flight 19 Incident (1945): Examining the Evidence Behind a Bermuda Triangle Mystery - Full-Text]({{ "/assets/images/UFO - Top 100/Flight 19 incident 1945-Full-Text.svg" | relative_url }})
+![The Flight 19 Incident (1945): Examining the Evidence Behind a Bermuda Triangle Mystery - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Flight 19 incident 1945-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/hJ7J5wB93Bs" title="YouTube video player (Fn: 18)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -110,7 +111,7 @@ Taylor also reportedly arrived late to the pre-flight briefing and requested to 
 When faced with disorientation, Taylor apparently overruled a junior pilot who correctly suggested they should turn west[^15]. Instead, he directed the flight eastward, further out to sea. This critical error, if accurate, would explain why the aircraft never reached land.
 
 
-![The Flight 19 Incident (1945): Examining the Evidence Behind a Bermuda Triangle Mystery - P1]({{ "/assets/images/UFO - Top 100/Flight 19 incident 1945-P1.svg" | relative_url }})
+![The Flight 19 Incident (1945): Examining the Evidence Behind a Bermuda Triangle Mystery - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Flight 19 incident 1945-P1.svg" | relative_url }})
 ### Weather and Ocean Conditions
 
 By the time search efforts began at approximately 7:30 PM, rescue aircraft reported overcast conditions, showers, turbulence, 25-30 knot winds, and very rough seas[^14]. These conditions would have made ditching extremely hazardous, even if the pilots managed a controlled water landing.
@@ -193,7 +194,7 @@ The case reminds us that in examining potential UFO incidents, we must carefully
 <div>⁂</div>
 
 
-![The Flight 19 Incident (1945): Examining the Evidence Behind a Bermuda Triangle Mystery - P2]({{ "/assets/images/UFO - Top 100/Flight 19 incident 1945-P2.svg" | relative_url }})
+![The Flight 19 Incident (1945): Examining the Evidence Behind a Bermuda Triangle Mystery - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Flight 19 incident 1945-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^40][^41][^42][^43][^44][^45]</small>
 

@@ -1,8 +1,9 @@
 ---
 title: 'The Red Bluff UFO Incident of 1960: A Comprehensive Analysis'
 permalink: /red-bluff-sighting-1960/
-date: '2025-05-05 19:56:20 '
-image: /assets/images/UFO - Top 100/Red Bluff sighting 1960-Full-Text.svg
+date: '2025-05-10 20:35:31 '
+header:
+  og_image: /assets/images/UFO - Top 100/Red Bluff sighting 1960-Full-Text.png
 description: 'Exploring The Red Bluff UFO Incident of 1960: A Comprehensive Analysis within the context of UFO - Top 100.'
 ---
 
@@ -29,7 +30,7 @@ One of the most intriguing aspects of the incident was the apparent responsivene
 Each time the object approached the officers, they experienced strong radio interference—a common electromagnetic effect reported in close UFO encounters[^1][^13]. Additionally, the object emitted a red beam of light that swept across the area and illuminated the ground[^1]. The technology demonstrated appeared to be well beyond the publicly known capabilities of aircraft in 1960.
 
 
-![The Red Bluff UFO Incident of 1960: A Comprehensive Analysis - Full-Text]({{ "/assets/images/UFO - Top 100/Red Bluff sighting 1960-Full-Text.svg" | relative_url }})
+![The Red Bluff UFO Incident of 1960: A Comprehensive Analysis - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Red Bluff sighting 1960-Full-Text.svg" | relative_url }})
 ### Additional Witnesses and Radar Confirmation
 
 After spotting the object, the officers radioed the Tehama County Sheriff's Office and asked Deputy Clarence Fry to contact the local Air Force radar station at Red Bluff[^6]. According to multiple sources, the radar operator initially confirmed detecting an anomalous object in the area at the same time[^1][^7][^13]. This radar confirmation represented potentially significant corroborating evidence of a physical object operating in the airspace.
@@ -81,7 +82,7 @@ This official explanation encountered immediate and substantial criticism. Rober
 A newspaper editorial from the Richmond News Leader further criticized the Air Force's approach: "Attempts to dismiss the reported sightings under the rationale as exhibited by Project Bluebook [sic] won't solve the mystery... and serve only to heighten the suspicion that there's something out there that the air force doesn't want us to know about"[^5].
 
 
-![The Red Bluff UFO Incident of 1960: A Comprehensive Analysis - P1]({{ "/assets/images/UFO - Top 100/Red Bluff sighting 1960-P1.svg" | relative_url }})
+![The Red Bluff UFO Incident of 1960: A Comprehensive Analysis - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Red Bluff sighting 1960-P1.svg" | relative_url }})
 ### Denial of Radar Confirmation
 
 Perhaps the most troubling aspect of the official response was the abrupt denial of radar confirmation. While the radar operator at the Red Bluff Air Station initially confirmed detecting an anomalous object during the officers' sighting, this confirmation was retracted the following day[^1][^7][^13]. This reversal pattern has been observed in other significant UFO cases and raises questions about institutional handling of such reports.
@@ -156,7 +157,7 @@ Perhaps most significantly, the Red Bluff incident demonstrates why certain UFO 
 <div>⁂</div>
 
 
-![The Red Bluff UFO Incident of 1960: A Comprehensive Analysis - P2]({{ "/assets/images/UFO - Top 100/Red Bluff sighting 1960-P2.svg" | relative_url }})
+![The Red Bluff UFO Incident of 1960: A Comprehensive Analysis - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Red Bluff sighting 1960-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33]</small>
 

@@ -1,8 +1,9 @@
 ---
 title: 'The Lakenheath-Bentwaters UFO Incident (1956): A Critical Examination of the Evidence'
 permalink: /lakenheath-episode-1956/
-date: '2025-05-05 19:56:18 '
-image: /assets/images/UFO - Top 100/Lakenheath episode 1956-Full-Text.svg
+date: '2025-05-10 20:35:29 '
+header:
+  og_image: /assets/images/UFO - Top 100/Lakenheath episode 1956-Full-Text.png
 description: 'Exploring The Lakenheath-Bentwaters UFO Incident (1956): A Critical Examination of the Evidence within the context of UFO - Top 100.'
 ---
 
@@ -31,7 +32,7 @@ The pilot of the Venom reported visual contact with a bright, fast-moving object
 This phase of the incident is particularly significant because it involved simultaneous tracking of the phenomenon by ground radar, airborne radar in the fighter jet, and visual confirmation from the pilot[^11]. The Lakenheath controller observed the UFO stop suddenly and begin tailing the RAF fighter, creating a situation where "the fighter pilot was quite concerned and asked what to do"[^5].
 
 
-![The Lakenheath-Bentwaters UFO Incident (1956): A Critical Examination of the Evidence - Full-Text]({{ "/assets/images/UFO - Top 100/Lakenheath episode 1956-Full-Text.svg" | relative_url }})
+![The Lakenheath-Bentwaters UFO Incident (1956): A Critical Examination of the Evidence - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Lakenheath episode 1956-Full-Text.svg" | relative_url }})
 ## Credibility Assessment: Multiple Detection Systems and Expert Witnesses
 
 ### Military Witnesses and Technical Evidence
@@ -75,7 +76,7 @@ The apparent intelligent behavior—such as the object appearing to chase the in
 Another possibility is that the witnesses encountered experimental aircraft or classified technology being tested by Western or Soviet forces. The Cold War was at its height in 1956, with both sides developing advanced reconnaissance capabilities[^9]. However, the reported maneuvers—including instant stops, 180-degree turns, and acceleration from stationary to high speed—exceed the performance capabilities of any known aircraft technology even today, making this explanation problematic.
 
 
-![The Lakenheath-Bentwaters UFO Incident (1956): A Critical Examination of the Evidence - P1]({{ "/assets/images/UFO - Top 100/Lakenheath episode 1956-P1.svg" | relative_url }})
+![The Lakenheath-Bentwaters UFO Incident (1956): A Critical Examination of the Evidence - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Lakenheath episode 1956-P1.svg" | relative_url }})
 ## Historical Impact and Legacy
 
 ### Influence on Official Investigations
@@ -137,7 +138,7 @@ Nearly seven decades later, the Lakenheath-Bentwaters incident remains a testame
 <div>⁂</div>
 
 
-![The Lakenheath-Bentwaters UFO Incident (1956): A Critical Examination of the Evidence - P2]({{ "/assets/images/UFO - Top 100/Lakenheath episode 1956-P2.svg" | relative_url }})
+![The Lakenheath-Bentwaters UFO Incident (1956): A Critical Examination of the Evidence - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Lakenheath episode 1956-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34]</small>
 

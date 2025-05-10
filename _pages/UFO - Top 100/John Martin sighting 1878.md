@@ -1,8 +1,9 @@
 ---
 title: 'The John Martin Sighting of 1878: America''s First "Saucer" Report and Its Historical Significance'
 permalink: /john-martin-sighting-1878/
-date: '2025-05-05 19:56:18 '
-image: /assets/images/UFO - Top 100/John Martin sighting 1878-Full-Text.svg
+date: '2025-05-10 20:35:28 '
+header:
+  og_image: /assets/images/UFO - Top 100/John Martin sighting 1878-Full-Text.png
 description: 'Exploring The John Martin Sighting of 1878: America''s First "Saucer" Report and Its Historical Significance within the context of UFO - Top 100.'
 ---
 
@@ -39,7 +40,7 @@ One of the most historically significant aspects of Martin's report is his use o
 This creates a curious parallel with Kenneth Arnold's 1947 sighting, when a journalist misinterpreted Arnold's description of objects moving "like a saucer skipped across water" as referring to their shape, thus coining the term "flying saucer"[^15]. In both cases, "saucer" was not initially used to describe the shape of the objects, but the term would eventually become synonymous with disc-shaped UFOs in popular culture.
 
 
-![The John Martin Sighting of 1878: America's First "Saucer" Report and Its Historical Significance - Full-Text]({{ "/assets/images/UFO - Top 100/John Martin sighting 1878-Full-Text.svg" | relative_url }})
+![The John Martin Sighting of 1878: America's First "Saucer" Report and Its Historical Significance - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/John Martin sighting 1878-Full-Text.svg" | relative_url }})
 ## Credibility Assessment
 
 ### The Witness
@@ -97,7 +98,7 @@ When evaluating historical UFO accounts, psychological and perceptual factors mu
 Martin's comparisons of the object to an orange and a saucer reflect this tendency to contextualize unusual observations through familiar reference points. His initial uncertainty about the object's nature, followed by his tentative identification as a balloon, demonstrates the cognitive process of trying to classify an anomalous observation.
 
 
-![The John Martin Sighting of 1878: America's First "Saucer" Report and Its Historical Significance - P1]({{ "/assets/images/UFO - Top 100/John Martin sighting 1878-P1.svg" | relative_url }})
+![The John Martin Sighting of 1878: America's First "Saucer" Report and Its Historical Significance - P1 (SVG)]({{ "/assets/images/UFO - Top 100/John Martin sighting 1878-P1.svg" | relative_url }})
 ## Influence and Impact
 
 ### Historical Significance in UFO Literature
@@ -185,7 +186,7 @@ Given the limitations of available evidence, several research approaches could p
 3. **Cultural context study**: Research into 19th-century attitudes toward unusual aerial phenomena and how they were reported and received could enhance understanding of this case's contemporary reception.
 
 
-![The John Martin Sighting of 1878: America's First "Saucer" Report and Its Historical Significance - P2]({{ "/assets/images/UFO - Top 100/John Martin sighting 1878-P2.svg" | relative_url }})
+![The John Martin Sighting of 1878: America's First "Saucer" Report and Its Historical Significance - P2 (SVG)]({{ "/assets/images/UFO - Top 100/John Martin sighting 1878-P2.svg" | relative_url }})
 ### Documentation Verification
 
 1. **Original newspaper examination**: Direct examination of original or microfilmed copies of the Denison Daily News and Dallas Weekly Herald could confirm the complete text of the reports and identify any additional details not included in online excerpts.

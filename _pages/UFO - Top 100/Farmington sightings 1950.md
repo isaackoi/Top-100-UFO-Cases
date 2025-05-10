@@ -1,8 +1,9 @@
 ---
 title: 'The 1950 Farmington UFO Armada: A Critical Examination of Mass Sightings'
 permalink: /farmington-sightings-1950/
-date: '2025-05-05 19:56:16 '
-image: /assets/images/UFO - Top 100/Farmington sightings 1950-Full-Text.svg
+date: '2025-05-10 20:35:25 '
+header:
+  og_image: /assets/images/UFO - Top 100/Farmington sightings 1950-Full-Text.png
 description: 'Exploring The 1950 Farmington UFO Armada: A Critical Examination of Mass Sightings within the context of UFO - Top 100.'
 ---
 
@@ -41,7 +42,7 @@ The Farmington incident occurred during a significant wave of UFO sightings acro
 Additionally, the incident occurred just two years after the alleged Aztec UFO crash of 1948, which was later exposed as a hoax perpetrated by con men Silas Newton and Leo Gebauer[^12]. While there is no established connection between these events, the concentration of notable UFO incidents in New Mexico during this period is remarkable.
 
 
-![The 1950 Farmington UFO Armada: A Critical Examination of Mass Sightings - Full-Text]({{ "/assets/images/UFO - Top 100/Farmington sightings 1950-Full-Text.svg" | relative_url }})
+![The 1950 Farmington UFO Armada: A Critical Examination of Mass Sightings - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Farmington sightings 1950-Full-Text.svg" | relative_url }})
 ## Credibility Assessment of Primary Sources
 
 The credibility of the Farmington sightings rests primarily on multiple witness testimonies and contemporary newspaper documentation. Several factors strengthen the case:
@@ -88,7 +89,7 @@ The proximity to Kirtland Air Force Base and Sandia proving grounds raises the p
 However, no known military aircraft of that era possessed the capabilities described by witnesses—particularly the ability to hover, make sharp turns, and fly in large formations of hundreds of craft. If these were indeed military craft, they would have represented technology far beyond what was publicly known to exist in 1950.
 
 
-![The 1950 Farmington UFO Armada: A Critical Examination of Mass Sightings - P1]({{ "/assets/images/UFO - Top 100/Farmington sightings 1950-P1.svg" | relative_url }})
+![The 1950 Farmington UFO Armada: A Critical Examination of Mass Sightings - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Farmington sightings 1950-P1.svg" | relative_url }})
 ### Psychological Factors
 
 The cultural context of 1950 might have influenced perceptions and interpretations. By this time, "flying saucers" had entered the public consciousness following the 1947 incidents. Mass suggestion could potentially explain why many people reported similar observations, with their expectations shaping their interpretations of ambiguous aerial phenomena.
@@ -149,7 +150,7 @@ What makes the Farmington case particularly valuable is that it represents a mas
 <div>⁂</div>
 
 
-![The 1950 Farmington UFO Armada: A Critical Examination of Mass Sightings - P2]({{ "/assets/images/UFO - Top 100/Farmington sightings 1950-P2.svg" | relative_url }})
+![The 1950 Farmington UFO Armada: A Critical Examination of Mass Sightings - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Farmington sightings 1950-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30]</small>
 

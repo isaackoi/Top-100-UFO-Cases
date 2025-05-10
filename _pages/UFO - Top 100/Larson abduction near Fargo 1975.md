@@ -1,8 +1,9 @@
 ---
 title: 'The 1975 Sandra Larson UFO Abduction Case: A Critical Examination'
 permalink: /larson-abduction-near-fargo-1975/
-date: '2025-05-05 19:56:19 '
-image: /assets/images/UFO - Top 100/Larson abduction near Fargo 1975-Full-Text.svg
+date: '2025-05-10 20:35:29 '
+header:
+  og_image: /assets/images/UFO - Top 100/Larson abduction near Fargo 1975-Full-Text.png
 description: 'Exploring The 1975 Sandra Larson UFO Abduction Case: A Critical Examination within the context of UFO - Top 100.'
 ---
 
@@ -33,7 +34,7 @@ Sandra described being placed on a table where the entity rubbed a clear liquid 
 Jackie's hypnotic regression revealed different, though complementary details. She recalled being outside the car in a state of paralysis, though her recollections were less detailed than her mother's[^2].
 
 
-![The 1975 Sandra Larson UFO Abduction Case: A Critical Examination - Full-Text]({{ "/assets/images/UFO - Top 100/Larson abduction near Fargo 1975-Full-Text.svg" | relative_url }})
+![The 1975 Sandra Larson UFO Abduction Case: A Critical Examination - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Larson abduction near Fargo 1975-Full-Text.svg" | relative_url }})
 ## Evaluating Witness Credibility
 
 The credibility of any UFO encounter rests heavily on witness reliability, consistency of testimony, and corroboration. In the Sandra Larson case, several factors merit consideration when assessing the reliability of the accounts.
@@ -78,7 +79,7 @@ Even within UFO research circles, Sandra's description of the entities she encou
 The skeptical view suggests that this highly idiosyncratic description might point to a fabricated or psychologically-generated experience rather than an encounter with actual extraterrestrial beings[^8].
 
 
-![The 1975 Sandra Larson UFO Abduction Case: A Critical Examination - P1]({{ "/assets/images/UFO - Top 100/Larson abduction near Fargo 1975-P1.svg" | relative_url }})
+![The 1975 Sandra Larson UFO Abduction Case: A Critical Examination - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Larson abduction near Fargo 1975-P1.svg" | relative_url }})
 ## Contemporary Context: UFO Encounters in the 1970s
 
 The Sandra Larson case occurred during what might be considered a golden age of UFO abduction reports in the United States. The most directly comparable contemporary case is the Travis Walton incident, which occurred just months later in November 1975 in Arizona[^3]. Like the Larson case, the Walton incident involved reported missing time and medical examinations aboard a spacecraft, though with significant differences in circumstances and entity descriptions.
@@ -118,7 +119,7 @@ Whether viewed as an authentic encounter with non-human intelligence, a misinter
 <div>⁂</div>
 
 
-![The 1975 Sandra Larson UFO Abduction Case: A Critical Examination - P2]({{ "/assets/images/UFO - Top 100/Larson abduction near Fargo 1975-P2.svg" | relative_url }})
+![The 1975 Sandra Larson UFO Abduction Case: A Critical Examination - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Larson abduction near Fargo 1975-P2.svg" | relative_url }})
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/33OVMrguvBo" title="YouTube video player (Fallback, Fn: 31)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

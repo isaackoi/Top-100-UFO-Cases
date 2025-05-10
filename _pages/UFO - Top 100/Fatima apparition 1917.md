@@ -1,8 +1,9 @@
 ---
 title: 'The Fatima Apparitions of 1917: Miracle or Extraterrestrial Encounter?'
 permalink: /fatima-apparition-1917/
-date: '2025-05-05 19:56:16 '
-image: /assets/images/UFO - Top 100/Fatima apparition 1917-Full-Text.svg
+date: '2025-05-10 20:35:26 '
+header:
+  og_image: /assets/images/UFO - Top 100/Fatima apparition 1917-Full-Text.png
 description: 'Exploring The Fatima Apparitions of 1917: Miracle or Extraterrestrial Encounter? within the context of UFO - Top 100.'
 ---
 
@@ -40,7 +41,7 @@ These details were systematically altered over time to conform to the expected i
 The "Miracle of the Sun" itself bears remarkable similarities to contemporary UFO reports. The description of a spinning, flashing disc performing unusual aerial maneuvers, emitting colored lights and heat, aligns perfectly with countless UFO accounts from later decades. As one analysis puts it, the witnesses observed "a bright disc-like object spinning through the sky and swooping over the crowds below"[^10].
 
 
-![The Fatima Apparitions of 1917: Miracle or Extraterrestrial Encounter? - Full-Text]({{ "/assets/images/UFO - Top 100/Fatima apparition 1917-Full-Text.svg" | relative_url }})
+![The Fatima Apparitions of 1917: Miracle or Extraterrestrial Encounter? - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Fatima apparition 1917-Full-Text.svg" | relative_url }})
 ## Credibility Assessment: Evaluating the Evidence
 
 The Fatima case deserves serious consideration due to several factors that strengthen its credibility:
@@ -70,7 +71,7 @@ The seriousness with which both religious and secular authorities treated the ev
 While the ufological interpretation of Fatima presents a compelling framework, several alternative explanations have been proposed:
 
 
-![The Fatima Apparitions of 1917: Miracle or Extraterrestrial Encounter? - P1]({{ "/assets/images/UFO - Top 100/Fatima apparition 1917-P1.svg" | relative_url }})
+![The Fatima Apparitions of 1917: Miracle or Extraterrestrial Encounter? - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Fatima apparition 1917-P1.svg" | relative_url }})
 ### 1. Psychological and Social Factors
 
 Skeptics suggest the events can be explained through psychological mechanisms such as mass suggestion, pareidolia (finding familiar patterns in ambiguous stimuli), or collective delusion. The socio-political context of Portugal in 1917—during World War I and amid social unrest—created conditions where religious visions might provide comfort and meaning.
@@ -132,7 +133,7 @@ The advance predictions published in Portuguese newspapers deserve deeper invest
 Systematic comparison of the Fatima events with other cases involving both religious apparitions and UFO encounters could yield valuable patterns. Particular attention should be paid to cases where witnesses report communication through unusual means (such as the "buzzing sound" at Fatima) and where multiple interpretative frameworks compete.
 
 
-![The Fatima Apparitions of 1917: Miracle or Extraterrestrial Encounter? - P2]({{ "/assets/images/UFO - Top 100/Fatima apparition 1917-P2.svg" | relative_url }})
+![The Fatima Apparitions of 1917: Miracle or Extraterrestrial Encounter? - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Fatima apparition 1917-P2.svg" | relative_url }})
 ### 5. Psychological and Neurological Research
 
 Modern research into altered states of consciousness, shared psychosis, and temporal lobe sensitivity could provide new frameworks for understanding how the children and the crowd might have perceived and interpreted unusual phenomena.

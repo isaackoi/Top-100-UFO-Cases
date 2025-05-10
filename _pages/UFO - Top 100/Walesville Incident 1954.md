@@ -1,8 +1,9 @@
 ---
 title: 'The Walesville Incident (1954): When a Jet Crash and UFO Claims Converged'
 permalink: /walesville-incident-1954/
-date: '2025-05-05 19:56:23 '
-image: /assets/images/UFO - Top 100/Walesville Incident 1954-Full-Text.svg
+date: '2025-05-10 20:35:35 '
+header:
+  og_image: /assets/images/UFO - Top 100/Walesville Incident 1954-Full-Text.png
 description: 'Exploring The Walesville Incident (1954): When a Jet Crash and UFO Claims Converged within the context of UFO - Top 100.'
 ---
 
@@ -27,7 +28,7 @@ The unmanned aircraft continued its flight path and crashed in Walesville around
 The crucial contextual element that would later fuel UFO speculation was that on the previous day (July 1), numerous residents in the Utica and Oneida County area had reported seeing a "silvery balloon-like object" floating high in the sky, which had prompted more than 1,000 calls to the Utica Newspaper's switchboard[^4].
 
 
-![The Walesville Incident (1954): When a Jet Crash and UFO Claims Converged - Full-Text]({{ "/assets/images/UFO - Top 100/Walesville Incident 1954-Full-Text.svg" | relative_url }})
+![The Walesville Incident (1954): When a Jet Crash and UFO Claims Converged - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Walesville Incident 1954-Full-Text.svg" | relative_url }})
 ## The UFO Connection: From News Report to UFO Lore
 
 The transformation of the Walesville crash from an aviation accident to a significant UFO case can be largely attributed to Major Donald E. Keyhoe, a former Marine Corps pilot and prominent UFO researcher. In his 1955 book "The Flying Saucer Conspiracy," Keyhoe presented a dramatically different account of the incident[^8][^12].
@@ -77,7 +78,7 @@ Proponents of the UFO theory point to several elements:
 6. The claim by Leonard Stringfield, a veteran UFO investigator who was heavily involved with the Ground Observer Corps (GOC), who was listed as a source for the UFO report in Blue Book files[^4][^13].
 
 
-![The Walesville Incident (1954): When a Jet Crash and UFO Claims Converged - P1]({{ "/assets/images/UFO - Top 100/Walesville Incident 1954-P1.svg" | relative_url }})
+![The Walesville Incident (1954): When a Jet Crash and UFO Claims Converged - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Walesville Incident 1954-P1.svg" | relative_url }})
 ### The Mechanical Failure Theory
 
 Skeptics and those supporting the conventional explanation point to:
@@ -143,7 +144,7 @@ Until further documentation becomes available through FOIA requests or archival 
 <div>⁂</div>
 
 
-![The Walesville Incident (1954): When a Jet Crash and UFO Claims Converged - P2]({{ "/assets/images/UFO - Top 100/Walesville Incident 1954-P2.svg" | relative_url }})
+![The Walesville Incident (1954): When a Jet Crash and UFO Claims Converged - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Walesville Incident 1954-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25]</small>
 

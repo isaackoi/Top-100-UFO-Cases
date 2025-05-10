@@ -1,8 +1,9 @@
 ---
 title: 'The Coyne Helicopter UFO Encounter: A Critical Examination of Evidence'
 permalink: /coyne-helicopter-sighting-1973/
-date: '2025-05-10 14:52:12 '
-image: /assets/images/UFO - Top 100/Coyne helicopter sighting 1973-Full-Text.svg
+date: '2025-05-10 20:35:24 '
+header:
+  og_image: /assets/images/UFO - Top 100/Coyne helicopter sighting 1973-Full-Text.png
 description: 'Exploring The Coyne Helicopter UFO Encounter: A Critical Examination of Evidence within the context of UFO - Top 100.'
 ---
 
@@ -47,7 +48,7 @@ According to Coyne's testimony: "I got on the radio, with my heel mike here, and
 Coyne reported that after initial radio contact ("This is Mansfield Approach, go ahead Army one-five-triple-four"), the radios malfunctioned on both VHF and UHF frequencies when he attempted to communicate further. This occurred as the unknown object continued to approach.
 
 
-![The Coyne Helicopter UFO Encounter: A Critical Examination of Evidence - Full-Text]({{ "/assets/images/UFO - Top 100/Coyne helicopter sighting 1973-Full-Text.svg" | relative_url }})
+![The Coyne Helicopter UFO Encounter: A Critical Examination of Evidence - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Coyne helicopter sighting 1973-Full-Text.svg" | relative_url }})
 ### The Close Encounter
 
 As the helicopter descended to approximately 1,700 feet, the object reportedly decelerated and assumed a hovering position above and in front of the helicopter. Three of the four crew members (Coyne, Healey, and Yanacsek) described seeing a cigar-shaped, gray metallic object that filled the entire front windshield. They reported a red light at the nose, a white light at the tail, and a distinctive green beam emanating from the lower part of the object.
@@ -148,7 +149,7 @@ However, this explanation faces significant challenges in accounting for:
 
 
 
-![The Coyne Helicopter UFO Encounter: A Critical Examination of Evidence - P1]({{ "/assets/images/UFO - Top 100/Coyne helicopter sighting 1973-P1.svg" | relative_url }})
+![The Coyne Helicopter UFO Encounter: A Critical Examination of Evidence - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Coyne helicopter sighting 1973-P1.svg" | relative_url }})
 ### Radio Malfunction Explanation
 
 Klass proposed that the radio communication difficulties experienced by the crew had a more prosaic explanation. He suggested that at the helicopter's low altitude during the encounter, it was beyond line-of-sight range to the airports at Cleveland, Columbus, and Akron.
@@ -227,7 +228,7 @@ What distinguishes this case, however, is the professional background of the wit
 <div style="text-align: center">⁂</div>
 
 
-![The Coyne Helicopter UFO Encounter: A Critical Examination of Evidence - P2]({{ "/assets/images/UFO - Top 100/Coyne helicopter sighting 1973-P2.svg" | relative_url }})
+![The Coyne Helicopter UFO Encounter: A Critical Examination of Evidence - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Coyne helicopter sighting 1973-P2.svg" | relative_url }})
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/R0PdCvlNf9I" title="YouTube video player (Fallback, Fn: 88)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

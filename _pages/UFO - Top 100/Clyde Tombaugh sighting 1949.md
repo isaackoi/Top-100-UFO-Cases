@@ -1,8 +1,9 @@
 ---
 title: 'Clyde Tombaugh''s 1949 UFO Sighting: A Critical Analysis of an Astronomer''s Encounter'
 permalink: /clyde-tombaugh-sighting-1949/
-date: '2025-05-05 19:56:16 '
-image: /assets/images/UFO - Top 100/Clyde Tombaugh sighting 1949-Full-Text.svg
+date: '2025-05-10 20:35:24 '
+header:
+  og_image: /assets/images/UFO - Top 100/Clyde Tombaugh sighting 1949-Full-Text.png
 description: 'Exploring Clyde Tombaugh''s 1949 UFO Sighting: A Critical Analysis of an Astronomer''s Encounter within the context of UFO - Top 100.'
 ---
 
@@ -31,7 +32,7 @@ This increased aerial activity prompted significant concern among military and s
 Tombaugh's sighting occurred approximately two years after the famous Roswell incident and during the timeframe of Project Grudge (1948-1951), which had replaced Project Sign as the U.S. Air Force's official UFO investigation program[^4]. This historical context places Tombaugh's experience within a cluster of high-profile UFO reports from the region during this period.
 
 
-![Clyde Tombaugh's 1949 UFO Sighting: A Critical Analysis of an Astronomer's Encounter - Full-Text]({{ "/assets/images/UFO - Top 100/Clyde Tombaugh sighting 1949-Full-Text.svg" | relative_url }})
+![Clyde Tombaugh's 1949 UFO Sighting: A Critical Analysis of an Astronomer's Encounter - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Clyde Tombaugh sighting 1949-Full-Text.svg" | relative_url }})
 ## Credibility Assessment
 
 ### Tombaugh's Expertise and Reliability
@@ -76,7 +77,7 @@ Some skeptics might suggest that Tombaugh experienced a misperception of mundane
 However, Tombaugh's scientific training and observational experience argue against simple misperception. His detailed description includes specific metrics (angle subtended, degrees traversed, speed relative to known phenomena) that suggest careful observation rather than excited misinterpretation[^5]. Furthermore, the corroboration by two additional witnesses reduces the likelihood of purely psychological explanations.
 
 
-![Clyde Tombaugh's 1949 UFO Sighting: A Critical Analysis of an Astronomer's Encounter - P1]({{ "/assets/images/UFO - Top 100/Clyde Tombaugh sighting 1949-P1.svg" | relative_url }})
+![Clyde Tombaugh's 1949 UFO Sighting: A Critical Analysis of an Astronomer's Encounter - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Clyde Tombaugh sighting 1949-P1.svg" | relative_url }})
 ### Secret Military Projects
 
 Given the proximity to White Sands Proving Grounds and other military installations, another possibility is that Tombaugh observed classified military technology. The late 1940s saw rapid advancement in aircraft and missile technology, with some experimental craft potentially capable of unusual flight characteristics.
@@ -133,7 +134,7 @@ More than seven decades after the sighting, Tombaugh's encounter remains a signi
 <div>⁂</div>
 
 
-![Clyde Tombaugh's 1949 UFO Sighting: A Critical Analysis of an Astronomer's Encounter - P2]({{ "/assets/images/UFO - Top 100/Clyde Tombaugh sighting 1949-P2.svg" | relative_url }})
+![Clyde Tombaugh's 1949 UFO Sighting: A Critical Analysis of an Astronomer's Encounter - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Clyde Tombaugh sighting 1949-P2.svg" | relative_url }})
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/BFs3GC58O5U" title="YouTube video player (Fallback, Fn: 23)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

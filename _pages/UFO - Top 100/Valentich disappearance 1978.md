@@ -1,8 +1,9 @@
 ---
 title: 'The Frederick Valentich Disappearance: A Critical Analysis of Australia''s Most Enduring UFO Mystery'
 permalink: /valentich-disappearance-1978/
-date: '2025-05-05 19:56:23 '
-image: /assets/images/UFO - Top 100/Valentich disappearance 1978-Full-Text.svg
+date: '2025-05-10 20:35:35 '
+header:
+  og_image: /assets/images/UFO - Top 100/Valentich disappearance 1978-Full-Text.png
 description: 'Exploring The Frederick Valentich Disappearance: A Critical Analysis of Australia''s Most Enduring UFO Mystery within the context of UFO - Top 100.'
 ---
 
@@ -52,7 +53,7 @@ In his final transmission at 7:12 PM, Valentich stated:
 This was followed by 17 seconds of unidentified metallic scraping sounds before the transmission ended abruptly[^6][^7].
 
 
-![The Frederick Valentich Disappearance: A Critical Analysis of Australia's Most Enduring UFO Mystery - Full-Text]({{ "/assets/images/UFO - Top 100/Valentich disappearance 1978-Full-Text.svg" | relative_url }})
+![The Frederick Valentich Disappearance: A Critical Analysis of Australia's Most Enduring UFO Mystery - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Valentich disappearance 1978-Full-Text.svg" | relative_url }})
 ### Search and Recovery Efforts
 
 Immediately following the loss of contact, authorities initiated search operations. The alert phase was declared at 7:12 PM, followed by the distress phase at 7:33 PM when Valentich failed to arrive at King Island[^6]. A comprehensive sea and air search was conducted, involving oceangoing ships, an RAAF Lockheed P-3 Orion aircraft, and eight civilian aircraft, covering more than 1,000 square miles (2,600 km²)[^9]. Despite these extensive efforts, no trace of Valentich or his aircraft was found, and the search was called off on October 25, 1978[^9].
@@ -93,7 +94,7 @@ Valentich had been involved in several flying incidents, including straying into
 The question of Valentich's reliability as a witness is complicated. While his interest in UFOs might suggest a predisposition to interpret unusual phenomena as UFO-related, his radio communications show he first sought conventional explanations, repeatedly asking about military aircraft and other air traffic[^1][^8].
 
 
-![The Frederick Valentich Disappearance: A Critical Analysis of Australia's Most Enduring UFO Mystery - P1]({{ "/assets/images/UFO - Top 100/Valentich disappearance 1978-P1.svg" | relative_url }})
+![The Frederick Valentich Disappearance: A Critical Analysis of Australia's Most Enduring UFO Mystery - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Valentich disappearance 1978-P1.svg" | relative_url }})
 ## Competing Explanations and Critical Analysis
 
 ### The UFO Hypothesis
@@ -166,7 +167,7 @@ After more than four decades, the central mystery remains unresolved: What happe
 <div>⁂</div>
 
 
-![The Frederick Valentich Disappearance: A Critical Analysis of Australia's Most Enduring UFO Mystery - P2]({{ "/assets/images/UFO - Top 100/Valentich disappearance 1978-P2.svg" | relative_url }})
+![The Frederick Valentich Disappearance: A Critical Analysis of Australia's Most Enduring UFO Mystery - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Valentich disappearance 1978-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31]</small>
 

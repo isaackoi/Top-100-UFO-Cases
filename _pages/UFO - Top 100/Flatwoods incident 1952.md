@@ -1,8 +1,9 @@
 ---
 title: 'The Flatwoods Monster Incident (1952): A Comprehensive Analysis'
 permalink: /flatwoods-incident-1952/
-date: '2025-05-05 19:56:16 '
-image: /assets/images/UFO - Top 100/Flatwoods incident 1952-Full-Text.svg
+date: '2025-05-10 20:35:26 '
+header:
+  og_image: /assets/images/UFO - Top 100/Flatwoods incident 1952-Full-Text.png
 description: 'Exploring The Flatwoods Monster Incident (1952): A Comprehensive Analysis within the context of UFO - Top 100.'
 ---
 
@@ -37,7 +38,7 @@ The primary witnesses to the Flatwoods incident included:
 
 
 
-![The Flatwoods Monster Incident (1952): A Comprehensive Analysis - Full-Text]({{ "/assets/images/UFO - Top 100/Flatwoods incident 1952-Full-Text.svg" | relative_url }})
+![The Flatwoods Monster Incident (1952): A Comprehensive Analysis - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Flatwoods incident 1952-Full-Text.svg" | relative_url }})
 ### The Sequence of Events
 
 At approximately 7:15 PM on September 12, 1952, several boys were playing football at the Flatwoods Elementary School when they observed a bright, fiery object cross the sky and apparently land or crash on a nearby hill on G. Bailey Fisher's farm[^8]. The excited boys ran to the May home, told Kathleen about what they had seen, and she agreed to accompany them to investigate, believing it might be a meteorite[^1].
@@ -89,7 +90,7 @@ The Flatwoods incident received attention from various official sources. Sheriff
 According to Major Donald Keyhoe, the U.S. Air Force sent two investigators disguised as civilian magazine writers to examine the incident[^3][^4]. Declassified documents later confirmed that the Air Force did investigate the Flatwoods incident through Project Blue Book but dismissed it as a "typical meteorite"[^3]. These investigators allegedly concluded that the object was indeed a meteor and that the "monster" was likely an owl perched on a tree branch with underbrush beneath it creating the illusion of a large figure[^4][^5].
 
 
-![The Flatwoods Monster Incident (1952): A Comprehensive Analysis - P1]({{ "/assets/images/UFO - Top 100/Flatwoods incident 1952-P1.svg" | relative_url }})
+![The Flatwoods Monster Incident (1952): A Comprehensive Analysis - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Flatwoods incident 1952-P1.svg" | relative_url }})
 ## Counterarguments and Skeptical Explanations
 
 ### The Meteor and Barn Owl Theory
@@ -170,7 +171,7 @@ In an era of renewed interest in Unidentified Aerial Phenomena (UAP) and governm
 <div>⁂</div>
 
 
-![The Flatwoods Monster Incident (1952): A Comprehensive Analysis - P2]({{ "/assets/images/UFO - Top 100/Flatwoods incident 1952-P2.svg" | relative_url }})
+![The Flatwoods Monster Incident (1952): A Comprehensive Analysis - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Flatwoods incident 1952-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34]</small>
 

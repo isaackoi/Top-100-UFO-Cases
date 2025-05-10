@@ -1,8 +1,9 @@
 ---
 title: 'The Belgian UFO Wave (1989-1990): A Critical Analysis of Radar and Visual Evidence'
 permalink: /belgium-radar-visual-sightings-1989/
-date: '2025-05-05 19:56:15 '
-image: /assets/images/UFO - Top 100/Belgium radar visual sightings 1989-Full-Text.svg
+date: '2025-05-10 20:35:23 '
+header:
+  og_image: /assets/images/UFO - Top 100/Belgium radar visual sightings 1989-Full-Text.png
 description: 'Exploring The Belgian UFO Wave (1989-1990): A Critical Analysis of Radar and Visual Evidence within the context of UFO - Top 100.'
 ---
 
@@ -35,7 +36,7 @@ Over the following hour, the two scrambled F-16s attempted nine separate interce
 After 12:30 AM, radar contacts became sporadic, with the last confirmed contact recorded at 12:40 AM. The F-16s returned to their base shortly after 1:00 AM[^10]. Curiously, no civilian reports were received on the actual date of this incident. However, over the subsequent two weeks, 143 people came forward claiming to have witnessed the events of that night[^9][^10].
 
 
-![The Belgian UFO Wave (1989-1990): A Critical Analysis of Radar and Visual Evidence - Full-Text]({{ "/assets/images/UFO - Top 100/Belgium radar visual sightings 1989-Full-Text.svg" | relative_url }})
+![The Belgian UFO Wave (1989-1990): A Critical Analysis of Radar and Visual Evidence - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Belgium radar visual sightings 1989-Full-Text.svg" | relative_url }})
 ### The Broader Wave
 
 Between November 1989 and April 1990, Belgian authorities documented over 2,000 reports of unidentified flying objects[^14][^15]. These reports came from civilians, police officers, and military personnel across the country. The consistency in descriptions—primarily large triangular craft with lights at each corner and silent operation—contributed to the credibility of the wave as a genuine phenomenon rather than isolated misidentifications or hoaxes.
@@ -87,7 +88,7 @@ Wikipedia notes that the triangular UFOs reported in Belgium between 1989-1990 "
 However, critics of this theory point out that stealth aircraft are designed for speed, not for hovering close to the ground, making sharp turns, and producing only a soft humming sound, as was described in many witness accounts[^8]. Additionally, there has never been any official confirmation of secret U.S. military operations in Belgian airspace during this period.
 
 
-![The Belgian UFO Wave (1989-1990): A Critical Analysis of Radar and Visual Evidence - P1]({{ "/assets/images/UFO - Top 100/Belgium radar visual sightings 1989-P1.svg" | relative_url }})
+![The Belgian UFO Wave (1989-1990): A Critical Analysis of Radar and Visual Evidence - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Belgium radar visual sightings 1989-P1.svg" | relative_url }})
 ### The Blimp Hypothesis
 
 Some investigators proposed that many sightings could be explained by teleguided blimps equipped with bright spotlights and cameras[^8]. This theory gained traction when researchers discovered that such devices had indeed been tested in Belgium in late 1989[^8].
@@ -165,7 +166,7 @@ What makes the Belgian UFO wave worthy of continued study is precisely this comp
 <div>⁂</div>
 
 
-![The Belgian UFO Wave (1989-1990): A Critical Analysis of Radar and Visual Evidence - P2]({{ "/assets/images/UFO - Top 100/Belgium radar visual sightings 1989-P2.svg" | relative_url }})
+![The Belgian UFO Wave (1989-1990): A Critical Analysis of Radar and Visual Evidence - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Belgium radar visual sightings 1989-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32]</small>
 

@@ -1,8 +1,9 @@
 ---
 title: 'The Livingston Incident (1979): A Critical Examination of Scotland''s Most Compelling UFO Case'
 permalink: /livingston-incident-1979/
-date: '2025-05-05 19:56:19 '
-image: /assets/images/UFO - Top 100/Livingston incident 1979-Full-Text.svg
+date: '2025-05-10 20:35:29 '
+header:
+  og_image: /assets/images/UFO - Top 100/Livingston incident 1979-Full-Text.png
 description: 'Exploring The Livingston Incident (1979): A Critical Examination of Scotland''s Most Compelling UFO Case within the context of UFO - Top 100.'
 ---
 
@@ -29,7 +30,7 @@ Taylor stated that when he regained consciousness approximately 20 minutes later
 Upon seeing her husband's disheveled state, with torn clothing and grazes on his chin and thighs, Taylor's wife Mary called for medical assistance and notified the police. Taylor told his wife he had been "attacked by a spaceship thing," an assertion that prompted the involvement of law enforcement[^4][^9].
 
 
-![The Livingston Incident (1979): A Critical Examination of Scotland's Most Compelling UFO Case - Full-Text]({{ "/assets/images/UFO - Top 100/Livingston incident 1979-Full-Text.svg" | relative_url }})
+![The Livingston Incident (1979): A Critical Examination of Scotland's Most Compelling UFO Case - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Livingston incident 1979-Full-Text.svg" | relative_url }})
 ## The Investigation and Physical Evidence
 
 ### Police Response
@@ -77,7 +78,7 @@ In the decades since, the case has been documented in official records, includin
 Despite the physical evidence and Taylor's unwavering testimony, several alternative explanations have been proposed to account for the Livingston Incident without invoking extraterrestrial involvement.
 
 
-![The Livingston Incident (1979): A Critical Examination of Scotland's Most Compelling UFO Case - P1]({{ "/assets/images/UFO - Top 100/Livingston incident 1979-P1.svg" | relative_url }})
+![The Livingston Incident (1979): A Critical Examination of Scotland's Most Compelling UFO Case - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Livingston incident 1979-P1.svg" | relative_url }})
 ### Medical Explanations
 
 The most prominent skeptical explanation suggests that Taylor experienced some form of seizure or medical episode. Specifically, some have attributed his experience to temporal lobe epilepsy accompanied by hallucinations[^1][^13].
@@ -159,7 +160,7 @@ A systematic comparison of the Livingston Incident with other well-documented cl
 While some police documentation has been released through freedom of information requests, a comprehensive release of all files related to the case could potentially provide additional details not currently available to researchers and the public.
 
 
-![The Livingston Incident (1979): A Critical Examination of Scotland's Most Compelling UFO Case - P2]({{ "/assets/images/UFO - Top 100/Livingston incident 1979-P2.svg" | relative_url }})
+![The Livingston Incident (1979): A Critical Examination of Scotland's Most Compelling UFO Case - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Livingston incident 1979-P2.svg" | relative_url }})
 ## Conclusion
 
 The Livingston Incident of 1979 remains one of the most compelling UFO cases in European history due to several factors: the credibility of the witness, the physical evidence documented by police, the absence of obvious conventional explanations, and the consistent testimony maintained by Robert Taylor until his death.

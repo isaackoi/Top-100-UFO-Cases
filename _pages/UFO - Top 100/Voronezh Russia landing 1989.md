@@ -1,8 +1,9 @@
 ---
 title: 'The Voronezh UFO Incident: A Critical Examination of the 1989 Russian Landing Case'
 permalink: /voronezh-russia-landing-1989/
-date: '2025-05-05 19:56:23 '
-image: /assets/images/UFO - Top 100/Voronezh Russia landing 1989-Full-Text.svg
+date: '2025-05-10 20:35:35 '
+header:
+  og_image: /assets/images/UFO - Top 100/Voronezh Russia landing 1989-Full-Text.png
 description: 'Exploring The Voronezh UFO Incident: A Critical Examination of the 1989 Russian Landing Case within the context of UFO - Top 100.'
 ---
 
@@ -39,7 +40,7 @@ The most striking and controversial elements of the children's testimony concern
 Perhaps the most extraordinary claim involved one of the beings pointing a "tube" or "ray gun" at a 16-year-old boy, causing him to temporarily disappear until the craft departed[^1][^4]. This element in particular stretches the boundaries of credibility and has been a focal point for skepticism.
 
 
-![The Voronezh UFO Incident: A Critical Examination of the 1989 Russian Landing Case - Full-Text]({{ "/assets/images/UFO - Top 100/Voronezh Russia landing 1989-Full-Text.svg" | relative_url }})
+![The Voronezh UFO Incident: A Critical Examination of the 1989 Russian Landing Case - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Voronezh Russia landing 1989-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/xaR6eVaW_U0" title="YouTube video player (Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -100,7 +101,7 @@ It's worth noting that the TASS correspondent who filed the Voronezh report late
 ## Counterarguments and Skeptical Perspectives
 
 
-![The Voronezh UFO Incident: A Critical Examination of the 1989 Russian Landing Case - P1]({{ "/assets/images/UFO - Top 100/Voronezh Russia landing 1989-P1.svg" | relative_url }})
+![The Voronezh UFO Incident: A Critical Examination of the 1989 Russian Landing Case - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Voronezh Russia landing 1989-P1.svg" | relative_url }})
 ### Social Context and Media Transformation
 
 Many skeptics point to the broader context of Soviet media during this period. The USSR was experiencing unprecedented media freedom under glasnost, resulting in a flood of previously forbidden topics. As noted in the Los Angeles Times reporting at the time:
@@ -198,7 +199,7 @@ Whether one views the Voronezh incident as evidence of extraterrestrial visitati
 <div>⁂</div>
 
 
-![The Voronezh UFO Incident: A Critical Examination of the 1989 Russian Landing Case - P2]({{ "/assets/images/UFO - Top 100/Voronezh Russia landing 1989-P2.svg" | relative_url }})
+![The Voronezh UFO Incident: A Critical Examination of the 1989 Russian Landing Case - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Voronezh Russia landing 1989-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36]</small>
 

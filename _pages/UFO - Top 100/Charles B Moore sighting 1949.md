@@ -1,8 +1,9 @@
 ---
 title: 'The Charles B. Moore UFO Sighting of 1949: A Scientific Anomaly in the Early UFO Era'
 permalink: /charles-b-moore-sighting-1949/
-date: '2025-05-05 19:56:15 '
-image: /assets/images/UFO - Top 100/Charles B Moore sighting 1949-Full-Text.svg
+date: '2025-05-10 20:35:23 '
+header:
+  og_image: /assets/images/UFO - Top 100/Charles B Moore sighting 1949-Full-Text.png
 description: 'Exploring The Charles B. Moore UFO Sighting of 1949: A Scientific Anomaly in the Early UFO Era within the context of UFO - Top 100.'
 ---
 
@@ -31,7 +32,7 @@ Fifteen minutes after the object disappeared, Moore sent up another weather ball
 The credibility of the Moore sighting rests on several pillars that distinguish it from many other UFO reports of the era.
 
 
-![The Charles B. Moore UFO Sighting of 1949: A Scientific Anomaly in the Early UFO Era - Full-Text]({{ "/assets/images/UFO - Top 100/Charles B Moore sighting 1949-Full-Text.svg" | relative_url }})
+![The Charles B. Moore UFO Sighting of 1949: A Scientific Anomaly in the Early UFO Era - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Charles B Moore sighting 1949-Full-Text.svg" | relative_url }})
 ### Scientific and Technical Expertise
 
 Charles B. Moore was not a casual observer but a scientist with significant expertise in atmospheric physics and balloon operations. At the time of the sighting, he was part of the General Mills balloon group, which was developing advanced high-altitude balloons. Moore would later become professor emeritus of physics at New Mexico Institute of Mining and Technology and former chairman of Tech's Langmuir Laboratory for Atmospheric Research. Over his career, he received numerous scientific awards, including a fellowship from the American Geophysical Union, the Otto C. Winzen Lifetime Achievement Award from the American Institute of Aeronautics and Astronautics, and the Lifetime Achievement Award of the Atmospheric Electricity Community[^11].
@@ -85,7 +86,7 @@ Another possible explanation is that Moore and his team observed a classified mi
 Additionally, the performance characteristics reported—particularly the extreme acceleration and velocity—far exceeded the capabilities of any known aircraft in 1949, including experimental designs. The X-1, which had broken the sound barrier in 1947, was specifically mentioned by Moore as not being responsible, and in any case, its performance envelope was orders of magnitude below what was observed[^1].
 
 
-![The Charles B. Moore UFO Sighting of 1949: A Scientific Anomaly in the Early UFO Era - P1]({{ "/assets/images/UFO - Top 100/Charles B Moore sighting 1949-P1.svg" | relative_url }})
+![The Charles B. Moore UFO Sighting of 1949: A Scientific Anomaly in the Early UFO Era - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Charles B Moore sighting 1949-P1.svg" | relative_url }})
 ### Meteorological or Astronomical Phenomena
 
 Natural phenomena such as unusual cloud formations, ball lightning, sundogs, or meteorites might be considered as explanations. However, the reported duration (approximately one minute), the controlled flight path, and the clear visibility conditions make these explanations problematic. Furthermore, Moore's background in atmospheric physics would have given him familiarity with unusual meteorological phenomena.
@@ -157,7 +158,7 @@ While conventional explanations cannot be ruled out completely, the alternatives
 Whether one interprets the Moore sighting as evidence of extraterrestrial visitation, an unacknowledged human technology, or an as-yet-unexplained natural phenomenon, it deserves its place among the small subset of UFO reports that have withstood scrutiny and continue to challenge our understanding of aerial phenomena.
 
 
-![The Charles B. Moore UFO Sighting of 1949: A Scientific Anomaly in the Early UFO Era - P2]({{ "/assets/images/UFO - Top 100/Charles B Moore sighting 1949-P2.svg" | relative_url }})
+![The Charles B. Moore UFO Sighting of 1949: A Scientific Anomaly in the Early UFO Era - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Charles B Moore sighting 1949-P2.svg" | relative_url }})
 ## References[^1] ATS forum thread on Charles Moore's UFO sighting. https://www.abovetopsecret.com/forum/thread139774/pg1[^2] Blog post on Charles Moore and the Array, New Mexico UFO. http://kevinrandle.blogspot.com/2022/02/charles-moore-and-array-new-mexico-ufo.html[^3] The Roswell Incident at 70: Facts, Not Myths. Skeptical Inquirer. https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/[^4] CIA document on the National Investigations Committee on Aerial Phenomena. https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0[^5] Project Mogul UFO sightings - Roswell Proof. http://www.roswellproof.com/Mogul_UFOs.html[^6] Statement on Unidentified Flying Objects submitted to Congress. http://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf[^7] The Roswell Incident and Project Mogul. https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf[^8] NASW article: No aliens Visit Earth, But The Government Covers Up Anyway. https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm[^9] Roswell and Mogul – The Memories of Charles B. Moore. https://www.davidhalperin.net/roswell-and-mogul-the-memories-of-charles-b-moore-part-1/[^10] UFO Crash at Roswell: The Genesis of a Modern Myth. https://www.smithsonianbooks.com/store/aviation-military-history/ufo-crash-at-roswell-the-genesis-of-a-modern-myth/[^11] Charles B. Moore Dies - A Different Perspective. http://kevinrandle.blogspot.com/2010/03/charles-b-moore-dies.html[^12] UFOs at close sight: Arrey, New Mexico, April 24, 1949. https://ufologie.patrickgross.org/htm/arrey49.htm
 
 <div>⁂</div>

@@ -1,8 +1,9 @@
 ---
 title: 'The Betty and Barney Hill Abduction: A Critical Analysis of America''s First Alien Abduction Case'
 permalink: /betty-and-barney-hill-abduction-1961/
-date: '2025-05-05 19:56:15 '
-image: /assets/images/UFO - Top 100/Betty and Barney Hill abduction 1961-Full-Text.svg
+date: '2025-05-10 20:35:23 '
+header:
+  og_image: /assets/images/UFO - Top 100/Betty and Barney Hill abduction 1961-Full-Text.png
 description: 'Exploring The Betty and Barney Hill Abduction: A Critical Analysis of America''s First Alien Abduction Case within the context of UFO - Top 100.'
 ---
 
@@ -45,7 +46,7 @@ Upon arriving home at dawn, the Hills noted several unexplained anomalies:
 Perhaps most significantly, they realized they had arrived home much later than expected. The 178-mile drive should have taken about four hours, yet they arrived approximately seven hours after their departure—creating a mysterious "missing time" of roughly three hours[^1][^6].
 
 
-![The Betty and Barney Hill Abduction: A Critical Analysis of America's First Alien Abduction Case - Full-Text]({{ "/assets/images/UFO - Top 100/Betty and Barney Hill abduction 1961-Full-Text.svg" | relative_url }})
+![The Betty and Barney Hill Abduction: A Critical Analysis of America's First Alien Abduction Case - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Betty and Barney Hill abduction 1961-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/gKXBpZGhbaI" title="YouTube video player (Fn: 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -106,7 +107,7 @@ Fish stated: "Since we did not have the data to make such a map in 1961 when Bet
 However, this interpretation has faced significant scientific scrutiny, with critics noting the subjective nature of connecting dots into meaningful patterns and questioning the statistical significance of the apparent match.
 
 
-![The Betty and Barney Hill Abduction: A Critical Analysis of America's First Alien Abduction Case - P1]({{ "/assets/images/UFO - Top 100/Betty and Barney Hill abduction 1961-P1.svg" | relative_url }})
+![The Betty and Barney Hill Abduction: A Critical Analysis of America's First Alien Abduction Case - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Betty and Barney Hill abduction 1961-P1.svg" | relative_url }})
 ### The Hypnosis Factor
 
 The reliability of memories recovered through hypnosis forms perhaps the most significant credibility challenge in this case. Modern understanding of memory and hypnosis raises several concerns:
@@ -200,7 +201,7 @@ Despite the extensive documentation of the Hills' case, several important areas 
 5. **Cross-cultural analysis**: Comparing the Hills' experience with pre-1961 abduction narratives from other cultures could clarify whether their account truly established a new template or built upon existing folklore.
 
 
-![The Betty and Barney Hill Abduction: A Critical Analysis of America's First Alien Abduction Case - P2]({{ "/assets/images/UFO - Top 100/Betty and Barney Hill abduction 1961-P2.svg" | relative_url }})
+![The Betty and Barney Hill Abduction: A Critical Analysis of America's First Alien Abduction Case - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Betty and Barney Hill abduction 1961-P2.svg" | relative_url }})
 ## Conclusion
 
 The Betty and Barney Hill abduction case represents a fascinating intersection of psychology, cultural history, and unexplained phenomena. While physical evidence and witness credibility initially appear compelling, significant questions arise regarding the reliability of hypnotically recovered memories, the influence of prior dreams and cultural expectations, and alternative explanations for the observed phenomena.

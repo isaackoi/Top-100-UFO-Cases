@@ -1,8 +1,9 @@
 ---
 title: 'Gordon Cooper''s UFO Sightings (1963): A Comprehensive Analysis of Evidence'
 permalink: /gordon-cooper-sightings-1963/
-date: '2025-05-05 19:56:17 '
-image: /assets/images/UFO - Top 100/Gordon Cooper sightings 1963-Full-Text.svg
+date: '2025-05-10 20:35:27 '
+header:
+  og_image: /assets/images/UFO - Top 100/Gordon Cooper sightings 1963-Full-Text.png
 description: 'Exploring Gordon Cooper''s UFO Sightings (1963): A Comprehensive Analysis of Evidence within the context of UFO - Top 100.'
 ---
 
@@ -27,7 +28,7 @@ Cooper's first significant UFO encounter allegedly occurred in 1951 while servin
 In a 1999 interview, Cooper elaborated that these objects "didn't have wings" and were "saucer-shaped"[^10]. He further claimed they flew in the same kind of formation that military aircraft use, but at higher altitudes than American jets could reach at that time[^10].
 
 
-![Gordon Cooper's UFO Sightings (1963): A Comprehensive Analysis of Evidence - Full-Text]({{ "/assets/images/UFO - Top 100/Gordon Cooper sightings 1963-Full-Text.svg" | relative_url }})
+![Gordon Cooper's UFO Sightings (1963): A Comprehensive Analysis of Evidence - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Gordon Cooper sightings 1963-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/FTFlrcvOOcw" title="YouTube video player (Fn: 10)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -80,7 +81,7 @@ Skeptics have offered several alternative explanations for Cooper's reported sig
 This known phenomenon could potentially explain Cooper's 1963 space sighting, particularly since he described a "glowing" object, which would be consistent with sunlight reflecting off particles near the spacecraft.
 
 
-![Gordon Cooper's UFO Sightings (1963): A Comprehensive Analysis of Evidence - P1]({{ "/assets/images/UFO - Top 100/Gordon Cooper sightings 1963-P1.svg" | relative_url }})
+![Gordon Cooper's UFO Sightings (1963): A Comprehensive Analysis of Evidence - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Gordon Cooper sightings 1963-P1.svg" | relative_url }})
 ### Misquotation and Misattribution
 
 According to The Skeptical Inquirer, some of Cooper's purported UFO reports may be based on deliberate misquotations. For instance, they claim that reports of a "multicolor UFO" were "based on a deliberate misquotation by an author of Cooper's postflight report on a sighting of the Aurora Australis"[^2]. If accurate, this suggests that at least some aspects of Cooper's alleged UFO sightings have been misrepresented.
@@ -142,7 +143,7 @@ What remains undisputed is Cooper's impact on the broader UFO discourse. His wil
 In the words of Cooper himself: "I do believe UFOs exist and that the truly unexplained ones are from some other technologically advanced civilization"[^3]. Whether this conviction was based on genuine encounters with non-human intelligence or misinterpretations of conventional phenomena remains one of the enduring mysteries of the early space age.
 
 
-![Gordon Cooper's UFO Sightings (1963): A Comprehensive Analysis of Evidence - P2]({{ "/assets/images/UFO - Top 100/Gordon Cooper sightings 1963-P2.svg" | relative_url }})
+![Gordon Cooper's UFO Sightings (1963): A Comprehensive Analysis of Evidence - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Gordon Cooper sightings 1963-P2.svg" | relative_url }})
 ## References[^1] https://vocal.media/futurism/the-gordon-cooper-ufo-sightings[^2] https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1978/10/22165459/p41.pdf[^3] https://biblio.co.uk/book/astronaut-gordon-cooper-we-sighted-groups/d/1375719345[^4] https://abcnews.go.com/Nightline/story?id=3349575\&page=1[^5] https://www.youtube.com/watch?v=UESsdUGTPDY[^6] https://numa.net/2022/08/could-gordon-coopers-and-darrell-miklos-uso-be-a-ufo/[^7] https://setiathome.berkeley.edu/forum_thread.php?id=61318[^8] http://www.collectspace.com/news/news-071700a.html[^9] https://en.wikipedia.org/wiki/UFO_conspiracy_theories[^10] https://www.youtube.com/watch?v=FTFlrcvOOcw[^11] https://www.youtube.com/watch?v=fhDU2O-Zo-A
 
 <div>⁂</div>

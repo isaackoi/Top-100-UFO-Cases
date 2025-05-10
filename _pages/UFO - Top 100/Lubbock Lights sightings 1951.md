@@ -1,8 +1,9 @@
 ---
 title: 'The Lubbock Lights of 1951: A Critical Examination of a UFO Cold Case'
 permalink: /lubbock-lights-sightings-1951/
-date: '2025-05-05 19:56:19 '
-image: /assets/images/UFO - Top 100/Lubbock Lights sightings 1951-Full-Text.svg
+date: '2025-05-10 20:35:30 '
+header:
+  og_image: /assets/images/UFO - Top 100/Lubbock Lights sightings 1951-Full-Text.png
 description: 'Exploring The Lubbock Lights of 1951: A Critical Examination of a UFO Cold Case within the context of UFO - Top 100.'
 ---
 
@@ -31,7 +32,7 @@ The case gained additional significance when Carl Hart Jr., a freshman at Texas 
 Hart's photographs showed a V-shaped formation of approximately 18 lights (though the exact number varied between photos) and became some of the most widely published and discussed UFO photographs of the era. The images were published in newspapers nationwide and appeared in LIFE magazine[^3][^7].
 
 
-![The Lubbock Lights of 1951: A Critical Examination of a UFO Cold Case - Full-Text]({{ "/assets/images/UFO - Top 100/Lubbock Lights sightings 1951-Full-Text.svg" | relative_url }})
+![The Lubbock Lights of 1951: A Critical Examination of a UFO Cold Case - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Lubbock Lights sightings 1951-Full-Text.svg" | relative_url }})
 ### Widespread Sightings in the Region
 
 Following the professors' initial sighting and subsequent media coverage, hundreds of residents in and around Lubbock reported seeing similar formations of lights over a two-week period. Reports came from various surrounding towns, and even tower operators at a nearby airport confirmed multiple sightings of the strange lights[^7][^9].
@@ -90,7 +91,7 @@ Further undermining the plover theory, a chief photographer for the Lubbock Aval
 Even Ruppelt himself eventually abandoned the bird explanation, writing that "they weren't birds"[^9].
 
 
-![The Lubbock Lights of 1951: A Critical Examination of a UFO Cold Case - P1]({{ "/assets/images/UFO - Top 100/Lubbock Lights sightings 1951-P1.svg" | relative_url }})
+![The Lubbock Lights of 1951: A Critical Examination of a UFO Cold Case - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Lubbock Lights sightings 1951-P1.svg" | relative_url }})
 ### Refracted Light Theory
 
 Harvard astronomer Dr. Donald Menzel proposed that the professors were merely observing refracted city lights, an explanation he published in Look and Time magazines, as well as in his book "Flying Saucers"[^7].
@@ -180,7 +181,7 @@ Several avenues of research could potentially shed new light on this cold case:
 6. **Surviving Witness Interviews**: While the professors and most direct witnesses have likely passed away, there may still be living witnesses who were children or young adults at the time and whose recollections could be valuable.
 
 
-![The Lubbock Lights of 1951: A Critical Examination of a UFO Cold Case - P2]({{ "/assets/images/UFO - Top 100/Lubbock Lights sightings 1951-P2.svg" | relative_url }})
+![The Lubbock Lights of 1951: A Critical Examination of a UFO Cold Case - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Lubbock Lights sightings 1951-P2.svg" | relative_url }})
 ## Conclusion
 
 The Lubbock Lights incident of 1951 remains one of the most compelling and well-documented UFO cases in American history. The credibility of the witnesses, particularly the four professors, the photographic evidence captured by Carl Hart Jr., and the multiple corroborating reports from independent observers all contribute to the case's significance.

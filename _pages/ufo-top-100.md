@@ -1,11 +1,10 @@
 ---
-title: Introduction
-permalink: /
-header:
-  image: /assets/images/0-title.png      # For page header display
-  og_image: /assets/images/0-title.png # Specific for OG/Twitter (can be same as header.image)
+title: Ufo   Top 100 Topic Index
+permalink: /ufo-top-100/
 description: Index of pages related to the UFO - Top 100 topic.
 date: '2025-05-10'
+header:
+  og_image: /assets/images/website-default.png
 ---
 Back in around 2002, I thought that it might be interesting to find out which UFO cases are most frequently discussed in books about UFOs and SETI.
 
@@ -156,4 +155,4 @@ The next time you hear someone refer a skeptic or scientist to the UFO literatur
 
 Is that what you want? If not, you will need to be more helpful than merely suggesting they read “the literature”.
 
-![Title image]({{ "/assets/images/0-title.png" | relative_url }})
+![Title image]({{ "/assets/images/website-default.png" | relative_url }})

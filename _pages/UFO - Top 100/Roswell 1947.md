@@ -1,8 +1,9 @@
 ---
 title: 'The Roswell Incident (1947): A Critical Examination of the Evidence'
 permalink: /roswell-1947/
-date: '2025-05-05 19:56:20 '
-image: /assets/images/UFO - Top 100/Roswell 1947-Full-Text.svg
+date: '2025-05-10 20:35:32 '
+header:
+  og_image: /assets/images/UFO - Top 100/Roswell 1947-Full-Text.png
 description: 'Exploring The Roswell Incident (1947): A Critical Examination of the Evidence within the context of UFO - Top 100.'
 ---
 
@@ -31,7 +32,7 @@ As the narrative developed through the 1980s and 1990s, new elements were contin
 In this evolving variant of the Roswell legend, the alien bodies were said to have been ejected from the craft shortly before it exploded over the ranch, with the government allegedly determining that the ship was a "short range reconnaissance craft"[^9]. These more elaborate accounts bore little resemblance to the original reports from 1947.
 
 
-![The Roswell Incident (1947): A Critical Examination of the Evidence - Full-Text]({{ "/assets/images/UFO - Top 100/Roswell 1947-Full-Text.svg" | relative_url }})
+![The Roswell Incident (1947): A Critical Examination of the Evidence - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Roswell 1947-Full-Text.svg" | relative_url }})
 ## Official Explanations and Government Response
 
 The U.S. government's explanations for the Roswell incident have themselves evolved over time, contributing to public skepticism and fueling conspiracy theories.
@@ -97,7 +98,7 @@ According to contemporary accounts, the debris recovered in 1947 included metall
 Carl Sagan and Phil Klass noted that aspects of the debris reported as anomalous—including abstract symbols and lightweight foil—matched the materials used by Project Mogul[^9]. The chain of custody for the Roswell debris remains a contentious issue, with no physical evidence publicly available for independent analysis today.
 
 
-![The Roswell Incident (1947): A Critical Examination of the Evidence - P1]({{ "/assets/images/UFO - Top 100/Roswell 1947-P1.svg" | relative_url }})
+![The Roswell Incident (1947): A Critical Examination of the Evidence - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Roswell 1947-P1.svg" | relative_url }})
 ### Document Authenticity Issues
 
 Beyond physical debris, document authenticity has become a central issue in the Roswell case. The most notorious example involves the "Majestic-12" or "MJ-12" documents that emerged in the 1980s, purporting to prove the existence of a secret government group formed to handle extraterrestrial matters after Roswell.
@@ -189,7 +190,7 @@ What is clear is that Roswell's significance extends far beyond the events of Ju
 <div>⁂</div>
 
 
-![The Roswell Incident (1947): A Critical Examination of the Evidence - P2]({{ "/assets/images/UFO - Top 100/Roswell 1947-P2.svg" | relative_url }})
+![The Roswell Incident (1947): A Critical Examination of the Evidence - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Roswell 1947-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35]</small>
 

@@ -1,8 +1,9 @@
 ---
 title: 'Orfeo Angelucci''s Extraterrestrial Encounters: A Critical Analysis of the 1950s Contactee Experience'
 permalink: /orfeo-angelucci-encounter-1955/
-date: '2025-05-05 19:56:20 '
-image: /assets/images/UFO - Top 100/Orfeo Angelucci encounter 1955-Full-Text.svg
+date: '2025-05-10 20:35:31 '
+header:
+  og_image: /assets/images/UFO - Top 100/Orfeo Angelucci encounter 1955-Full-Text.png
 description: 'Exploring Orfeo Angelucci''s Extraterrestrial Encounters: A Critical Analysis of the 1950s Contactee Experience within the context of UFO - Top 100.'
 ---
 
@@ -31,7 +32,7 @@ During this experiment, Angelucci and family members who had gathered to watch a
 Angelucci's primary contact experiences occurred in 1952 while he was working night shifts at the Lockheed plant in California. His narrative details three significant encounters:
 
 
-![Orfeo Angelucci's Extraterrestrial Encounters: A Critical Analysis of the 1950s Contactee Experience - Full-Text]({{ "/assets/images/UFO - Top 100/Orfeo Angelucci encounter 1955-Full-Text.svg" | relative_url }})
+![Orfeo Angelucci's Extraterrestrial Encounters: A Critical Analysis of the 1950s Contactee Experience - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Orfeo Angelucci encounter 1955-Full-Text.svg" | relative_url }})
 #### First Encounter (May 23/24, 1952)
 
 In the early morning hours after leaving the Lockheed plant, Angelucci reported experiencing "tingling sensations" while driving home[^5]. He then observed a "glowing red oval object" in the sky, which he decided to follow[^5]. On a deserted stretch of highway near Griffith Park in Los Angeles (a location he would later revisit), two smaller objects—described as "eerie balls of green fire" about three feet in diameter—separated from the main craft and approached his car[^2][^5][^7][^12].
@@ -91,7 +92,7 @@ Swiss psychiatrist Carl G. Jung examined Angelucci's account in detail in his bo
 Jung's analysis, along with media ridicule, contributed to Angelucci's story being largely disregarded by mainstream society[^3]. Jung's approach suggested that Angelucci's experiences represented archetypal material emerging from the collective unconscious, manifested through the technological imagery of the atomic age.
 
 
-![Orfeo Angelucci's Extraterrestrial Encounters: A Critical Analysis of the 1950s Contactee Experience - P1]({{ "/assets/images/UFO - Top 100/Orfeo Angelucci encounter 1955-P1.svg" | relative_url }})
+![Orfeo Angelucci's Extraterrestrial Encounters: A Critical Analysis of the 1950s Contactee Experience - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Orfeo Angelucci encounter 1955-P1.svg" | relative_url }})
 ### Cultural Context and Timing
 
 Angelucci's experiences occurred during the height of the early flying saucer phenomenon (1947-1954) and Cold War tensions. His warnings about nuclear destruction aligned with widespread cultural anxieties of the period[^5][^11]. The timing of his encounters—coming after the initial flying saucer craze began but before scientific scrutiny intensified—placed him among the first wave of contactees who would help shape UFO mythology.
@@ -167,7 +168,7 @@ What makes Angelucci's case particularly interesting is its hybrid nature—blen
 Whether interpreted as actual contact with non-human intelligence or as a psychosocial phenomenon reflecting the cultural preoccupations of his time, Angelucci's narrative remains a fascinating artifact of the early UFO era. Its continued study offers insights not only into the evolution of UFO beliefs but also into the broader human tendency to frame unexplained experiences within spiritual and technological frameworks that reflect the anxieties and aspirations of their era.
 
 
-![Orfeo Angelucci's Extraterrestrial Encounters: A Critical Analysis of the 1950s Contactee Experience - P2]({{ "/assets/images/UFO - Top 100/Orfeo Angelucci encounter 1955-P2.svg" | relative_url }})
+![Orfeo Angelucci's Extraterrestrial Encounters: A Critical Analysis of the 1950s Contactee Experience - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Orfeo Angelucci encounter 1955-P2.svg" | relative_url }})
 ## References[^1] Encyclopedia.com: Angelucci, Orfeo (1912-1993)[^2] Goodreads: The Secret Of The Saucers: How UFOs Work[^3] Wikipedia: Orfeo Angelucci[^4] Jung's Letter to Major Donald E. Keyhoe[^5] UFO AC: Orfeo Angelucci and his close encounter with the aliens[^6] Sacred-Texts: The Secret of the Saucers: Contents[^7] Messianism and UFO Sightings as Counterfactual[^8] Sacred-Texts: Chapter XIV. The True Nature of the Saucer Mystery[^9] Quail Bell Magazine: Providentia: Orfeo Ascending[^10] Digital Commons: The UFO Contact Movement from the 1950's to the Present[^11] Messy Nessy Chic: Declassified: That Time the US Military made Flying Saucers[^12] Astonishing Legends: Ep 73: Orfeo Angelucci - Secret of the Saucers[^13] SD Online: Flying Saucers Are Real! The US Navy, Unidentified Flying Objects[^14] Goodreads: The Secret Of The Saucers by Orfeo M. Angelucci
 
 <div>⁂</div>

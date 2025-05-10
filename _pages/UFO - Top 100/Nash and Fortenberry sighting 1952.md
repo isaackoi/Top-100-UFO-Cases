@@ -1,8 +1,9 @@
 ---
 title: 'The Nash-Fortenberry UFO Sighting (1952): A Critical Examination of the Evidence'
 permalink: /nash-and-fortenberry-sighting-1952/
-date: '2025-05-05 19:56:19 '
-image: /assets/images/UFO - Top 100/Nash and Fortenberry sighting 1952-Full-Text.svg
+date: '2025-05-10 20:35:30 '
+header:
+  og_image: /assets/images/UFO - Top 100/Nash and Fortenberry sighting 1952-Full-Text.png
 description: 'Exploring The Nash-Fortenberry UFO Sighting (1952): A Critical Examination of the Evidence within the context of UFO - Top 100.'
 ---
 
@@ -27,7 +28,7 @@ The pilots observed what appeared to be coordinated, intelligent maneuvers. The 
 The entire sighting lasted approximately 12 seconds, but the pilots claimed they were able to observe significant details about the objects' appearance, speed, and flight characteristics. They estimated the objects were flying at approximately 20,000 km/h, exhibited intelligent control, and demonstrated flight capabilities far beyond any known aircraft of that era[^4].
 
 
-![The Nash-Fortenberry UFO Sighting (1952): A Critical Examination of the Evidence - Full-Text]({{ "/assets/images/UFO - Top 100/Nash and Fortenberry sighting 1952-Full-Text.svg" | relative_url }})
+![The Nash-Fortenberry UFO Sighting (1952): A Critical Examination of the Evidence - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Nash and Fortenberry sighting 1952-Full-Text.svg" | relative_url }})
 ## Historical Context: The 1952 UFO Wave
 
 The Nash-Fortenberry sighting did not occur in isolation. It happened during what UFO researchers refer to as the "1952 UFO flap," a period of unprecedented UFO activity in the United States. During a six-month period in 1952, the U.S. Air Force received over 717 new UFO reports, compared to just 615 reports in the four previous years combined[^3].
@@ -76,7 +77,7 @@ Nash directly refuted Menzel's explanations in correspondence: "You think that c
 He continued: "Can you imagine, Dr. Menzel, that we have seen and studied thousands of different reflections? Do you think we haven't seen thousands of meteorites? I've been watching them all night.... Do you think we can't distinguish reflections from an ordinary airplane and have never seen the northern lights?"[^4].
 
 
-![The Nash-Fortenberry UFO Sighting (1952): A Critical Examination of the Evidence - P1]({{ "/assets/images/UFO - Top 100/Nash and Fortenberry sighting 1952-P1.svg" | relative_url }})
+![The Nash-Fortenberry UFO Sighting (1952): A Critical Examination of the Evidence - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Nash and Fortenberry sighting 1952-P1.svg" | relative_url }})
 ### The Venus Mirage Theory
 
 Another skeptical researcher, Steuart Campbell, proposed in his book "The UFO Mystery Solved" (1994) that the pilots' UFO sighting was actually a mirage of the planet Venus[^1]. This explanation attempts to account for the bright luminosity reported but does not adequately address the multiple objects in formation or their complex movements.
@@ -153,7 +154,7 @@ As government agencies and scientific institutions adopt more open approaches to
 Whether one interprets the Nash-Fortenberry sighting as evidence of extraterrestrial visitation, misidentification of conventional phenomena, or something else entirely depends largely on one's assessment of witness testimony versus the probability of exotic explanations. What remains clear is that seven decades later, their twelve-second encounter continues to challenge our understanding of what is possible in our skies.
 
 
-![The Nash-Fortenberry UFO Sighting (1952): A Critical Examination of the Evidence - P2]({{ "/assets/images/UFO - Top 100/Nash and Fortenberry sighting 1952-P2.svg" | relative_url }})
+![The Nash-Fortenberry UFO Sighting (1952): A Critical Examination of the Evidence - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Nash and Fortenberry sighting 1952-P2.svg" | relative_url }})
 ## References
 
 Due to the historical nature of this case, primary sources include official government documents, contemporaneous reports, and the direct testimony of the witnesses themselves, supplemented by later analyses from both believers and skeptics in the UFO research community.

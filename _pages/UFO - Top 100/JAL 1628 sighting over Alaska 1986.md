@@ -1,8 +1,9 @@
 ---
 title: 'The JAL 1628 UFO Incident: A Critical Analysis of the 1986 Alaska Case'
 permalink: /jal-1628-sighting-over-alaska-1986/
-date: '2025-05-05 19:56:18 '
-image: /assets/images/UFO - Top 100/JAL 1628 sighting over Alaska 1986-Full-Text.svg
+date: '2025-05-10 20:35:28 '
+header:
+  og_image: /assets/images/UFO - Top 100/JAL 1628 sighting over Alaska 1986-Full-Text.png
 description: 'Exploring The JAL 1628 UFO Incident: A Critical Analysis of the 1986 Alaska Case within the context of UFO - Top 100.'
 ---
 
@@ -27,7 +28,7 @@ What elevates this case above many other UFO reports is that it wasn't limited t
 During the encounter, ARTCC asked a United Airlines flight (Flight 69) that was in the area to make a visual confirmation of the objects. However, by the time the United flight arrived, Terauchi reported that "when the United plane came by our side the spaceship disappeared suddenly"[^3][^4]. The JAL flight safely landed in Anchorage shortly thereafter.
 
 
-![The JAL 1628 UFO Incident: A Critical Analysis of the 1986 Alaska Case - Full-Text]({{ "/assets/images/UFO - Top 100/JAL 1628 sighting over Alaska 1986-Full-Text.svg" | relative_url }})
+![The JAL 1628 UFO Incident: A Critical Analysis of the 1986 Alaska Case - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/JAL 1628 sighting over Alaska 1986-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/RHC_pfTXY-w" title="YouTube video player (Fn: 4)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -86,7 +87,7 @@ The characterization of Terauchi as a "UFO repeater" suggests the possibility th
 Furthermore, the discrepancies between crew members' accounts suggest that personal interpretation played a significant role in how each individual processed the experience. While Terauchi was absolutely certain about what he saw, Flight Engineer Tsukuba expressed significant uncertainty, stating he was "not sure whether the object was a UFO or not"[^7].
 
 
-![The JAL 1628 UFO Incident: A Critical Analysis of the 1986 Alaska Case - P1]({{ "/assets/images/UFO - Top 100/JAL 1628 sighting over Alaska 1986-P1.svg" | relative_url }})
+![The JAL 1628 UFO Incident: A Critical Analysis of the 1986 Alaska Case - P1 (SVG)]({{ "/assets/images/UFO - Top 100/JAL 1628 sighting over Alaska 1986-P1.svg" | relative_url }})
 ### Lack of Corroboration from Other Aircraft
 
 The United Airlines flight that was vectored to the area specifically to observe the reported objects did not see anything unusual[^11]. This lack of independent visual confirmation from another professional flight crew significantly weakens the case for an extraordinary encounter.
@@ -147,7 +148,7 @@ Whether one views the JAL 1628 incident as evidence of extraordinary technology,
 <div>⁂</div>
 
 
-![The JAL 1628 UFO Incident: A Critical Analysis of the 1986 Alaska Case - P2]({{ "/assets/images/UFO - Top 100/JAL 1628 sighting over Alaska 1986-P2.svg" | relative_url }})
+![The JAL 1628 UFO Incident: A Critical Analysis of the 1986 Alaska Case - P2 (SVG)]({{ "/assets/images/UFO - Top 100/JAL 1628 sighting over Alaska 1986-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30]</small>
 

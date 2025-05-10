@@ -1,8 +1,9 @@
 ---
 title: 'The 1952 Washington National Sightings: A Critical Examination of the "Invasion of Washington"'
 permalink: /washington-national-sightings-1952/
-date: '2025-05-05 19:56:23 '
-image: /assets/images/UFO - Top 100/Washington National sightings 1952-Full-Text.svg
+date: '2025-05-10 20:35:35 '
+header:
+  og_image: /assets/images/UFO - Top 100/Washington National sightings 1952-Full-Text.png
 description: 'Exploring The 1952 Washington National Sightings: A Critical Examination of the "Invasion of Washington" within the context of UFO - Top 100.'
 ---
 
@@ -47,7 +48,7 @@ After midnight, Major Dewey Fournet, Project Blue Book's Pentagon liaison, and L
 As with the previous weekend, the sightings and radar returns ended at sunrise[^3].
 
 
-![The 1952 Washington National Sightings: A Critical Examination of the "Invasion of Washington" - Full-Text]({{ "/assets/images/UFO - Top 100/Washington National sightings 1952-Full-Text.svg" | relative_url }})
+![The 1952 Washington National Sightings: A Critical Examination of the "Invasion of Washington" - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Washington National sightings 1952-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/2k7K5H6Htl8" title="YouTube video player (Fn: 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -104,7 +105,7 @@ Evidence supporting this explanation includes:
 5. An Eastern Airlines flight crew directed to look for an unknown object near their position saw nothing unusual, and when told the object was directly behind their plane, they executed a sharp turn only to be informed the object had "disappeared"[^3].
 
 
-![The 1952 Washington National Sightings: A Critical Examination of the "Invasion of Washington" - P1]({{ "/assets/images/UFO - Top 100/Washington National sightings 1952-P1.svg" | relative_url }})
+![The 1952 Washington National Sightings: A Critical Examination of the "Invasion of Washington" - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Washington National sightings 1952-P1.svg" | relative_url }})
 ### Problems with the Temperature Inversion Explanation
 
 Despite the official explanation, several aspects of the Washington sightings remain difficult to reconcile with the temperature inversion theory:
@@ -195,7 +196,7 @@ Though the events occurred over 70 years ago, several approaches might yield new
 Kevin Randle's updated book on the Washington sightings, mentioned in the search results, likely contains valuable analysis that could contribute to understanding these events[^13].
 
 
-![The 1952 Washington National Sightings: A Critical Examination of the "Invasion of Washington" - P2]({{ "/assets/images/UFO - Top 100/Washington National sightings 1952-P2.svg" | relative_url }})
+![The 1952 Washington National Sightings: A Critical Examination of the "Invasion of Washington" - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Washington National sightings 1952-P2.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/5lFXPrG5KyQ" title="YouTube video player (Fn: 13)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

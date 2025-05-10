@@ -1,8 +1,9 @@
 ---
 title: 'Apollo 11 UFO Sightings (1969): A Critical Examination of Evidence and Impact'
 permalink: /apollo-11-sightings-1969/
-date: '2025-05-05 19:56:14 '
-image: /assets/images/UFO - Top 100/Apollo 11 sightings 1969-Full-Text.svg
+date: '2025-05-10 20:35:22 '
+header:
+  og_image: /assets/images/UFO - Top 100/Apollo 11 sightings 1969-Full-Text.png
 description: 'Exploring Apollo 11 UFO Sightings (1969): A Critical Examination of Evidence and Impact within the context of UFO - Top 100.'
 ---
 
@@ -21,7 +22,7 @@ During the translunar journey phase, after the spacecraft had separated from its
 The mission itself continued without interruption, culminating in the historic moon landing and successful splashdown in the Pacific Ocean on July 24, 1969. Following standard protocol, the astronauts were quarantined for 21 days to ensure no potentially hazardous lunar microbes had returned with them – a precaution that revealed no evidence of extraterrestrial life forms[^12].
 
 
-![Apollo 11 UFO Sightings (1969): A Critical Examination of Evidence and Impact - Full-Text]({{ "/assets/images/UFO - Top 100/Apollo 11 sightings 1969-Full-Text.svg" | relative_url }})
+![Apollo 11 UFO Sightings (1969): A Critical Examination of Evidence and Impact - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Apollo 11 sightings 1969-Full-Text.svg" | relative_url }})
 ## The Sighting: Primary Source Evidence
 
 The primary evidence for this UFO case comes directly from Buzz Aldrin himself, who has discussed the incident in various forums over the years. During a Reddit "Ask Me Anything" session, Aldrin provided a clear account of what he witnessed:
@@ -59,7 +60,7 @@ More recently, non-credible websites have claimed that the Apollo 11 mission end
 The YouTube documentary "Secret Space UFOs: Apollo 1-11" (2023) is among many productions that have attempted to suggest widespread UFO phenomena during Apollo missions, often taking astronaut statements out of context or relying on ambiguous imagery[^10]. Such productions typically present normal spacecraft operations, debris, or camera anomalies as evidence of extraterrestrial presence.
 
 
-![Apollo 11 UFO Sightings (1969): A Critical Examination of Evidence and Impact - P1]({{ "/assets/images/UFO - Top 100/Apollo 11 sightings 1969-P1.svg" | relative_url }})
+![Apollo 11 UFO Sightings (1969): A Critical Examination of Evidence and Impact - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Apollo 11 sightings 1969-P1.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/sDwhTZTLc-Y" title="YouTube video player (Fn: 10)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -123,7 +124,7 @@ As humanity continues its exploration of space, distinguishing between truly ano
 <div>⁂</div>
 
 
-![Apollo 11 UFO Sightings (1969): A Critical Examination of Evidence and Impact - P2]({{ "/assets/images/UFO - Top 100/Apollo 11 sightings 1969-P2.svg" | relative_url }})
+![Apollo 11 UFO Sightings (1969): A Critical Examination of Evidence and Impact - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Apollo 11 sightings 1969-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21]</small>
 

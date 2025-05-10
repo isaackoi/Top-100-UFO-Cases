@@ -1,8 +1,9 @@
 ---
 title: 'The Falkville Metal Man: A Critical Analysis of the 1973 Greenhaw UFO Encounter'
 permalink: /greenhaw-encounter-1973/
-date: '2025-05-05 19:56:17 '
-image: /assets/images/UFO - Top 100/Greenhaw encounter 1973-Full-Text.svg
+date: '2025-05-10 20:35:27 '
+header:
+  og_image: /assets/images/UFO - Top 100/Greenhaw encounter 1973-Full-Text.png
 description: 'Exploring The Falkville Metal Man: A Critical Analysis of the 1973 Greenhaw UFO Encounter within the context of UFO - Top 100.'
 ---
 
@@ -41,7 +42,7 @@ Realizing the unusual nature of what he was witnessing, Greenhaw retrieved his P
 The entity's movement was described as unusually fast and mechanical, with Greenhaw stating it moved as if it had "springs on its feet or something"[^2]. Greenhaw attempted to pursue the entity in his patrol car, deciding to "chase it down, and, if I have to, run over it"[^2]. However, he was unable to keep up with the figure, which soon disappeared into the darkness[^2][^10].
 
 
-![The Falkville Metal Man: A Critical Analysis of the 1973 Greenhaw UFO Encounter - Full-Text]({{ "/assets/images/UFO - Top 100/Greenhaw encounter 1973-Full-Text.svg" | relative_url }})
+![The Falkville Metal Man: A Critical Analysis of the 1973 Greenhaw UFO Encounter - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Greenhaw encounter 1973-Full-Text.svg" | relative_url }})
 ## Aftermath and Consequences
 
 ### Immediate Reactions and Publication
@@ -114,7 +115,7 @@ Skeptical investigators have proposed several hoax scenarios to explain the Gree
 The lack of clear motive for Greenhaw to perpetrate a hoax, especially given the negative consequences to his career and reputation, weighs against the first hypothesis. However, the second scenario remains plausible, especially considering the anonymous phone call that initiated the incident.
 
 
-![The Falkville Metal Man: A Critical Analysis of the 1973 Greenhaw UFO Encounter - P1]({{ "/assets/images/UFO - Top 100/Greenhaw encounter 1973-P1.svg" | relative_url }})
+![The Falkville Metal Man: A Critical Analysis of the 1973 Greenhaw UFO Encounter - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Greenhaw encounter 1973-P1.svg" | relative_url }})
 ### Misidentification Possibilities
 
 Several misidentification explanations have been proposed:
@@ -200,7 +201,7 @@ As government disclosure about UAPs continues to evolve, cases like the Greenhaw
 <div>⁂</div>
 
 
-![The Falkville Metal Man: A Critical Analysis of the 1973 Greenhaw UFO Encounter - P2]({{ "/assets/images/UFO - Top 100/Greenhaw encounter 1973-P2.svg" | relative_url }})
+![The Falkville Metal Man: A Critical Analysis of the 1973 Greenhaw UFO Encounter - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Greenhaw encounter 1973-P2.svg" | relative_url }})
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/2bX2MJyakgE" title="YouTube video player (Fallback, Fn: 38)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

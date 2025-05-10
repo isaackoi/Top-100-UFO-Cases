@@ -1,8 +1,9 @@
 ---
 title: 'The Muroc Field UFO Sightings of 1947: A Detailed Critical Analysis'
 permalink: /muroc-field-sightings-1947/
-date: '2025-05-05 19:56:19 '
-image: /assets/images/UFO - Top 100/Muroc Field sightings 1947-Full-Text.svg
+date: '2025-05-10 20:35:30 '
+header:
+  og_image: /assets/images/UFO - Top 100/Muroc Field sightings 1947-Full-Text.png
 description: 'Exploring The Muroc Field UFO Sightings of 1947: A Detailed Critical Analysis within the context of UFO - Top 100.'
 ---
 
@@ -29,7 +30,7 @@ The Muroc Field incidents themselves consisted of multiple sightings over a two-
 According to Captain Edward Ruppelt, who would later head Project Blue Book (the Air Force's official UFO investigation program), these Muroc sightings were included in a top-secret document known as the "Estimate of the Situation," which reportedly concluded that UFOs were interplanetary in origin. The document described that in one of the Muroc incidents, "thick projections were observed on top which crossed each other at intervals, suggesting either rotation or oscillation"[^1].
 
 
-![The Muroc Field UFO Sightings of 1947: A Detailed Critical Analysis - Full-Text]({{ "/assets/images/UFO - Top 100/Muroc Field sightings 1947-Full-Text.svg" | relative_url }})
+![The Muroc Field UFO Sightings of 1947: A Detailed Critical Analysis - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Muroc Field sightings 1947-Full-Text.svg" | relative_url }})
 ## Credibility Assessment
 
 The credibility of the Muroc Field sightings rests largely on the professional qualifications of the witnesses and the circumstances under which the observations occurred. When evaluating these reports, several factors strengthen their reliability while others raise questions.
@@ -69,7 +70,7 @@ It's also worth noting that the Cold War context created an environment of heigh
 A 1971 declassified Australian government memo claimed that the CIA urged debunking of UFO sightings as cover for its efforts to develop advanced aircraft with unusual flight characteristics. According to this memo, the CIA "persuaded the USAF to use Project BLUE BOOK as a means of publicly 'debunking' UFO's" as a cover for "the real U.S. programme of developing vehicles that emulate UFO performances"[^14]. While this memo doesn't directly address the Muroc sightings, it suggests that some UFO reports of the era might have been caused by classified U.S. technology rather than extraterrestrial craft.
 
 
-![The Muroc Field UFO Sightings of 1947: A Detailed Critical Analysis - P1]({{ "/assets/images/UFO - Top 100/Muroc Field sightings 1947-P1.svg" | relative_url }})
+![The Muroc Field UFO Sightings of 1947: A Detailed Critical Analysis - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Muroc Field sightings 1947-P1.svg" | relative_url }})
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/RauYwfOkdoA" title="YouTube video player (Fallback, Fn: 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -129,7 +130,7 @@ Whether these sightings represented misidentified conventional phenomena, classi
 <div>⁂</div>
 
 
-![The Muroc Field UFO Sightings of 1947: A Detailed Critical Analysis - P2]({{ "/assets/images/UFO - Top 100/Muroc Field sightings 1947-P2.svg" | relative_url }})
+![The Muroc Field UFO Sightings of 1947: A Detailed Critical Analysis - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Muroc Field sightings 1947-P2.svg" | relative_url }})
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/OylUSOf88fs" title="YouTube video player (Fallback, Fn: 25)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

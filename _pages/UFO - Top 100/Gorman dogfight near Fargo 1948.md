@@ -1,8 +1,9 @@
 ---
 title: 'The Gorman Dogfight: A Critical Analysis of the 1948 Fargo UFO Encounter'
 permalink: /gorman-dogfight-near-fargo-1948/
-date: '2025-05-05 19:56:17 '
-image: /assets/images/UFO - Top 100/Gorman dogfight near Fargo 1948-Full-Text.svg
+date: '2025-05-10 20:35:27 '
+header:
+  og_image: /assets/images/UFO - Top 100/Gorman dogfight near Fargo 1948-Full-Text.png
 description: 'Exploring The Gorman Dogfight: A Critical Analysis of the 1948 Fargo UFO Encounter within the context of UFO - Top 100.'
 ---
 
@@ -41,7 +42,7 @@ Gorman pursued the object, increasing his manifold pressure to sixty inches, but
 Throughout this aerial engagement, which lasted approximately 27 minutes, Gorman pushed his aircraft to full power, sometimes reaching speeds of 400 mph[^7]. Despite his efforts, he was unable to catch or outmaneuver the object, which eventually ascended vertically and disappeared from sight around 9:27 PM[^7]. Gorman was reportedly so shaken by the encounter that he experienced difficulty handling his aircraft afterward[^7].
 
 
-![The Gorman Dogfight: A Critical Analysis of the 1948 Fargo UFO Encounter - Full-Text]({{ "/assets/images/UFO - Top 100/Gorman dogfight near Fargo 1948-Full-Text.svg" | relative_url }})
+![The Gorman Dogfight: A Critical Analysis of the 1948 Fargo UFO Encounter - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Gorman dogfight near Fargo 1948-Full-Text.svg" | relative_url }})
 ### Additional Witnesses
 
 The incident was corroborated by several other witnesses:
@@ -93,7 +94,7 @@ The testimonies of additional witnesses add weight to Gorman's account but also 
 3. The control tower personnel's observation that the object moved "at quite an excessive speed" compared to the Piper Cub supports Gorman's claim of the object's unusual velocity[^7].
 
 
-![The Gorman Dogfight: A Critical Analysis of the 1948 Fargo UFO Encounter - P1]({{ "/assets/images/UFO - Top 100/Gorman dogfight near Fargo 1948-P1.svg" | relative_url }})
+![The Gorman Dogfight: A Critical Analysis of the 1948 Fargo UFO Encounter - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Gorman dogfight near Fargo 1948-P1.svg" | relative_url }})
 ## Explanations and Skeptical Perspectives
 
 ### The Official Weather Balloon Explanation
@@ -164,7 +165,7 @@ The case has contributed to several ongoing debates within UFO studies:
 3. The evolution of official investigation protocols: The case occurred during the early days of formal UFO investigations, helping to shape how such incidents would be studied in the future[^1][^3].
 
 
-![The Gorman Dogfight: A Critical Analysis of the 1948 Fargo UFO Encounter - P2]({{ "/assets/images/UFO - Top 100/Gorman dogfight near Fargo 1948-P2.svg" | relative_url }})
+![The Gorman Dogfight: A Critical Analysis of the 1948 Fargo UFO Encounter - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Gorman dogfight near Fargo 1948-P2.svg" | relative_url }})
 ## Gaps in Evidence and Future Research Directions
 
 Despite extensive investigation, several aspects of the Gorman case remain unresolved:

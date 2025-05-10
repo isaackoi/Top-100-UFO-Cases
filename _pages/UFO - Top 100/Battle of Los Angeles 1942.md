@@ -1,8 +1,9 @@
 ---
 title: 'The Battle of Los Angeles (1942): Examining the Evidence Behind a Wartime UFO Enigma'
 permalink: /battle-of-los-angeles-1942/
-date: '2025-05-05 19:56:15 '
-image: /assets/images/UFO - Top 100/Battle of Los Angeles 1942-Full-Text.svg
+date: '2025-05-10 20:35:22 '
+header:
+  og_image: /assets/images/UFO - Top 100/Battle of Los Angeles 1942-Full-Text.png
 description: 'Exploring The Battle of Los Angeles (1942): Examining the Evidence Behind a Wartime UFO Enigma within the context of UFO - Top 100.'
 ---
 
@@ -25,7 +26,7 @@ For nearly an hour, until 4:14 am, sporadic artillery fire continued to light up
 Most critically, despite the massive barrage of anti-aircraft fire, no enemy aircraft were ever confirmed to have been present[^1]. No bombs were dropped, no planes were shot down, and no wreckage was recovered – yet something had triggered one of the largest military responses on American soil during the war.
 
 
-![The Battle of Los Angeles (1942): Examining the Evidence Behind a Wartime UFO Enigma - Full-Text]({{ "/assets/images/UFO - Top 100/Battle of Los Angeles 1942-Full-Text.svg" | relative_url }})
+![The Battle of Los Angeles (1942): Examining the Evidence Behind a Wartime UFO Enigma - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Battle of Los Angeles 1942-Full-Text.svg" | relative_url }})
 ## Official Explanations and Contemporary Response
 
 The aftermath of the incident brought conflicting explanations from military and government officials. Within hours, Secretary of the Navy Frank Knox held a press conference, dismissing the entire incident as a "false alarm" triggered by "war nerves"[^7]. Knox's explanation was seemingly straightforward – nothing had been there, and jumpy defenders had fired at phantoms.
@@ -64,7 +65,7 @@ Perhaps the most damaging blow to the extraterrestrial explanation comes from th
 The historical context provides a compelling psychological explanation for the incident. Following Pearl Harbor, the west coast was gripped by paranoia, exemplified by the controversial Executive Order 9066 signed days earlier, which led to the internment of Japanese-Americans[^6]. During the Battle of Los Angeles itself, authorities detained Japanese gardeners on suspicion of signaling enemy aircraft[^5], illustrating the level of suspicion pervading the community. Given this climate of fear, coupled with the very real submarine attack days earlier, the conditions were perfect for mass misidentification and overreaction.
 
 
-![The Battle of Los Angeles (1942): Examining the Evidence Behind a Wartime UFO Enigma - P1]({{ "/assets/images/UFO - Top 100/Battle of Los Angeles 1942-P1.svg" | relative_url }})
+![The Battle of Los Angeles (1942): Examining the Evidence Behind a Wartime UFO Enigma - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Battle of Los Angeles 1942-P1.svg" | relative_url }})
 ## Cultural Impact and Influence
 
 Regardless of its true nature, the Battle of Los Angeles has left an indelible mark on both UFO discourse and popular culture. The incident received front-page coverage across the nation at the time, with Representative Leland M. Ford of Santa Monica calling for a Congressional investigation, saying "none of the explanations so far offered removed the episode from the category of 'complete mystification'"[^7].
@@ -105,7 +106,7 @@ Whether viewed as a case of mass misidentification, a genuine encounter with som
 <div>⁂</div>
 
 
-![The Battle of Los Angeles (1942): Examining the Evidence Behind a Wartime UFO Enigma - P2]({{ "/assets/images/UFO - Top 100/Battle of Los Angeles 1942-P2.svg" | relative_url }})
+![The Battle of Los Angeles (1942): Examining the Evidence Behind a Wartime UFO Enigma - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Battle of Los Angeles 1942-P2.svg" | relative_url }})
 
 <div class="youtube-embed-container youtube-embed-fallback">
   <iframe src="https://www.youtube.com/embed/1QaykjVyjOg" title="YouTube video player (Fallback, Fn: 21)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

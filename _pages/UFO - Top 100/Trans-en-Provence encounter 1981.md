@@ -1,8 +1,9 @@
 ---
 title: 'The Trans-en-Provence UFO Encounter (1981): A Critical Examination of the Evidence'
 permalink: /trans-en-provence-encounter-1981/
-date: '2025-05-05 19:56:21 '
-image: /assets/images/UFO - Top 100/Trans-en-Provence encounter 1981-Full-Text.svg
+date: '2025-05-10 20:35:33 '
+header:
+  og_image: /assets/images/UFO - Top 100/Trans-en-Provence encounter 1981-Full-Text.png
 description: 'Exploring The Trans-en-Provence UFO Encounter (1981): A Critical Examination of the Evidence within the context of UFO - Top 100.'
 ---
 
@@ -31,7 +32,7 @@ Following the incident, Nicolaï inspected the landing site and discovered circu
 The gendarmerie responded with remarkable efficiency, visiting the site within 24 hours of the event[^1][^6]. They conducted a thorough preliminary investigation, interviewing Nicolaï, photographing the scene, and—most crucially—collecting soil and plant samples from the landing site and surrounding area[^5][^9]. The officers observed two concentric circles approximately 10 cm wide, with diameters of 2.2 and 2.4 meters respectively[^2].
 
 
-![The Trans-en-Provence UFO Encounter (1981): A Critical Examination of the Evidence - Full-Text]({{ "/assets/images/UFO - Top 100/Trans-en-Provence encounter 1981-Full-Text.svg" | relative_url }})
+![The Trans-en-Provence UFO Encounter (1981): A Critical Examination of the Evidence - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Trans-en-Provence encounter 1981-Full-Text.svg" | relative_url }})
 ## Scientific Investigation and Analysis
 
 ### GEPAN's Involvement
@@ -92,7 +93,7 @@ That said, the scientific methodology has not escaped criticism, as we'll explor
 Despite the apparent strength of the physical evidence, several skeptical viewpoints and alternative explanations have emerged:
 
 
-![The Trans-en-Provence UFO Encounter (1981): A Critical Examination of the Evidence - P1]({{ "/assets/images/UFO - Top 100/Trans-en-Provence encounter 1981-P1.svg" | relative_url }})
+![The Trans-en-Provence UFO Encounter (1981): A Critical Examination of the Evidence - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Trans-en-Provence encounter 1981-P1.svg" | relative_url }})
 ### Challenges to Bounias' Findings
 
 According to the Skeptics UFO Newsletter referenced in source[^11], French UFO researcher Eric Maillot and an unnamed Belgian plant pathologist have "sharply challenged" Michel Bounias' findings regarding the biochemical alterations in vegetation. Unfortunately, the search results don't provide the specifics of these challenges, which represents a significant gap in assessing the competing claims.
@@ -174,7 +175,7 @@ To address these gaps, several research approaches would be valuable:
 5. **Independent review of methodology**: A panel of current soil scientists, biochemists, and plant pathologists could provide a fresh assessment of the original analytical methods and findings.
 
 
-![The Trans-en-Provence UFO Encounter (1981): A Critical Examination of the Evidence - P2]({{ "/assets/images/UFO - Top 100/Trans-en-Provence encounter 1981-P2.svg" | relative_url }})
+![The Trans-en-Provence UFO Encounter (1981): A Critical Examination of the Evidence - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Trans-en-Provence encounter 1981-P2.svg" | relative_url }})
 ## Conclusion
 
 The Trans-en-Provence case remains one of the most scientifically documented UFO incidents in history. Its strength lies in the prompt collection of physical evidence, the multiple laboratory analyses, and the official government investigation—elements often lacking in UFO reports.

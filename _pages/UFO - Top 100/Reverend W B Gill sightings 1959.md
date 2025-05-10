@@ -1,8 +1,9 @@
 ---
 title: 'The Reverend William B. Gill UFO Sightings (1959): An Evidence-Based Analysis'
 permalink: /reverend-w-b-gill-sightings-1959/
-date: '2025-05-05 19:56:20 '
-image: /assets/images/UFO - Top 100/Reverend W B Gill sightings 1959-Full-Text.svg
+date: '2025-05-10 20:35:32 '
+header:
+  og_image: /assets/images/UFO - Top 100/Reverend W B Gill sightings 1959-Full-Text.png
 description: 'Exploring The Reverend William B. Gill UFO Sightings (1959): An Evidence-Based Analysis within the context of UFO - Top 100.'
 ---
 
@@ -29,7 +30,7 @@ Even more intriguing was an apparent response to artificial light. When one of G
 After a period of observation, the witnesses attended their evening church service, and upon emerging, found the object still visible. Eventually, the craft disappeared at what Gill described as "amazingly incredible speed... across the bay in a matter of a second or so"[^1][^5].
 
 
-![The Reverend William B. Gill UFO Sightings (1959): An Evidence-Based Analysis - Full-Text]({{ "/assets/images/UFO - Top 100/Reverend W B Gill sightings 1959-Full-Text.svg" | relative_url }})
+![The Reverend William B. Gill UFO Sightings (1959): An Evidence-Based Analysis - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Reverend W B Gill sightings 1959-Full-Text.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/Wiuumvz0I6M" title="YouTube video player (Fn: 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -92,7 +93,7 @@ The Australian government investigated the case. The Defence Ministry deployed R
 According to reports, while they found Gill to be "a reliable observer," they ultimately attributed the sightings to "natural phenomena," suggesting they resulted from cloudy, thunder-prone weather and light refraction from Jupiter, Saturn, and Mars[^2]. However, the RAAF admitted they could reach "no definite conclusions" and granted the seeming presence of "a major light source of unknown origin"[^3]. This partial acknowledgment from an official investigatory body is noteworthy.
 
 
-![The Reverend William B. Gill UFO Sightings (1959): An Evidence-Based Analysis - P1]({{ "/assets/images/UFO - Top 100/Reverend W B Gill sightings 1959-P1.svg" | relative_url }})
+![The Reverend William B. Gill UFO Sightings (1959): An Evidence-Based Analysis - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Reverend W B Gill sightings 1959-P1.svg" | relative_url }})
 ## Counterarguments and Skeptical Perspectives
 
 Despite the case's strong witness testimony and documentation, several alternative explanations have been proposed:
@@ -166,7 +167,7 @@ The key primary sources related to the Gill sightings include:
 6. **Video Interviews with Gill**: Recordings where Gill discusses his experiences are available on YouTube, providing firsthand accounts in his own words[^1][^5].
 
 
-![The Reverend William B. Gill UFO Sightings (1959): An Evidence-Based Analysis - P2]({{ "/assets/images/UFO - Top 100/Reverend W B Gill sightings 1959-P2.svg" | relative_url }})
+![The Reverend William B. Gill UFO Sightings (1959): An Evidence-Based Analysis - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Reverend W B Gill sightings 1959-P2.svg" | relative_url }})
 ### Needed Research Areas
 
 Despite the extensive documentation and analysis of the Gill case, several avenues for further research could yield valuable insights:

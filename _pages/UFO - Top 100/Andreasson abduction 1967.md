@@ -1,8 +1,9 @@
 ---
 title: 'The Andreasson Affair: A Critical Analysis of the 1967 UFO Abduction Case'
 permalink: /andreasson-abduction-1967/
-date: '2025-05-05 19:56:14 '
-image: /assets/images/UFO - Top 100/Andreasson abduction 1967-Full-Text.svg
+date: '2025-05-10 20:35:22 '
+header:
+  og_image: /assets/images/UFO - Top 100/Andreasson abduction 1967-Full-Text.png
 description: 'Exploring The Andreasson Affair: A Critical Analysis of the 1967 UFO Abduction Case within the context of UFO - Top 100.'
 ---
 
@@ -31,7 +32,7 @@ Raymond E. Fowler documented the case in his 1979 book "The Andreasson Affair," 
 This methodical approach made the Andreasson case "probably the best documented case of its kind to date"[^4][^6], establishing it as a landmark in UFO research.
 
 
-![The Andreasson Affair: A Critical Analysis of the 1967 UFO Abduction Case - Full-Text]({{ "/assets/images/UFO - Top 100/Andreasson abduction 1967-Full-Text.svg" | relative_url }})
+![The Andreasson Affair: A Critical Analysis of the 1967 UFO Abduction Case - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Andreasson abduction 1967-Full-Text.svg" | relative_url }})
 ### Betty's Detailed Account
 
 Through hypnotic regression, Betty provided extraordinarily detailed descriptions of her alleged abductors and their spacecraft. She produced precise drawings that became important evidence in the case[^4][^5]. The entities were described as small, gray beings with large heads and eyes—a description that would later become the standard template for "alien grays" in popular culture.
@@ -91,7 +92,7 @@ Skeptics have proposed various psychological explanations for Betty's experience
 Ernest H. Taves published a critical analysis titled "Betty through the Looking-Glass" in the Skeptical Inquirer, specifically addressing the Andreasson case[^10]. While the content isn't detailed in the search results, the title suggests a comparison to the fantastical nature of Lewis Carroll's work.
 
 
-![The Andreasson Affair: A Critical Analysis of the 1967 UFO Abduction Case - P1]({{ "/assets/images/UFO - Top 100/Andreasson abduction 1967-P1.svg" | relative_url }})
+![The Andreasson Affair: A Critical Analysis of the 1967 UFO Abduction Case - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Andreasson abduction 1967-P1.svg" | relative_url }})
 ### Religious Interpretation
 
 Betty's strong religious beliefs have been a particular focus for skeptics. Fowler himself considered whether her experience might be "best described as an intense RELIGIOUS experience" shaped by "Betty's strong religious background"[^6]. Some reviewers found Betty's religious interpretations particularly problematic, with one noting: "Although Betty isn't even vaguely believable, Fowler—himself a claimed abductee—proceeds to give her the benefit of the doubt even at her most obnoxious ('Jesus Christ is the truth!')"[^6].
@@ -184,7 +185,7 @@ Several questions remain that could benefit from further research:
 6. What aspects of Betty's account appeared in subsequent abduction reports, potentially indicating narrative influence?
 
 
-![The Andreasson Affair: A Critical Analysis of the 1967 UFO Abduction Case - P2]({{ "/assets/images/UFO - Top 100/Andreasson abduction 1967-P2.svg" | relative_url }})
+![The Andreasson Affair: A Critical Analysis of the 1967 UFO Abduction Case - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Andreasson abduction 1967-P2.svg" | relative_url }})
 ## Conclusion: The Enduring Legacy of the Andreasson Affair
 
 The Andreasson abduction case of 1967 exists at the intersection of several complex domains: UFO research, religious experience, psychology, and cultural mythology. Its enduring significance lies not only in its extraordinary content but in how it challenged investigators to develop more rigorous methodologies and broader conceptual frameworks for understanding claimed alien encounters.

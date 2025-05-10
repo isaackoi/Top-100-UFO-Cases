@@ -1,8 +1,9 @@
 ---
 title: 'Truman Bethurum and the Planet Clarion: A Critical Analysis of the 1954 Contact Claims'
 permalink: /truman-bethurum-contact-1954/
-date: '2025-05-05 19:56:22 '
-image: /assets/images/UFO - Top 100/Truman Bethurum contact 1954-Full-Text.svg
+date: '2025-05-10 20:35:34 '
+header:
+  og_image: /assets/images/UFO - Top 100/Truman Bethurum contact 1954-Full-Text.png
 description: 'Exploring Truman Bethurum and the Planet Clarion: A Critical Analysis of the 1954 Contact Claims within the context of UFO - Top 100.'
 ---
 
@@ -41,7 +42,7 @@ Following the publication of his book, Bethurum developed a substantial followin
 Bethurum's newfound celebrity included numerous interviews, lectures, book signings, and appearances on radio and television, including two notable guest spots on "The Betty White Show," a nationally broadcast NBC program[^3]. His claims had significant personal consequences as well—his second marriage reportedly ended due to his wife's outrage over his tales of the "gorgeous Space Sister" Aura Rhanes[^6].
 
 
-![Truman Bethurum and the Planet Clarion: A Critical Analysis of the 1954 Contact Claims - Full-Text]({{ "/assets/images/UFO - Top 100/Truman Bethurum contact 1954-Full-Text.svg" | relative_url }})
+![Truman Bethurum and the Planet Clarion: A Critical Analysis of the 1954 Contact Claims - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Truman Bethurum contact 1954-Full-Text.svg" | relative_url }})
 ## Credibility Assessment
 
 Any thorough analysis of Bethurum's claims must consider both the credibility of the witness and the plausibility of the experiences he described.
@@ -88,7 +89,7 @@ Bethurum's claims have faced substantial criticism from both the scientific comm
 The most damaging criticism centers on the scientific impossibility of the planet Clarion's existence. The laws of celestial mechanics make it physically impossible for a planet to remain perpetually hidden behind the Moon from Earth's perspective. This fundamental problem undermines the foundational premise of Bethurum's narrative.
 
 
-![Truman Bethurum and the Planet Clarion: A Critical Analysis of the 1954 Contact Claims - P1]({{ "/assets/images/UFO - Top 100/Truman Bethurum contact 1954-P1.svg" | relative_url }})
+![Truman Bethurum and the Planet Clarion: A Critical Analysis of the 1954 Contact Claims - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Truman Bethurum contact 1954-P1.svg" | relative_url }})
 ### Professional UFO Researcher Dismissal
 
 It's noteworthy that even within the UFO research community, Bethurum's claims received significant skepticism. As one source states, "Serious UFO researchers and investigators dismissed Bethurum and the other 1950s contactees as charlatans and con-artists"[^3]. This assessment from individuals otherwise open to UFO phenomena suggests Bethurum's claims failed to meet even the standards of evidence applied within ufology.
@@ -162,7 +163,7 @@ For those interested in deeper research, FBI files on Truman Bethurum available 
 <div>⁂</div>
 
 
-![Truman Bethurum and the Planet Clarion: A Critical Analysis of the 1954 Contact Claims - P2]({{ "/assets/images/UFO - Top 100/Truman Bethurum contact 1954-P2.svg" | relative_url }})
+![Truman Bethurum and the Planet Clarion: A Critical Analysis of the 1954 Contact Claims - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Truman Bethurum contact 1954-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33]</small>
 

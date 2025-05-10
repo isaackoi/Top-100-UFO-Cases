@@ -1,8 +1,9 @@
 ---
 title: 'The Alexander Hamilton Airship Incident of 1897: A Critical Analysis of an Early UFO Case'
 permalink: /alexander-hamilton-airship-1897/
-date: '2025-05-05 19:56:14 '
-image: /assets/images/UFO - Top 100/Alexander Hamilton airship 1897-Full-Text.svg
+date: '2025-05-10 20:35:22 '
+header:
+  og_image: /assets/images/UFO - Top 100/Alexander Hamilton airship 1897-Full-Text.png
 description: 'Exploring The Alexander Hamilton Airship Incident of 1897: A Critical Analysis of an Early UFO Case within the context of UFO - Top 100.'
 ---
 
@@ -21,7 +22,7 @@ The airship sightings generally followed a pattern: witnesses reported seeing my
 The phenomenon was extensively covered in newspapers of the time, with varying degrees of skepticism or credulity. The sensationalist "yellow journalism" of the era likely contributed to both the proliferation and embellishment of these reports[^1]. By April 1897, the airship sightings had reached Kansas, setting the stage for what would become one of the most notorious accounts from this period.
 
 
-![The Alexander Hamilton Airship Incident of 1897: A Critical Analysis of an Early UFO Case - Full-Text]({{ "/assets/images/UFO - Top 100/Alexander Hamilton airship 1897-Full-Text.svg" | relative_url }})
+![The Alexander Hamilton Airship Incident of 1897: A Critical Analysis of an Early UFO Case - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Alexander Hamilton airship 1897-Full-Text.svg" | relative_url }})
 ## The Alexander Hamilton Incident: Claims and Initial Reception
 
 On April 23, 1897, the Yates Center Farmer's Advocate published Alexander Hamilton's extraordinary account of an encounter with an airship that had allegedly occurred a few days earlier, around April 19[^3][^8]. Hamilton, described as a rancher and former member of the Kansas state legislature from Le Roy (sometimes spelled Leroy), Kansas, claimed that he and his family had been awakened by distressed cattle sounds late at night[^5][^7].
@@ -59,7 +60,7 @@ The airship reports began in California in November 1896, with witnesses claimin
 Some reports were even more fantastic than Hamilton's. In Stockton, California, a witness named Colonel H. G. Shaw claimed to encounter three slender, seven-foot-tall beings who attempted to abduct him into their craft[^8][^9]. Another report from Aurora, Texas, alleged that an airship crashed into a windmill, and the body of a "Martian" pilot was recovered and given a Christian burial in the town cemetery[^4][^8].
 
 
-![The Alexander Hamilton Airship Incident of 1897: A Critical Analysis of an Early UFO Case - P1]({{ "/assets/images/UFO - Top 100/Alexander Hamilton airship 1897-P1.svg" | relative_url }})
+![The Alexander Hamilton Airship Incident of 1897: A Critical Analysis of an Early UFO Case - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Alexander Hamilton airship 1897-P1.svg" | relative_url }})
 
 <div class="youtube-embed-container">
   <iframe src="https://www.youtube.com/embed/Nt8IqgICtls" title="YouTube video player (Fn: 4)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -108,7 +109,7 @@ The Hamilton case highlights several important methodological considerations for
 These methodological considerations remain relevant for contemporary UFO research, suggesting that historical cases like Hamilton's continue to offer valuable lessons despite—or perhaps because of—their eventual debunking.
 
 
-![The Alexander Hamilton Airship Incident of 1897: A Critical Analysis of an Early UFO Case - P2]({{ "/assets/images/UFO - Top 100/Alexander Hamilton airship 1897-P2.svg" | relative_url }})
+![The Alexander Hamilton Airship Incident of 1897: A Critical Analysis of an Early UFO Case - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Alexander Hamilton airship 1897-P2.svg" | relative_url }})
 ## Conclusion: The Value of Debunked Cases
 
 The Alexander Hamilton airship incident of 1897 stands as a thoroughly debunked case that nevertheless provides valuable insights into both historical UFO reports and the cultural conditions that generate them. The case demonstrates how a well-crafted hoax, bolstered by apparent character witnesses and detailed description, can gain widespread acceptance and persist in literature long after its fabrication has been exposed.

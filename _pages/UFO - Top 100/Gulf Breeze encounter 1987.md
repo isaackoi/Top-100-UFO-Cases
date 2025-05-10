@@ -1,8 +1,9 @@
 ---
 title: 'The Gulf Breeze UFO Incident (1987-1988): A Critical Examination of Evidence'
 permalink: /gulf-breeze-encounter-1987/
-date: '2025-05-05 19:56:18 '
-image: /assets/images/UFO - Top 100/Gulf Breeze encounter 1987-Full-Text.svg
+date: '2025-05-10 20:35:27 '
+header:
+  og_image: /assets/images/UFO - Top 100/Gulf Breeze encounter 1987-Full-Text.png
 description: 'Exploring The Gulf Breeze UFO Incident (1987-1988): A Critical Examination of Evidence within the context of UFO - Top 100.'
 ---
 
@@ -53,7 +54,7 @@ Notable witnesses included:
 This wave of sightings transformed Gulf Breeze into what many described as a "hotbed" or "mecca" for UFO activity, drawing attention from researchers, media, and curious onlookers.[^12][^15]
 
 
-![The Gulf Breeze UFO Incident (1987-1988): A Critical Examination of Evidence - Full-Text]({{ "/assets/images/UFO - Top 100/Gulf Breeze encounter 1987-Full-Text.svg" | relative_url }})
+![The Gulf Breeze UFO Incident (1987-1988): A Critical Examination of Evidence - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/Gulf Breeze encounter 1987-Full-Text.svg" | relative_url }})
 ## Credibility Assessment of Sources and Evidence
 
 ### Ed Walters: Key Witness and Controversial Figure
@@ -114,7 +115,7 @@ Gulf Breeze has "one of the world's highest concentrations of air bases," making
 Craig Myers, a reporter who thoroughly investigated the case and later wrote a book titled "WAR OF THE WORDS," offered what many consider a plausible psychological explanation for the incident's evolution. Myers suggested that Walters began the affair as a prank but found himself unable to retreat as it gained momentum and public attention. According to Myers, Walters may have calculated that "He'd be better off being known as the guy who saw UFOs and photographed UFOs than the guy who fooled a whole city into believing him."[^6]
 
 
-![The Gulf Breeze UFO Incident (1987-1988): A Critical Examination of Evidence - P1]({{ "/assets/images/UFO - Top 100/Gulf Breeze encounter 1987-P1.svg" | relative_url }})
+![The Gulf Breeze UFO Incident (1987-1988): A Critical Examination of Evidence - P1 (SVG)]({{ "/assets/images/UFO - Top 100/Gulf Breeze encounter 1987-P1.svg" | relative_url }})
 ## The Gulf Breeze Six: A Related Mystery
 
 A separate but related incident occurred in July 1990, when six NSA intelligence analysts stationed in West Germany abandoned their posts and were later apprehended in Gulf Breeze. This peculiar case added another layer to the area's UFO reputation:[^2][^3][^12]
@@ -202,7 +203,7 @@ Whether viewed as a calculated hoax, a prank that spiraled out of control, or a 
 <div>⁂</div>
 
 
-![The Gulf Breeze UFO Incident (1987-1988): A Critical Examination of Evidence - P2]({{ "/assets/images/UFO - Top 100/Gulf Breeze encounter 1987-P2.svg" | relative_url }})
+![The Gulf Breeze UFO Incident (1987-1988): A Critical Examination of Evidence - P2 (SVG)]({{ "/assets/images/UFO - Top 100/Gulf Breeze encounter 1987-P2.svg" | relative_url }})
 
 <small style="display: none;">[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^40][^41][^42][^43][^44][^45]</small>
 

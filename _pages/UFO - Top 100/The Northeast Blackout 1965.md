@@ -1,8 +1,9 @@
 ---
 title: 'The 1965 Northeast Blackout: Examining the UFO Connection'
 permalink: /the-northeast-blackout-1965/
-date: '2025-05-05 19:56:21 '
-image: /assets/images/UFO - Top 100/The Northeast Blackout 1965-Full-Text.svg
+date: '2025-05-10 20:35:33 '
+header:
+  og_image: /assets/images/UFO - Top 100/The Northeast Blackout 1965-Full-Text.png
 description: 'Exploring The 1965 Northeast Blackout: Examining the UFO Connection within the context of UFO - Top 100.'
 ---
 
@@ -35,7 +36,7 @@ What makes this blackout particularly intriguing to UFO researchers are the nume
 7. **New England**: Reports came from throughout the region during the blackout, though specific details from these sightings are limited in the available sources[^6].
 
 
-![The 1965 Northeast Blackout: Examining the UFO Connection - Full-Text]({{ "/assets/images/UFO - Top 100/The Northeast Blackout 1965-Full-Text.svg" | relative_url }})
+![The 1965 Northeast Blackout: Examining the UFO Connection - Full-Text (SVG)]({{ "/assets/images/UFO - Top 100/The Northeast Blackout 1965-Full-Text.svg" | relative_url }})
 ## Credibility Assessment
 
 ### Witness Testimony
@@ -65,7 +66,7 @@ According to the Federal Power Commission report, the relay tripped, but they di
 This explanation is consistent with known vulnerabilities in power grids of that era. The interconnected nature of the grid meant that a failure at one point could quickly cascade throughout the system, particularly if safety mechanisms weren't properly calibrated.
 
 
-![The 1965 Northeast Blackout: Examining the UFO Connection - P1]({{ "/assets/images/UFO - Top 100/The Northeast Blackout 1965-P1.svg" | relative_url }})
+![The 1965 Northeast Blackout: Examining the UFO Connection - P1 (SVG)]({{ "/assets/images/UFO - Top 100/The Northeast Blackout 1965-P1.svg" | relative_url }})
 ### Alternative Explanations for UFO Sightings
 
 Several alternative explanations exist for the reported UFO sightings during the blackout:
@@ -128,7 +129,7 @@ A critical limitation in evaluating this case is the apparent disconnect between
 5. IEEE Spectrum report on the blackout (referenced but not directly quoted)[^11]
 
 
-![The 1965 Northeast Blackout: Examining the UFO Connection - P2]({{ "/assets/images/UFO - Top 100/The Northeast Blackout 1965-P2.svg" | relative_url }})
+![The 1965 Northeast Blackout: Examining the UFO Connection - P2 (SVG)]({{ "/assets/images/UFO - Top 100/The Northeast Blackout 1965-P2.svg" | relative_url }})
 ### Potential Areas for Further Research
 
 Several avenues of investigation could yield additional insights into this case:
