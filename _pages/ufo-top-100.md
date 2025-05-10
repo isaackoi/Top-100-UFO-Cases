@@ -1,11 +1,12 @@
 ---
 title: Introduction
 permalink: /
-image: /assets/images/0-title.png
+header:
+  image: /assets/images/0-title.png      # For page header display
+  og_image: /assets/images/0-title.png # Specific for OG/Twitter (can be same as header.image)
 description: Index of pages related to the UFO - Top 100 topic.
 date: '2025-05-10'
 ---
-
 Back in around 2002, I thought that it might be interesting to find out which UFO cases are most frequently discussed in books about UFOs and SETI.
 
 I therefore set out to prepare a list of the UFO incidents most frequently discussed in a reasonably large sample of UFO and SETI books.
@@ -149,7 +150,7 @@ If your favourite case is not included within the “Top 100” list above, all 
 
 (1) Blame the authors of the relevant books. They selected which cases to discuss the most, not me.  The list of the “Top” 100 cases certainly does not represent my personal “Best” 100 cases.
 
-(2) Feel free to conduct a similar exercise yourself or draw up your own list on the basis of your own (preferably expressly stated) criteria.  
+(2) Feel free to conduct a similar exercise yourself or draw up your own list on the basis of your own (preferably expressly stated) criteria.
 
 The next time you hear someone refer a skeptic or scientist to the UFO literature generally (or are tempted to do so yourself), pause for a moment and remember the content of the above list of the Top 100 UFO Cases.  These are the sightings they will come across most frequently.
 
