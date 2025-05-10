@@ -1,7 +1,7 @@
 ---
 title: Introduction
 permalink: /
-image: /assets/images/UFO - Top 100/0-title.png
+image: /assets/images/0-title.png
 description: Index of pages related to the UFO - Top 100 topic.
 date: '2025-05-10'
 ---
@@ -148,11 +148,10 @@ If your favourite case is not included within the “Top 100” list above, all 
 
 (1) Blame the authors of the relevant books. They selected which cases to discuss the most, not me.  The list of the “Top” 100 cases certainly does not represent my personal “Best” 100 cases.
 
-(2) Feel free to conduct a similar exercise yourself or draw up your own list on the basis of your own (preferably expressly stated) criteria.  Various possible qualitative and quantitative criteria are discussed in the final parts of this article (i.e. Part 15-29).
+(2) Feel free to conduct a similar exercise yourself or draw up your own list on the basis of your own (preferably expressly stated) criteria.  
 
 The next time you hear someone refer a skeptic or scientist to the UFO literature generally (or are tempted to do so yourself), pause for a moment and remember the content of the above list of the Top 100 UFO Cases.  These are the sightings they will come across most frequently.
 
 Is that what you want? If not, you will need to be more helpful than merely suggesting they read “the literature”.
-
 
 ![Title image]({{ "/assets/images/0-title.png" | relative_url }})
