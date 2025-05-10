@@ -27,7 +27,7 @@ In decreasing order of the numbers of references, the Top 100 UFO cases were:
 - Case 13 - [Tunguska event (1908)]({{ '/tunguska-event-1908/' | relative_url }})
 - Case 14 - [Kelly-Hopkinsville incident (1955)]({{ '/kelly-hopkinsville-incident-1955/' | relative_url }})
 - Case 15 - [Reverend W B Gill sightings (1959)]({{ '/reverend-w-b-gill-sightings-1959/' | relative_url }})
-- Case 16 - Levelland, Texas incident (1957) - Link currently missing
+- Case 16 - [Levelland, Texas incident (1957)]({{ '/levelland-texas-incident-1957/' | relative_url }})
 - Case 17 - [McMinnville photographs (1950)]({{ '/mcminnville-photographs-1950/' | relative_url }})
 - Case 18 - [Rendlesham Forest incident (1980)]({{ '/rendlesham-forest-incident-1980/' | relative_url }})
 - Case 19 - [Andreasson abduction (1967)]({{ '/andreasson-abduction-1967/' | relative_url }})
@@ -36,7 +36,7 @@ In decreasing order of the numbers of references, the Top 100 UFO cases were:
 - Case 22 - [Valensole incident (1965)]({{ '/valensole-incident-1965/' | relative_url }})
 - Case 23 - [Gulf Breeze encounter (1987)]({{ '/gulf-breeze-encounter-1987/' | relative_url }})
 - Case 24 - [Alexander Hamilton airship (1897)]({{ '/alexander-hamilton-airship-1897/' | relative_url }})
-- Case 25 - Coyne helicopter sighting (1973) - Link currently missing
+- Case 25 - [Coyne helicopter sighting (1973)]({{ 'coyne-helicopter-sighting-1973/' | relative_url }})
 - Case 26 - [Trindade Island photographs (1958)]({{ '/trindade-island-photographs-1958/' | relative_url }})
 - Case 27 - [Gemini 4 sighting (1965)]({{ '/gemini-4-sighting-1965/' | relative_url }})
 - Case 28 - [Ubatuba incident (1957)]({{ '/ubatuba-incident-1957/' | relative_url }})
