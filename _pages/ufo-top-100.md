@@ -1,6 +1,7 @@
 ---
 title: Introduction
 permalink: /
+image: /assets/images/UFO - Top 100/0-title.png
 description: Index of pages related to the UFO - Top 100 topic.
 date: '2025-05-10'
 ---
@@ -8,7 +9,7 @@ Back in around 2002, I thought that it might be interesting to find out which UF
 
 I therefore set out to prepare a list of the UFO incidents most frequently discussed in a reasonably large sample of UFO and SETI books.
 
-Over four years later, after reading 963 UFO books, I prepared a “Top 100” list of UFO cases based on the frequency of discussion within these books. 
+Over four years later, after reading 963 UFO books, I prepared a “Top 100” list of UFO cases based on the frequency of discussion within these books.
 
 Now (in 2025) I have used Artificial Intelligence software to produce summaries of the information available about each of these 100 cases and to illustrate relevant pages.  (I have, so far, resisted the temptation to edit these pages as this website is just a first experiment with using a self-improving AI system).
 
@@ -152,3 +153,6 @@ If your favourite case is not included within the “Top 100” list above, all 
 The next time you hear someone refer a skeptic or scientist to the UFO literature generally (or are tempted to do so yourself), pause for a moment and remember the content of the above list of the Top 100 UFO Cases.  These are the sightings they will come across most frequently.
 
 Is that what you want? If not, you will need to be more helpful than merely suggesting they read “the literature”.
+
+
+![Title image]({{ "/assets/images/UFO - Top 100/0-title.png" | relative_url }})
