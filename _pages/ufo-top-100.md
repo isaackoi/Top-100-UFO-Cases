@@ -1,6 +1,6 @@
 ---
 title: Ufo   Top 100 Topic Index
-permalink: /ufo-top-100/
+permalink: /
 description: Index of pages related to the UFO - Top 100 topic.
 date: '2025-05-10'
 header:
